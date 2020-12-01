@@ -1,0 +1,3478 @@
+[
+    {
+        "id": 1,
+        "language": "Login"
+    },
+    {
+        "id": 2,
+        "language": "Login"
+    },
+    {
+        "id": 3,
+        "language": "Username"
+    },
+    {
+        "id": 4,
+        "language": "Enter username or email address"
+    },
+    {
+        "id": 5,
+        "language": "Phone number"
+    },
+    {
+        "id": 6,
+        "language": "Enter phone number"
+    },
+    {
+        "id": 7,
+        "language": "Password"
+    },
+    {
+        "id": 8,
+        "language": "Enter password"
+    },
+    {
+        "id": 9,
+        "language": "Remember password"
+    },
+    {
+        "id": 10,
+        "language": "Forget password"
+    },
+    {
+        "id": 11,
+        "language": "Login"
+    },
+    {
+        "id": 12,
+        "language": "Enter account or email address"
+    },
+    {
+        "id": 13,
+        "language": "Enter phone number"
+    },
+    {
+        "id": 14,
+        "language": "Enter password"
+    },
+    {
+        "id": 15,
+        "language": "Enter correct account or password"
+    },
+    {
+        "id": 16,
+        "language": "Logging in"
+    },
+    {
+        "id": 17,
+        "language": "Other method"
+    },
+    {
+        "id": 18,
+        "language": "Register"
+    },
+    {
+        "id": 19,
+        "language": "CUSTOMIZE"
+    },
+    {
+        "id": 20,
+        "language": "Account"
+    },
+    {
+        "id": 21,
+        "language": "Enter account"
+    },
+    {
+        "id": 22,
+        "language": "BY EMAIL"
+    },
+    {
+        "id": 23,
+        "language": "Email Account"
+    },
+    {
+        "id": 24,
+        "language": "Send email"
+    },
+    {
+        "id": 25,
+        "language": "BY PHONE NUMBER"
+    },
+    {
+        "id": 26,
+        "language": "Phone Number"
+    },
+    {
+        "id": 27,
+        "language": "Enter phone number"
+    },
+    {
+        "id": 28,
+        "language": "Password"
+    },
+    {
+        "id": 29,
+        "language": "Confirm password"
+    },
+    {
+        "id": 30,
+        "language": "Enter a password consisting of six to twelve characters"
+    },
+    {
+        "id": 31,
+        "language": "Captcha"
+    },
+    {
+        "id": 32,
+        "language": "Enter captcha"
+    },
+    {
+        "id": 33,
+        "language": "Get"
+    },
+    {
+        "id": 34,
+        "language": "Graphic Captcha"
+    },
+    {
+        "id": 35,
+        "language": "Enter captcha"
+    },
+    {
+        "id": 36,
+        "language": "I have read and agree to the Privacy Agreement and Customer Service"
+    },
+    {
+        "id": 37,
+        "language": "REGISTER"
+    },
+    {
+        "id": 38,
+        "language": "Enter account"
+    },
+    {
+        "id": 39,
+        "language": "Enter correct username"
+    },
+    {
+        "id": 40,
+        "language": "Enter email address"
+    },
+    {
+        "id": 41,
+        "language": "Enter email address in correct format"
+    },
+    {
+        "id": 42,
+        "language": "Enter phone number"
+    },
+    {
+        "id": 43,
+        "language": "Enter password"
+    },
+    {
+        "id": 44,
+        "language": "Inconsistent password"
+    },
+    {
+        "id": 45,
+        "language": "Enter the captcha"
+    },
+    {
+        "id": 46,
+        "language": "Enter correct captcha"
+    },
+    {
+        "id": 47,
+        "language": "xx seconds before input"
+    },
+    {
+        "id": 48,
+        "language": "You must agree to the user agreement"
+    },
+    {
+        "id": 49,
+        "language": "Successfully registered"
+    },
+    {
+        "id": 50,
+        "language": "This user already exists"
+    },
+    {
+        "id": 51,
+        "language": "DEPOSIT"
+    },
+    {
+        "id": 52,
+        "language": "See the steps guide"
+    },
+    {
+        "id": 53,
+        "language": "Deposit Records"
+    },
+    {
+        "id": 54,
+        "language": "Deposit method"
+    },
+    {
+        "id": 55,
+        "language": "Bank transfer"
+    },
+    {
+        "id": 56,
+        "language": "DEPOSIT"
+    },
+    {
+        "id": 57,
+        "language": "Bank Transfer"
+    },
+    {
+        "id": 58,
+        "language": "HSBC"
+    },
+    {
+        "id": 59,
+        "language": "Sender info"
+    },
+    {
+        "id": 60,
+        "language": "Account"
+    },
+    {
+        "id": 61,
+        "language": "Enter account"
+    },
+    {
+        "id": 62,
+        "language": "Name"
+    },
+    {
+        "id": 63,
+        "language": "Enter name"
+    },
+    {
+        "id": 64,
+        "language": "Receiver info"
+    },
+    {
+        "id": 65,
+        "language": "Bank"
+    },
+    {
+        "id": 66,
+        "language": "Name"
+    },
+    {
+        "id": 67,
+        "language": "Account"
+    },
+    {
+        "id": 68,
+        "language": "Copy"
+    },
+    {
+        "id": 69,
+        "language": "Deposit Amount"
+    },
+    {
+        "id": 70,
+        "language": "Enter amount"
+    },
+    {
+        "id": 71,
+        "language": "SEND"
+    },
+    {
+        "id": 72,
+        "language": "The bank card number cannot be empty"
+    },
+    {
+        "id": 73,
+        "language": "Enter a username"
+    },
+    {
+        "id": 74,
+        "language": "Enter an amount"
+    },
+    {
+        "id": 75,
+        "language": "Successfully transferred"
+    },
+    {
+        "id": 76,
+        "language": "The submitted records exceed the limit"
+    },
+    {
+        "id": 77,
+        "language": "Deposit"
+    },
+    {
+        "id": 78,
+        "language": "By date"
+    },
+    {
+        "id": 79,
+        "language": "deposit type"
+    },
+    {
+        "id": 80,
+        "language": "Succeeded"
+    },
+    {
+        "id": 81,
+        "language": "Failed"
+    },
+    {
+        "id": 82,
+        "language": "Unaudited"
+    },
+    {
+        "id": 83,
+        "language": "Details"
+    },
+    {
+        "id": 84,
+        "language": "Deposit type"
+    },
+    {
+        "id": 85,
+        "language": "No."
+    },
+    {
+        "id": 86,
+        "language": "Date"
+    },
+    {
+        "id": 87,
+        "language": "State"
+    },
+    {
+        "id": 88,
+        "language": "Comment"
+    },
+    {
+        "id": 89,
+        "language": "WITHDRAW"
+    },
+    {
+        "id": 90,
+        "language": "Withdraw"
+    },
+    {
+        "id": 91,
+        "language": "Add bank card"
+    },
+    {
+        "id": 92,
+        "language": "Add BANK ACCOUNT"
+    },
+    {
+        "id": 93,
+        "language": "Bind bank card number"
+    },
+    {
+        "id": 94,
+        "language": "Details"
+    },
+    {
+        "id": 95,
+        "language": "Bank"
+    },
+    {
+        "id": 96,
+        "language": "Account name"
+    },
+    {
+        "id": 97,
+        "language": "Enter username or email address"
+    },
+    {
+        "id": 98,
+        "language": "Account"
+    },
+    {
+        "id": 99,
+        "language": "Enter account"
+    },
+    {
+        "id": 100,
+        "language": "CHARGE"
+    },
+    {
+        "id": 101,
+        "language": "FINISHED"
+    },
+    {
+        "id": 102,
+        "language": "The name cannot be empty"
+    },
+    {
+        "id": 103,
+        "language": "The account cannot be empty"
+    },
+    {
+        "id": 104,
+        "language": "Successfully added"
+    },
+    {
+        "id": 105,
+        "language": "Set Password To Cash"
+    },
+    {
+        "id": 106,
+        "language": "Set password"
+    },
+    {
+        "id": 107,
+        "language": "Password"
+    },
+    {
+        "id": 108,
+        "language": "Enter a password consisting of four to eight characters"
+    },
+    {
+        "id": 109,
+        "language": "Enter a password consisting of four to eight characters"
+    },
+    {
+        "id": 110,
+        "language": "Hot"
+    },
+    {
+        "id": 111,
+        "language": "Payment method confirmed"
+    },
+    {
+        "id": 112,
+        "language": "Withdraw"
+    },
+    {
+        "id": 113,
+        "language": "Name"
+    },
+    {
+        "id": 114,
+        "language": "Account"
+    },
+    {
+        "id": 115,
+        "language": "Amount"
+    },
+    {
+        "id": 116,
+        "language": "Enter amount"
+    },
+    {
+        "id": 117,
+        "language": "All"
+    },
+    {
+        "id": 118,
+        "language": "Password to cash"
+    },
+    {
+        "id": 119,
+        "language": "Enter a password consisting of four to eight characters"
+    },
+    {
+        "id": 120,
+        "language": "OK"
+    },
+    {
+        "id": 121,
+        "language": "Set password to cash"
+    },
+    {
+        "id": 122,
+        "language": "Enter amount to cash"
+    },
+    {
+        "id": 123,
+        "language": "Enter the password to cash"
+    },
+    {
+        "id": 124,
+        "language": "Enter correct payment password"
+    },
+    {
+        "id": 125,
+        "language": "Withdrawal quantity error"
+    },
+    {
+        "id": 126,
+        "language": "The amount exceeds the balance"
+    },
+    {
+        "id": 127,
+        "language": "Withdrawal success"
+    },
+    {
+        "id": 128,
+        "language": "Withdrawal Records"
+    },
+    {
+        "id": 129,
+        "language": "Date"
+    },
+    {
+        "id": 130,
+        "language": "This function is not open yet, please wait!"
+    },
+    {
+        "id": 131,
+        "language": "Deposit Type"
+    },
+    {
+        "id": 132,
+        "language": "No."
+    },
+    {
+        "id": 133,
+        "language": "Date"
+    },
+    {
+        "id": 134,
+        "language": "State"
+    },
+    {
+        "id": 135,
+        "language": "Comment"
+    },
+    {
+        "id": 136,
+        "language": "Account Security"
+    },
+    {
+        "id": 137,
+        "language": "Help Center"
+    },
+    {
+        "id": 138,
+        "language": "Pal"
+    },
+    {
+        "id": 139,
+        "language": "About Us"
+    },
+    {
+        "id": 140,
+        "language": "Language"
+    },
+    {
+        "id": 141,
+        "language": "Language"
+    },
+    {
+        "id": 142,
+        "language": "OK"
+    },
+    {
+        "id": 143,
+        "language": "EXIT"
+    },
+    {
+        "id": 144,
+        "language": "LOG IN"
+    },
+    {
+        "id": 145,
+        "language": "Introduction"
+    },
+    {
+        "id": 146,
+        "language": "Betting record"
+    },
+    {
+        "id": 147,
+        "language": "Transactions"
+    },
+    {
+        "id": 148,
+        "language": "Ranking"
+    },
+    {
+        "id": 149,
+        "language": "Bonus"
+    },
+    {
+        "id": 150,
+        "language": "PLAYER ID"
+    },
+    {
+        "id": 151,
+        "language": "Date"
+    },
+    {
+        "id": 152,
+        "language": "Platform"
+    },
+    {
+        "id": 153,
+        "language": "Type"
+    },
+    {
+        "id": 154,
+        "language": "Hint"
+    },
+    {
+        "id": 155,
+        "language": "Type of Play"
+    },
+    {
+        "id": 156,
+        "language": "Order Number"
+    },
+    {
+        "id": 157,
+        "language": "Operation Type"
+    },
+    {
+        "id": 158,
+        "language": "Betting amount"
+    },
+    {
+        "id": 159,
+        "language": "Profit and Loss"
+    },
+    {
+        "id": 160,
+        "language": "Get/Lose"
+    },
+    {
+        "id": 161,
+        "language": "No Data"
+    },
+    {
+        "id": 162,
+        "language": "Type"
+    },
+    {
+        "id": 163,
+        "language": "Send by"
+    },
+    {
+        "id": 164,
+        "language": "BY"
+    },
+    {
+        "id": 165,
+        "language": "BY EMAIL"
+    },
+    {
+        "id": 166,
+        "language": "EMAIL ADDRESS"
+    },
+    {
+        "id": 167,
+        "language": "Enter email..."
+    },
+    {
+        "id": 168,
+        "language": "SEND"
+    },
+    {
+        "id": 169,
+        "language": "Terms and Conditions:"
+    },
+    {
+        "id": 170,
+        "language": "Modified default state successfully"
+    },
+    {
+        "id": 171,
+        "language": "No."
+    },
+    {
+        "id": 172,
+        "language": "Amount before change"
+    },
+    {
+        "id": 173,
+        "language": "Variation"
+    },
+    {
+        "id": 174,
+        "language": "Balance after change"
+    },
+    {
+        "id": 175,
+        "language": "Inbox"
+    },
+    {
+        "id": 176,
+        "language": "Invitation"
+    },
+    {
+        "id": 177,
+        "language": "Bulletin"
+    },
+    {
+        "id": 178,
+        "language": "DELETE"
+    },
+    {
+        "id": 179,
+        "language": "Promotion"
+    },
+    {
+        "id": 180,
+        "language": "Contest"
+    },
+    {
+        "id": 181,
+        "language": "My Application"
+    },
+    {
+        "id": 182,
+        "language": "Application"
+    },
+    {
+        "id": 183,
+        "language": "Date"
+    },
+    {
+        "id": 184,
+        "language": "Activity"
+    },
+    {
+        "id": 185,
+        "language": "Condition"
+    },
+    {
+        "id": 186,
+        "language": "VIP Details"
+    },
+    {
+        "id": 187,
+        "language": "BRONZE"
+    },
+    {
+        "id": 188,
+        "language": "SILVER"
+    },
+    {
+        "id": 189,
+        "language": "GOLD"
+    },
+    {
+        "id": 190,
+        "language": "PATINUM"
+    },
+    {
+        "id": 191,
+        "language": "DIAMON"
+    },
+    {
+        "id": 192,
+        "language": "ROYAL"
+    },
+    {
+        "id": 193,
+        "language": "Upgrade conditions"
+    },
+    {
+        "id": 194,
+        "language": "DEPOSIT"
+    },
+    {
+        "id": 195,
+        "language": "Award"
+    },
+    {
+        "id": 196,
+        "language": "Promotion bonus"
+    },
+    {
+        "id": 197,
+        "language": "Weekly gift"
+    },
+    {
+        "id": 198,
+        "language": "Monthly gift"
+    },
+    {
+        "id": 199,
+        "language": "Birthday gift"
+    },
+    {
+        "id": 200,
+        "language": "Discount"
+    },
+    {
+        "id": 201,
+        "language": "Discount"
+    },
+    {
+        "id": 202,
+        "language": "Sports"
+    },
+    {
+        "id": 203,
+        "language": "Poker"
+    },
+    {
+        "id": 204,
+        "language": "Casino"
+    },
+    {
+        "id": 205,
+        "language": "Slot machine"
+    },
+    {
+        "id": 206,
+        "language": "Fishing"
+    },
+    {
+        "id": 207,
+        "language": "Support service"
+    },
+    {
+        "id": 208,
+        "language": "Deposit first"
+    },
+    {
+        "id": 209,
+        "language": "Cash first"
+    },
+    {
+        "id": 210,
+        "language": "24/7 customer service"
+    },
+    {
+        "id": 211,
+        "language": "Special account manager"
+    },
+    {
+        "id": 212,
+        "language": "Unlimited cash"
+    },
+    {
+        "id": 213,
+        "language": "Account Security"
+    },
+    {
+        "id": 214,
+        "language": "LOGIN PASSWORD"
+    },
+    {
+        "id": 215,
+        "language": "CASH PASSWORD"
+    },
+    {
+        "id": 216,
+        "language": "BANK DETAILS"
+    },
+    {
+        "id": 217,
+        "language": "Old Password"
+    },
+    {
+        "id": 218,
+        "language": "New Password"
+    },
+    {
+        "id": 219,
+        "language": "Confirm Password"
+    },
+    {
+        "id": 220,
+        "language": "Enter a password consisting of six to twelve characters"
+    },
+    {
+        "id": 221,
+        "language": "ALL"
+    },
+    {
+        "id": 222,
+        "language": "Enter old password"
+    },
+    {
+        "id": 223,
+        "language": "Enter correct old password"
+    },
+    {
+        "id": 224,
+        "language": "Password must be consistent with the new password"
+    },
+    {
+        "id": 225,
+        "language": "The new password must be different from the old password"
+    },
+    {
+        "id": 226,
+        "language": "Password modified successfully"
+    },
+    {
+        "id": 227,
+        "language": "Set a password"
+    },
+    {
+        "id": 228,
+        "language": "Old Password"
+    },
+    {
+        "id": 229,
+        "language": "New Password"
+    },
+    {
+        "id": 230,
+        "language": "Enter a password consisting of four to eight characters"
+    },
+    {
+        "id": 231,
+        "language": "priority"
+    },
+    {
+        "id": 232,
+        "language": "Enter correct old password"
+    },
+    {
+        "id": 233,
+        "language": "Payment password set successfully"
+    },
+    {
+        "id": 234,
+        "language": "You have not connected your bank card"
+    },
+    {
+        "id": 235,
+        "language": "The registration channel has been closed"
+    },
+    {
+        "id": 236,
+        "language": "Modify"
+    },
+    {
+        "id": 237,
+        "language": "Delete"
+    },
+    {
+        "id": 238,
+        "language": "Bank card selected successfully"
+    },
+    {
+        "id": 239,
+        "language": "Payment channel closed"
+    },
+    {
+        "id": 240,
+        "language": "No data available"
+    },
+    {
+        "id": 241,
+        "language": "VIP"
+    },
+    {
+        "id": 242,
+        "language": "1.All 8BET members have the opportunity to become VIP members."
+    },
+    {
+        "id": 243,
+        "language": "You have set the withdrawal password.If you want to make a change, please contact customer service."
+    },
+    {
+        "id": 244,
+        "language": "CONTACT CUSTOMER SERVICE"
+    },
+    {
+        "id": 245,
+        "language": "2.Successful members will automatically become VIP members and will be entitled to a larger weekly and monthly commission."
+    },
+    {
+        "id": 246,
+        "language": "3.Elevate your VIP level immediately and enjoy promotions over 8BET."
+    },
+    {
+        "id": 247,
+        "language": "4.8BET reserves the right to alter, cancel, reject or withdraw any promotion at its sole discretion."
+    },
+    {
+        "id": 248,
+        "language": "5.A member's VIP identity cannot be transferred to another account."
+    },
+    {
+        "id": 249,
+        "language": "6.8BET's decision is absolute and inviolable."
+    },
+    {
+        "id": 250,
+        "language": "7.Each member must comply with the applicable terms and conditions."
+    },
+    {
+        "id": 251,
+        "language": "8.For further enquiries, please contact Livechat 8BET (24 hours)."
+    },
+    {
+        "id": 252,
+        "language": "After setting the bank password, you can use the banking function"
+    },
+    {
+        "id": 253,
+        "language": "You can only use the banking function after you bind your mobile phone number and set your bank password"
+    },
+    {
+        "id": 254,
+        "language": "Modify successfully"
+    },
+    {
+        "id": 255,
+        "language": "The withdrawal password has been set successfully"
+    },
+    {
+        "id": 256,
+        "language": "2 million gold COINS are needed for this modification. Do you want to modify it"
+    },
+    {
+        "id": 257,
+        "language": "Successfully Delete"
+    },
+    {
+        "id": 258,
+        "language": "Slots"
+    },
+    {
+        "id": 259,
+        "language": "Copy success"
+    },
+    {
+        "id": 260,
+        "language": "Please enter a new password"
+    },
+    {
+        "id": 261,
+        "language": "Please enter a confirmation password"
+    },
+    {
+        "id": 262,
+        "language": "Agreement is required"
+    },
+    {
+        "id": 263,
+        "language": "Nickname modification successful"
+    },
+    {
+        "id": 264,
+        "language": "Avatar modified successfully"
+    },
+    {
+        "id": 265,
+        "language": "Nickname modification failed"
+    },
+    {
+        "id": 266,
+        "language": "Avatar modification failed"
+    },
+    {
+        "id": 10001,
+        "language": "This user already exists"
+    },
+    {
+        "id": 10002,
+        "language": "Password incorrect"
+    },
+    {
+        "id": 10003,
+        "language": "Email address incorrect"
+    },
+    {
+        "id": 10004,
+        "language": "Phone number incorrect"
+    },
+    {
+        "id": 10005,
+        "language": "Password must consist of numbers and letters"
+    },
+    {
+        "id": 10006,
+        "language": "The account does not match the password"
+    },
+    {
+        "id": 10007,
+        "language": "Login failed."
+    },
+    {
+        "id": 10008,
+        "language": "You cannot log in with an account in use."
+    },
+    {
+        "id": 10009,
+        "language": "This user is forbidden to log in."
+    },
+    {
+        "id": 10010,
+        "language": "Parameter error"
+    },
+    {
+        "id": 10011,
+        "language": "Operation failed"
+    },
+    {
+        "id": 10012,
+        "language": "Server error"
+    },
+    {
+        "id": 10013,
+        "language": "The server is busy. Try again later."
+    },
+    {
+        "id": 10014,
+        "language": "Successfully registered"
+    },
+    {
+        "id": 10015,
+        "language": "The captcha is valid for 2 minutes"
+    },
+    {
+        "id": 10016,
+        "language": "The submitted records exceed the limit"
+    },
+    {
+        "id": 10017,
+        "language": "Enter correct username"
+    },
+    {
+        "id": 10018,
+        "language": "Enter correct username"
+    },
+    {
+        "id": 10019,
+        "language": "Successfully transferred"
+    },
+    {
+        "id": 10020,
+        "language": "Successfully added"
+    },
+    {
+        "id": 10021,
+        "language": "Enter a password consisting of four to eight characters"
+    },
+    {
+        "id": 10022,
+        "language": "Payment method confirmed"
+    },
+    {
+        "id": 10023,
+        "language": "Set password to cash"
+    },
+    {
+        "id": 10024,
+        "language": "Enter correct payment password"
+    },
+    {
+        "id": 10025,
+        "language": "Enter correct amount"
+    },
+    {
+        "id": 10026,
+        "language": "The amount exceeds the balance"
+    },
+    {
+        "id": 10027,
+        "language": "Successfully cashed"
+    },
+    {
+        "id": 10028,
+        "language": "Enter correct old password"
+    },
+    {
+        "id": 10029,
+        "language": "Password must be consistent with the new password"
+    },
+    {
+        "id": 10030,
+        "language": "The new password must be different from the old password"
+    },
+    {
+        "id": 10031,
+        "language": "Password modified successfully"
+    },
+    {
+        "id": 10032,
+        "language": "Payment password set successfully"
+    },
+    {
+        "id": 10033,
+        "language": "unknown error"
+    },
+    {
+        "id": 10034,
+        "language": "Please do not login repeatedly"
+    },
+    {
+        "id": 10035,
+        "language": "There are unsettled games. Please log in again"
+    },
+    {
+        "id": 10036,
+        "language": "This game is not developed"
+    },
+    {
+        "id": 10037,
+        "language": "Gold is not enough to enter the game"
+    },
+    {
+        "id": 10038,
+        "language": "This game cannot be entered"
+    },
+    {
+        "id": 10039,
+        "language": "Abnormal opening of game interface"
+    },
+    {
+        "id": 10040,
+        "language": "It has been collected"
+    },
+    {
+        "id": 10041,
+        "language": "The total number of orders submitted exceeds that to be approved."
+    },
+    {
+        "id": 10042,
+        "language": "Verification code error"
+    },
+    {
+        "id": 267,
+        "language": "currency type"
+    },
+    {
+        "id": 268,
+        "language": "On withdrawals"
+    },
+    {
+        "id": 269,
+        "language": "service charge"
+    },
+    {
+        "id": 270,
+        "language": "arrival amount"
+    },
+    {
+        "id": 271,
+        "language": "operation"
+    },
+    {
+        "id": 272,
+        "language": "Ten thousand"
+    },
+    {
+        "id": 273,
+        "language": "Billion"
+    },
+    {
+        "id": 274,
+        "language": "Game Name"
+    },
+    {
+        "id": 275,
+        "language": "Lose"
+    },
+    {
+        "id": 276,
+        "language": "Win"
+    },
+    {
+        "id": 277,
+        "language": "Game winning or losing"
+    },
+    {
+        "id": 278,
+        "language": "Recharge"
+    },
+    {
+        "id": 279,
+        "language": "Payout request"
+    },
+    {
+        "id": 280,
+        "language": "Withdrawal failed to return"
+    },
+    {
+        "id": 281,
+        "language": "Mail to receive"
+    },
+    {
+        "id": 282,
+        "language": "Texas Hold'em"
+    },
+    {
+        "id": 283,
+        "language": "Live video"
+    },
+    {
+        "id": 284,
+        "language": "Fishing"
+    },
+    {
+        "id": 285,
+        "language": "Slots"
+    },
+    {
+        "id": 286,
+        "language": "Domino QiuQiu"
+    },
+    {
+        "id": 287,
+        "language": "lottery"
+    },
+    {
+        "id": 288,
+        "language": "IM Sports"
+    },
+    {
+        "id": 289,
+        "language": "shab Sports"
+    },
+    {
+        "id": 290,
+        "language": "SBO Sports"
+    },
+    {
+        "id": 291,
+        "language": "Crazy fishing"
+    },
+    {
+        "id": 292,
+        "language": "Happy fishing"
+    },
+    {
+        "id": 293,
+        "language": "Multiplayer fishing"
+    },
+    {
+        "id": 294,
+        "language": "Happy very"
+    },
+    {
+        "id": 295,
+        "language": "Mark six"
+    },
+    {
+        "id": 296,
+        "language": "Super Lotto"
+    },
+    {
+        "id": 297,
+        "language": "Every Color"
+    },
+    {
+        "id": 298,
+        "language": "PX10"
+    },
+    {
+        "id": "0_QIUQIU",
+        "language": "QiuQiu"
+    },
+    {
+        "id": "1_zhengrendezhou",
+        "language": "Texas Hold'em"
+    },
+    {
+        "id": "2_gpas_5aogold_pop",
+        "language": "5 Ages of Gold"
+    },
+    {
+        "id": "2_hb",
+        "language": "A Night Out"
+    },
+    {
+        "id": "2_ashadv",
+        "language": "Adventures in Wonderland"
+    },
+    {
+        "id": "2_agoeg",
+        "language": "Age of Egypt"
+    },
+    {
+        "id": "2_aogs",
+        "language": "Age Of The Gods"
+    },
+    {
+        "id": "2_gpas_aogetroy_pop",
+        "language": "Gods: Forest Warrior"
+    },
+    {
+        "id": "2_ftsis",
+        "language": "Age of the Gods : Fate Sisters"
+    },
+    {
+        "id": "2_athn",
+        "language": "Age of the Gods : Goddess of Wisdom"
+    },
+    {
+        "id": "2_aogmm",
+        "language": "Age of the Gods : Medusa & Monster"
+    },
+    {
+        "id": "2_aogmt",
+        "language": "God: Midas the mighty"
+    },
+    {
+        "id": "2_aogrots",
+        "language": "Age of the Gods : Ruler of the Sky"
+    },
+    {
+        "id": "2_furf",
+        "language": "Age of the Gods: Furious Four"
+    },
+    {
+        "id": "2_aeolus",
+        "language": "Age of the Gods: God of Storms"
+    },
+    {
+        "id": "2_zeus",
+        "language": "Age of the Gods: King of Olympus"
+    },
+    {
+        "id": "2_hrcls",
+        "language": "Age of the Gods: Prince of Olympus"
+    },
+    {
+        "id": "2_ashamw",
+        "language": "Amazon Wild"
+    },
+    {
+        "id": "2_rodzl",
+        "language": "American Roulette (Double Zero)"
+    },
+    {
+        "id": "2_anwild",
+        "language": "Anaconda Wild"
+    },
+    {
+        "id": "2_arc",
+        "language": "Archer"
+    },
+    {
+        "id": "2_art",
+        "language": "Arctic Treasure"
+    },
+    {
+        "id": "2_gtsatq",
+        "language": "Atlantis Queen"
+    },
+    {
+        "id": "2_pop_sw_ar_skw",
+        "language": "Aztec Reel"
+    },
+    {
+        "id": "2_bal",
+        "language": "Baccarat Live"
+    },
+    {
+        "id": "2_bs",
+        "language": "Bai Shi"
+    },
+    {
+        "id": "2_bl",
+        "language": "Beach Life"
+    },
+    {
+        "id": "2_bt",
+        "language": "Bermuda Triangle"
+    },
+    {
+        "id": "2_gpas_bwizard_pop",
+        "language": "Blue Wizard"
+    },
+    {
+        "id": "2_bob",
+        "language": "Bonus Bears"
+    },
+    {
+        "id": "2_gpas_boking_pop",
+        "language": "Book of Kings"
+    },
+    {
+        "id": "2_ashbob",
+        "language": "Bounty of the Beanstalk"
+    },
+    {
+        "id": "2_bfb",
+        "language": "Buffalo Blitz"
+    },
+    {
+        "id": "2_bfbl",
+        "language": "Buffalo Blitz Live"
+    },
+    {
+        "id": "2_gpas_cotvalk_pop",
+        "language": "Call Of The Valkyries"
+    },
+    {
+        "id": "2_ct",
+        "language": "Captain's Treasure"
+    },
+    {
+        "id": "2_ctiv",
+        "language": "Cat In Vegas"
+    },
+    {
+        "id": "2_catqc",
+        "language": "Cat Queen"
+    },
+    {
+        "id": "2_chl",
+        "language": "Cherry Love"
+    },
+    {
+        "id": "2_ashcpl",
+        "language": "Chests of Plenty"
+    },
+    {
+        "id": "2_cm",
+        "language": "Chinese Kitchen"
+    },
+    {
+        "id": "2_ccccny",
+        "language": "Coin Coin Coin CNY"
+    },
+    {
+        "id": "2_gtscnb",
+        "language": "Cops N' Bandits"
+    },
+    {
+        "id": "2_gtscbl",
+        "language": "Cowboys & Aliens"
+    },
+    {
+        "id": "2_c7",
+        "language": "Crazy 7"
+    },
+    {
+        "id": "2_gtsdrdv",
+        "language": "Daring Dave & the Eye of Ra"
+    },
+    {
+        "id": "2_dnr",
+        "language": "Dolphin Reef"
+    },
+    {
+        "id": "2_dlm",
+        "language": "Dr Love More"
+    },
+    {
+        "id": "2_gpas_dbond_pop",
+        "language": "Dragon Bond"
+    },
+    {
+        "id": "2_drgch",
+        "language": "Dragon Champions"
+    },
+    {
+        "id": "2_dj_bal",
+        "language": "Dragon Jackpot Baccarat"
+    },
+    {
+        "id": "2_gtsdgk",
+        "language": "Dragon Kingdom"
+    },
+    {
+        "id": "2_pop_sw_dr_skw",
+        "language": "Dragon Riches"
+    },
+    {
+        "id": "2_eas",
+        "language": "Easter Surprise"
+    },
+    {
+        "id": "2_epa",
+        "language": "Epic Ape"
+    },
+    {
+        "id": "2_esm",
+        "language": "Esmeralda"
+    },
+    {
+        "id": "2_gpas_elady_pop",
+        "language": "Eternal Lady"
+    },
+    {
+        "id": "2_ashfta",
+        "language": "Fairest of Them All"
+    },
+    {
+        "id": "2_gpas_fatchoy_pop",
+        "language": "Fat Choy Choy Sun"
+    },
+    {
+        "id": "2_fcgz",
+        "language": "Fei Cui Gong Zhu"
+    },
+    {
+        "id": "2_gtsflzt",
+        "language": "Fei Long Zai Tian"
+    },
+    {
+        "id": "2_gpas_fiesta_pop",
+        "language": "Fiesta de la Memoria"
+    },
+    {
+        "id": "2_pop_sw_fr_skw",
+        "language": "Fire Reel"
+    },
+    {
+        "id": "2_ftg",
+        "language": "Five Tiger Generals"
+    },
+    {
+        "id": "2_gtsfc",
+        "language": "Football Carnival"
+    },
+    {
+        "id": "2_fbr",
+        "language": "Football Rules"
+    },
+    {
+        "id": "2_fow",
+        "language": "Forest of Wonder"
+    },
+    {
+        "id": "2_frtf",
+        "language": "Fortunate Five"
+    },
+    {
+        "id": "2_fday",
+        "language": "Fortune Day"
+    },
+    {
+        "id": "2_fxf",
+        "language": "Fortunes of the Fox"
+    },
+    {
+        "id": "2_foy",
+        "language": "Fountain of Youth"
+    },
+    {
+        "id": "2_fdt",
+        "language": "Frankie Dettori's Magic Seven"
+    },
+    {
+        "id": "2_fdtjg",
+        "language": "Frankie Dettori's Magic Seven Jackpot"
+    },
+    {
+        "id": "2_fmn",
+        "language": "Fruit Mania"
+    },
+    {
+        "id": "2_ashfmf",
+        "language": "Full Moon Fortunes"
+    },
+    {
+        "id": "2_fff",
+        "language": "Funky Fruits Farm"
+    },
+    {
+        "id": "2_fnfrj",
+        "language": "Funky Fruits Jackpot Game"
+    },
+    {
+        "id": "2_fm",
+        "language": "Funky Monkey"
+    },
+    {
+        "id": "2_fmjp",
+        "language": "Funky Monkey Jackpot"
+    },
+    {
+        "id": "2_popc",
+        "language": "Gaelic Luck"
+    },
+    {
+        "id": "2_ges",
+        "language": "Geisha Story"
+    },
+    {
+        "id": "2_glrj",
+        "language": "Gladiator Jackpot"
+    },
+    {
+        "id": "2_grel",
+        "language": "Gold Rally"
+    },
+    {
+        "id": "2_glg",
+        "language": "Golden Games"
+    },
+    {
+        "id": "2_gpas_gmacaque_pop",
+        "language": "Golden Macaque"
+    },
+    {
+        "id": "2_gos",
+        "language": "Golden Tour"
+    },
+    {
+        "id": "2_bib",
+        "language": "Great Blue"
+    },
+    {
+        "id": "2_grbjp",
+        "language": "Great Blue Jackpot"
+    },
+    {
+        "id": "2_gro",
+        "language": "Greatest Odyssey"
+    },
+    {
+        "id": "2_gpas_hice_pop",
+        "language": "Hainan Ice"
+    },
+    {
+        "id": "2_hlf",
+        "language": "Halloween Fortune"
+    },
+    {
+        "id": "2_hlf2",
+        "language": "Halloween Fortune II"
+    },
+    {
+        "id": "2_hh",
+        "language": "Haunted House"
+    },
+    {
+        "id": "2_huhl",
+        "language": "Heads Up Hold'em Live"
+    },
+    {
+        "id": "2_ashhof",
+        "language": "Heart of the Frontier"
+    },
+    {
+        "id": "2_ashhotj",
+        "language": "Heart of The Jungle"
+    },
+    {
+        "id": "2_hilol",
+        "language": "Hi-Lo"
+    },
+    {
+        "id": "2_hk",
+        "language": "Highway Kings"
+    },
+    {
+        "id": "2_gts50",
+        "language": "Hot Gems"
+    },
+    {
+        "id": "2_hotktv",
+        "language": "Hot KTV"
+    },
+    {
+        "id": "2_ashicv",
+        "language": "Ice Cave"
+    },
+    {
+        "id": "2_gtsir",
+        "language": "Ice Run"
+    },
+    {
+        "id": "2_aztec",
+        "language": "Inca Jackpot"
+    },
+    {
+        "id": "2_irl",
+        "language": "Irish Luck"
+    },
+    {
+        "id": "2_jpgt",
+        "language": "Jackpot Giant"
+    },
+    {
+        "id": "2_gtsje",
+        "language": "Jade Emperor"
+    },
+    {
+        "id": "2_gtsjxb",
+        "language": "Ji Xiang 8"
+    },
+    {
+        "id": "2_pop_sw_jqw_ab_jp_skw",
+        "language": "Jin Qian Wa Jackpot"
+    },
+    {
+        "id": "2_gpas_jflong_pop",
+        "language": "Jinfu Long"
+    },
+    {
+        "id": "2_gpas_xjinfu_pop",
+        "language": "Jinfu Xingyun"
+    },
+    {
+        "id": "2_jnglg",
+        "language": "Jungle Giants"
+    },
+    {
+        "id": "2_lndg",
+        "language": "Land of Gold"
+    },
+    {
+        "id": "2_legwld",
+        "language": "Legacy Of The Wild"
+    },
+    {
+        "id": "2_ght_a",
+        "language": "Lie Yan Zuan Shi"
+    },
+    {
+        "id": "2_kfp",
+        "language": "Liu Fu Shou"
+    },
+    {
+        "id": "2_7bal",
+        "language": "Live 7 Seat Baccarat"
+    },
+    {
+        "id": "2_chel",
+        "language": "Live Casino Hold'Em"
+    },
+    {
+        "id": "2_cspljpt",
+        "language": "Live Casino Stud Poker"
+    },
+    {
+        "id": "2_dtl",
+        "language": "Live Dragon Tiger"
+    },
+    {
+        "id": "2_rofl",
+        "language": "Live French Roulette"
+    },
+    {
+        "id": "2_ljxy",
+        "language": "Long Jia Xiang Yun"
+    },
+    {
+        "id": "2_lm",
+        "language": "Lotto Madness"
+    },
+    {
+        "id": "2_mgstk",
+        "language": "Magical Stacks"
+    },
+    {
+        "id": "2_gtsmrln",
+        "language": "Marilyn Monroe"
+    },
+    {
+        "id": "2_pop_sw_mr_skw",
+        "language": "Metal Reel"
+    },
+    {
+        "id": "2_mfrt",
+        "language": "Miss Fortune"
+    },
+    {
+        "id": "2_mnkmn",
+        "language": "Monkey Mania"
+    },
+    {
+        "id": "2_mcb",
+        "language": "Mr. Cashback"
+    },
+    {
+        "id": "2_nk",
+        "language": "Neptunes Kingdom"
+    },
+    {
+        "id": "2_gpas_nsshen_pop",
+        "language": "Ni Shu Shen Me"
+    },
+    {
+        "id": "2_nian",
+        "language": "Nian Nian You Yu"
+    },
+    {
+        "id": "2_nc_7bal",
+        "language": "No Commission 7 Seats Baccarat Live"
+    },
+    {
+        "id": "2_dj_nc_bal",
+        "language": "No Commission Dragon Jackpot Baccarat"
+    },
+    {
+        "id": "2_nc_bal",
+        "language": "No Commission Mini Baccarat Live"
+    },
+    {
+        "id": "2_pmn",
+        "language": "Panther Moon"
+    },
+    {
+        "id": "2_gpas_panthpays_pop",
+        "language": "Panther Pays"
+    },
+    {
+        "id": "2_Not Supported",
+        "language": "Party Line"
+    },
+    {
+        "id": "2_pgv",
+        "language": "Penguin Vacation"
+    },
+    {
+        "id": "2_pst",
+        "language": "Pharaoh's Secrets"
+    },
+    {
+        "id": "2_gpas_scqueen_pop",
+        "language": "Pharaoh’s Daughter"
+    },
+    {
+        "id": "2_phtd",
+        "language": "Pharaoh’s Treasure Deluxe"
+    },
+    {
+        "id": "2_paw",
+        "language": "Piggies and the Wolf"
+    },
+    {
+        "id": "2_pnp",
+        "language": "Pink Panther"
+    },
+    {
+        "id": "2_pisa",
+        "language": "Pixel Samurai"
+    },
+    {
+        "id": "2_gtspor",
+        "language": "Plenty O'Fortune"
+    },
+    {
+        "id": "2_phot",
+        "language": "Purple Hot"
+    },
+    {
+        "id": "2_photk",
+        "language": "Purple Hot Kiosk"
+    },
+    {
+        "id": "2_qrol",
+        "language": "Quantum Roulette"
+    },
+    {
+        "id": "2_gpas_rothr_pop",
+        "language": "Raiders of the Hidden Realm"
+    },
+    {
+        "id": "2_pop_sw_rm_ab_jp_skw",
+        "language": "Respin Mania Wu Shi Jackpot"
+    },
+    {
+        "id": "2_ririjc",
+        "language": "Ri Ri Jin Cai"
+    },
+    {
+        "id": "2_ririshc",
+        "language": "Ri Ri Sheng Cai"
+    },
+    {
+        "id": "2_pop_sw_rr_skw",
+        "language": "Riverboat Reel"
+    },
+    {
+        "id": "2_rky",
+        "language": "Rocky"
+    },
+    {
+        "id": "2_rng2",
+        "language": "Rome and Glory"
+    },
+    {
+        "id": "2_rol",
+        "language": "Roulette Live"
+    },
+    {
+        "id": "2_sfh",
+        "language": "Safari Heat"
+    },
+    {
+        "id": "2_gtssmbr",
+        "language": "Samba Brazil"
+    },
+    {
+        "id": "2_ssp",
+        "language": "Santa Surprise"
+    },
+    {
+        "id": "2_gpas_satsumo_pop",
+        "language": "Satsumo's Revenge"
+    },
+    {
+        "id": "2_gpas_sjungle_pop",
+        "language": "Savage Jungle"
+    },
+    {
+        "id": "2_samz",
+        "language": "Secrets of the Amazon"
+    },
+    {
+        "id": "2_7eml",
+        "language": "Sette e Mezzo Live"
+    },
+    {
+        "id": "2_shmst",
+        "language": "Sherlock Mystery"
+    },
+    {
+        "id": "2_sbl",
+        "language": "Sic Bo Live"
+    },
+    {
+        "id": "2_sbdl",
+        "language": "SicBo Deluxe"
+    },
+    {
+        "id": "2_sis",
+        "language": "Silent Samurai"
+    },
+    {
+        "id": "2_sib",
+        "language": "Silver Bullet"
+    },
+    {
+        "id": "2_ashsbd",
+        "language": "Sinbad's Golden Voyage"
+    },
+    {
+        "id": "2_gpas_squeen_pop",
+        "language": "Sky Queen"
+    },
+    {
+        "id": "2_swl",
+        "language": "Spin a Win"
+    },
+    {
+        "id": "2_sprol",
+        "language": "Spread Bet Roulette"
+    },
+    {
+        "id": "2_srcg",
+        "language": "Spud O´Reilly´s Crops of Gold"
+    },
+    {
+        "id": "2_sol",
+        "language": "Streak of Luck"
+    },
+    {
+        "id": "2_gtsswk",
+        "language": "Sun Wukong"
+    },
+    {
+        "id": "2_slion",
+        "language": "Super Lion"
+    },
+    {
+        "id": "2_cnpr",
+        "language": "Sweet Party"
+    },
+    {
+        "id": "2_tpd2",
+        "language": "Thai Paradise"
+    },
+    {
+        "id": "2_tht",
+        "language": "Thai Temple"
+    },
+    {
+        "id": "2_dcv",
+        "language": "The Discovery"
+    },
+    {
+        "id": "2_ashglss",
+        "language": "The Glass Slipper"
+    },
+    {
+        "id": "2_gtsgme",
+        "language": "The Great Ming Empire"
+    },
+    {
+        "id": "2_donq",
+        "language": "The Riches of Don Quixote"
+    },
+    {
+        "id": "2_tmqd",
+        "language": "Three Musketeers and Queen's Diamond"
+    },
+    {
+        "id": "2_tigc",
+        "language": "Tiger Claw"
+    },
+    {
+        "id": "2_gpas_tstacks_pop",
+        "language": "Tiger Stacks"
+    },
+    {
+        "id": "2_gpas_tigertdp_pop",
+        "language": "Tiger Turtle Dragon Phoenix"
+    },
+    {
+        "id": "2_ashtmd",
+        "language": "Time for a Deal"
+    },
+    {
+        "id": "2_topg",
+        "language": "Top Gun"
+    },
+    {
+        "id": "2_ttc",
+        "language": "Top Trumps Celebs"
+    },
+    {
+        "id": "2_gpas_tsgift_pop",
+        "language": "Tsai Shens Gift"
+    },
+    {
+        "id": "2_ub",
+        "language": "Ugga Bugga"
+    },
+    {
+        "id": "2_er",
+        "language": "Vacation Station"
+    },
+    {
+        "id": "2_vcstd",
+        "language": "Vacation Station Deluxe"
+    },
+    {
+        "id": "2_gts52",
+        "language": "Vikingmania"
+    },
+    {
+        "id": "2_pop_sw_wrl_skw",
+        "language": "Water Reel"
+    },
+    {
+        "id": "2_wotp",
+        "language": "Ways of the Phoenix"
+    },
+    {
+        "id": "2_whk",
+        "language": "White King"
+    },
+    {
+        "id": "2_whk2",
+        "language": "White King 2"
+    },
+    {
+        "id": "2_gtswg",
+        "language": "Wild Gambler"
+    },
+    {
+        "id": "2_ashwgaa",
+        "language": "Wild Gambler 2: Arctic Adventure"
+    },
+    {
+        "id": "2_wis",
+        "language": "Wild Spirit"
+    },
+    {
+        "id": "2_ashwdw",
+        "language": "Wild Wishes"
+    },
+    {
+        "id": "2_gtswng",
+        "language": "Wings Of Gold"
+    },
+    {
+        "id": "2_wlg",
+        "language": "Wu Long"
+    },
+    {
+        "id": "2_wlcsh",
+        "language": "Wu Lu Cai Shen"
+    },
+    {
+        "id": "2_xufe",
+        "language": "Xuan Pu Lian Huan"
+    },
+    {
+        "id": "2_pop_sw_yxlb_skw",
+        "language": "Ying Xiong Lu Bu"
+    },
+    {
+        "id": "2_yclong",
+        "language": "Yun Cong Long"
+    },
+    {
+        "id": "2_zcjb",
+        "language": "Zhao Cai Jin Bao"
+    },
+    {
+        "id": "2_zcjbjp",
+        "language": "Zhao Cai Jin Bao Jackpot"
+    },
+    {
+        "id": "2_aogroo",
+        "language": "Age Of The Gods: Rulers of Olympus"
+    },
+    {
+        "id": "2_gpas_appower_pop",
+        "language": "Age Of The Gods: Apollo Power"
+    },
+    {
+        "id": "2_gpas_aluck_pop",
+        "language": "Arowana's Luck"
+    },
+    {
+        "id": "2_gpas_ccave_pop",
+        "language": "Cascading Cave"
+    },
+    {
+        "id": "2_gpas_jmoon_pop",
+        "language": "Jinns Moon"
+    },
+    {
+        "id": "2_gpas_mquest_pop",
+        "language": "Quest West"
+    },
+    {
+        "id": "2_gpas_rriches_pop",
+        "language": "Record Riches"
+    },
+    {
+        "id": "2_gpas_sexiles_pop",
+        "language": "Starmada Exiles"
+    },
+    {
+        "id": "2_gpas_tttotems_pop",
+        "language": "Tip Top Totems"
+    },
+    {
+        "id": "2_gpas_tgift_pop",
+        "language": "Toad's Gift"
+    },
+    {
+        "id": "3_SMG_alchemyBlast",
+        "language": "Alchemy Blast"
+    },
+    {
+        "id": "3_SFB_Cascading_Alien",
+        "language": "Alien Rush"
+    },
+    {
+        "id": "3_SMG_astroLegendsLyraandErion",
+        "language": "Astro Legends: Lyra and Erion"
+    },
+    {
+        "id": "3_SFB_AstroRocks",
+        "language": "Astro Rocks!"
+    },
+    {
+        "id": "3_SFB_BaseballDuel",
+        "language": "Baseball Duel"
+    },
+    {
+        "id": "3_SMG_battleRoyale",
+        "language": "Battle Royale"
+    },
+    {
+        "id": "3_SMG_fruitBlast",
+        "language": "Fruit Blast"
+    },
+    {
+        "id": "3_SMG_galaxyGlider",
+        "language": "Galaxy Glider"
+    },
+    {
+        "id": "3_SMG_gemsOdyssey",
+        "language": "Gems Odyssey"
+    },
+    {
+        "id": "3_SMG_happyMonsterClaw",
+        "language": "Happy Monster Claw"
+    },
+    {
+        "id": "3_SMG_incanAdventure",
+        "language": "Incan Adventure"
+    },
+    {
+        "id": "3_SMG_theIncredibleBalloonMachine",
+        "language": "Incredible Balloon Machine"
+    },
+    {
+        "id": "3_SMG_jewelQuestRiches",
+        "language": "Jewel Quest Riches"
+    },
+    {
+        "id": "3_SMG_legendKeno",
+        "language": "Legend Keno"
+    },
+    {
+        "id": "3_SFB_MarmotMayhem",
+        "language": "Marmot Mayhem"
+    },
+    {
+        "id": "3_SMG_maxDamageArcade",
+        "language": "Max Damage and the Alien Attack"
+    },
+    {
+        "id": "3_SMG_megaMoneyRush",
+        "language": "Mega Money Rush"
+    },
+    {
+        "id": "3_SMG_monsterBlast",
+        "language": "Monster Blast"
+    },
+    {
+        "id": "3_SMG_petsGoWild",
+        "language": "Pets Go Wild"
+    },
+    {
+        "id": "3_SMG_pokeTheGuy",
+        "language": "Poke The Guy"
+    },
+    {
+        "id": "3_SFB_KO_RobotDice",
+        "language": "Robot Dice"
+    },
+    {
+        "id": "3_SMG_treasureDash",
+        "language": "Treasure Dash"
+    },
+    {
+        "id": "3_SFB_Cascading_Zombie",
+        "language": "Zombie Blast"
+    },
+    {
+        "id": "3_SFG_WDFuWaFishing",
+        "language": "WD FuWa Fishing"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Baccarat_Playboy",
+        "language": "Baccarat - Playboy"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_BaccaratplayboyNC",
+        "language": "Baccarat - Playboy (NC)"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_BaccaratNC",
+        "language": "Baccarat (NC)"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Baccarat",
+        "language": "Baccarat Live"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_MP_Baccarat",
+        "language": "MP Baccarat"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_MP_Baccarat_Playboy",
+        "language": "MP Baccarat - Playboy"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Roulette",
+        "language": "Roulette"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Sicbo",
+        "language": "Sicbo Live"
+    },
+    {
+        "id": "3_SFG_WPGoldenPigRace",
+        "language": "WP Golden Pig Race"
+    },
+    {
+        "id": "3_SFG_WP5PK",
+        "language": "WP 5PK"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu",
+        "language": "WP Banker Niu Niu"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu_3cards",
+        "language": "WP Banker Niu Niu (3 Open cards)"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu_4cards",
+        "language": "WP Banker Niu Niu (4 Open cards)"
+    },
+    {
+        "id": "3_SFG_WPBonusTexas",
+        "language": "WP Bonus Texas"
+    },
+    {
+        "id": "3_SFG_WPCaiShenFruitMario",
+        "language": "WP CaiShen Fruit Mario (Arcade Edition)"
+    },
+    {
+        "id": "3_SFG_WPChuhanTexas",
+        "language": "WP Chuhan Texas"
+    },
+    {
+        "id": "3_SFG_Doudizhu",
+        "language": "WP Doudizhu"
+    },
+    {
+        "id": "3_SFG_WPForestPartyJP",
+        "language": "WP Forest Party (JP)"
+    },
+    {
+        "id": "3_SFG_GoldenFlower",
+        "language": "WP Golden Flower"
+    },
+    {
+        "id": "3_SFG_WPGoldenShark",
+        "language": "WP Golden Shark"
+    },
+    {
+        "id": "3_SFG_WPInstantGoldenFlower",
+        "language": "WP Instant Golden Flower"
+    },
+    {
+        "id": "3_SFG_WPMahjong_2P",
+        "language": "WP Mahjong (2P Arcade)"
+    },
+    {
+        "id": "3_SFG_WP100NiuNiu",
+        "language": "WP Niu Niu 100+ Players"
+    },
+    {
+        "id": "3_SFG_WPTavern",
+        "language": "WP Tavern"
+    },
+    {
+        "id": "3_SMG_sistersOfOzJackpots",
+        "language": "Sisters of Oz: Jackpots"
+    },
+    {
+        "id": "3_SMG_alchemistStone",
+        "language": "Alchemist Stone"
+    },
+    {
+        "id": "3_SMG_108Heroes",
+        "language": "108 Heroes"
+    },
+    {
+        "id": "3_SMG_108heroesMultiplierFortunes",
+        "language": "108 Heroes Multiplier Fortunes"
+    },
+    {
+        "id": "3_SMG_5ReelDrive",
+        "language": "5 Reel Drive"
+    },
+    {
+        "id": "3_SMG_9masksOfFire",
+        "language": "9 Masks of Fire"
+    },
+    {
+        "id": "3_SMG_9potsOfGold",
+        "language": "9 Pots of Gold"
+    },
+    {
+        "id": "3_SMG_aDarkMatter",
+        "language": "A Dark Matter"
+    },
+    {
+        "id": "3_SMG_absolootlyMadMegaMoolah",
+        "language": "Absolootly Mad™: Mega Moolah"
+    },
+    {
+        "id": "3_SMG_actionOpsSnowAndSable",
+        "language": "ActionOps: Snow and Sable"
+    },
+    {
+        "id": "3_SMG_adventurePalace",
+        "language": "Adventure Palace"
+    },
+    {
+        "id": "3_SMG_ageOfConquest",
+        "language": "Age of Conquest"
+    },
+    {
+        "id": "3_SMG_ageOfDiscovery",
+        "language": "Age of Discovery"
+    },
+    {
+        "id": "3_SMG_agentJaneBlonde",
+        "language": "Agent Jane Blonde"
+    },
+    {
+        "id": "3_SMG_agentjaneblondereturns",
+        "language": "Agent Jane Blonde Returns"
+    },
+    {
+        "id": "3_SMG_alaskanFishing",
+        "language": "Alaskan Fishing"
+    },
+    {
+        "id": "3_SMG_ancientFortunesZeus",
+        "language": "Ancient Fortunes: Zeus"
+    },
+    {
+        "id": "3_SMG_ariana",
+        "language": "Ariana"
+    },
+    {
+        "id": "3_SMG_asianBeauty",
+        "language": "Asian Beauty"
+    },
+    {
+        "id": "3_SMG_atlanteanTreasures",
+        "language": "Atlantean Treasures: Mega Moolah"
+    },
+    {
+        "id": "3_SMG_auroraWilds",
+        "language": "Aurora Wilds"
+    },
+    {
+        "id": "3_SMG_avalon",
+        "language": "Avalon"
+    },
+    {
+        "id": "3_SMG_badmintonHero",
+        "language": "Badminton Hero"
+    },
+    {
+        "id": "3_SMG_bananaOdyssey",
+        "language": "Banana Odyssey"
+    },
+    {
+        "id": "3_SMG_barBarBlackSheep5Reel",
+        "language": "Bar Bar Black Sheep - 5 Reel"
+    },
+    {
+        "id": "3_SMG_BarsAndStripes",
+        "language": "Bars & Stripes"
+    },
+    {
+        "id": "3_SMG_basketballStar",
+        "language": "Basketball Star"
+    },
+    {
+        "id": "3_SMG_basketballStarDeluxe",
+        "language": "Basketball Star Deluxe"
+    },
+    {
+        "id": "3_SMG_beachBabes",
+        "language": "Beach Babes"
+    },
+    {
+        "id": "3_SMG_beautifulBones",
+        "language": "Beautiful Bones"
+    },
+    {
+        "id": "3_SMG_bigKahuna",
+        "language": "Big Kahuna"
+    },
+    {
+        "id": "3_SMG_bigTop",
+        "language": "Big Top"
+    },
+    {
+        "id": "3_SMG_bikiniParty",
+        "language": "Bikini Party"
+    },
+    {
+        "id": "3_SMG_boatofFortune",
+        "language": "Boat of Fortune"
+    },
+    {
+        "id": "3_SMG_boogieMonsters",
+        "language": "Boogie Monsters"
+    },
+    {
+        "id": "3_SMG_bookOfOz",
+        "language": "Book Of Oz"
+    },
+    {
+        "id": "3_SMG_bookOfOzLockNSpin",
+        "language": "Book of Oz - Lock 'N Spin"
+    },
+    {
+        "id": "3_SMG_bookieOfOdds",
+        "language": "Bookie of Odds"
+    },
+    {
+        "id": "3_SMG_boomPirates",
+        "language": "Boom Pirates"
+    },
+    {
+        "id": "3_SMG_breakAway",
+        "language": "Break Away"
+    },
+    {
+        "id": "3_SMG_breakAwayDeluxe",
+        "language": "Break Away Deluxe"
+    },
+    {
+        "id": "3_SMG_breakAwayLuckyWilds",
+        "language": "Break Away Lucky Wilds"
+    },
+    {
+        "id": "3_SMG_breakDaBank",
+        "language": "Break da Bank"
+    },
+    {
+        "id": "3_SMG_breakDaBankAgain",
+        "language": "Break da Bank Again"
+    },
+    {
+        "id": "3_SMG_breakDaBankAgainRespin",
+        "language": "Break Da Bank Again Respin"
+    },
+    {
+        "id": "3_SMG_bridesmaids",
+        "language": "Bridesmaids"
+    },
+    {
+        "id": "3_SMG_bullseyeGameshow",
+        "language": "Bullseye"
+    },
+    {
+        "id": "3_SMG_burningDesire",
+        "language": "Burning Desire"
+    },
+    {
+        "id": "3_SMG_bushTelegraph",
+        "language": "Bush Telegraph"
+    },
+    {
+        "id": "3_SMG_bustTheBank",
+        "language": "Bust The Bank"
+    },
+    {
+        "id": "3_SMG_candyDreams",
+        "language": "Candy Dreams"
+    },
+    {
+        "id": "3_SMG_carnaval",
+        "language": "Carnaval"
+    },
+    {
+        "id": "3_SMG_cashCrazy",
+        "language": "Cash Crazy"
+    },
+    {
+        "id": "3_SMG_cashOfKingdoms",
+        "language": "Cash of Kingdoms"
+    },
+    {
+        "id": "3_SMG_CashSplash5Reel",
+        "language": "Cash Splash 5 Reel"
+    },
+    {
+        "id": "3_SMG_cashapillar",
+        "language": "Cashapillar"
+    },
+    {
+        "id": "3_SMG_cashoccino",
+        "language": "CashOccino"
+    },
+    {
+        "id": "3_SMG_cashville",
+        "language": "Cashville"
+    },
+    {
+        "id": "3_SMG_castleBuilder2",
+        "language": "Castle Builder II"
+    },
+    {
+        "id": "3_SMG_centreCourt",
+        "language": "Centre Court"
+    },
+    {
+        "id": "3_SMG_classic243",
+        "language": "Classic 243"
+    },
+    {
+        "id": "3_SMG_coolBuck5Reel",
+        "language": "Cool Buck - 5 Reel"
+    },
+    {
+        "id": "3_SMG_coolWolf",
+        "language": "Cool Wolf"
+    },
+    {
+        "id": "3_SMG_couchPotato",
+        "language": "Couch Potato"
+    },
+    {
+        "id": "3_SMG_crazyChameleons",
+        "language": "Crazy Chameleons"
+    },
+    {
+        "id": "3_SMG_cricketStar",
+        "language": "Cricket Star"
+    },
+    {
+        "id": "3_SMG_CrystalRift",
+        "language": "Crystal Rift"
+    },
+    {
+        "id": "3_SMG_deckTheHalls",
+        "language": "Deck the Halls"
+    },
+    {
+        "id": "3_SMG_decoDiamonds",
+        "language": "Deco Diamonds"
+    },
+    {
+        "id": "3_SMG_diamondEmpire",
+        "language": "Diamond Empire"
+    },
+    {
+        "id": "3_SMG_dolphinCoast",
+        "language": "Dolphin Coast"
+    },
+    {
+        "id": "3_SMG_dolphinQuest",
+        "language": "Dolphin Quest"
+    },
+    {
+        "id": "3_SMG_doubleWammy",
+        "language": "Double Wammy"
+    },
+    {
+        "id": "3_SMG_dragonDance",
+        "language": "Dragon Dance"
+    },
+    {
+        "id": "3_SMG_dragonShard",
+        "language": "Dragon Shard"
+    },
+    {
+        "id": "3_SMG_dragonz",
+        "language": "Dragonz"
+    },
+    {
+        "id": "3_SMG_dreamDate",
+        "language": "Dream Date"
+    },
+    {
+        "id": "3_SMG_eaglesWings",
+        "language": "Eagle's Wings"
+    },
+    {
+        "id": "3_SMG_emotiCoins",
+        "language": "EmotiCoins"
+    },
+    {
+        "id": "3_SMG_emperorOfTheSea",
+        "language": "Emperor of the Sea"
+    },
+    {
+        "id": "3_SMG_exoticCats",
+        "language": "Exotic Cats"
+    },
+    {
+        "id": "3_SMG_fishParty",
+        "language": "Fish Party"
+    },
+    {
+        "id": "3_SMG_footballStar",
+        "language": "Football Star"
+    },
+    {
+        "id": "3_SMG_footballStarDeluxe",
+        "language": "Football Star Deluxe"
+    },
+    {
+        "id": "3_SMG_forbiddenThrone",
+        "language": "Forbidden Throne"
+    },
+    {
+        "id": "3_SMG_fortuneGirl",
+        "language": "Fortune Girl"
+    },
+    {
+        "id": "3_SMG_fortunium",
+        "language": "Fortunium"
+    },
+    {
+        "id": "3_SMG_frozenDiamonds",
+        "language": "Frozen Diamonds"
+    },
+    {
+        "id": "3_SMG_fruitVSCandy",
+        "language": "Fruit vs Candy"
+    },
+    {
+        "id": "3_SMG_giantRiches",
+        "language": "Giant Riches"
+    },
+    {
+        "id": "3_SMG_girlsWithGunsJungleHeat",
+        "language": "Girls With Guns - Jungle Heat"
+    },
+    {
+        "id": "3_SMG_gnomeWood",
+        "language": "Gnome Wood"
+    },
+    {
+        "id": "3_SMG_goldFactory",
+        "language": "Gold Factory"
+    },
+    {
+        "id": "3_SMG_goldenEra",
+        "language": "Golden Era"
+    },
+    {
+        "id": "3_SMG_goldenPrincess",
+        "language": "Golden Princess"
+    },
+    {
+        "id": "3_SMG_gopherGold",
+        "language": "Gopher Gold"
+    },
+    {
+        "id": "3_SMG_halloween ",
+        "language": "Halloween"
+    },
+    {
+        "id": "3_SMG_halloweenies",
+        "language": "Halloweenies"
+    },
+    {
+        "id": "3_SMG_HappyHolidays",
+        "language": "Happy Holidays"
+    },
+    {
+        "id": "3_SMG_harveys",
+        "language": "Harveys"
+    },
+    {
+        "id": "3_SMG_highSociety",
+        "language": "High Society"
+    },
+    {
+        "id": "3_SMG_highlander",
+        "language": "Highlander"
+    },
+    {
+        "id": "3_SMG_hitman",
+        "language": "Hitman"
+    },
+    {
+        "id": "3_SMG_hollyJollyPenguins",
+        "language": "Holly Jolly Penguins"
+    },
+    {
+        "id": "3_SMG_HoundHotel",
+        "language": "Hound Hotel"
+    },
+    {
+        "id": "3_SMG_huangdiTheYellowEmperor",
+        "language": "Huangdi - The Yellow Emperor"
+    },
+    {
+        "id": "3_SMG_immortalRomance",
+        "language": "Immortal Romance"
+    },
+    {
+        "id": "3_SMG_isis",
+        "language": "Isis"
+    },
+    {
+        "id": "3_SMG_jungleJimElDorado",
+        "language": "Jungle Jim - El Dorado"
+    },
+    {
+        "id": "3_SMG_jungleJimAndTheLostSphinx",
+        "language": "Jungle Jim and the Lost Sphinx"
+    },
+    {
+        "id": "3_SMG_jurassicWorld",
+        "language": "Jurassic World"
+    },
+    {
+        "id": "3_SMG_karaokeParty",
+        "language": "Karaoke Party"
+    },
+    {
+        "id": "3_SMG_kathmandu",
+        "language": "Kathmandu"
+    },
+    {
+        "id": "3_SMG_kingTusk",
+        "language": "King Tusk"
+    },
+    {
+        "id": "3_SMG_kingsOfCash",
+        "language": "Kings of Cash"
+    },
+    {
+        "id": "3_SMG_KittyCabana",
+        "language": "Kitty Cabana"
+    },
+    {
+        "id": "3_SMG_ladiesNite",
+        "language": "Ladies Nite"
+    },
+    {
+        "id": "3_SMG_ladiesNite2TurnWild",
+        "language": "Ladies Nite 2 Turn Wild"
+    },
+    {
+        "id": "3_SMG_ladyInRed",
+        "language": "Lady in Red"
+    },
+    {
+        "id": "3_SMG_laraCroftTemplesAndTombs",
+        "language": "Lara Croft - Temples and Tombs"
+    },
+    {
+        "id": "3_SMG_LegendOftheMoonLovers",
+        "language": "Legend of the Moon Lovers"
+    },
+    {
+        "id": "3_SMG_lifeOfRiches",
+        "language": "Life of Riches"
+    },
+    {
+        "id": "3_SMG_lionsPride",
+        "language": "Lion's Pride"
+    },
+    {
+        "id": "3_SMG_liquidGold",
+        "language": "Liquid Gold"
+    },
+    {
+        "id": "3_SMG_loaded",
+        "language": "Loaded"
+    },
+    {
+        "id": "3_SMG_longMuFortunes",
+        "language": "Long Mu Fortunes"
+    },
+    {
+        "id": "3_SMG_lostVegas",
+        "language": "Lost Vegas"
+    },
+    {
+        "id": "3_SMG_luchaLegends",
+        "language": "Lucha Legends"
+    },
+    {
+        "id": "3_SMG_luckyBachelors",
+        "language": "Lucky Bachelors"
+    },
+    {
+        "id": "3_SMG_luckyfirecracker",
+        "language": "Lucky Firecracker"
+    },
+    {
+        "id": "3_SMG_luckyKoi",
+        "language": "Lucky Koi"
+    },
+    {
+        "id": "3_SMG_luckyLeprechaun",
+        "language": "Lucky Leprechaun"
+    },
+    {
+        "id": "3_SMG_luckyLittleGods",
+        "language": "Lucky Little Gods"
+    },
+    {
+        "id": "3_SMG_luckyRichesHyperspins",
+        "language": "Lucky Riches Hyperspins"
+    },
+    {
+        "id": "3_SMG_luckyTwins",
+        "language": "Lucky Twins"
+    },
+    {
+        "id": "3_SMG_luckyTwinsJackpot",
+        "language": "Lucky Twins Jackpot"
+    },
+    {
+        "id": "3_SMG_luckyZodiac",
+        "language": "Lucky Zodiac"
+    },
+    {
+        "id": "3_SMG_madHatters",
+        "language": "Mad Hatters"
+    },
+    {
+        "id": "3_SMG_magicOfSahara",
+        "language": "Magic of Sahara"
+    },
+    {
+        "id": "3_SMG_MajorMillions5Reel",
+        "language": "Major Millions 5 Reel"
+    },
+    {
+        "id": "3_SMG_mayanPrincess",
+        "language": "Mayan Princess"
+    },
+    {
+        "id": "3_SMG_megaMoneyMultiplier",
+        "language": "Mega Money Multiplier"
+    },
+    {
+        "id": "3_SMG_MegaMoolah",
+        "language": "Mega Moolah"
+    },
+    {
+        "id": "3_SMG_mermaidsMillions",
+        "language": "Mermaids Millions"
+    },
+    {
+        "id": "3_SMG_mobyDickOnlineSlot",
+        "language": "Moby Dick Online Slot"
+    },
+    {
+        "id": "3_SMG_monsterWheels",
+        "language": "Monster Wheels"
+    },
+    {
+        "id": "3_SMG_munchkins",
+        "language": "Munchkins"
+    },
+    {
+        "id": "3_SMG_mysticDreams",
+        "language": "Mystic Dreams"
+    },
+    {
+        "id": "3_SMG_oinkCountryLove",
+        "language": "Oink Country Love"
+    },
+    {
+        "id": "3_SMG_ourDaysA",
+        "language": "Our Days"
+    },
+    {
+        "id": "3_SMG_partyIsland",
+        "language": "Party Island"
+    },
+    {
+        "id": "3_SMG_peekABoo5Reel",
+        "language": "Peek-a-Boo - 5 Reel"
+    },
+    {
+        "id": "3_SMG_pingPongStar",
+        "language": "Ping Pong Star"
+    },
+    {
+        "id": "3_SMG_pistoleras",
+        "language": "Pistoleras"
+    },
+    {
+        "id": "3_SMG_playboy",
+        "language": "Playboy"
+    },
+    {
+        "id": "3_SMG_playboyFortunes",
+        "language": "Playboy Fortunes ™"
+    },
+    {
+        "id": "3_SMG_playboyGold",
+        "language": "Playboy Gold"
+    },
+    {
+        "id": "3_SMG_playboyGoldJackpots",
+        "language": "Playboy™ Gold Jackpots"
+    },
+    {
+        "id": "3_SMG_pollenParty",
+        "language": "Pollen Party"
+    },
+    {
+        "id": "3_SMG_prettyKitty",
+        "language": "Pretty Kitty"
+    },
+    {
+        "id": "3_SMG_purePlatinum",
+        "language": "Pure Platinum"
+    },
+    {
+        "id": "3_SMG_queenOfTheCrystalRays",
+        "language": "Queen of Crystal Rays™"
+    },
+    {
+        "id": "3_SMG_rabbitinthehat",
+        "language": "Rabbit in the Hat"
+    },
+    {
+        "id": "3_SMG_reelGems",
+        "language": "Reel Gems"
+    },
+    {
+        "id": "3_SMG_reelSpinner",
+        "language": "Reel Spinner"
+    },
+    {
+        "id": "3_SMG_reelStrike",
+        "language": "Reel Strike"
+    },
+    {
+        "id": "3_SMG_ReelTalent",
+        "language": "Reel Talent"
+    },
+    {
+        "id": "3_SMG_reelThunder",
+        "language": "Reel Thunder"
+    },
+    {
+        "id": "3_SMG_relicSeekers",
+        "language": "Relic Seekers"
+    },
+    {
+        "id": "3_SMG_retroReels",
+        "language": "Retro Reels"
+    },
+    {
+        "id": "3_SMG_retroReelsDiamondGlitz",
+        "language": "Retro Reels - Diamond Glitz"
+    },
+    {
+        "id": "3_SMG_retroReelsExtremeHeat",
+        "language": "Retro Reels - Extreme Heat"
+    },
+    {
+        "id": "3_SMG_rhymingReelsGeorgiePorgie",
+        "language": "Rhyming Reels - Georgie Porgie"
+    },
+    {
+        "id": "3_SMG_rhymingReelsHeartsAndTarts",
+        "language": "Rhyming Reels - Hearts & Tarts"
+    },
+    {
+        "id": "3_SMG_rivieraRiches",
+        "language": "Riviera Riches"
+    },
+    {
+        "id": "3_SMG_robinOfSherwoodOnlineSlot",
+        "language": "Robin of Sherwood Online Slot"
+    },
+    {
+        "id": "3_SMG_romanovRiches",
+        "language": "Romanov Riches"
+    },
+    {
+        "id": "3_SMG_rugbyStar",
+        "language": "Rugby Star"
+    },
+    {
+        "id": "3_SMG_rugbyStarDeluxe",
+        "language": "Rugby Star Deluxe"
+    },
+    {
+        "id": "3_SMG_santaPaws",
+        "language": "Santa Paws"
+    },
+    {
+        "id": "3_SMG_santasWildRide",
+        "language": "Santa's Wild Ride"
+    },
+    {
+        "id": "3_SMG_scrooge",
+        "language": "Scrooge"
+    },
+    {
+        "id": "3_SMG_secretAdmirer",
+        "language": "Secret Admirer"
+    },
+    {
+        "id": "3_SMG_secretRomance",
+        "language": "Secret Romance"
+    },
+    {
+        "id": "3_SMG_shanghaiBeauty",
+        "language": "Shanghai Beauty"
+    },
+    {
+        "id": "3_SMG_sherlockOfLondonOnlineSlot",
+        "language": "Sherlock of London™"
+    },
+    {
+        "id": "3_SMG_shogunofTime",
+        "language": "Shogun of Time"
+    },
+    {
+        "id": "3_SMG_showdownSaloon",
+        "language": "Showdown Saloon"
+    },
+    {
+        "id": "3_SMG_silverFang",
+        "language": "Silver Fang"
+    },
+    {
+        "id": "3_SMG_silverLioness4x",
+        "language": "Silver Lioness4x"
+    },
+    {
+        "id": "3_SMG_sixAcrobats",
+        "language": "Six Acrobats"
+    },
+    {
+        "id": "3_SFB_SnakeLady",
+        "language": "Snake Lady"
+    },
+    {
+        "id": "3_SMG_soManyMonsters",
+        "language": "So Many Monsters"
+    },
+    {
+        "id": "3_SMG_soMuchCandy",
+        "language": "So Much Candy"
+    },
+    {
+        "id": "3_SMG_soMuchSushi",
+        "language": "So Much Sushi"
+    },
+    {
+        "id": "3_SMG_springBreak",
+        "language": "Spring Break"
+    },
+    {
+        "id": "3_SMG_stardust",
+        "language": "StarDust"
+    },
+    {
+        "id": "3_SMG_starlightKiss",
+        "language": "Starlight Kiss"
+    },
+    {
+        "id": "3_SMG_stashOfTheTitans",
+        "language": "Stash of the Titans"
+    },
+    {
+        "id": "3_SMG_sterlingSilver",
+        "language": "Sterling Silver"
+    },
+    {
+        "id": "3_SMG_sugarParade",
+        "language": "Sugar Parade"
+    },
+    {
+        "id": "3_SMG_summerHoliday",
+        "language": "Summer Holiday"
+    },
+    {
+        "id": "3_SMG_summertime",
+        "language": "Summertime"
+    },
+    {
+        "id": "3_SMG_sunQuest",
+        "language": "SunQuest"
+    },
+    {
+        "id": "3_SMG_sunTide",
+        "language": "SunTide"
+    },
+    {
+        "id": "3_SMG_supeItUp",
+        "language": "Supe It Up"
+    },
+    {
+        "id": "3_SMG_sureWin",
+        "language": "Sure Win"
+    },
+    {
+        "id": "3_SMG_tallyHo",
+        "language": "Tally Ho"
+    },
+    {
+        "id": "3_SMG_tarzan",
+        "language": "Tarzan"
+    },
+    {
+        "id": "3_SMG_tastyStreet",
+        "language": "Tasty Street"
+    },
+    {
+        "id": "3_SMG_theFinerReelsOfLife",
+        "language": "The Finer Reels of Life"
+    },
+    {
+        "id": "3_SMG_theGrandJourney",
+        "language": "The Grand Journey"
+    },
+    {
+        "id": "3_SMG_theGreatAlbini",
+        "language": "The Great Albini"
+    },
+    {
+        "id": "3_SMG_theHeatIsOn",
+        "language": "The Heat Is On"
+    },
+    {
+        "id": "3_SMG_thePhantomOfTheOpera",
+        "language": "The Phantom of the Opera"
+    },
+    {
+        "id": "3_SMG_theRatPack",
+        "language": "The Rat Pack"
+    },
+    {
+        "id": "3_SMG_theTwistedCircus",
+        "language": "The Twisted Circus"
+    },
+    {
+        "id": "3_SMG_thunderstruck",
+        "language": "Thunderstruck"
+    },
+    {
+        "id": "3_SMG_thunderstruck2",
+        "language": "Thunderstruck II"
+    },
+    {
+        "id": "3_SMG_tigersEye",
+        "language": "Tiger's Eye"
+    },
+    {
+        "id": "3_SMG_tikiVikings",
+        "language": "Tiki Vikings"
+    },
+    {
+        "id": "3_SMG_titansOfTheSunHyperion",
+        "language": "Titans of the Sun - Hyperion"
+    },
+    {
+        "id": "3_SMG_titansOfTheSunTheia",
+        "language": "Titans of the Sun - Theia"
+    },
+    {
+        "id": "3_SMG_tombRaider",
+        "language": "Tomb Raider"
+    },
+    {
+        "id": "3_SMG_RubyTombRaiderII",
+        "language": "Tomb Raider Secret of the Sword"
+    },
+    {
+        "id": "3_SMG_treasureNile",
+        "language": "Treasure Nile"
+    },
+    {
+        "id": "3_SMG_treasurePalace",
+        "language": "Treasure Palace"
+    },
+    {
+        "id": "3_SMG_treasuresOfLionCity",
+        "language": "Treasures of Lion City"
+    },
+    {
+        "id": "3_SMG_untamedGiantPanda",
+        "language": "Untamed - Giant Panda"
+    },
+    {
+        "id": "3_SMG_villagePeople",
+        "language": "Village People® Macho Moves"
+    },
+    {
+        "id": "3_SMG_vinylCountdown",
+        "language": "Vinyl Countdown"
+    },
+    {
+        "id": "3_SMG_voila",
+        "language": "Voila"
+    },
+    {
+        "id": "3_SFB_VolcanoJourney",
+        "language": "Volcano Journey"
+    },
+    {
+        "id": "3_SMG_wackyPanda",
+        "language": "Wacky Panda"
+    },
+    {
+        "id": "3_SMG_whatAHoot",
+        "language": "What A Hoot"
+    },
+    {
+        "id": "3_SMG_wheelofWishes",
+        "language": "Wheel of Wishes"
+    },
+    {
+        "id": "3_SMG_wickedTalesDarkRed",
+        "language": "Wicked Tales: Dark Red"
+    },
+    {
+        "id": "3_SMG_wildCatchNew",
+        "language": "Wild Catch (New)"
+    },
+    {
+        "id": "3_SMG_wildOrient",
+        "language": "Wild Orient"
+    },
+    {
+        "id": "3_SMG_wildScarabs",
+        "language": "Wild Scarabs"
+    },
+    {
+        "id": "3_SMG_winSumDimSum",
+        "language": "Win Sum Dim Sum"
+    },
+    {
+        "id": "3_SMG_zombieHoard",
+        "language": "Zombie Hoard"
+    },
+    {
+        "id": "3_SVS_Instant_Football",
+        "language": "Instant Football"
+    },
+    {
+        "id": "3_SVS_instant_greyhounds",
+        "language": "Instant Greyhounds"
+    },
+    {
+        "id": "3_SVS_instant_horses",
+        "language": "Instant Horses"
+    },
+    {
+        "id": "3_SVS_instant_racing",
+        "language": "Instant Racing (Lobby)"
+    },
+    {
+        "id": "3_SVS_instant_speedway",
+        "language": "Instant Speedway"
+    },
+    {
+        "id": "3_SVS_instant_trotting",
+        "language": "Instant Trotting"
+    },
+    {
+        "id": "3_SVS_instant_velodrome",
+        "language": "Instant Velodrome"
+    },
+    {
+        "id": "3_SVS_virtual_football",
+        "language": "Virtual Football"
+    },
+    {
+        "id": "3_SVS_virtual_greyhounds",
+        "language": "Virtual Greyhounds"
+    },
+    {
+        "id": "3_SVS_virtual_horses",
+        "language": "Virtual Horses"
+    },
+    {
+        "id": "3_SVS_virtual_racing",
+        "language": "Virtual Racing (Lobby)"
+    },
+    {
+        "id": "3_SVS_virtual_speedway",
+        "language": "Virtual Speedway"
+    },
+    {
+        "id": "3_SVS_virtual_tennis",
+        "language": "Virtual Tennis"
+    },
+    {
+        "id": "3_SVS_virtual_trotting",
+        "language": "Virtual Trotting"
+    },
+    {
+        "id": "3_SVS_virtual_velodrome",
+        "language": "Virtual Velodrome"
+    },
+    {
+        "id": 299,
+        "language": "Give away"
+    },
+    {
+        "id": 300,
+        "language": "The current version is too low, please go to download the latest installation package."
+    }，
+	{
+		"id": 301,
+		"language": "Flat"
+	}
+]

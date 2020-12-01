@@ -1,0 +1,395 @@
+package tutorial;
+option java_package = "DEZHOUPUKEGameServer.protoBuf" ;
+option java_outer_classname = "GameMsg" ;
+
+//向游戏房间服务器获得连接token
+message Req10001{
+  required string userId = 1 ;               //申请的配置用户id
+  required int32 time=2;                     //时间戳
+  required int32 groupInt=3;                 //1 新手场 2中级场 3大师场 4vip场
+  required string ip=5;                      //用户ip
+  required string sign=4;                    //sign值
+  required int64 integral=6;                //积分
+  required int64 moneyInt=7;                //钱
+  required string GServerUrl=8;             //平台的连接地址
+  required string GServerPort=9;            //平台的连接端口
+  required string sessionId=10;             //用户在平台上
+  required string roleName=11;              //用户昵称
+  required string expInt=12;                //用户经验值
+  required string sex=13;                   //用户性别
+  required string heardImgUrl=14;           //用户头像
+  required string gradeInt=15;              //用户等级
+  optional int32 modelId=16;                //模型id
+  optional string bufInfo=17;               //新手buff系数 0~100 越高新手buff越强
+  optional int32 showIntegralProportion=18; //缩水比例
+  optional int32 costIntegral=19;           //台费
+  optional int64 minimumIntegral=20;        //最低入场限制
+  optional int32 sendEmoticonAllSum=21;     //发送表情最大个数
+  optional string groupTitle=22;             //场次标题
+  optional int32 homeBasicMultiple=23;      //该场基数
+  optional string varcharData=24;           //灵活字段
+  optional string channelData=25;           //通道信息，让逻辑服务器原样放回
+  optional string gameSelectInfo=26;        //选择游戏信息
+}
+message Res10001{
+	required int32 state = 1 ;               //返回状态  0 正确，1错误
+	optional string emsg =2;                 //返回状态失败是，告诉的提示
+	optional string token=3;                 //获得的token
+}
+
+
+//告知托管服务器运行情况
+message Req10002{
+    required string serverUrl = 1 ;              //连接自己服务器地址
+    required int32 serverPort = 2 ;              //自己监听端口号
+    required string sign = 3 ;                   //sign值
+    required int32 time = 4 ;                    //时间戳
+}
+message Res10002{
+    required int32 state = 1 ;                   //返回状态  0 正确，1错误
+}
+//告诉游戏平台游戏结算
+message Req10003{
+  required string gameUnid=1;                  //游戏唯一id
+  required int32  CTime=2;                     //时间戳
+  required string userId=3;                    //用户id
+  required int64 integral=4;                   //用户积分
+  required int64 moneyInt=5;                   //用户钱
+  required string sign=6;                      //sign
+  required string sessionId=7;                  //用户连接对象通道唯一编号
+  required int64 changeIntegral=8;             //改变积分 
+  required int32 homeclassInt=9;               //房间类型
+  required int32 faceChangeInt=10;             //发表情扣钱 一把都是0或负值
+  required int32 addExpInt=11;                 //增加经验值
+  optional string bufInfo=12;                  //新手buff系数  总运行时间,已经运行时间,0~100 越高新手buff越强(单位:秒)
+  optional string varcharData=13;              //灵活字段
+  optional int32 addVoucherInt=14;             //增加奖劵数量
+  optional int32 normalNextState=15;           //是否值正常退出 0正常退出 1 非正常退出
+  optional int64 changeMoneyInt=16;            //钻石改变情况
+  optional string channelData=17;             //通道信息，让逻辑服务器原样放回
+  optional int32 costIntegral=18;              //台费
+  optional string DATAUNID=19;                 //结算消息唯一码
+}
+message Res10003{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+}
+
+//用户接收游戏服务器告诉玩家进入房间
+message Req10004{
+  required string gameUnid=1;                  //游戏唯一id
+  required int32  CTime=2;                     //时间戳
+  required string userId=3;                    //用户id
+  required string homeUnid=4;                   //房间唯一编号
+  required int32 seatInt=5;                   //座位号
+  required string sign=6;                      //sign
+  required string gameServerUrl=7;             //游戏服务器的地址
+  required string gameServerPort=8;            //游戏服务器端口
+  required string sessionId=9;                 //在平台上唯一编号
+  required int32 serviceChargeIntegral=10;     //台费
+  required int32 gameClassInt=11;              //倍场
+  optional string varcharData=12;              //灵活字段
+  optional string DATAUNID=13;                 //结算消息唯一码
+}
+message Res10004{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+}
+//用户断线重新
+
+message Req10005{
+  required string gameUnid=1;                  //游戏唯一id
+  required int32  CTime=2;                     //时间戳
+  required string userId=3;                    //用户id
+  required string homeUnid=4;                   //房间唯一编号
+  required int32 seatInt=5;                   //座位号
+  required string sign=6;                      //sign
+  required string contentIp=7;                 //用户端的ip号
+  required string GServerUrl=8;                //平台地址
+  required string GServerPort=9;               //平台端口
+  required string sessionUnid=10;              //客户端在平台的session key
+  required string roleName=11;              //用户昵称
+  required string expInt=12;                //用户经验值
+  required string sex=13;                   //用户性别
+  required string heardImgUrl=14;           //用户头像
+  required string gradeInt=15;              //用户等级
+}
+message Res10005{
+  required int32 state = 1 ;                  //返回状态  0 正确，1错误
+  optional string emsg =2;                   //返回状态失败是，告诉的提示
+  optional string token=3;                    //成功时候返回token值
+}
+
+
+//告知托管服务器运行情况
+message Req11001{
+    required int32 serverPort = 1 ;              //自己监听端口号
+    required string sign = 2 ;                   //sign值
+    required int32 time = 3 ;                    //时间戳
+    required string gameIndex=4;                 //游戏指针
+    required string serverIndex=5;               //服务器唯一编号
+}
+message Res11001{
+    required int32 state = 1 ;                   //返回状态  0 正确，1错误
+}
+//具体数据
+message Req11002{
+    required int64 values = 1 ;                  //分值
+    required string userId=2;                    //用户id
+    required string varcharStr=3;                //变量数据
+}
+
+
+//用户来连接
+message Req8401{
+    required string token=1;                 //获得的token
+}
+
+message UserInfo{
+	required string userId =1;             //用户id
+	required int64 moneyInt=2;             //钱数量
+	required int64 integral=3;             //金币
+	required string roleName=4;            //用户昵称
+    required int32 seatInt=5;              //用户用户座位号
+    required int32 sexInt=6;               //性别 1男 1女
+    required string gradeInt=7;             //等级
+}
+message ResUserListData{
+    optional string userId =1;                //用户id
+    optional string heardImg=2;               //头像
+    optional int64 integral=3;                //金币
+    optional string roleName=4;               //用户昵称
+    optional int32 seatInt=5;                 //座位号
+    optional int32 isGameDoingState=6;        //游戏状态 0准备进入下一局  1正在本局游戏中  2 在本局游戏中，但是已经丢牌 3休 4跟 5大 6敲
+    optional int64 outPressureBufferInt=7;    //已经压注区的金币
+    optional bool isLookCardArray=8;          //是否看牌   ture 看了  false 没有看
+    repeated int64 cardArray=9;               //手上的牌   -2是背面
+    optional int32 isBanker=10;                //是不是庄家  1是  0不是
+    optional int32 sexInt=11;                  //性别 1男 1女
+    optional bool isHasUser=12; //是否有人,不在座位上不处理
+    required string dzStr=13;                 //字符串  使用*分割
+}
+message AskInfo{
+    optional string askSeatStr=1;            //发给那个座位
+    optional string askUserId=2;             //寻问id
+    optional int32 waitingTime=3;            //操作时间
+    optional int64 nowAskPressInt=4;         //询问时，现在场上最大下注值。
+    optional string doing=5;                 //可以操作信息 一共5位  第1位 丢 第2位 丢/休  第3位 休  第4 跟  第5 加注  （0不可以 1可以） 
+}
+message Res8401{
+    required int32 state = 1 ;               //返回状态  0 正确，1错误
+    optional string emsg =2;                 //返回状态失败是，告诉的提示
+    optional UserInfo data =3;                //返回该用户信息
+    optional int32 homeExEState=4;           //房间运行状态     //1 等待新一局开始  3 压注阶段 
+    optional int32 serverTime=5;             //服务器校队时间 时间戳
+    optional int32 nowExeTime=6;             //服务器已经运行的时间点位
+    optional int32 thisStateAllTime=7;       //该位置总点位（总时间）
+    repeated int32 allowPressClass=8;          //压注等级
+    optional int32 allowSeatSum=9;             //房间最大座位数
+    repeated ResUserListData UserIdData =10;   //返回该用户信息    包括自己
+    optional int64 outPressureBufferInt=11;     //房间总压注
+    optional int64 baskPressureInt=12;          //基本压注
+    optional int64 nowPressureInt=13;           //当前已经加注到了那里
+    optional int32 nowSurplusTime=14;           //当前阶段剩余时间
+    optional AskInfo askInfo=15;               //正在询问的信息
+    optional int32 setupWaitingTime=16;        //总的等待时间
+}
+//新一句开始等待开始
+message Res8402{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional int32 waitingTime=3;            //等待时间
+}
+//广播发牌，打底
+message Res8403{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional int32 bankerSeat=3;             //庄家位置
+  optional string bankerUserId=4;          //庄家id
+  optional int64 allTotalInt=5;            //总的押注值
+  repeated string exeSortList=6;           //发牌动画的顺序位置
+  repeated ResData cardData=7;             //每一个人的牌
+  message ResData{
+    optional int32 seatStr=1;            //发给那个座位
+    optional string userId=2;            //id 
+    optional int64 integral=3;           //金币
+    optional int64 outPressInt=4;        //压注钱
+  }
+}
+//私发每一个人的信息
+message Res8404{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  repeated string exeSortList=3;           //发牌动画的顺序位置
+  optional string askSeatStr=4;            //发给那个座位
+  optional string askUserId=5;             //寻问id
+  optional int32 licensingInt=6;           //发牌的轮数   0 是第一次补牌   1第二次补牌
+  repeated int32 cardData=7;               //牌信息 0-6  11-16  22-26  32-26  44-46  55-56 66 牌的编号，个位数的点子数
+  optional CardArrayInfo cardArrayInfo=8;  //开牌信息
+}
+message CardArrayInfo{
+  required int32 dz=1;                     //牌点子数 
+  required string dzStr=2;                 //字符串  使用*分割
+  repeated int32 cardData=3;               //注意已经排序了
+}
+
+//看牌请求
+//message Req8404{}
+//message Res8404{
+//  required int32 state = 1 ;               //返回状态  0 正确，1错误
+//  optional string emsg =2;                 //返回状态失败是，告诉的提示
+//  repeated int32 cardData=3;              //牌信息
+//}
+
+//广播寻问信息
+message Res8405{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional string askSeatStr=3;            //发给那个座位
+  optional string askUserId=4;             //寻问id
+  optional int32 waitingTime=5;            //操作时间
+  optional int64 nowAskPressInt=6;         //询问时，现在场上最大下注值。
+  optional bool isClieckCardArray=7;         //是否已经看了牌   ture 看了  false没有看
+  optional bool isAllPresss=8;             //是否可以全部下注
+  optional string doing=9;                  //可以操作信息 一共5位  第1位 丢 第2位 丢/休  第3位 休  第4 跟  第5 加注  （0不可以 1可以） 
+}
+//玩家压注请求 
+message Req8406{
+  required int64 addInt=1;                   //  -3跟注  -2休  -1 是丢牌   0全部  >0 增加值本身金币百分比
+}
+message Res8406{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional int64  allPressureValues=3;     //该位置总压注
+  optional int64  bufferIntegral=4;        //本次压注值
+  optional int64  classAllPressureValues=6; //该房间总的压注值
+}
+//广播玩家的操作信息
+message Res8407{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional string fromSeatInt=3;            //来自那个位置
+  optional string fromUserId=4;            //来自那个id   
+  optional int64 allPressureValues=5;     //该位置总压注
+  optional int64 changeIntegral=6;        //本次压注值
+  optional int64 nowIntegral=7;
+  optional int64 classAllPressureValues=8; //该房间总的压注值
+  optional int32 doing=9;                  //动作标号-2休  -1 丢牌  0看  1跟 2加注 3敲  4全下注
+}
+
+//广播敲消息
+message Res8408{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional string fromSeatInt=3;            //来自那个位置
+  optional string fromUserId=4;            //来自那个id 
+  optional string compareSeatInt=5;        //被敲的位置
+  optional string compareUserId=6;         //被敲的id
+  optional string winSeatInt=7;            //赢的位置
+  optional string winSeatUserId=8;         
+}
+
+//广播发牌动画
+message Res8409{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional int32 msgState =3;              // 0 是第一次补牌   1第二次补牌
+  repeated string exeSortList=4;           //发牌动画的顺序位置
+}
+
+
+//广播所有人的亮牌信息
+message Res8410{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  repeated showUserCard allShowUserCard=3; //所有人亮牌信息
+}
+//上下坐请求
+message Req8411{
+  optional string selectSeatInt=1;          //上座时候，选择位置信息
+}
+message Res8411{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional string successSeatInt=3;        //上座时候，选择位置信息
+  repeated ResUserListData UserIdData =4;   //返回该用户信息    包括自己
+  optional int32 homeExEState=5;           //房间运行状态     //1 等待新一局开始  3 压注阶段
+  optional AskInfo askInfo=6;               //正在询问的信息
+}
+//广播结算信息
+message Res8413{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  repeated showUserCard allShowUserCard=3; //所有人亮牌信息
+}
+//每一个人的解算信息
+message showUserCard {
+  optional string toSeatInt=3;             //发送给那个位置。
+  optional string toUserid=4;              //来自那个id
+  optional int64 changeIntegral =5;        //变化值
+  optional int64 nowIntegral=6;            //现在有的钱
+  optional CardArrayInfo cardArrayInfo=7;  //开牌信息
+}
+
+
+
+//退出请求
+message Req8414{}
+message Res8414{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+}
+
+
+
+//广播新人入座信息
+message Res8415{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional ResUserListData data=3;
+  message ResUserListData{
+    required string userId =1;                //用户id
+    required string heardImg=2;               //头像
+    required int64 integral=3;                //金币
+    required string roleName=4;               //用户昵称
+    required int32 seatInt=5;                 //座位号
+    optional int32 isGameDoingState=6;        //游戏状态 0准备进入下一局  1正在本局游戏中  2 在本局游戏中，但是已经丢牌 3休 4跟 5大 6敲
+    optional int64 outPressureBufferInt=7;    //已经压注区的金币
+    optional bool isLookCardArray=8;          //是否看牌   ture 看了  false 没有看
+    repeated int64 cardArray=9;               //手上的牌   -2是背面
+    optional int32 isBanker=10;                //是不是庄家  1是  0不是
+    required int32 sexInt=11;               //性别 1男 1女
+  }
+}
+//广播离开信息
+message Res8416{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional int32 seatInt=3;                //离开信息
+  optional string userId=4;                //id
+}
+//获取水位
+message Req9995{
+  required string ctime =1;   //时间
+  required string sign = 2;  //服务器签名
+  optional int32 doingInt=3;    //动作类型  1修改水位   2 活动设置
+ }
+ message Res9995{
+    required int32 state = 1;//服务器返回状态
+    optional string emsg =2; //失败提示
+    optional int32 doingInt=4;    //动作类型  1修改水位   2 活动设置
+    optional Res9995Data data=3;
+    message Res9995Data{
+      required string allWalter =1;//全部倍场的水位 ，分割
+    }
+ }
+//修改水位
+message Req9996{
+  required string ctime = 1;//时间
+  required string sign =2;//签名
+  required string updateWalter =3;//修改后的水池 "22,22,22"  
+  optional int32 doingInt=4;    //动作类型  1修改水位   2 活动设置
+}
+message Res9996{
+  required int32 state = 1;//服务器状态
+  optional string emsg =2;//失败提示
+  optional int32 doingInt=3;    //动作类型  1修改水位   2 活动设置
+}

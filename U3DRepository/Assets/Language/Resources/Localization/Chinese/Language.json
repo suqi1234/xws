@@ -1,0 +1,3478 @@
+[
+    {
+        "id": 1,
+        "language": "登录"
+    },
+    {
+        "id": 2,
+        "language": "登入"
+    },
+    {
+        "id": 3,
+        "language": "用户名"
+    },
+    {
+        "id": 4,
+        "language": "请输入您的用户名或电子邮件"
+    },
+    {
+        "id": 5,
+        "language": "手机号码"
+    },
+    {
+        "id": 6,
+        "language": "输入手机号码"
+    },
+    {
+        "id": 7,
+        "language": "密码"
+    },
+    {
+        "id": 8,
+        "language": "输入密码"
+    },
+    {
+        "id": 9,
+        "language": "记住密码"
+    },
+    {
+        "id": 10,
+        "language": "忘记密码"
+    },
+    {
+        "id": 11,
+        "language": "登入"
+    },
+    {
+        "id": 12,
+        "language": "请输入账号或邮箱"
+    },
+    {
+        "id": 13,
+        "language": "请输入手机号"
+    },
+    {
+        "id": 14,
+        "language": "请输入密码"
+    },
+    {
+        "id": 15,
+        "language": "账号错误或者密码错误"
+    },
+    {
+        "id": 16,
+        "language": "登录中，不能在登录"
+    },
+    {
+        "id": 17,
+        "language": "其他方式"
+    },
+    {
+        "id": 18,
+        "language": "注册"
+    },
+    {
+        "id": 19,
+        "language": "自定义方式注册"
+    },
+    {
+        "id": 20,
+        "language": "账号"
+    },
+    {
+        "id": 21,
+        "language": "请输入您的账号"
+    },
+    {
+        "id": 22,
+        "language": "电子邮件注册"
+    },
+    {
+        "id": 23,
+        "language": "电子邮件账户"
+    },
+    {
+        "id": 24,
+        "language": "电子邮件信息传输"
+    },
+    {
+        "id": 25,
+        "language": "手机号码注册"
+    },
+    {
+        "id": 26,
+        "language": "手机号码"
+    },
+    {
+        "id": 27,
+        "language": "输入手机号码"
+    },
+    {
+        "id": 28,
+        "language": "密码"
+    },
+    {
+        "id": 29,
+        "language": "确认密码"
+    },
+    {
+        "id": 30,
+        "language": "输入6-12位密码"
+    },
+    {
+        "id": 31,
+        "language": "验证码"
+    },
+    {
+        "id": 32,
+        "language": "请输入手机验证码"
+    },
+    {
+        "id": 33,
+        "language": "获取"
+    },
+    {
+        "id": 34,
+        "language": "图形验证码"
+    },
+    {
+        "id": 35,
+        "language": "请输入验证码"
+    },
+    {
+        "id": 36,
+        "language": "我已阅读并同意了《隐私协议和客户服务》"
+    },
+    {
+        "id": 37,
+        "language": "注册"
+    },
+    {
+        "id": 38,
+        "language": "请输入账号"
+    },
+    {
+        "id": 39,
+        "language": "用户名错误"
+    },
+    {
+        "id": 40,
+        "language": "请输入邮箱"
+    },
+    {
+        "id": 41,
+        "language": "请输入正确的邮箱格式"
+    },
+    {
+        "id": 42,
+        "language": "请输入手机号码"
+    },
+    {
+        "id": 43,
+        "language": "请输入密码"
+    },
+    {
+        "id": 44,
+        "language": "密码不一致"
+    },
+    {
+        "id": 45,
+        "language": "请输入验证码"
+    },
+    {
+        "id": 46,
+        "language": "验证码错误"
+    },
+    {
+        "id": 47,
+        "language": "输入前xx秒"
+    },
+    {
+        "id": 48,
+        "language": "需要同意用户协议"
+    },
+    {
+        "id": 49,
+        "language": "注册成功"
+    },
+    {
+        "id": 50,
+        "language": "该用户已存在"
+    },
+    {
+        "id": 51,
+        "language": "存款"
+    },
+    {
+        "id": 52,
+        "language": "请参阅步骤指南"
+    },
+    {
+        "id": 53,
+        "language": "存款记录"
+    },
+    {
+        "id": 54,
+        "language": "选择存款方式"
+    },
+    {
+        "id": 55,
+        "language": "银行转账"
+    },
+    {
+        "id": 56,
+        "language": "存款"
+    },
+    {
+        "id": 57,
+        "language": "银行转账"
+    },
+    {
+        "id": 58,
+        "language": "HSBC"
+    },
+    {
+        "id": 59,
+        "language": "发件人信息"
+    },
+    {
+        "id": 60,
+        "language": "账号"
+    },
+    {
+        "id": 61,
+        "language": "请输入账号"
+    },
+    {
+        "id": 62,
+        "language": "名字"
+    },
+    {
+        "id": 63,
+        "language": "请输入名字"
+    },
+    {
+        "id": 64,
+        "language": "接收信息"
+    },
+    {
+        "id": 65,
+        "language": "银行"
+    },
+    {
+        "id": 66,
+        "language": "姓名"
+    },
+    {
+        "id": 67,
+        "language": "账号"
+    },
+    {
+        "id": 68,
+        "language": "复制"
+    },
+    {
+        "id": 69,
+        "language": "存款数量"
+    },
+    {
+        "id": 70,
+        "language": "请输入金额"
+    },
+    {
+        "id": 71,
+        "language": "发送"
+    },
+    {
+        "id": 72,
+        "language": "银行卡号不能为空"
+    },
+    {
+        "id": 73,
+        "language": "用户名不能为空"
+    },
+    {
+        "id": 74,
+        "language": "金额不能为空"
+    },
+    {
+        "id": 75,
+        "language": "转账成功"
+    },
+    {
+        "id": 76,
+        "language": "累计提交超过待审核订单"
+    },
+    {
+        "id": 77,
+        "language": "存款"
+    },
+    {
+        "id": 78,
+        "language": "日期"
+    },
+    {
+        "id": 79,
+        "language": "存款类型"
+    },
+    {
+        "id": 80,
+        "language": "成功"
+    },
+    {
+        "id": 81,
+        "language": "失败"
+    },
+    {
+        "id": 82,
+        "language": "未审核"
+    },
+    {
+        "id": 83,
+        "language": "细节"
+    },
+    {
+        "id": 84,
+        "language": "存款类型"
+    },
+    {
+        "id": 85,
+        "language": "编号"
+    },
+    {
+        "id": 86,
+        "language": "日期"
+    },
+    {
+        "id": 87,
+        "language": "状态"
+    },
+    {
+        "id": 88,
+        "language": "备注"
+    },
+    {
+        "id": 89,
+        "language": "取款"
+    },
+    {
+        "id": 90,
+        "language": "取款"
+    },
+    {
+        "id": 91,
+        "language": "暂无银行卡，请添加"
+    },
+    {
+        "id": 92,
+        "language": "添加银行账户"
+    },
+    {
+        "id": 93,
+        "language": "请先绑定银行卡"
+    },
+    {
+        "id": 94,
+        "language": "银行细节"
+    },
+    {
+        "id": 95,
+        "language": "银行"
+    },
+    {
+        "id": 96,
+        "language": "账户名称"
+    },
+    {
+        "id": 97,
+        "language": "输入您的用户名或电子邮件"
+    },
+    {
+        "id": 98,
+        "language": "账号"
+    },
+    {
+        "id": 99,
+        "language": "请输入您的账号"
+    },
+    {
+        "id": 100,
+        "language": "重置"
+    },
+    {
+        "id": 101,
+        "language": "完成"
+    },
+    {
+        "id": 102,
+        "language": "名称不能为空"
+    },
+    {
+        "id": 103,
+        "language": "帐号不能为空"
+    },
+    {
+        "id": 104,
+        "language": "增加成功"
+    },
+    {
+        "id": 105,
+        "language": "添加提款密码"
+    },
+    {
+        "id": 106,
+        "language": "输入密码设置"
+    },
+    {
+        "id": 107,
+        "language": "密码"
+    },
+    {
+        "id": 108,
+        "language": "输入4-8位提款密码"
+    },
+    {
+        "id": 109,
+        "language": "输入4-8位提款密码"
+    },
+    {
+        "id": 110,
+        "language": "热门"
+    },
+    {
+        "id": 111,
+        "language": "付款方式已确认"
+    },
+    {
+        "id": 112,
+        "language": "提款银行"
+    },
+    {
+        "id": 113,
+        "language": "名称"
+    },
+    {
+        "id": 114,
+        "language": "账号"
+    },
+    {
+        "id": 115,
+        "language": "数量"
+    },
+    {
+        "id": 116,
+        "language": "请输入数量"
+    },
+    {
+        "id": 117,
+        "language": "全部"
+    },
+    {
+        "id": 118,
+        "language": "取款密码"
+    },
+    {
+        "id": 119,
+        "language": "输入4-8位提款密码"
+    },
+    {
+        "id": 120,
+        "language": "确认取款"
+    },
+    {
+        "id": 121,
+        "language": "请先设置取款密码"
+    },
+    {
+        "id": 122,
+        "language": "请输入提款金额"
+    },
+    {
+        "id": 123,
+        "language": "请输入取款密码"
+    },
+    {
+        "id": 124,
+        "language": "支付密码验证错误"
+    },
+    {
+        "id": 125,
+        "language": "取款数量错误"
+    },
+    {
+        "id": 126,
+        "language": "余额不足"
+    },
+    {
+        "id": 127,
+        "language": "提款成功"
+    },
+    {
+        "id": 128,
+        "language": "取款记录"
+    },
+    {
+        "id": 129,
+        "language": "日期"
+    },
+    {
+        "id": 130,
+        "language": "此功能暂未开放，敬请期待！"
+    },
+    {
+        "id": 131,
+        "language": "存款类型"
+    },
+    {
+        "id": 132,
+        "language": "编号"
+    },
+    {
+        "id": 133,
+        "language": "日期"
+    },
+    {
+        "id": 134,
+        "language": "状态"
+    },
+    {
+        "id": 135,
+        "language": "备注"
+    },
+    {
+        "id": 136,
+        "language": "账户安全"
+    },
+    {
+        "id": 137,
+        "language": "帮助中心"
+    },
+    {
+        "id": 138,
+        "language": "朋友"
+    },
+    {
+        "id": 139,
+        "language": "关于我们"
+    },
+    {
+        "id": 140,
+        "language": "语言"
+    },
+    {
+        "id": 141,
+        "language": "语言"
+    },
+    {
+        "id": 142,
+        "language": "确认"
+    },
+    {
+        "id": 143,
+        "language": "退出"
+    },
+    {
+        "id": 144,
+        "language": "登入"
+    },
+    {
+        "id": 145,
+        "language": "简介"
+    },
+    {
+        "id": 146,
+        "language": "投注记录"
+    },
+    {
+        "id": 147,
+        "language": "交易记录"
+    },
+    {
+        "id": 148,
+        "language": "排名"
+    },
+    {
+        "id": 149,
+        "language": "比赛奖金"
+    },
+    {
+        "id": 150,
+        "language": "玩家ID"
+    },
+    {
+        "id": 151,
+        "language": "日期"
+    },
+    {
+        "id": 152,
+        "language": "平台"
+    },
+    {
+        "id": 153,
+        "language": "类型"
+    },
+    {
+        "id": 154,
+        "language": "提示"
+    },
+    {
+        "id": 155,
+        "language": "游戏类型"
+    },
+    {
+        "id": 156,
+        "language": "订单号"
+    },
+    {
+        "id": 157,
+        "language": "操作类型"
+    },
+    {
+        "id": 158,
+        "language": "投注金额"
+    },
+    {
+        "id": 159,
+        "language": "盈亏"
+    },
+    {
+        "id": 160,
+        "language": "输赢"
+    },
+    {
+        "id": 161,
+        "language": "暂无数据"
+    },
+    {
+        "id": 162,
+        "language": "类型"
+    },
+    {
+        "id": 163,
+        "language": "通过发送"
+    },
+    {
+        "id": 164,
+        "language": "通过"
+    },
+    {
+        "id": 165,
+        "language": "通过电子邮件发送"
+    },
+    {
+        "id": 166,
+        "language": "邮件地址"
+    },
+    {
+        "id": 167,
+        "language": "输入邮件"
+    },
+    {
+        "id": 168,
+        "language": "发送"
+    },
+    {
+        "id": 169,
+        "language": "条款和条件："
+    },
+    {
+        "id": 170,
+        "language": "修改默认状态成功"
+    },
+    {
+        "id": 171,
+        "language": "编号"
+    },
+    {
+        "id": 172,
+        "language": "变化前金额"
+    },
+    {
+        "id": 173,
+        "language": "变化值"
+    },
+    {
+        "id": 174,
+        "language": "变化后余额"
+    },
+    {
+        "id": 175,
+        "language": "收件箱"
+    },
+    {
+        "id": 176,
+        "language": "邀请函"
+    },
+    {
+        "id": 177,
+        "language": "公告"
+    },
+    {
+        "id": 178,
+        "language": "删除"
+    },
+    {
+        "id": 179,
+        "language": "晋升"
+    },
+    {
+        "id": 180,
+        "language": "比赛"
+    },
+    {
+        "id": 181,
+        "language": "我的申请"
+    },
+    {
+        "id": 182,
+        "language": "应用程序"
+    },
+    {
+        "id": 183,
+        "language": "日期"
+    },
+    {
+        "id": 184,
+        "language": "活动"
+    },
+    {
+        "id": 185,
+        "language": "情况"
+    },
+    {
+        "id": 186,
+        "language": "会员细节"
+    },
+    {
+        "id": 187,
+        "language": "青铜"
+    },
+    {
+        "id": 188,
+        "language": "白银"
+    },
+    {
+        "id": 189,
+        "language": "黄金"
+    },
+    {
+        "id": 190,
+        "language": "铂金"
+    },
+    {
+        "id": 191,
+        "language": "钻石"
+    },
+    {
+        "id": 192,
+        "language": "贵族"
+    },
+    {
+        "id": 193,
+        "language": "升级条件"
+    },
+    {
+        "id": 194,
+        "language": "存款"
+    },
+    {
+        "id": 195,
+        "language": "奖励"
+    },
+    {
+        "id": 196,
+        "language": "晋升奖金"
+    },
+    {
+        "id": 197,
+        "language": "每周的礼物"
+    },
+    {
+        "id": 198,
+        "language": "每月的礼物"
+    },
+    {
+        "id": 199,
+        "language": "生日礼物"
+    },
+    {
+        "id": 200,
+        "language": "存款折扣"
+    },
+    {
+        "id": 201,
+        "language": "折扣"
+    },
+    {
+        "id": 202,
+        "language": "体育"
+    },
+    {
+        "id": 203,
+        "language": "扑克"
+    },
+    {
+        "id": 204,
+        "language": "俱乐部"
+    },
+    {
+        "id": 205,
+        "language": "老虎机"
+    },
+    {
+        "id": 206,
+        "language": "捕鱼"
+    },
+    {
+        "id": 207,
+        "language": "支持服务"
+    },
+    {
+        "id": 208,
+        "language": "优先存款"
+    },
+    {
+        "id": 209,
+        "language": "提款优先"
+    },
+    {
+        "id": 210,
+        "language": "客户服务24/ 7"
+    },
+    {
+        "id": 211,
+        "language": "特殊帐户管理器"
+    },
+    {
+        "id": 212,
+        "language": "无限提款"
+    },
+    {
+        "id": 213,
+        "language": "账户安全"
+    },
+    {
+        "id": 214,
+        "language": "登录密码"
+    },
+    {
+        "id": 215,
+        "language": "取款密码"
+    },
+    {
+        "id": 216,
+        "language": "银行细节"
+    },
+    {
+        "id": 217,
+        "language": "当前密码"
+    },
+    {
+        "id": 218,
+        "language": "新密码"
+    },
+    {
+        "id": 219,
+        "language": "密码确认"
+    },
+    {
+        "id": 220,
+        "language": "请输入6-12位密码"
+    },
+    {
+        "id": 221,
+        "language": "全部"
+    },
+    {
+        "id": 222,
+        "language": "请输入旧密码"
+    },
+    {
+        "id": 223,
+        "language": "老密码错误"
+    },
+    {
+        "id": 224,
+        "language": "两次密码不一致"
+    },
+    {
+        "id": 225,
+        "language": "新旧密码一致"
+    },
+    {
+        "id": 226,
+        "language": "修改密码成功"
+    },
+    {
+        "id": 227,
+        "language": "输入密码设置"
+    },
+    {
+        "id": 228,
+        "language": "当前密码"
+    },
+    {
+        "id": 229,
+        "language": "新密码"
+    },
+    {
+        "id": 230,
+        "language": "输入4-8位取款密码"
+    },
+    {
+        "id": 231,
+        "language": "优先"
+    },
+    {
+        "id": 232,
+        "language": "老密码错误"
+    },
+    {
+        "id": 233,
+        "language": "设置支付密码成功"
+    },
+    {
+        "id": 234,
+        "language": "您尚未关联银行卡"
+    },
+    {
+        "id": 235,
+        "language": "注册渠道已关闭"
+    },
+    {
+        "id": 236,
+        "language": "修改"
+    },
+    {
+        "id": 237,
+        "language": "删除"
+    },
+    {
+        "id": 238,
+        "language": "选择银行卡成功"
+    },
+    {
+        "id": 239,
+        "language": "支付渠道关闭"
+    },
+    {
+        "id": 240,
+        "language": "没有相关数据"
+    },
+    {
+        "id": 241,
+        "language": "会员"
+    },
+    {
+        "id": 242,
+        "language": "1.所有8BET会员都有机会成为VIP会员。"
+    },
+    {
+        "id": 243,
+        "language": "您已经设置了取款密码。 如果要更改，请联系客户服务。"
+    },
+    {
+        "id": 244,
+        "language": "联系客户服务"
+    },
+    {
+        "id": 245,
+        "language": "2.成功获得资格的会员将自动成为VIP会员，并有权获得更大的每周和每月佣金。"
+    },
+    {
+        "id": 246,
+        "language": "3.立即提高您的VIP等级，并享受超过8BET的促销活动。"
+    },
+    {
+        "id": 247,
+        "language": "4.8BET保留自行决定更改，取消，拒绝或收回任何促销的权利。"
+    },
+    {
+        "id": 248,
+        "language": "5.会员的VIP身份无法转移到另一个帐户。"
+    },
+    {
+        "id": 249,
+        "language": "6.8BET的决定是绝对的和不可侵犯的。"
+    },
+    {
+        "id": 250,
+        "language": "7.每个成员必须遵守适用的条款和条件。"
+    },
+    {
+        "id": 251,
+        "language": "8.如有更多查询，请联系Livechat 8BET（24小时）。"
+    },
+    {
+        "id": 252,
+        "language": "设置银行密码后，才能使用银行功能"
+    },
+    {
+        "id": 253,
+        "language": "绑定手机号并设置银行密码后，才能使用银行功能"
+    },
+    {
+        "id": 254,
+        "language": "修改成功"
+    },
+    {
+        "id": 255,
+        "language": "取款密码设置成功"
+    },
+    {
+        "id": 256,
+        "language": "本次修改需要200万金币，是否修改"
+    },
+    {
+        "id": 257,
+        "language": "删除成功"
+    },
+    {
+        "id": 258,
+        "language": "老虎机"
+    },
+    {
+        "id": 259,
+        "language": "复制成功"
+    },
+    {
+        "id": 260,
+        "language": "请输入新密码"
+    },
+    {
+        "id": 261,
+        "language": "请输入确认密码"
+    },
+    {
+        "id": 262,
+        "language": "需要同意协议"
+    },
+    {
+        "id": 263,
+        "language": "昵称修改成功"
+    },
+    {
+        "id": 264,
+        "language": "头像修改成功"
+    },
+    {
+        "id": 265,
+        "language": "昵称修改失败"
+    },
+    {
+        "id": 266,
+        "language": "头像修改失败"
+    },
+    {
+        "id": 10001,
+        "language": "用户已经存在"
+    },
+    {
+        "id": 10002,
+        "language": "密码错误"
+    },
+    {
+        "id": 10003,
+        "language": "邮箱不正确"
+    },
+    {
+        "id": 10004,
+        "language": "电话号码错误"
+    },
+    {
+        "id": 10005,
+        "language": "密码必须由数字和字母组成"
+    },
+    {
+        "id": 10006,
+        "language": "账号与密码不匹配"
+    },
+    {
+        "id": 10007,
+        "language": "登录失败。"
+    },
+    {
+        "id": 10008,
+        "language": "账号使用中，无法登录。"
+    },
+    {
+        "id": 10009,
+        "language": "该用户禁止登录。"
+    },
+    {
+        "id": 10010,
+        "language": "参数错误"
+    },
+    {
+        "id": 10011,
+        "language": "操作失败"
+    },
+    {
+        "id": 10012,
+        "language": "服务器错误"
+    },
+    {
+        "id": 10013,
+        "language": "服务器忙，请稍后。"
+    },
+    {
+        "id": 10014,
+        "language": "注册成功"
+    },
+    {
+        "id": 10015,
+        "language": "验证码2分钟内有效"
+    },
+    {
+        "id": 10016,
+        "language": "累计提交超过待审核订单"
+    },
+    {
+        "id": 10017,
+        "language": "用户名错误"
+    },
+    {
+        "id": 10018,
+        "language": "用户名错误"
+    },
+    {
+        "id": 10019,
+        "language": "转账成功了"
+    },
+    {
+        "id": 10020,
+        "language": "增加成功"
+    },
+    {
+        "id": 10021,
+        "language": "输入4-8位提现密码"
+    },
+    {
+        "id": 10022,
+        "language": "付款方式已确认"
+    },
+    {
+        "id": 10023,
+        "language": "请先设置取款密码"
+    },
+    {
+        "id": 10024,
+        "language": "支付密码验证错误"
+    },
+    {
+        "id": 10025,
+        "language": "取款金额错误"
+    },
+    {
+        "id": 10026,
+        "language": "余额不足"
+    },
+    {
+        "id": 10027,
+        "language": "成功提取现金"
+    },
+    {
+        "id": 10028,
+        "language": "老密码错误"
+    },
+    {
+        "id": 10029,
+        "language": "两次密码不一致"
+    },
+    {
+        "id": 10030,
+        "language": "新旧密码一致"
+    },
+    {
+        "id": 10031,
+        "language": "修改密码成功"
+    },
+    {
+        "id": 10032,
+        "language": "设置支付密码成功"
+    },
+    {
+        "id": 10033,
+        "language": "未知错误"
+    },
+    {
+        "id": 10034,
+        "language": "请勿重复的登录"
+    },
+    {
+        "id": 10035,
+        "language": "有未结算游戏，请重新登录"
+    },
+    {
+        "id": 10036,
+        "language": "此游戏未开发"
+    },
+    {
+        "id": 10037,
+        "language": "金币不足，不能进入游戏"
+    },
+    {
+        "id": 10038,
+        "language": "此游戏不能进入"
+    },
+    {
+        "id": 10039,
+        "language": "游戏界面开打异常"
+    },
+    {
+        "id": 10040,
+        "language": "已经领取过了"
+    },
+    {
+        "id": 10041,
+        "language": "累计提交超过待审核的订单。"
+    },
+    {
+        "id": 10042,
+        "language": "验证码错误"
+    },
+    {
+        "id": 267,
+        "language": "货币类型"
+    },
+    {
+        "id": 268,
+        "language": "提款金额"
+    },
+    {
+        "id": 269,
+        "language": "手续费"
+    },
+    {
+        "id": 270,
+        "language": "到账金额"
+    },
+    {
+        "id": 271,
+        "language": "操作"
+    },
+    {
+        "id": 272,
+        "language": "万"
+    },
+    {
+        "id": 273,
+        "language": "亿"
+    },
+    {
+        "id": 274,
+        "language": "游戏名称"
+    },
+    {
+        "id": 275,
+        "language": "输"
+    },
+    {
+        "id": 276,
+        "language": "赢"
+    },
+    {
+        "id": 277,
+        "language": "游戏输赢"
+    },
+    {
+        "id": 278,
+        "language": "充值"
+    },
+    {
+        "id": 279,
+        "language": "提款申请"
+    },
+    {
+        "id": 280,
+        "language": "提款失败返回"
+    },
+    {
+        "id": 281,
+        "language": "邮件领取"
+    },
+    {
+        "id": 282,
+        "language": "德州扑克"
+    },
+    {
+        "id": 283,
+        "language": "实况视频"
+    },
+    {
+        "id": 284,
+        "language": "捕鱼"
+    },
+    {
+        "id": 285,
+        "language": "老虎机"
+    },
+    {
+        "id": 286,
+        "language": "多米诺·球球"
+    },
+    {
+        "id": 287,
+        "language": "彩票"
+    },
+    {
+        "id": 288,
+        "language": "IM体育"
+    },
+    {
+        "id": 289,
+        "language": "沙巴体育"
+    },
+    {
+        "id": 290,
+        "language": "SBO体育"
+    },
+    {
+        "id": 291,
+        "language": "疯狂捕鱼"
+    },
+    {
+        "id": 292,
+        "language": "欢乐捕鱼"
+    },
+    {
+        "id": 293,
+        "language": "万人捕鱼"
+    },
+    {
+        "id": 294,
+        "language": "快乐十分"
+    },
+    {
+        "id": 295,
+        "language": "六合彩"
+    },
+    {
+        "id": 296,
+        "language": "大乐透"
+    },
+    {
+        "id": 297,
+        "language": "时时彩"
+    },
+    {
+        "id": 298,
+        "language": "PX10"
+    },
+    {
+        "id": "0_QIUQIU",
+        "language": "球球"
+    },
+    {
+        "id": "1_zhengrendezhou",
+        "language": "德州扑克"
+    },
+    {
+        "id": "2_gpas_5aogold_pop",
+        "language": "黄金时代"
+    },
+    {
+        "id": "2_hb",
+        "language": "一夜奇遇"
+    },
+    {
+        "id": "2_ashadv",
+        "language": "仙境冒险"
+    },
+    {
+        "id": "2_agoeg",
+        "language": "埃及时代"
+    },
+    {
+        "id": "2_aogs",
+        "language": "神的时代"
+    },
+    {
+        "id": "2_gpas_aogetroy_pop",
+        "language": "众神：森林战士"
+    },
+    {
+        "id": "2_ftsis",
+        "language": "神的时代：命运姐妹"
+    },
+    {
+        "id": "2_athn",
+        "language": "神的时代：智慧女神"
+    },
+    {
+        "id": "2_aogmm",
+        "language": "神的时代：美杜莎与妖怪"
+    },
+    {
+        "id": "2_aogmt",
+        "language": "神：强大之迈达斯"
+    },
+    {
+        "id": "2_aogrots",
+        "language": "神的时代:   天空之王"
+    },
+    {
+        "id": "2_furf",
+        "language": "神的时代：雷霆4神"
+    },
+    {
+        "id": "2_aeolus",
+        "language": "众神时代：风暴之神"
+    },
+    {
+        "id": "2_zeus",
+        "language": "神的时代:奥林匹斯之国王"
+    },
+    {
+        "id": "2_hrcls",
+        "language": "神的时代:奥林匹斯之王子"
+    },
+    {
+        "id": "2_ashamw",
+        "language": "狂野亚马逊"
+    },
+    {
+        "id": "2_rodzl",
+        "language": "美式轮盘"
+    },
+    {
+        "id": "2_anwild",
+        "language": "狂野蟒蛇"
+    },
+    {
+        "id": "2_arc",
+        "language": "弓箭手"
+    },
+    {
+        "id": "2_art",
+        "language": "北极宝藏"
+    },
+    {
+        "id": "2_gtsatq",
+        "language": "亚特兰蒂斯女王"
+    },
+    {
+        "id": "2_pop_sw_ar_skw",
+        "language": "阿兹特克送福"
+    },
+    {
+        "id": "2_bal",
+        "language": "迷你真人百家乐"
+    },
+    {
+        "id": "2_bs",
+        "language": "白狮"
+    },
+    {
+        "id": "2_bl",
+        "language": "海滨嘉年华"
+    },
+    {
+        "id": "2_bt",
+        "language": "百慕大三角"
+    },
+    {
+        "id": "2_gpas_bwizard_pop",
+        "language": "蓝巫师"
+    },
+    {
+        "id": "2_bob",
+        "language": "奖金熊"
+    },
+    {
+        "id": "2_gpas_boking_pop",
+        "language": "国王之书"
+    },
+    {
+        "id": "2_ashbob",
+        "language": "杰克与魔豆"
+    },
+    {
+        "id": "2_bfb",
+        "language": "水牛闪电战"
+    },
+    {
+        "id": "2_bfbl",
+        "language": "水牛闪电战真人"
+    },
+    {
+        "id": "2_gpas_cotvalk_pop",
+        "language": "女武神之召唤"
+    },
+    {
+        "id": "2_ct",
+        "language": "船长的宝藏"
+    },
+    {
+        "id": "2_ctiv",
+        "language": "猫赌神"
+    },
+    {
+        "id": "2_catqc",
+        "language": "猫女王"
+    },
+    {
+        "id": "2_chl",
+        "language": "樱花之恋"
+    },
+    {
+        "id": "2_ashcpl",
+        "language": "美女船长"
+    },
+    {
+        "id": "2_cm",
+        "language": "中国厨房"
+    },
+    {
+        "id": "2_ccccny",
+        "language": "币币币"
+    },
+    {
+        "id": "2_gtscnb",
+        "language": "警察与土匪"
+    },
+    {
+        "id": "2_gtscbl",
+        "language": "牛仔和外星人"
+    },
+    {
+        "id": "2_c7",
+        "language": "疯狂之七"
+    },
+    {
+        "id": "2_gtsdrdv",
+        "language": "胆大戴夫和拉之眼"
+    },
+    {
+        "id": "2_dnr",
+        "language": "海豚礁"
+    },
+    {
+        "id": "2_dlm",
+        "language": "情圣博士"
+    },
+    {
+        "id": "2_gpas_dbond_pop",
+        "language": "龙门传说"
+    },
+    {
+        "id": "2_drgch",
+        "language": "龙之战士"
+    },
+    {
+        "id": "2_dj_bal",
+        "language": "巨龙累积奖金百家乐"
+    },
+    {
+        "id": "2_gtsdgk",
+        "language": "龙之王国"
+    },
+    {
+        "id": "2_pop_sw_dr_skw",
+        "language": "龙的财富"
+    },
+    {
+        "id": "2_eas",
+        "language": "复活节大惊喜"
+    },
+    {
+        "id": "2_epa",
+        "language": "猿人传奇"
+    },
+    {
+        "id": "2_esm",
+        "language": "挨斯梅拉达"
+    },
+    {
+        "id": "2_gpas_elady_pop",
+        "language": "嫦娥奔月"
+    },
+    {
+        "id": "2_ashfta",
+        "language": "白雪公主"
+    },
+    {
+        "id": "2_gpas_fatchoy_pop",
+        "language": "发财 财神"
+    },
+    {
+        "id": "2_fcgz",
+        "language": "翡翠公主"
+    },
+    {
+        "id": "2_gtsflzt",
+        "language": "飞龙在天"
+    },
+    {
+        "id": "2_gpas_fiesta_pop",
+        "language": "记忆盛宴"
+    },
+    {
+        "id": "2_pop_sw_fr_skw",
+        "language": "五行火送福"
+    },
+    {
+        "id": "2_ftg",
+        "language": "五虎将"
+    },
+    {
+        "id": "2_gtsfc",
+        "language": "足球狂欢节"
+    },
+    {
+        "id": "2_fbr",
+        "language": "终极足球"
+    },
+    {
+        "id": "2_fow",
+        "language": "惊异之林"
+    },
+    {
+        "id": "2_frtf",
+        "language": "五个海盗"
+    },
+    {
+        "id": "2_fday",
+        "language": "幸运日"
+    },
+    {
+        "id": "2_fxf",
+        "language": "狐狸的宝藏"
+    },
+    {
+        "id": "2_foy",
+        "language": "青春之泉"
+    },
+    {
+        "id": "2_fdt",
+        "language": "弗兰克 戴图理：神奇7"
+    },
+    {
+        "id": "2_fdtjg",
+        "language": "弗兰克 戴图理：神奇7奖池版"
+    },
+    {
+        "id": "2_fmn",
+        "language": "水果狂"
+    },
+    {
+        "id": "2_ashfmf",
+        "language": "幸运月"
+    },
+    {
+        "id": "2_fff",
+        "language": "水果农场"
+    },
+    {
+        "id": "2_fnfrj",
+        "language": "时尚水果"
+    },
+    {
+        "id": "2_fm",
+        "language": "古怪猴子"
+    },
+    {
+        "id": "2_fmjp",
+        "language": "古怪猴子彩池"
+    },
+    {
+        "id": "2_popc",
+        "language": "幸运盖尔"
+    },
+    {
+        "id": "2_ges",
+        "language": "艺伎故事"
+    },
+    {
+        "id": "2_glrj",
+        "language": "角斗士累积奖池"
+    },
+    {
+        "id": "2_grel",
+        "language": "金色召集"
+    },
+    {
+        "id": "2_glg",
+        "language": "黄金版游戏"
+    },
+    {
+        "id": "2_gpas_gmacaque_pop",
+        "language": "金猴"
+    },
+    {
+        "id": "2_gos",
+        "language": "黄金之旅"
+    },
+    {
+        "id": "2_bib",
+        "language": "湛蓝深海"
+    },
+    {
+        "id": "2_grbjp",
+        "language": "湛蓝深海彩池"
+    },
+    {
+        "id": "2_gro",
+        "language": "最伟大的奥德赛"
+    },
+    {
+        "id": "2_gpas_hice_pop",
+        "language": "海南冰"
+    },
+    {
+        "id": "2_hlf",
+        "language": "万圣节财富"
+    },
+    {
+        "id": "2_hlf2",
+        "language": "万圣节财富2"
+    },
+    {
+        "id": "2_hh",
+        "language": "鬼屋"
+    },
+    {
+        "id": "2_huhl",
+        "language": "真人足智多谋"
+    },
+    {
+        "id": "2_ashhof",
+        "language": "边境之心"
+    },
+    {
+        "id": "2_ashhotj",
+        "language": "从林之心"
+    },
+    {
+        "id": "2_hilol",
+        "language": "实况高低牌"
+    },
+    {
+        "id": "2_hk",
+        "language": "公路之王"
+    },
+    {
+        "id": "2_gts50",
+        "language": "热力宝石"
+    },
+    {
+        "id": "2_hotktv",
+        "language": "火热KTV"
+    },
+    {
+        "id": "2_ashicv",
+        "language": "冰穴"
+    },
+    {
+        "id": "2_gtsir",
+        "language": "极地冒险"
+    },
+    {
+        "id": "2_aztec",
+        "language": "印加帝国头奖"
+    },
+    {
+        "id": "2_irl",
+        "language": "爱尔兰运气"
+    },
+    {
+        "id": "2_jpgt",
+        "language": "奖金巨人"
+    },
+    {
+        "id": "2_gtsje",
+        "language": "玉皇大帝"
+    },
+    {
+        "id": "2_gtsjxb",
+        "language": "吉祥８"
+    },
+    {
+        "id": "2_pop_sw_jqw_ab_jp_skw",
+        "language": "金钱蛙头奖"
+    },
+    {
+        "id": "2_gpas_jflong_pop",
+        "language": "金福龙"
+    },
+    {
+        "id": "2_gpas_xjinfu_pop",
+        "language": "金福幸运"
+    },
+    {
+        "id": "2_jnglg",
+        "language": "丛林巨兽"
+    },
+    {
+        "id": "2_lndg",
+        "language": "金土地"
+    },
+    {
+        "id": "2_legwld",
+        "language": "野外宝藏"
+    },
+    {
+        "id": "2_ght_a",
+        "language": "烈焰钻石"
+    },
+    {
+        "id": "2_kfp",
+        "language": "六福兽"
+    },
+    {
+        "id": "2_7bal",
+        "language": "真人7席百家乐"
+    },
+    {
+        "id": "2_chel",
+        "language": "真人娱乐场扑克"
+    },
+    {
+        "id": "2_cspljpt",
+        "language": "真人赌场扑克"
+    },
+    {
+        "id": "2_dtl",
+        "language": "真人龙虎"
+    },
+    {
+        "id": "2_rofl",
+        "language": "实况法式轮盘赌"
+    },
+    {
+        "id": "2_ljxy",
+        "language": "龙家祥运"
+    },
+    {
+        "id": "2_lm",
+        "language": "疯狂乐透"
+    },
+    {
+        "id": "2_mgstk",
+        "language": "神奇的栈"
+    },
+    {
+        "id": "2_gtsmrln",
+        "language": "玛丽莲梦露"
+    },
+    {
+        "id": "2_pop_sw_mr_skw",
+        "language": "五行金送福"
+    },
+    {
+        "id": "2_mfrt",
+        "language": "财富小姐"
+    },
+    {
+        "id": "2_mnkmn",
+        "language": "疯狂猴子"
+    },
+    {
+        "id": "2_mcb",
+        "language": "返利先生"
+    },
+    {
+        "id": "2_nk",
+        "language": "海王星王国"
+    },
+    {
+        "id": "2_gpas_nsshen_pop",
+        "language": "你属什么"
+    },
+    {
+        "id": "2_nian",
+        "language": "年年有余"
+    },
+    {
+        "id": "2_nc_7bal",
+        "language": "无佣金百家乐"
+    },
+    {
+        "id": "2_dj_nc_bal",
+        "language": "无佣金巨龙累积奖金百家乐"
+    },
+    {
+        "id": "2_nc_bal",
+        "language": "无佣金迷你百家乐"
+    },
+    {
+        "id": "2_pmn",
+        "language": "豹月"
+    },
+    {
+        "id": "2_gpas_panthpays_pop",
+        "language": "发财黑豹"
+    },
+    {
+        "id": "2_Not Supported",
+        "language": "舞线"
+    },
+    {
+        "id": "2_pgv",
+        "language": "企鹅假期"
+    },
+    {
+        "id": "2_pst",
+        "language": "法老王的秘密"
+    },
+    {
+        "id": "2_gpas_scqueen_pop",
+        "language": "法老王的女儿"
+    },
+    {
+        "id": "2_phtd",
+        "language": "超级法老王宝藏"
+    },
+    {
+        "id": "2_paw",
+        "language": "小猪和狼"
+    },
+    {
+        "id": "2_pnp",
+        "language": "粉红豹"
+    },
+    {
+        "id": "2_pisa",
+        "language": "武士元素"
+    },
+    {
+        "id": "2_gtspor",
+        "language": "好运连连"
+    },
+    {
+        "id": "2_phot",
+        "language": "紫色狂热"
+    },
+    {
+        "id": "2_photk",
+        "language": "紫色狂热屋"
+    },
+    {
+        "id": "2_qrol",
+        "language": "量子轮盘赌"
+    },
+    {
+        "id": "2_gpas_rothr_pop",
+        "language": "隐秘境界的突袭"
+    },
+    {
+        "id": "2_pop_sw_rm_ab_jp_skw",
+        "language": "狂热重舞狮奖池"
+    },
+    {
+        "id": "2_ririjc",
+        "language": "日日进财"
+    },
+    {
+        "id": "2_ririshc",
+        "language": "日日生财"
+    },
+    {
+        "id": "2_pop_sw_rr_skw",
+        "language": "河船送福"
+    },
+    {
+        "id": "2_rky",
+        "language": "洛奇"
+    },
+    {
+        "id": "2_rng2",
+        "language": "荣耀罗马"
+    },
+    {
+        "id": "2_rol",
+        "language": "真人轮盘"
+    },
+    {
+        "id": "2_sfh",
+        "language": "热带动物园"
+    },
+    {
+        "id": "2_gtssmbr",
+        "language": "巴西森宝"
+    },
+    {
+        "id": "2_ssp",
+        "language": "圣诞老人的惊喜"
+    },
+    {
+        "id": "2_gpas_satsumo_pop",
+        "language": "相扑君的逆袭"
+    },
+    {
+        "id": "2_gpas_sjungle_pop",
+        "language": "野蛮丛林"
+    },
+    {
+        "id": "2_samz",
+        "language": "亚马逊的秘密"
+    },
+    {
+        "id": "2_7eml",
+        "language": "7e女中音"
+    },
+    {
+        "id": "2_shmst",
+        "language": "神秘夏洛克"
+    },
+    {
+        "id": "2_sbl",
+        "language": "骰宝"
+    },
+    {
+        "id": "2_sbdl",
+        "language": "骰宝加强版"
+    },
+    {
+        "id": "2_sis",
+        "language": "沉默武士"
+    },
+    {
+        "id": "2_sib",
+        "language": "银弹"
+    },
+    {
+        "id": "2_ashsbd",
+        "language": "辛巴达的黄金之旅"
+    },
+    {
+        "id": "2_gpas_squeen_pop",
+        "language": "天之女王"
+    },
+    {
+        "id": "2_swl",
+        "language": "旋转与胜利"
+    },
+    {
+        "id": "2_sprol",
+        "language": "轮盘赌分散打赌"
+    },
+    {
+        "id": "2_srcg",
+        "language": "黄金农场"
+    },
+    {
+        "id": "2_sol",
+        "language": "好运来"
+    },
+    {
+        "id": "2_gtsswk",
+        "language": "孙悟空"
+    },
+    {
+        "id": "2_slion",
+        "language": "超级狮子"
+    },
+    {
+        "id": "2_cnpr",
+        "language": "甜蜜派对"
+    },
+    {
+        "id": "2_tpd2",
+        "language": "泰国天堂"
+    },
+    {
+        "id": "2_tht",
+        "language": "泰国神庙"
+    },
+    {
+        "id": "2_dcv",
+        "language": "探索与发现"
+    },
+    {
+        "id": "2_ashglss",
+        "language": "玻璃拖鞋"
+    },
+    {
+        "id": "2_gtsgme",
+        "language": "大明帝国"
+    },
+    {
+        "id": "2_donq",
+        "language": "富有的唐吉可德"
+    },
+    {
+        "id": "2_tmqd",
+        "language": "三剑客和女王的钻石"
+    },
+    {
+        "id": "2_tigc",
+        "language": "虎爪"
+    },
+    {
+        "id": "2_gpas_tstacks_pop",
+        "language": "老虎堆"
+    },
+    {
+        "id": "2_gpas_tigertdp_pop",
+        "language": "青龙,白虎,朱雀,玄武"
+    },
+    {
+        "id": "2_ashtmd",
+        "language": "交易时刻"
+    },
+    {
+        "id": "2_topg",
+        "language": "壮志凌云"
+    },
+    {
+        "id": "2_ttc",
+        "language": "顶级王牌-明星"
+    },
+    {
+        "id": "2_gpas_tsgift_pop",
+        "language": "财神兴盛"
+    },
+    {
+        "id": "2_ub",
+        "language": "阿嘎布噶"
+    },
+    {
+        "id": "2_er",
+        "language": "假日车站"
+    },
+    {
+        "id": "2_vcstd",
+        "language": "假日车站加强版"
+    },
+    {
+        "id": "2_gts52",
+        "language": "狂躁的海盗"
+    },
+    {
+        "id": "2_pop_sw_wrl_skw",
+        "language": "五行水送福"
+    },
+    {
+        "id": "2_wotp",
+        "language": "凤凰之道"
+    },
+    {
+        "id": "2_whk",
+        "language": "白色王者"
+    },
+    {
+        "id": "2_whk2",
+        "language": "白色王者2"
+    },
+    {
+        "id": "2_gtswg",
+        "language": "狂野赌徒"
+    },
+    {
+        "id": "2_ashwgaa",
+        "language": "疯狂赌徒２/北极探险"
+    },
+    {
+        "id": "2_wis",
+        "language": "天神"
+    },
+    {
+        "id": "2_ashwdw",
+        "language": "狂野愿望"
+    },
+    {
+        "id": "2_gtswng",
+        "language": "纯金翅膀"
+    },
+    {
+        "id": "2_wlg",
+        "language": "舞龙"
+    },
+    {
+        "id": "2_wlcsh",
+        "language": "五路财神"
+    },
+    {
+        "id": "2_xufe",
+        "language": "玄圃联欢"
+    },
+    {
+        "id": "2_pop_sw_yxlb_skw",
+        "language": "英雄吕布"
+    },
+    {
+        "id": "2_yclong",
+        "language": "云从龙"
+    },
+    {
+        "id": "2_zcjb",
+        "language": "招财进宝"
+    },
+    {
+        "id": "2_zcjbjp",
+        "language": "招财进宝彩池"
+    },
+    {
+        "id": "2_aogroo",
+        "language": "众神时代：奥林巴斯皇"
+    },
+    {
+        "id": "2_gpas_appower_pop",
+        "language": "众神时代：太阳神之威"
+    },
+    {
+        "id": "2_gpas_aluck_pop",
+        "language": "金龙鱼"
+    },
+    {
+        "id": "2_gpas_ccave_pop",
+        "language": "宝藏之洞"
+    },
+    {
+        "id": "2_gpas_jmoon_pop",
+        "language": "金恩之月"
+    },
+    {
+        "id": "2_gpas_mquest_pop",
+        "language": "西游记"
+    },
+    {
+        "id": "2_gpas_rriches_pop",
+        "language": "音乐之财"
+    },
+    {
+        "id": "2_gpas_sexiles_pop",
+        "language": "星马达流放者"
+    },
+    {
+        "id": "2_gpas_tttotems_pop",
+        "language": "顶级图腾"
+    },
+    {
+        "id": "2_gpas_tgift_pop",
+        "language": "金蟾蜍的礼物"
+    },
+    {
+        "id": "3_SMG_alchemyBlast",
+        "language": "炼金爆炸"
+    },
+    {
+        "id": "3_SFB_Cascading_Alien",
+        "language": "星际萌宝贝"
+    },
+    {
+        "id": "3_SMG_astroLegendsLyraandErion",
+        "language": "太空传奇-莱拉和叶莉昂"
+    },
+    {
+        "id": "3_SFB_AstroRocks",
+        "language": "星际同萌"
+    },
+    {
+        "id": "3_SFB_BaseballDuel",
+        "language": "王牌全垒打"
+    },
+    {
+        "id": "3_SMG_battleRoyale",
+        "language": "大逃杀"
+    },
+    {
+        "id": "3_SMG_fruitBlast",
+        "language": "水果大爆炸"
+    },
+    {
+        "id": "3_SMG_galaxyGlider",
+        "language": "星际骑手"
+    },
+    {
+        "id": "3_SMG_gemsOdyssey",
+        "language": "宝石奥德赛"
+    },
+    {
+        "id": "3_SMG_happyMonsterClaw",
+        "language": "开心娃娃机"
+    },
+    {
+        "id": "3_SMG_incanAdventure",
+        "language": "挖到宝"
+    },
+    {
+        "id": "3_SMG_theIncredibleBalloonMachine",
+        "language": "不可思议的气球机"
+    },
+    {
+        "id": "3_SMG_jewelQuestRiches",
+        "language": "宝石探秘财富加倍"
+    },
+    {
+        "id": "3_SMG_legendKeno",
+        "language": "传奇keno"
+    },
+    {
+        "id": "3_SFB_MarmotMayhem",
+        "language": "菜菜放鼠假"
+    },
+    {
+        "id": "3_SMG_maxDamageArcade",
+        "language": "终结侵略者"
+    },
+    {
+        "id": "3_SMG_megaMoneyRush",
+        "language": "巨款大冲击"
+    },
+    {
+        "id": "3_SMG_monsterBlast",
+        "language": "怪物爆炸"
+    },
+    {
+        "id": "3_SMG_petsGoWild",
+        "language": "狂野宠物"
+    },
+    {
+        "id": "3_SMG_pokeTheGuy",
+        "language": "进击猿人"
+    },
+    {
+        "id": "3_SFB_KO_RobotDice",
+        "language": "战骰机器人"
+    },
+    {
+        "id": "3_SMG_treasureDash",
+        "language": "逃宝街机游戏"
+    },
+    {
+        "id": "3_SFB_Cascading_Zombie",
+        "language": "爆爆尸乐园"
+    },
+    {
+        "id": "3_SFG_WDFuWaFishing",
+        "language": "万达福娃捕鱼"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Baccarat_Playboy",
+        "language": "龙虎百家乐-花花公子"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_BaccaratplayboyNC",
+        "language": "免佣金百家乐-花花公子"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_BaccaratNC",
+        "language": "免佣金百家乐"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Baccarat",
+        "language": "龙虎百家乐"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_MP_Baccarat",
+        "language": "百家乐"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_MP_Baccarat_Playboy",
+        "language": "百家乐-花花公子"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Roulette",
+        "language": "轮盘"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Sicbo",
+        "language": "骰宝"
+    },
+    {
+        "id": "3_SFG_WPGoldenPigRace",
+        "language": "王牌赛金猪"
+    },
+    {
+        "id": "3_SFG_WP5PK",
+        "language": "王牌五张"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu",
+        "language": "王牌抢庄牛牛"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu_3cards",
+        "language": "王牌抢庄牛牛(看3张)"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu_4cards",
+        "language": "王牌抢庄牛牛(看4张)"
+    },
+    {
+        "id": "3_SFG_WPBonusTexas",
+        "language": "王牌奖金德州"
+    },
+    {
+        "id": "3_SFG_WPCaiShenFruitMario",
+        "language": "王牌财神水果机 (街机版)"
+    },
+    {
+        "id": "3_SFG_WPChuhanTexas",
+        "language": "王牌楚汉德州"
+    },
+    {
+        "id": "3_SFG_Doudizhu",
+        "language": "王牌斗地主"
+    },
+    {
+        "id": "3_SFG_WPForestPartyJP",
+        "language": "王牌森林舞会(JP)"
+    },
+    {
+        "id": "3_SFG_GoldenFlower",
+        "language": "王牌炸金花"
+    },
+    {
+        "id": "3_SFG_WPGoldenShark",
+        "language": "王牌金银鲨"
+    },
+    {
+        "id": "3_SFG_WPInstantGoldenFlower",
+        "language": "王牌炸金花 (极速版)"
+    },
+    {
+        "id": "3_SFG_WPMahjong_2P",
+        "language": "王牌麻将(二人街机版)"
+    },
+    {
+        "id": "3_SFG_WP100NiuNiu",
+        "language": "王牌百人牛牛"
+    },
+    {
+        "id": "3_SFG_WPTavern",
+        "language": "王牌客栈"
+    },
+    {
+        "id": "3_SMG_sistersOfOzJackpots",
+        "language": "Oz姐妹累积奖金"
+    },
+    {
+        "id": "3_SMG_alchemistStone",
+        "language": "贤者之石"
+    },
+    {
+        "id": "3_SMG_108Heroes",
+        "language": "108好汉"
+    },
+    {
+        "id": "3_SMG_108heroesMultiplierFortunes",
+        "language": "一零八好汉乘数财富"
+    },
+    {
+        "id": "3_SMG_5ReelDrive",
+        "language": "5轴驱动"
+    },
+    {
+        "id": "3_SMG_9masksOfFire",
+        "language": "9个烈焰面具"
+    },
+    {
+        "id": "3_SMG_9potsOfGold",
+        "language": "9罐黄金"
+    },
+    {
+        "id": "3_SMG_aDarkMatter",
+        "language": "黑暗阴影"
+    },
+    {
+        "id": "3_SMG_absolootlyMadMegaMoolah",
+        "language": "Mega Moolah 绝对疯狂"
+    },
+    {
+        "id": "3_SMG_actionOpsSnowAndSable",
+        "language": "秘密行动-雪诺和塞布尔"
+    },
+    {
+        "id": "3_SMG_adventurePalace",
+        "language": "奇遇宫殿"
+    },
+    {
+        "id": "3_SMG_ageOfConquest",
+        "language": "征服时代"
+    },
+    {
+        "id": "3_SMG_ageOfDiscovery",
+        "language": "大航海时代"
+    },
+    {
+        "id": "3_SMG_agentJaneBlonde",
+        "language": "特工简布隆德"
+    },
+    {
+        "id": "3_SMG_agentjaneblondereturns",
+        "language": "特工简.布隆德归来"
+    },
+    {
+        "id": "3_SMG_alaskanFishing",
+        "language": "阿拉斯加垂钓"
+    },
+    {
+        "id": "3_SMG_ancientFortunesZeus",
+        "language": "Zeus古代财富"
+    },
+    {
+        "id": "3_SMG_ariana",
+        "language": "爱丽娜"
+    },
+    {
+        "id": "3_SMG_asianBeauty",
+        "language": "亚洲风情"
+    },
+    {
+        "id": "3_SMG_atlanteanTreasures",
+        "language": "亚特兰蒂斯宝藏"
+    },
+    {
+        "id": "3_SMG_auroraWilds",
+        "language": "极光百搭"
+    },
+    {
+        "id": "3_SMG_avalon",
+        "language": "阿瓦隆"
+    },
+    {
+        "id": "3_SMG_badmintonHero",
+        "language": "热血羽毛球"
+    },
+    {
+        "id": "3_SMG_bananaOdyssey",
+        "language": "香蕉奥德赛"
+    },
+    {
+        "id": "3_SMG_barBarBlackSheep5Reel",
+        "language": "黑绵羊咩咩叫"
+    },
+    {
+        "id": "3_SMG_BarsAndStripes",
+        "language": "条条纹纹"
+    },
+    {
+        "id": "3_SMG_basketballStar",
+        "language": "篮球巨星"
+    },
+    {
+        "id": "3_SMG_basketballStarDeluxe",
+        "language": "篮球巨星豪华版"
+    },
+    {
+        "id": "3_SMG_beachBabes",
+        "language": "沙滩女孩"
+    },
+    {
+        "id": "3_SMG_beautifulBones",
+        "language": "美丽骷髅"
+    },
+    {
+        "id": "3_SMG_bigKahuna",
+        "language": "森林之王"
+    },
+    {
+        "id": "3_SMG_bigTop",
+        "language": "马戏团"
+    },
+    {
+        "id": "3_SMG_bikiniParty",
+        "language": "比基尼派对"
+    },
+    {
+        "id": "3_SMG_boatofFortune",
+        "language": "金龙财宝"
+    },
+    {
+        "id": "3_SMG_boogieMonsters",
+        "language": "摇滚怪兽"
+    },
+    {
+        "id": "3_SMG_bookOfOz",
+        "language": "Oz之书"
+    },
+    {
+        "id": "3_SMG_bookOfOzLockNSpin",
+        "language": "Oz之书锁定并旋转"
+    },
+    {
+        "id": "3_SMG_bookieOfOdds",
+        "language": "好运经纪人"
+    },
+    {
+        "id": "3_SMG_boomPirates",
+        "language": "炸弹海盗"
+    },
+    {
+        "id": "3_SMG_breakAway",
+        "language": "冰球突破"
+    },
+    {
+        "id": "3_SMG_breakAwayDeluxe",
+        "language": "冰球突破豪华版"
+    },
+    {
+        "id": "3_SMG_breakAwayLuckyWilds",
+        "language": "冰球突破幸运百搭"
+    },
+    {
+        "id": "3_SMG_breakDaBank",
+        "language": "抢银行"
+    },
+    {
+        "id": "3_SMG_breakDaBankAgain",
+        "language": "再抢银行"
+    },
+    {
+        "id": "3_SMG_breakDaBankAgainRespin",
+        "language": "再抢银行再旋转"
+    },
+    {
+        "id": "3_SMG_bridesmaids",
+        "language": "伴娘我最大"
+    },
+    {
+        "id": "3_SMG_bullseyeGameshow",
+        "language": "正中红心"
+    },
+    {
+        "id": "3_SMG_burningDesire",
+        "language": "炙热欲望"
+    },
+    {
+        "id": "3_SMG_bushTelegraph",
+        "language": "丛林传讯"
+    },
+    {
+        "id": "3_SMG_bustTheBank",
+        "language": "爆破银行"
+    },
+    {
+        "id": "3_SMG_candyDreams",
+        "language": "梦果子乐园"
+    },
+    {
+        "id": "3_SMG_carnaval",
+        "language": "嘉年华"
+    },
+    {
+        "id": "3_SMG_cashCrazy",
+        "language": "疯狂现金"
+    },
+    {
+        "id": "3_SMG_cashOfKingdoms",
+        "language": "富贵王国"
+    },
+    {
+        "id": "3_SMG_CashSplash5Reel",
+        "language": "现金飞溅(5线)"
+    },
+    {
+        "id": "3_SMG_cashapillar",
+        "language": "昆虫派对"
+    },
+    {
+        "id": "3_SMG_cashoccino",
+        "language": "现金咖啡"
+    },
+    {
+        "id": "3_SMG_cashville",
+        "language": "现金威乐"
+    },
+    {
+        "id": "3_SMG_castleBuilder2",
+        "language": "城堡建筑师 II"
+    },
+    {
+        "id": "3_SMG_centreCourt",
+        "language": "网球冠军"
+    },
+    {
+        "id": "3_SMG_classic243",
+        "language": "经典243?"
+    },
+    {
+        "id": "3_SMG_coolBuck5Reel",
+        "language": "运财酷儿"
+    },
+    {
+        "id": "3_SMG_coolWolf",
+        "language": "酷派狼人"
+    },
+    {
+        "id": "3_SMG_couchPotato",
+        "language": "慵懒土豆"
+    },
+    {
+        "id": "3_SMG_crazyChameleons",
+        "language": "疯狂变色龙"
+    },
+    {
+        "id": "3_SMG_cricketStar",
+        "language": "板球明星"
+    },
+    {
+        "id": "3_SMG_CrystalRift",
+        "language": "水晶裂谷"
+    },
+    {
+        "id": "3_SMG_deckTheHalls",
+        "language": "圣诞大餐"
+    },
+    {
+        "id": "3_SMG_decoDiamonds",
+        "language": "德科钻石"
+    },
+    {
+        "id": "3_SMG_diamondEmpire",
+        "language": "钻石帝国"
+    },
+    {
+        "id": "3_SMG_dolphinCoast",
+        "language": "海豚海岸"
+    },
+    {
+        "id": "3_SMG_dolphinQuest",
+        "language": "海豚历奇"
+    },
+    {
+        "id": "3_SMG_doubleWammy",
+        "language": "双倍惊喜"
+    },
+    {
+        "id": "3_SMG_dragonDance",
+        "language": "舞龙"
+    },
+    {
+        "id": "3_SMG_dragonShard",
+        "language": "神龙碎片"
+    },
+    {
+        "id": "3_SMG_dragonz",
+        "language": "幸运龙宝贝"
+    },
+    {
+        "id": "3_SMG_dreamDate",
+        "language": "梦幻邂逅"
+    },
+    {
+        "id": "3_SMG_eaglesWings",
+        "language": "疾风老鹰"
+    },
+    {
+        "id": "3_SMG_emotiCoins",
+        "language": "表情金币"
+    },
+    {
+        "id": "3_SMG_emperorOfTheSea",
+        "language": "青龙出海"
+    },
+    {
+        "id": "3_SMG_exoticCats",
+        "language": "异域狂兽"
+    },
+    {
+        "id": "3_SMG_fishParty",
+        "language": "海底派对"
+    },
+    {
+        "id": "3_SMG_footballStar",
+        "language": "足球明星"
+    },
+    {
+        "id": "3_SMG_footballStarDeluxe",
+        "language": "足球明星豪华版"
+    },
+    {
+        "id": "3_SMG_forbiddenThrone",
+        "language": "禁忌王座"
+    },
+    {
+        "id": "3_SMG_fortuneGirl",
+        "language": "金库甜心"
+    },
+    {
+        "id": "3_SMG_fortunium",
+        "language": "财富之都"
+    },
+    {
+        "id": "3_SMG_frozenDiamonds",
+        "language": "?急冻钻石?"
+    },
+    {
+        "id": "3_SMG_fruitVSCandy",
+        "language": "水果VS糖果"
+    },
+    {
+        "id": "3_SMG_giantRiches",
+        "language": "巨人财富"
+    },
+    {
+        "id": "3_SMG_girlsWithGunsJungleHeat",
+        "language": "美女枪手丛林激战"
+    },
+    {
+        "id": "3_SMG_gnomeWood",
+        "language": "矮木头"
+    },
+    {
+        "id": "3_SMG_goldFactory",
+        "language": "黄金工厂"
+    },
+    {
+        "id": "3_SMG_goldenEra",
+        "language": "黄金时代"
+    },
+    {
+        "id": "3_SMG_goldenPrincess",
+        "language": "黄金公主"
+    },
+    {
+        "id": "3_SMG_gopherGold",
+        "language": "黄金地鼠"
+    },
+    {
+        "id": "3_SMG_halloween ",
+        "language": "万圣节"
+    },
+    {
+        "id": "3_SMG_halloweenies",
+        "language": "万圣节派对"
+    },
+    {
+        "id": "3_SMG_HappyHolidays",
+        "language": "快乐假日"
+    },
+    {
+        "id": "3_SMG_harveys",
+        "language": "哈维斯的晚餐"
+    },
+    {
+        "id": "3_SMG_highSociety",
+        "language": "上流社会"
+    },
+    {
+        "id": "3_SMG_highlander",
+        "language": "挑战者"
+    },
+    {
+        "id": "3_SMG_hitman",
+        "language": "终极杀手"
+    },
+    {
+        "id": "3_SMG_hollyJollyPenguins",
+        "language": "圣诞企鹅"
+    },
+    {
+        "id": "3_SMG_HoundHotel",
+        "language": "猎犬酒店"
+    },
+    {
+        "id": "3_SMG_huangdiTheYellowEmperor",
+        "language": "轩辕帝传"
+    },
+    {
+        "id": "3_SMG_immortalRomance",
+        "language": "不朽情缘"
+    },
+    {
+        "id": "3_SMG_isis",
+        "language": "伊希斯"
+    },
+    {
+        "id": "3_SMG_jungleJimElDorado",
+        "language": "丛林吉姆-黄金国"
+    },
+    {
+        "id": "3_SMG_jungleJimAndTheLostSphinx",
+        "language": "丛林吉姆失落的狮身人面像"
+    },
+    {
+        "id": "3_SMG_jurassicWorld",
+        "language": "侏罗纪世界"
+    },
+    {
+        "id": "3_SMG_karaokeParty",
+        "language": "K歌乐韵"
+    },
+    {
+        "id": "3_SMG_kathmandu",
+        "language": "加德满都"
+    },
+    {
+        "id": "3_SMG_kingTusk",
+        "language": "大象之王"
+    },
+    {
+        "id": "3_SMG_kingsOfCash",
+        "language": "现金之王"
+    },
+    {
+        "id": "3_SMG_KittyCabana",
+        "language": "凯蒂卡巴拉"
+    },
+    {
+        "id": "3_SMG_ladiesNite",
+        "language": "淑女派对"
+    },
+    {
+        "id": "3_SMG_ladiesNite2TurnWild",
+        "language": "淑女之夜2 狂野变身"
+    },
+    {
+        "id": "3_SMG_ladyInRed",
+        "language": "红衣女郎"
+    },
+    {
+        "id": "3_SMG_laraCroftTemplesAndTombs",
+        "language": "罗拉卡芙特之神庙古墓"
+    },
+    {
+        "id": "3_SMG_LegendOftheMoonLovers",
+        "language": "奔月传说"
+    },
+    {
+        "id": "3_SMG_lifeOfRiches",
+        "language": "富裕人生"
+    },
+    {
+        "id": "3_SMG_lionsPride",
+        "language": "狮子的自尊"
+    },
+    {
+        "id": "3_SMG_liquidGold",
+        "language": "液态黄金"
+    },
+    {
+        "id": "3_SMG_loaded",
+        "language": "幸运嘻哈"
+    },
+    {
+        "id": "3_SMG_longMuFortunes",
+        "language": "龙母财富"
+    },
+    {
+        "id": "3_SMG_lostVegas",
+        "language": "迷失拉斯维加斯"
+    },
+    {
+        "id": "3_SMG_luchaLegends",
+        "language": "摔角传奇"
+    },
+    {
+        "id": "3_SMG_luckyBachelors",
+        "language": "幸运单身族"
+    },
+    {
+        "id": "3_SMG_luckyfirecracker",
+        "language": "招财鞭炮"
+    },
+    {
+        "id": "3_SMG_luckyKoi",
+        "language": "幸运锦鲤"
+    },
+    {
+        "id": "3_SMG_luckyLeprechaun",
+        "language": "幸运矮妖精"
+    },
+    {
+        "id": "3_SMG_luckyLittleGods",
+        "language": "宝贝财神"
+    },
+    {
+        "id": "3_SMG_luckyRichesHyperspins",
+        "language": "幸运富豪 Hyperspins"
+    },
+    {
+        "id": "3_SMG_luckyTwins",
+        "language": "幸运双星"
+    },
+    {
+        "id": "3_SMG_luckyTwinsJackpot",
+        "language": "幸运双星大奖"
+    },
+    {
+        "id": "3_SMG_luckyZodiac",
+        "language": "幸运生肖"
+    },
+    {
+        "id": "3_SMG_madHatters",
+        "language": "疯狂帽匠"
+    },
+    {
+        "id": "3_SMG_magicOfSahara",
+        "language": "魔力撒哈拉"
+    },
+    {
+        "id": "3_SMG_MajorMillions5Reel",
+        "language": "百万富翁5线"
+    },
+    {
+        "id": "3_SMG_mayanPrincess",
+        "language": "玛雅公主"
+    },
+    {
+        "id": "3_SMG_megaMoneyMultiplier",
+        "language": "巨额现金乘数"
+    },
+    {
+        "id": "3_SMG_MegaMoolah",
+        "language": "百万钞票"
+    },
+    {
+        "id": "3_SMG_mermaidsMillions",
+        "language": "百万人鱼"
+    },
+    {
+        "id": "3_SMG_mobyDickOnlineSlot",
+        "language": "大白鲸"
+    },
+    {
+        "id": "3_SMG_monsterWheels",
+        "language": "怪物赛车"
+    },
+    {
+        "id": "3_SMG_munchkins",
+        "language": "小小矮人"
+    },
+    {
+        "id": "3_SMG_mysticDreams",
+        "language": "神秘的梦"
+    },
+    {
+        "id": "3_SMG_oinkCountryLove",
+        "language": "呼噜噜爱上乡下"
+    },
+    {
+        "id": "3_SMG_ourDaysA",
+        "language": "有你的校园"
+    },
+    {
+        "id": "3_SMG_partyIsland",
+        "language": "派对岛屿"
+    },
+    {
+        "id": "3_SMG_peekABoo5Reel",
+        "language": "躲猫猫"
+    },
+    {
+        "id": "3_SMG_pingPongStar",
+        "language": "乒乓巨星"
+    },
+    {
+        "id": "3_SMG_pistoleras",
+        "language": "持枪王者"
+    },
+    {
+        "id": "3_SMG_playboy",
+        "language": "花花公子"
+    },
+    {
+        "id": "3_SMG_playboyFortunes",
+        "language": "PLAYBOY??财富?"
+    },
+    {
+        "id": "3_SMG_playboyGold",
+        "language": "Playboy黄金"
+    },
+    {
+        "id": "3_SMG_playboyGoldJackpots",
+        "language": "Playboy黄金大奖"
+    },
+    {
+        "id": "3_SMG_pollenParty",
+        "language": "花粉之国"
+    },
+    {
+        "id": "3_SMG_prettyKitty",
+        "language": "漂亮猫咪"
+    },
+    {
+        "id": "3_SMG_purePlatinum",
+        "language": "完美白金"
+    },
+    {
+        "id": "3_SMG_queenOfTheCrystalRays",
+        "language": "水晶射线女王"
+    },
+    {
+        "id": "3_SMG_rabbitinthehat",
+        "language": "帽中的兔子"
+    },
+    {
+        "id": "3_SMG_reelGems",
+        "language": "宝石转轴"
+    },
+    {
+        "id": "3_SMG_reelSpinner",
+        "language": "旋转大战"
+    },
+    {
+        "id": "3_SMG_reelStrike",
+        "language": "海洋争夺"
+    },
+    {
+        "id": "3_SMG_ReelTalent",
+        "language": "真正高手"
+    },
+    {
+        "id": "3_SMG_reelThunder",
+        "language": "转轴雷电"
+    },
+    {
+        "id": "3_SMG_relicSeekers",
+        "language": "探陵人"
+    },
+    {
+        "id": "3_SMG_retroReels",
+        "language": "经典老虎机"
+    },
+    {
+        "id": "3_SMG_retroReelsDiamondGlitz",
+        "language": "复古转轴之炫目钻石"
+    },
+    {
+        "id": "3_SMG_retroReelsExtremeHeat",
+        "language": "酷热经典"
+    },
+    {
+        "id": "3_SMG_rhymingReelsGeorgiePorgie",
+        "language": "乔治与柏志"
+    },
+    {
+        "id": "3_SMG_rhymingReelsHeartsAndTarts",
+        "language": "童话转轴 红心皇后"
+    },
+    {
+        "id": "3_SMG_rivieraRiches",
+        "language": "瑞维拉财宝"
+    },
+    {
+        "id": "3_SMG_robinOfSherwoodOnlineSlot",
+        "language": "舍伍德的罗宾"
+    },
+    {
+        "id": "3_SMG_romanovRiches",
+        "language": "罗曼诺夫财富"
+    },
+    {
+        "id": "3_SMG_rugbyStar",
+        "language": "橄榄球明星"
+    },
+    {
+        "id": "3_SMG_rugbyStarDeluxe",
+        "language": "橄榄球明星豪华版"
+    },
+    {
+        "id": "3_SMG_santaPaws",
+        "language": "圣诞狗狗"
+    },
+    {
+        "id": "3_SMG_santasWildRide",
+        "language": "圣诞老人的百搭摩托车"
+    },
+    {
+        "id": "3_SMG_scrooge",
+        "language": "小气财神"
+    },
+    {
+        "id": "3_SMG_secretAdmirer",
+        "language": "暗恋"
+    },
+    {
+        "id": "3_SMG_secretRomance",
+        "language": "秘密爱慕者"
+    },
+    {
+        "id": "3_SMG_shanghaiBeauty",
+        "language": "上海美女"
+    },
+    {
+        "id": "3_SMG_sherlockOfLondonOnlineSlot",
+        "language": "伦敦的夏洛克"
+    },
+    {
+        "id": "3_SMG_shogunofTime",
+        "language": "时界门之将军"
+    },
+    {
+        "id": "3_SMG_showdownSaloon",
+        "language": "对决沙龙"
+    },
+    {
+        "id": "3_SMG_silverFang",
+        "language": "银狼"
+    },
+    {
+        "id": "3_SMG_silverLioness4x",
+        "language": "银色雌狮4x"
+    },
+    {
+        "id": "3_SMG_sixAcrobats",
+        "language": "杂技群英会"
+    },
+    {
+        "id": "3_SFB_SnakeLady",
+        "language": "白蛇传"
+    },
+    {
+        "id": "3_SMG_soManyMonsters",
+        "language": "多多怪兽"
+    },
+    {
+        "id": "3_SMG_soMuchCandy",
+        "language": "多多糖果"
+    },
+    {
+        "id": "3_SMG_soMuchSushi",
+        "language": "多多寿司"
+    },
+    {
+        "id": "3_SMG_springBreak",
+        "language": "放浪假日"
+    },
+    {
+        "id": "3_SMG_stardust",
+        "language": "星尘"
+    },
+    {
+        "id": "3_SMG_starlightKiss",
+        "language": "星光之吻"
+    },
+    {
+        "id": "3_SMG_stashOfTheTitans",
+        "language": "泰坦帝国"
+    },
+    {
+        "id": "3_SMG_sterlingSilver",
+        "language": "纯银"
+    },
+    {
+        "id": "3_SMG_sugarParade",
+        "language": "糖果巡游"
+    },
+    {
+        "id": "3_SMG_summerHoliday",
+        "language": "暑假"
+    },
+    {
+        "id": "3_SMG_summertime",
+        "language": "暑假时光"
+    },
+    {
+        "id": "3_SMG_sunQuest",
+        "language": "追寻太阳"
+    },
+    {
+        "id": "3_SMG_sunTide",
+        "language": "太阳征程"
+    },
+    {
+        "id": "3_SMG_supeItUp",
+        "language": "增强马力"
+    },
+    {
+        "id": "3_SMG_sureWin",
+        "language": "必胜"
+    },
+    {
+        "id": "3_SMG_tallyHo",
+        "language": "狩猎游戏"
+    },
+    {
+        "id": "3_SMG_tarzan",
+        "language": "泰山传奇"
+    },
+    {
+        "id": "3_SMG_tastyStreet",
+        "language": "妹妹很饿"
+    },
+    {
+        "id": "3_SMG_theFinerReelsOfLife",
+        "language": "至尊人生"
+    },
+    {
+        "id": "3_SMG_theGrandJourney",
+        "language": "探险之旅"
+    },
+    {
+        "id": "3_SMG_theGreatAlbini",
+        "language": "伟大魔术师"
+    },
+    {
+        "id": "3_SMG_theHeatIsOn",
+        "language": "极速抢钱"
+    },
+    {
+        "id": "3_SMG_thePhantomOfTheOpera",
+        "language": "歌剧魅影"
+    },
+    {
+        "id": "3_SMG_theRatPack",
+        "language": "鼠帮"
+    },
+    {
+        "id": "3_SMG_theTwistedCircus",
+        "language": "奇妙马戏团"
+    },
+    {
+        "id": "3_SMG_thunderstruck",
+        "language": "雷霆万钧"
+    },
+    {
+        "id": "3_SMG_thunderstruck2",
+        "language": "雷霆万钧2"
+    },
+    {
+        "id": "3_SMG_tigersEye",
+        "language": "虎眼"
+    },
+    {
+        "id": "3_SMG_tikiVikings",
+        "language": "蒂基维京"
+    },
+    {
+        "id": "3_SMG_titansOfTheSunHyperion",
+        "language": "太阳神"
+    },
+    {
+        "id": "3_SMG_titansOfTheSunTheia",
+        "language": "太阳神忒伊亚"
+    },
+    {
+        "id": "3_SMG_tombRaider",
+        "language": "古墓奇兵"
+    },
+    {
+        "id": "3_SMG_RubyTombRaiderII",
+        "language": "古墓奇兵2"
+    },
+    {
+        "id": "3_SMG_treasureNile",
+        "language": "尼罗河宝藏"
+    },
+    {
+        "id": "3_SMG_treasurePalace",
+        "language": "宝藏宫殿"
+    },
+    {
+        "id": "3_SMG_treasuresOfLionCity",
+        "language": "海底宝城"
+    },
+    {
+        "id": "3_SMG_untamedGiantPanda",
+        "language": "野生大熊猫"
+    },
+    {
+        "id": "3_SMG_villagePeople",
+        "language": "型男舞步"
+    },
+    {
+        "id": "3_SMG_vinylCountdown",
+        "language": "黑胶热舞"
+    },
+    {
+        "id": "3_SMG_voila",
+        "language": "哈啰巴黎"
+    },
+    {
+        "id": "3_SFB_VolcanoJourney",
+        "language": "西方火山历险"
+    },
+    {
+        "id": "3_SMG_wackyPanda",
+        "language": "囧囧熊猫"
+    },
+    {
+        "id": "3_SMG_whatAHoot",
+        "language": "滑稽猫头鹰"
+    },
+    {
+        "id": "3_SMG_wheelofWishes",
+        "language": "愿望转盘"
+    },
+    {
+        "id": "3_SMG_wickedTalesDarkRed",
+        "language": "黑暗故事神秘深红"
+    },
+    {
+        "id": "3_SMG_wildCatchNew",
+        "language": "荒野垂钓"
+    },
+    {
+        "id": "3_SMG_wildOrient",
+        "language": "东方珍兽"
+    },
+    {
+        "id": "3_SMG_wildScarabs",
+        "language": "百搭圣甲虫"
+    },
+    {
+        "id": "3_SMG_winSumDimSum",
+        "language": "开心点心"
+    },
+    {
+        "id": "3_SMG_zombieHoard",
+        "language": "丧尸来袭"
+    },
+    {
+        "id": "3_SVS_Instant_Football",
+        "language": "实时足球"
+    },
+    {
+        "id": "3_SVS_instant_greyhounds",
+        "language": "实时赛狗"
+    },
+    {
+        "id": "3_SVS_instant_horses",
+        "language": "实时赛马"
+    },
+    {
+        "id": "3_SVS_instant_racing",
+        "language": "实时比赛"
+    },
+    {
+        "id": "3_SVS_instant_speedway",
+        "language": "实时赛道"
+    },
+    {
+        "id": "3_SVS_instant_trotting",
+        "language": "实时快步马车"
+    },
+    {
+        "id": "3_SVS_instant_velodrome",
+        "language": "实时自行车赛"
+    },
+    {
+        "id": "3_SVS_virtual_football",
+        "language": "虚拟足球比赛"
+    },
+    {
+        "id": "3_SVS_virtual_greyhounds",
+        "language": "虚拟赛狗"
+    },
+    {
+        "id": "3_SVS_virtual_horses",
+        "language": "虚拟赛马"
+    },
+    {
+        "id": "3_SVS_virtual_racing",
+        "language": "虚拟比赛"
+    },
+    {
+        "id": "3_SVS_virtual_speedway",
+        "language": "虚拟赛道"
+    },
+    {
+        "id": "3_SVS_virtual_tennis",
+        "language": "虚拟网球赛"
+    },
+    {
+        "id": "3_SVS_virtual_trotting",
+        "language": "虚拟快步马车"
+    },
+    {
+        "id": "3_SVS_virtual_velodrome",
+        "language": "虚拟自行车赛"
+    },
+    {
+        "id": 299,
+        "language": "赠送"
+    },
+    {
+        "id": 300,
+        "language": "当前版本过低，请前往下载最新安装包."
+    },
+	{
+		"id": 301,
+		"language":"平"
+	}
+]

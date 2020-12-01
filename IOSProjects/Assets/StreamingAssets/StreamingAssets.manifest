@@ -1,0 +1,163 @@
+ManifestFileVersion: 0
+CRC: 933893506
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua/lua_common.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: lua/lua_config.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: lua/lua_logic.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: lua/lua_mode.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: lua/lua_qiuqiu.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: lua/lua_system.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: lua/lua_unityengine.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: lua/lua_view.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: lua/lua_cjson.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: lua/lua_jit.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: lua/lua_lpeg.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: lua/lua_misc.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: lua/lua_protobuf.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: lua/lua_socket.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: lua/lua_3rd_cjson.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: lua/lua_3rd_pbc.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: lua/lua_config_hall.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: lua/lua_config_qiuqiu.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: lua/lua_system_injection.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: lua/lua_system_reflection.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: lua/lua.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: effect.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: hallmusic.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: aboutus.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: addbankcard.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: choicetime.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: global.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: hall.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: hallnotice.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: helpcenter.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: inbox.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: login.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: more.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: notice.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: passwordseting.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: pay.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: payrecord.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: penarikan.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: person.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: personalcenter.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: promoted.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: qiandao.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: qiuqiu.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: qiuqiuicon.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: reconnect.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: selectlanguage.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: sendtoemail.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: shortnotice.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: system.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: transferbank.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: uniweb.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: vip.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: verificationcode.unity3d
+      Dependencies: {}

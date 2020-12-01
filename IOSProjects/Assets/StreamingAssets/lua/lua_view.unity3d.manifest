@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2746647657
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21105ea96bd5d7820d1af336e537c584
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/View/PersonalCenterPanel.lua.bytes
+- Assets/Lua/View/PenarikanPanel.lua.bytes
+- Assets/Lua/View/AboutUsPanel.lua.bytes
+- Assets/Lua/View/PromotedPanel.lua.bytes
+- Assets/Lua/View/ReconnectPanel.lua.bytes
+- Assets/Lua/View/NoticePanel.lua.bytes
+- Assets/Lua/View/QiandaoPanel.lua.bytes
+- Assets/Lua/View/PersonPanel.lua.bytes
+- Assets/Lua/View/MorePanel.lua.bytes
+- Assets/Lua/View/GlobalPanel.lua.bytes
+- Assets/Lua/View/PayPanel.lua.bytes
+- Assets/Lua/View/HallPanel.lua.bytes
+- Assets/Lua/View/TransferBankPanel.lua.bytes
+- Assets/Lua/View/AddBankCardPanel.lua.bytes
+- Assets/Lua/View/PayRecordPanel.lua.bytes
+- Assets/Lua/View/SelectLanguagePanel.lua.bytes
+- Assets/Lua/View/VIPPanel.lua.bytes
+- Assets/Lua/View/SendToEmailPanel.lua.bytes
+- Assets/Lua/View/HelpCenterPanel.lua.bytes
+- Assets/Lua/View/InboxPanel.lua.bytes
+- Assets/Lua/View/UniWebPanel.lua.bytes
+- Assets/Lua/View/OpenScene.lua.bytes
+- Assets/Lua/View/LoginPanel.lua.bytes
+- Assets/Lua/View/PasswordSetingPanel.lua.bytes
+- Assets/Lua/View/ShortNoticePanel.lua.bytes
+Dependencies: []

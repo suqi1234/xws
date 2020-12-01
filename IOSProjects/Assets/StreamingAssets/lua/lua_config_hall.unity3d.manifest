@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1217278462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3c53ee28a19109f8c921a3735c5ca49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/Config/Hall/gamelist.lua.bytes
+Dependencies: []

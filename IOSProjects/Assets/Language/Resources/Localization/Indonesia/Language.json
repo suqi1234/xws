@@ -1,0 +1,3478 @@
+[
+    {
+        "id": 1,
+        "language": "Login"
+    },
+    {
+        "id": 2,
+        "language": "Masuk"
+    },
+    {
+        "id": 3,
+        "language": "Nama pengguna"
+    },
+    {
+        "id": 4,
+        "language": "Silakan masukkan nama pengguna atau email"
+    },
+    {
+        "id": 5,
+        "language": "Nomor ponsel"
+    },
+    {
+        "id": 6,
+        "language": "Masukkan nomor ponsel"
+    },
+    {
+        "id": 7,
+        "language": "Kata sandi"
+    },
+    {
+        "id": 8,
+        "language": "Masukkan password"
+    },
+    {
+        "id": 9,
+        "language": "Ingat password"
+    },
+    {
+        "id": 10,
+        "language": "Lupa password"
+    },
+    {
+        "id": 11,
+        "language": "Masuk"
+    },
+    {
+        "id": 12,
+        "language": "Silakan masukkan nomor akun atau email"
+    },
+    {
+        "id": 13,
+        "language": "Silakan masukkan nomor ponsel"
+    },
+    {
+        "id": 14,
+        "language": "Silakan masukkan password"
+    },
+    {
+        "id": 15,
+        "language": "Nomor akun atau password salah"
+    },
+    {
+        "id": 16,
+        "language": "Sedang login, tidak bisa login lagi"
+    },
+    {
+        "id": 17,
+        "language": "Cara login lainnya"
+    },
+    {
+        "id": 18,
+        "language": "Pendaftaran"
+    },
+    {
+        "id": 19,
+        "language": "PENDAFEARAN AKUN"
+    },
+    {
+        "id": 20,
+        "language": "Nomor rekening"
+    },
+    {
+        "id": 21,
+        "language": "Silakan masukkan nomor rekening anda"
+    },
+    {
+        "id": 22,
+        "language": "MENDAFTAR DI E"
+    },
+    {
+        "id": 23,
+        "language": "Akun Email"
+    },
+    {
+        "id": 24,
+        "language": "Transfer informasi email"
+    },
+    {
+        "id": 25,
+        "language": "DAFTARKAN MELALUI PONSEL"
+    },
+    {
+        "id": 26,
+        "language": "Nomor ponsel"
+    },
+    {
+        "id": 27,
+        "language": "Masukkan nomor ponsel"
+    },
+    {
+        "id": 28,
+        "language": "Kata sandi"
+    },
+    {
+        "id": 29,
+        "language": "Veriflkasi Kata sandi"
+    },
+    {
+        "id": 30,
+        "language": "Masukkan 6-12 digit Kata sandi"
+    },
+    {
+        "id": 31,
+        "language": "Kode verifikasi"
+    },
+    {
+        "id": 32,
+        "language": "Masukkan kode verifikasi ponsel"
+    },
+    {
+        "id": 33,
+        "language": "Kirim"
+    },
+    {
+        "id": 34,
+        "language": "Captcha"
+    },
+    {
+        "id": 35,
+        "language": "Masukkan kode verifikasi captcha"
+    },
+    {
+        "id": 36,
+        "language": "Saya telah membaca dan menyetujui <Perjanjian Privasi dan Layanan Pelanggan>"
+    },
+    {
+        "id": 37,
+        "language": "DAFTAR"
+    },
+    {
+        "id": 38,
+        "language": "Silakan masukkan nomor akun"
+    },
+    {
+        "id": 39,
+        "language": "Nama pengguna salah"
+    },
+    {
+        "id": 40,
+        "language": "Silakan masukkan email"
+    },
+    {
+        "id": 41,
+        "language": "Silakan masukkan format email yang benar"
+    },
+    {
+        "id": 42,
+        "language": "Silakan masukkan nomor ponsel"
+    },
+    {
+        "id": 43,
+        "language": "Silakan masukkan password"
+    },
+    {
+        "id": 44,
+        "language": "Password tidak sama"
+    },
+    {
+        "id": 45,
+        "language": "Silakan masukkan kode verifikasi"
+    },
+    {
+        "id": 46,
+        "language": "Kode verifikasi salah"
+    },
+    {
+        "id": 47,
+        "language": "Sedang menunggu xx detik"
+    },
+    {
+        "id": 48,
+        "language": "Harus menyetujui Perjanjian Pengguna"
+    },
+    {
+        "id": 49,
+        "language": "Registrasi Berhasil"
+    },
+    {
+        "id": 50,
+        "language": "Nama pengguna ini sudah terpakai"
+    },
+    {
+        "id": 51,
+        "language": "SETORAN"
+    },
+    {
+        "id": 52,
+        "language": "Melihat langkah panduannya"
+    },
+    {
+        "id": 53,
+        "language": "Catatan Deposit"
+    },
+    {
+        "id": 54,
+        "language": "PILIH CARA SETORAN"
+    },
+    {
+        "id": 55,
+        "language": "Transfer lewat bank"
+    },
+    {
+        "id": 56,
+        "language": "SETORAN"
+    },
+    {
+        "id": 57,
+        "language": "Transfer bank"
+    },
+    {
+        "id": 58,
+        "language": "HSBC"
+    },
+    {
+        "id": 59,
+        "language": "Informasi penerima"
+    },
+    {
+        "id": 60,
+        "language": "Nomor rekening"
+    },
+    {
+        "id": 61,
+        "language": "Silakan masukkan nomor rekening"
+    },
+    {
+        "id": 62,
+        "language": "Nama rekening"
+    },
+    {
+        "id": 63,
+        "language": "Silakan masukkan nama"
+    },
+    {
+        "id": 64,
+        "language": "Informasi pengirim"
+    },
+    {
+        "id": 65,
+        "language": "Bank"
+    },
+    {
+        "id": 66,
+        "language": "Nama rekening"
+    },
+    {
+        "id": 67,
+        "language": "Nomor rekening"
+    },
+    {
+        "id": 68,
+        "language": "Salin"
+    },
+    {
+        "id": 69,
+        "language": "Jumlah setoran"
+    },
+    {
+        "id": 70,
+        "language": "Silakan masukkan jumlahnya"
+    },
+    {
+        "id": 71,
+        "language": "KIRIM"
+    },
+    {
+        "id": 72,
+        "language": "Nomor kartu bank tidak boleh kosong"
+    },
+    {
+        "id": 73,
+        "language": "Nama pengguna tidak boleh kosong"
+    },
+    {
+        "id": 74,
+        "language": "Jumlah nominal tidak boleh kosong"
+    },
+    {
+        "id": 75,
+        "language": "Transfer berhasil"
+    },
+    {
+        "id": 76,
+        "language": "Jumlah pengiriman melebihi jumlah pesanan yang sedang menunggu peninjauan"
+    },
+    {
+        "id": 77,
+        "language": "Setoran"
+    },
+    {
+        "id": 78,
+        "language": "Tanggal"
+    },
+    {
+        "id": 79,
+        "language": "Tipe Setoran"
+    },
+    {
+        "id": 80,
+        "language": "Berhasil"
+    },
+    {
+        "id": 81,
+        "language": "Gagal"
+    },
+    {
+        "id": 82,
+        "language": "Belum ditinjau"
+    },
+    {
+        "id": 83,
+        "language": "RINCIAN"
+    },
+    {
+        "id": 84,
+        "language": "Tipe Setoran"
+    },
+    {
+        "id": 85,
+        "language": "Penomoran"
+    },
+    {
+        "id": 86,
+        "language": "Tanggal"
+    },
+    {
+        "id": 87,
+        "language": "Keadaan"
+    },
+    {
+        "id": 88,
+        "language": "Catatan"
+    },
+    {
+        "id": 89,
+        "language": "PENARIKAN"
+    },
+    {
+        "id": 90,
+        "language": "Penarikan"
+    },
+    {
+        "id": 91,
+        "language": "Anda Balum Mempunyai Rekening Bank,Tambahkan."
+    },
+    {
+        "id": 92,
+        "language": "TAMBAHKAN REKENING BANK"
+    },
+    {
+        "id": 93,
+        "language": "Harap tautkan dengan kartu bank terlebih dahulu"
+    },
+    {
+        "id": 94,
+        "language": "Detil bank"
+    },
+    {
+        "id": 95,
+        "language": "Bank"
+    },
+    {
+        "id": 96,
+        "language": "Nama rekening"
+    },
+    {
+        "id": 97,
+        "language": "Silakan masukkan nama pengguna atau email"
+    },
+    {
+        "id": 98,
+        "language": "Nomor rekening"
+    },
+    {
+        "id": 99,
+        "language": "Silakan masukkan nomor rekening Anda"
+    },
+    {
+        "id": 100,
+        "language": "SEBELUMNYA"
+    },
+    {
+        "id": 101,
+        "language": "SELESAI"
+    },
+    {
+        "id": 102,
+        "language": "Name ridak boleh kosong"
+    },
+    {
+        "id": 103,
+        "language": "Nomor rekening tidak boleh kosong"
+    },
+    {
+        "id": 104,
+        "language": "Berhasil ditambahkan"
+    },
+    {
+        "id": 105,
+        "language": "Tambahkan Kode Penarikan"
+    },
+    {
+        "id": 106,
+        "language": "Pengaturan kata sandi penarikan"
+    },
+    {
+        "id": 107,
+        "language": "Kata sandi"
+    },
+    {
+        "id": 108,
+        "language": "Masukkan 4-8 digit password penarikan"
+    },
+    {
+        "id": 109,
+        "language": "Masukkan 4-8 digit password penarikan"
+    },
+    {
+        "id": 110,
+        "language": "Populer"
+    },
+    {
+        "id": 111,
+        "language": "Metode pembayaran telah dikonfirmasi"
+    },
+    {
+        "id": 112,
+        "language": "Bank Penarikan"
+    },
+    {
+        "id": 113,
+        "language": "Nama rekening"
+    },
+    {
+        "id": 114,
+        "language": "Nomor rekening"
+    },
+    {
+        "id": 115,
+        "language": "Jumlah"
+    },
+    {
+        "id": 116,
+        "language": "Silakan masukkan jumlah nominal"
+    },
+    {
+        "id": 117,
+        "language": "SEMUA"
+    },
+    {
+        "id": 118,
+        "language": "Password penarikan"
+    },
+    {
+        "id": 119,
+        "language": "Masukkan 4-8 digit password penarikan"
+    },
+    {
+        "id": 120,
+        "language": "KONFIRMASI PENARIKAN"
+    },
+    {
+        "id": 121,
+        "language": "Harap atur password penarikan terlebih dahulu"
+    },
+    {
+        "id": 122,
+        "language": "Silakan masukkan nominal penarikan"
+    },
+    {
+        "id": 123,
+        "language": "Silakan masukkan password penarikan"
+    },
+    {
+        "id": 124,
+        "language": "Kode verifikasi pembayaran salah"
+    },
+    {
+        "id": 125,
+        "language": "Jumlah kesalahan"
+    },
+    {
+        "id": 126,
+        "language": "Jumlah nominal tidak mencukupi"
+    },
+    {
+        "id": 127,
+        "language": "Keberhasilan penarikan uang tunai"
+    },
+    {
+        "id": 128,
+        "language": "Catatan Penarikan"
+    },
+    {
+        "id": 129,
+        "language": "Tanggal"
+    },
+    {
+        "id": 130,
+        "language": "Fitur ini belum dibuka, jadi pantau terus!"
+    },
+    {
+        "id": 131,
+        "language": "Jenis deposit"
+    },
+    {
+        "id": 132,
+        "language": "Nomor"
+    },
+    {
+        "id": 133,
+        "language": "Tanggal"
+    },
+    {
+        "id": 134,
+        "language": "Status"
+    },
+    {
+        "id": 135,
+        "language": "Catatan"
+    },
+    {
+        "id": 136,
+        "language": "Keamanan Akun"
+    },
+    {
+        "id": 137,
+        "language": "Pusat Bantuan"
+    },
+    {
+        "id": 138,
+        "language": "Teman"
+    },
+    {
+        "id": 139,
+        "language": "Tentang Kami"
+    },
+    {
+        "id": 140,
+        "language": "Language"
+    },
+    {
+        "id": 141,
+        "language": "Bahasa"
+    },
+    {
+        "id": 142,
+        "language": "Konfirmasi"
+    },
+    {
+        "id": 143,
+        "language": "KELUAR"
+    },
+    {
+        "id": 144,
+        "language": "LOG IN"
+    },
+    {
+        "id": 145,
+        "language": "Profil"
+    },
+    {
+        "id": 146,
+        "language": "Rekor Taruhan"
+    },
+    {
+        "id": 147,
+        "language": "Catatan Transaksi"
+    },
+    {
+        "id": 148,
+        "language": "Peringkat"
+    },
+    {
+        "id": 149,
+        "language": "Bonus Pertandingan"
+    },
+    {
+        "id": 150,
+        "language": "ID PEMAIN"
+    },
+    {
+        "id": 151,
+        "language": "Tanggal"
+    },
+    {
+        "id": 152,
+        "language": "Platform"
+    },
+    {
+        "id": 153,
+        "language": "Jenis"
+    },
+    {
+        "id": 154,
+        "language": "Cepat"
+    },
+    {
+        "id": 155,
+        "language": "Tipe Permainan"
+    },
+    {
+        "id": 156,
+        "language": "Jumlah Order"
+    },
+    {
+        "id": 157,
+        "language": "Jenis Operasi"
+    },
+    {
+        "id": 158,
+        "language": "Jumlah taruhan"
+    },
+    {
+        "id": 159,
+        "language": "Laba Rugi"
+    },
+    {
+        "id": 160,
+        "language": "Kalah/Menang"
+    },
+    {
+        "id": 161,
+        "language": "Tidak ada data"
+    },
+    {
+        "id": 162,
+        "language": "Jenis Dari"
+    },
+    {
+        "id": 163,
+        "language": "KIRIM MELALUI"
+    },
+    {
+        "id": 164,
+        "language": "BUKA"
+    },
+    {
+        "id": 165,
+        "language": "KIRIM MELALUI E-MAIL"
+    },
+    {
+        "id": 166,
+        "language": "ALAMAT E-MAIL"
+    },
+    {
+        "id": 167,
+        "language": "Masukkan email..."
+    },
+    {
+        "id": 168,
+        "language": "KIRIM"
+    },
+    {
+        "id": 169,
+        "language": "Syara dan Ketentuan:"
+    },
+    {
+        "id": 170,
+        "language": "Ubah status default berhasil"
+    },
+    {
+        "id": 171,
+        "language": "Penomoran"
+    },
+    {
+        "id": 172,
+        "language": "Jumlah sebelum perubahan"
+    },
+    {
+        "id": 173,
+        "language": "Ubah nilai"
+    },
+    {
+        "id": 174,
+        "language": "Keseimbangan demi perubahan"
+    },
+    {
+        "id": 175,
+        "language": "Inbox"
+    },
+    {
+        "id": 176,
+        "language": "undangan"
+    },
+    {
+        "id": 177,
+        "language": "Pengumuman"
+    },
+    {
+        "id": 178,
+        "language": "HAPUS"
+    },
+    {
+        "id": 179,
+        "language": "Promosi"
+    },
+    {
+        "id": 180,
+        "language": "TurnaMen"
+    },
+    {
+        "id": 181,
+        "language": "Aplikasi Saya"
+    },
+    {
+        "id": 182,
+        "language": "Aplikasi"
+    },
+    {
+        "id": 183,
+        "language": "Tanggal"
+    },
+    {
+        "id": 184,
+        "language": "Kegiatan"
+    },
+    {
+        "id": 185,
+        "language": "Keadaan"
+    },
+    {
+        "id": 186,
+        "language": "VIP Rincian"
+    },
+    {
+        "id": 187,
+        "language": "PERUNGGU"
+    },
+    {
+        "id": 188,
+        "language": "PERAK"
+    },
+    {
+        "id": 189,
+        "language": "EMAS"
+    },
+    {
+        "id": 190,
+        "language": "PLATINUM"
+    },
+    {
+        "id": 191,
+        "language": "BERLIAN"
+    },
+    {
+        "id": 192,
+        "language": "MULIA"
+    },
+    {
+        "id": 193,
+        "language": "Kondisi peningkatan"
+    },
+    {
+        "id": 194,
+        "language": "SETORAN"
+    },
+    {
+        "id": 195,
+        "language": "Penghargaan"
+    },
+    {
+        "id": 196,
+        "language": "Bonus promosi"
+    },
+    {
+        "id": 197,
+        "language": "Hadiah Mingguan"
+    },
+    {
+        "id": 198,
+        "language": "Hadiah Bulanan"
+    },
+    {
+        "id": 199,
+        "language": "Hadiah Ulang Tahun"
+    },
+    {
+        "id": 200,
+        "language": "Diskon Deposit"
+    },
+    {
+        "id": 201,
+        "language": "Diskon"
+    },
+    {
+        "id": 202,
+        "language": "Olahrag"
+    },
+    {
+        "id": 203,
+        "language": "Poker"
+    },
+    {
+        "id": 204,
+        "language": "Kasino"
+    },
+    {
+        "id": 205,
+        "language": "Mesin Slot"
+    },
+    {
+        "id": 206,
+        "language": "Penangkapan Ikan"
+    },
+    {
+        "id": 207,
+        "language": "Layanan Dukungan"
+    },
+    {
+        "id": 208,
+        "language": "Prioritas Deposit"
+    },
+    {
+        "id": 209,
+        "language": "Prioritas Penarikan"
+    },
+    {
+        "id": 210,
+        "language": "Layanan Pelanggan 24/7"
+    },
+    {
+        "id": 211,
+        "language": "Manajer Akun Khusus"
+    },
+    {
+        "id": 212,
+        "language": "Penarikan tanpa batas"
+    },
+    {
+        "id": 213,
+        "language": "Keamanan Akun"
+    },
+    {
+        "id": 214,
+        "language": "PASSWORD LOGIN"
+    },
+    {
+        "id": 215,
+        "language": "PASSWORD PENARIKAN"
+    },
+    {
+        "id": 216,
+        "language": "DETAIL BANK"
+    },
+    {
+        "id": 217,
+        "language": "Password saat ini"
+    },
+    {
+        "id": 218,
+        "language": "Password baru"
+    },
+    {
+        "id": 219,
+        "language": "Konfirmasi password"
+    },
+    {
+        "id": 220,
+        "language": "Silakan masukkan 6-12 digit pasword"
+    },
+    {
+        "id": 221,
+        "language": "Semua"
+    },
+    {
+        "id": 222,
+        "language": "Silakan masukkan password lama"
+    },
+    {
+        "id": 223,
+        "language": "Password lama salah"
+    },
+    {
+        "id": 224,
+        "language": "Dua password yang dimasukkan tidak sama"
+    },
+    {
+        "id": 225,
+        "language": "Password lama dan password baru sama"
+    },
+    {
+        "id": 226,
+        "language": "Berhail mengubah password"
+    },
+    {
+        "id": 227,
+        "language": "Masukkan pengaturan password"
+    },
+    {
+        "id": 228,
+        "language": "Password saat ini"
+    },
+    {
+        "id": 229,
+        "language": "Password baru"
+    },
+    {
+        "id": 230,
+        "language": "Masukkan 4-8 digit password penarikan"
+    },
+    {
+        "id": 231,
+        "language": "priotitas"
+    },
+    {
+        "id": 232,
+        "language": "Password lama salah"
+    },
+    {
+        "id": 233,
+        "language": "Pengaturan password pembayaran berhasil"
+    },
+    {
+        "id": 234,
+        "language": "Anda belum menautkan kartu bank"
+    },
+    {
+        "id": 235,
+        "language": "Saluran pendaftaran ditutup"
+    },
+    {
+        "id": 236,
+        "language": "Ubah"
+    },
+    {
+        "id": 237,
+        "language": "Hapus"
+    },
+    {
+        "id": 238,
+        "language": "Berhasil memilih kartu bank"
+    },
+    {
+        "id": 239,
+        "language": "Saluran pembayaran ditutup"
+    },
+    {
+        "id": 240,
+        "language": "Tidak ada data yang relevan"
+    },
+    {
+        "id": 241,
+        "language": "VIP"
+    },
+    {
+        "id": 242,
+        "language": "1.Semua anggota 8BET berkesempatan menjadi member VIP."
+    },
+    {
+        "id": 243,
+        "language": "Anda  telah mengatur sandi penarikan. Hubungi layanan pelanggan jika anda ingin mengubahnya."
+    },
+    {
+        "id": 244,
+        "language": "HUBUNGI LAYANAN PELANGGAN"
+    },
+    {
+        "id": 245,
+        "language": "2.Anggota yang berhasil memenuhi syarat akan secara otomatis menjadi Member VIP dan dan berhak menerima komisi mingguan dan bulanan yang lebihbesar."
+    },
+    {
+        "id": 246,
+        "language": "3.Segera tingkatkan level VIP anda , dan nikmati promosi lebih dari 8BET."
+    },
+    {
+        "id": 247,
+        "language": "4.8BET memiliki hak untuk mengubah, membatalkan, menolak, atau mengklaim kembali promosi apa pun atas kebijakannya sendiri."
+    },
+    {
+        "id": 248,
+        "language": "5.Status VIP anggota tidak dapat dipindahkan ke akun lain."
+    },
+    {
+        "id": 249,
+        "language": "6.Keputusan 8BET adalah mutlak adanya dan tidak dapat diganggu gugat."
+    },
+    {
+        "id": 250,
+        "language": "7.Setiap anggota harus mengikuti Syarat dan ketentuan yang berlaku."
+    },
+    {
+        "id": 251,
+        "language": "8.Untuk pertanyaan lebih lanjut, silahkan hubungi Livechat 8BET (24 jam)."
+    },
+    {
+        "id": 252,
+        "language": "Fungsi bank hanya dapat digunakan setelah mengatur kata sandi bank"
+    },
+    {
+        "id": 253,
+        "language": "Anda dapat menggunakan fungsi perbankan setelah mengikat nomor ponsel Anda dan menyetel kata sandi bank"
+    },
+    {
+        "id": 254,
+        "language": "Berhasil diubah"
+    },
+    {
+        "id": 255,
+        "language": "Rengaturan kode pembayaran berhasil"
+    },
+    {
+        "id": 256,
+        "language": "Modifikasi ini membutuhkan 2 juta koin emas, baik untuk dimodifikasi"
+    },
+    {
+        "id": 257,
+        "language": "Berhasil Dihapus"
+    },
+    {
+        "id": 258,
+        "language": "Slots"
+    },
+    {
+        "id": 259,
+        "language": "Salin berhasil"
+    },
+    {
+        "id": 260,
+        "language": "Silakan masukkan kata sandi baru"
+    },
+    {
+        "id": 261,
+        "language": "Silakan masukkan konfirmasi kata sandi"
+    },
+    {
+        "id": 262,
+        "language": "Persetujuan diperlukan"
+    },
+    {
+        "id": 263,
+        "language": "Nama panggilan berhasil diubah"
+    },
+    {
+        "id": 264,
+        "language": "Avatar berhasil dimodifikasi"
+    },
+    {
+        "id": 265,
+        "language": "Modifikasi nama panggilan gagal"
+    },
+    {
+        "id": 266,
+        "language": "Modifikasi avatar gagal"
+    },
+    {
+        "id": 10001,
+        "language": "Nama pengguna sudah terpakai"
+    },
+    {
+        "id": 10002,
+        "language": "Password salah"
+    },
+    {
+        "id": 10003,
+        "language": "Email salah"
+    },
+    {
+        "id": 10004,
+        "language": "Nomor ponsel salah"
+    },
+    {
+        "id": 10005,
+        "language": "Password harus terdiri dari angka dan huruf"
+    },
+    {
+        "id": 10006,
+        "language": "Nomor akun dan password tidak cocok"
+    },
+    {
+        "id": 10007,
+        "language": "Login gagal."
+    },
+    {
+        "id": 10008,
+        "language": "Akun sedang digunakan, tidak bisa login."
+    },
+    {
+        "id": 10009,
+        "language": "Pengguna ini dilarang login."
+    },
+    {
+        "id": 10010,
+        "language": "Parameter error"
+    },
+    {
+        "id": 10011,
+        "language": "Pengoperasian gagal"
+    },
+    {
+        "id": 10012,
+        "language": "Server error"
+    },
+    {
+        "id": 10013,
+        "language": "Server sedang sibuk, harap tunggu."
+    },
+    {
+        "id": 10014,
+        "language": "Registrasi Berhasil"
+    },
+    {
+        "id": 10015,
+        "language": "Kode verifikasi berlaku dalam 2 menit"
+    },
+    {
+        "id": 10016,
+        "language": "Jumlah pengiriman melebihi jumlah pesanan yang sedang menunggu peninjauan"
+    },
+    {
+        "id": 10017,
+        "language": "Nama pengguna salah"
+    },
+    {
+        "id": 10018,
+        "language": "Nama pengguna salah"
+    },
+    {
+        "id": 10019,
+        "language": "Transfer berhasil"
+    },
+    {
+        "id": 10020,
+        "language": "Berhasil ditambahkan"
+    },
+    {
+        "id": 10021,
+        "language": "Masukkan 4-8 digit password penarikan"
+    },
+    {
+        "id": 10022,
+        "language": "Metode pembayaran telah dikonfirmasi"
+    },
+    {
+        "id": 10023,
+        "language": "Harap atur password penarikan terlebih dahulu"
+    },
+    {
+        "id": 10024,
+        "language": "Kode verifikasi pembayaran salah"
+    },
+    {
+        "id": 10025,
+        "language": "Nominal penarikan salah"
+    },
+    {
+        "id": 10026,
+        "language": "Jumlah nominal tidak mencukupi"
+    },
+    {
+        "id": 10027,
+        "language": "Penarikan tunai berhasil"
+    },
+    {
+        "id": 10028,
+        "language": "Password lama salah"
+    },
+    {
+        "id": 10029,
+        "language": "Dua password yang dimasukkan tidak sama"
+    },
+    {
+        "id": 10030,
+        "language": "Password lama dan password baru sama"
+    },
+    {
+        "id": 10031,
+        "language": "Berhail mengubah password"
+    },
+    {
+        "id": 10032,
+        "language": "Pengaturan password pembayaran berhasil"
+    },
+    {
+        "id": 10033,
+        "language": "kesalahan tidak diketahui"
+    },
+    {
+        "id": 10034,
+        "language": "Please do not login repeatedly."
+    },
+    {
+        "id": 10035,
+        "language": "There are unsettled games. Please log in again."
+    },
+    {
+        "id": 10036,
+        "language": "This game is not developed"
+    },
+    {
+        "id": 10037,
+        "language": "Gold is not enough to enter the game"
+    },
+    {
+        "id": 10038,
+        "language": "This game cannot be entered"
+    },
+    {
+        "id": 10039,
+        "language": "Abnormal opening of game interface"
+    },
+    {
+        "id": 10040,
+        "language": "It has been collected"
+    },
+    {
+        "id": 10041,
+        "language": "The total number of orders submitted exceeds that to be approved."
+    },
+    {
+        "id": 10042,
+        "language": "Verification code error"
+    },
+    {
+        "id": 267,
+        "language": "Jenis mata uang"
+    },
+    {
+        "id": 268,
+        "language": "Jumlah penarikan"
+    },
+    {
+        "id": 269,
+        "language": "Biaya penanganan"
+    },
+    {
+        "id": 270,
+        "language": "Jumlah ke akun"
+    },
+    {
+        "id": 271,
+        "language": "Pengoperasian"
+    },
+    {
+        "id": 272,
+        "language": "Sepuluh ribu"
+    },
+    {
+        "id": 273,
+        "language": "Milyar"
+    },
+    {
+        "id": 274,
+        "language": "Nama Permainan"
+    },
+    {
+        "id": 275,
+        "language": "kalah"
+    },
+    {
+        "id": 276,
+        "language": "Menang"
+    },
+    {
+        "id": 277,
+        "language": "Game menang atau kalah"
+    },
+    {
+        "id": 278,
+        "language": "Isi ulang"
+    },
+    {
+        "id": 279,
+        "language": "Aplikasi penarikan"
+    },
+    {
+        "id": 280,
+        "language": "Penarikan kembali gagal"
+    },
+    {
+        "id": 281,
+        "language": "Koleksi surat"
+    },
+    {
+        "id": 282,
+        "language": "Texas Hold'em"
+    },
+    {
+        "id": 283,
+        "language": "Video langsung"
+    },
+    {
+        "id": 284,
+        "language": "Penangkapan ikan"
+    },
+    {
+        "id": 285,
+        "language": "Slots"
+    },
+    {
+        "id": 286,
+        "language": "Domino QiuQiu"
+    },
+    {
+        "id": 287,
+        "language": "Lotre"
+    },
+    {
+        "id": 288,
+        "language": "IM Olahraga"
+    },
+    {
+        "id": 289,
+        "language": "shab Olahraga"
+    },
+    {
+        "id": 290,
+        "language": "SBO Olahraga"
+    },
+    {
+        "id": 291,
+        "language": "Memancing gila"
+    },
+    {
+        "id": 292,
+        "language": "Selamat memancing"
+    },
+    {
+        "id": 293,
+        "language": "Memancing multipemain"
+    },
+    {
+        "id": 294,
+        "language": "Sangat senang"
+    },
+    {
+        "id": 295,
+        "language": "Mark Six"
+    },
+    {
+        "id": 296,
+        "language": "Tiket lotere"
+    },
+    {
+        "id": 297,
+        "language": "Warna waktu"
+    },
+    {
+        "id": 298,
+        "language": "PX10"
+    },
+    {
+        "id": "0_QIUQIU",
+        "language": "QiuQiu"
+    },
+    {
+        "id": "1_zhengrendezhou",
+        "language": "Texas Hold'em"
+    },
+    {
+        "id": "2_gpas_5aogold_pop",
+        "language": "Zaman Keemasan"
+    },
+    {
+        "id": "2_hb",
+        "language": "Petualangan satu malam"
+    },
+    {
+        "id": "2_ashadv",
+        "language": "Petualangan Negeri Ajaib"
+    },
+    {
+        "id": "2_agoeg",
+        "language": "Era Mesir"
+    },
+    {
+        "id": "2_aogs",
+        "language": "Zaman dewa"
+    },
+    {
+        "id": "2_gpas_aogetroy_pop",
+        "language": "Dewa: Prajurit Hutan"
+    },
+    {
+        "id": "2_ftsis",
+        "language": "Age of God: Sisters of Destiny"
+    },
+    {
+        "id": "2_athn",
+        "language": "Age of Gods: Dewi Kebijaksanaan"
+    },
+    {
+        "id": "2_aogmm",
+        "language": "Zaman Dewa: Medusa dan Monster"
+    },
+    {
+        "id": "2_aogmt",
+        "language": "Tuhan: Midas yang perkasa"
+    },
+    {
+        "id": "2_aogrots",
+        "language": "Zaman Para Dewa: Raja Langit"
+    },
+    {
+        "id": "2_furf",
+        "language": "Age of Gods: Thunder 4 Gods"
+    },
+    {
+        "id": "2_aeolus",
+        "language": "Age of the Gods: God of Storm"
+    },
+    {
+        "id": "2_zeus",
+        "language": "Age of Gods: King of Olympus"
+    },
+    {
+        "id": "2_hrcls",
+        "language": "Age of Gods: Pangeran Olympus"
+    },
+    {
+        "id": "2_ashamw",
+        "language": "Amazon Liar"
+    },
+    {
+        "id": "2_rodzl",
+        "language": "Roulette Amerika"
+    },
+    {
+        "id": "2_anwild",
+        "language": "Python liar"
+    },
+    {
+        "id": "2_arc",
+        "language": "Pemanah"
+    },
+    {
+        "id": "2_art",
+        "language": "Harta karun Arktik"
+    },
+    {
+        "id": "2_gtsatq",
+        "language": "Ratu Atlantis"
+    },
+    {
+        "id": "2_pop_sw_ar_skw",
+        "language": "Aztec memberi berkah"
+    },
+    {
+        "id": "2_bal",
+        "language": "Mini Live Baccarat"
+    },
+    {
+        "id": "2_bs",
+        "language": "Singa putih"
+    },
+    {
+        "id": "2_bl",
+        "language": "Karnaval Tepi Laut"
+    },
+    {
+        "id": "2_bt",
+        "language": "segitiga Bermuda"
+    },
+    {
+        "id": "2_gpas_bwizard_pop",
+        "language": "Penyihir Biru"
+    },
+    {
+        "id": "2_bob",
+        "language": "Beruang bonus"
+    },
+    {
+        "id": "2_gpas_boking_pop",
+        "language": "Buku raja"
+    },
+    {
+        "id": "2_ashbob",
+        "language": "Jack dan Kacang Ajaib"
+    },
+    {
+        "id": "2_bfb",
+        "language": "Buffalo Blitz"
+    },
+    {
+        "id": "2_bfbl",
+        "language": "Buffalo Blitz nyata"
+    },
+    {
+        "id": "2_gpas_cotvalk_pop",
+        "language": "Panggilan Valkyrie"
+    },
+    {
+        "id": "2_ct",
+        "language": "Harta Karun Kapten"
+    },
+    {
+        "id": "2_ctiv",
+        "language": "Penjudi Kucing"
+    },
+    {
+        "id": "2_catqc",
+        "language": "Ratu kucing"
+    },
+    {
+        "id": "2_chl",
+        "language": "Cinta Sakura"
+    },
+    {
+        "id": "2_ashcpl",
+        "language": "Kapten Kecantikan"
+    },
+    {
+        "id": "2_cm",
+        "language": "Dapur Cina"
+    },
+    {
+        "id": "2_ccccny",
+        "language": "Koin koin"
+    },
+    {
+        "id": "2_gtscnb",
+        "language": "Polisi dan Bandit"
+    },
+    {
+        "id": "2_gtscbl",
+        "language": "Koboi dan alien"
+    },
+    {
+        "id": "2_c7",
+        "language": "Seven of Madness"
+    },
+    {
+        "id": "2_gtsdrdv",
+        "language": "Dave yang berani dan Ra's Eye"
+    },
+    {
+        "id": "2_dnr",
+        "language": "Dolphin Reef"
+    },
+    {
+        "id": "2_dlm",
+        "language": "Dokter Cinta"
+    },
+    {
+        "id": "2_gpas_dbond_pop",
+        "language": "Legenda Gerbang Naga"
+    },
+    {
+        "id": "2_drgch",
+        "language": "Pendekar Naga"
+    },
+    {
+        "id": "2_dj_bal",
+        "language": "Baccarat Dragon Jackpot"
+    },
+    {
+        "id": "2_gtsdgk",
+        "language": "Kerajaan Naga"
+    },
+    {
+        "id": "2_pop_sw_dr_skw",
+        "language": "Keberuntungan Naga"
+    },
+    {
+        "id": "2_eas",
+        "language": "Kejutan paskah"
+    },
+    {
+        "id": "2_epa",
+        "language": "Legenda Kera"
+    },
+    {
+        "id": "2_esm",
+        "language": "Esmeralda"
+    },
+    {
+        "id": "2_gpas_elady_pop",
+        "language": "Chang'e to the moon"
+    },
+    {
+        "id": "2_ashfta",
+        "language": "Putri Salju"
+    },
+    {
+        "id": "2_gpas_fatchoy_pop",
+        "language": "Nasib"
+    },
+    {
+        "id": "2_fcgz",
+        "language": "Putri Zamrud"
+    },
+    {
+        "id": "2_gtsflzt",
+        "language": "Naga terbang di langit"
+    },
+    {
+        "id": "2_gpas_fiesta_pop",
+        "language": "Pesta memori"
+    },
+    {
+        "id": "2_pop_sw_fr_skw",
+        "language": "Lima Elemen Api"
+    },
+    {
+        "id": "2_ftg",
+        "language": "Lima Macan"
+    },
+    {
+        "id": "2_gtsfc",
+        "language": "Karnaval sepak bola"
+    },
+    {
+        "id": "2_fbr",
+        "language": "Sepak Bola Terbaik"
+    },
+    {
+        "id": "2_fow",
+        "language": "Hutan Luar Biasa"
+    },
+    {
+        "id": "2_frtf",
+        "language": "Lima bajak laut"
+    },
+    {
+        "id": "2_fday",
+        "language": "Hari keberuntungan"
+    },
+    {
+        "id": "2_fxf",
+        "language": "Harta Karun Rubah"
+    },
+    {
+        "id": "2_foy",
+        "language": "Air Mancur Awet Muda"
+    },
+    {
+        "id": "2_fdt",
+        "language": "Frank Detouri: Magic 7"
+    },
+    {
+        "id": "2_fdtjg",
+        "language": "Frank Detouri: Edisi Pool Hadiah Magic 7"
+    },
+    {
+        "id": "2_fmn",
+        "language": "Buah aneh"
+    },
+    {
+        "id": "2_ashfmf",
+        "language": "Bulan keberuntungan"
+    },
+    {
+        "id": "2_fff",
+        "language": "Kebun buah"
+    },
+    {
+        "id": "2_fnfrj",
+        "language": "Fashion Buah"
+    },
+    {
+        "id": "2_fm",
+        "language": "Monyet aneh"
+    },
+    {
+        "id": "2_fmjp",
+        "language": "Kolam Warna Monyet Aneh"
+    },
+    {
+        "id": "2_popc",
+        "language": "Lucky Gal"
+    },
+    {
+        "id": "2_ges",
+        "language": "Cerita Geisha"
+    },
+    {
+        "id": "2_glrj",
+        "language": "Gladiator Jackpot"
+    },
+    {
+        "id": "2_grel",
+        "language": "Panggilan emas"
+    },
+    {
+        "id": "2_glg",
+        "language": "Game Edisi Emas"
+    },
+    {
+        "id": "2_gpas_gmacaque_pop",
+        "language": "Monyet Emas"
+    },
+    {
+        "id": "2_gos",
+        "language": "Perjalanan Emas"
+    },
+    {
+        "id": "2_bib",
+        "language": "Laut biru tua"
+    },
+    {
+        "id": "2_grbjp",
+        "language": "Kolam Renang Warna Laut Dalam Azure"
+    },
+    {
+        "id": "2_gro",
+        "language": "Pengembaraan terbesar"
+    },
+    {
+        "id": "2_gpas_hice_pop",
+        "language": "Es Hainan"
+    },
+    {
+        "id": "2_hlf",
+        "language": "Kekayaan Halloween"
+    },
+    {
+        "id": "2_hlf2",
+        "language": "Halloween Keberuntungan 2"
+    },
+    {
+        "id": "2_hh",
+        "language": "Rumah berhantu"
+    },
+    {
+        "id": "2_huhl",
+        "language": "Pria sejati banyak akal"
+    },
+    {
+        "id": "2_ashhof",
+        "language": "Heart of the Frontier"
+    },
+    {
+        "id": "2_ashhotj",
+        "language": "Dari Lin Zhixin"
+    },
+    {
+        "id": "2_hilol",
+        "language": "Hidup kartu tinggi dan rendah"
+    },
+    {
+        "id": "2_hk",
+        "language": "Raja jalan raya"
+    },
+    {
+        "id": "2_gts50",
+        "language": "Permata termal"
+    },
+    {
+        "id": "2_hotktv",
+        "language": "KTV panas"
+    },
+    {
+        "id": "2_ashicv",
+        "language": "Gua es"
+    },
+    {
+        "id": "2_gtsir",
+        "language": "Petualangan kutub"
+    },
+    {
+        "id": "2_aztec",
+        "language": "Hadiah Pertama Kerajaan Inca"
+    },
+    {
+        "id": "2_irl",
+        "language": "Keberuntungan Irlandia"
+    },
+    {
+        "id": "2_jpgt",
+        "language": "Raksasa bonus"
+    },
+    {
+        "id": "2_gtsje",
+        "language": "Kaisar Langit"
+    },
+    {
+        "id": "2_gtsjxb",
+        "language": "Menguntungkan 8"
+    },
+    {
+        "id": "2_pop_sw_jqw_ab_jp_skw",
+        "language": "Uang Frog Jackpot"
+    },
+    {
+        "id": "2_gpas_jflong_pop",
+        "language": "Jin Fulong"
+    },
+    {
+        "id": "2_gpas_xjinfu_pop",
+        "language": "Jinfu beruntung"
+    },
+    {
+        "id": "2_jnglg",
+        "language": "Raksasa hutan"
+    },
+    {
+        "id": "2_lndg",
+        "language": "Tanah emas"
+    },
+    {
+        "id": "2_legwld",
+        "language": "Harta Karun di Alam Liar"
+    },
+    {
+        "id": "2_ght_a",
+        "language": "Flame Diamond"
+    },
+    {
+        "id": "2_kfp",
+        "language": "Liu Fu Beast"
+    },
+    {
+        "id": "2_7bal",
+        "language": "Baccarat langsung 7 kursi"
+    },
+    {
+        "id": "2_chel",
+        "language": "Poker Kasino Langsung"
+    },
+    {
+        "id": "2_cspljpt",
+        "language": "Poker Kasino Langsung"
+    },
+    {
+        "id": "2_dtl",
+        "language": "Harimau Naga Sejati"
+    },
+    {
+        "id": "2_rofl",
+        "language": "Roulette Prancis langsung"
+    },
+    {
+        "id": "2_ljxy",
+        "language": "Long Jiaxiangyun"
+    },
+    {
+        "id": "2_lm",
+        "language": "Crazy Lotto"
+    },
+    {
+        "id": "2_mgstk",
+        "language": "Tumpukan ajaib"
+    },
+    {
+        "id": "2_gtsmrln",
+        "language": "Marilyn Monroe"
+    },
+    {
+        "id": "2_pop_sw_mr_skw",
+        "language": "Lima Elemen Emas"
+    },
+    {
+        "id": "2_mfrt",
+        "language": "Nona Keberuntungan"
+    },
+    {
+        "id": "2_mnkmn",
+        "language": "Monyet gila"
+    },
+    {
+        "id": "2_mcb",
+        "language": "Tuan Rebate"
+    },
+    {
+        "id": "2_nk",
+        "language": "Kerajaan Neptunus"
+    },
+    {
+        "id": "2_gpas_nsshen_pop",
+        "language": "Anda termasuk apa"
+    },
+    {
+        "id": "2_nian",
+        "language": "Lebih dari setiap tahun"
+    },
+    {
+        "id": "2_nc_7bal",
+        "language": "Tidak ada Komisi Baccarat"
+    },
+    {
+        "id": "2_dj_nc_bal",
+        "language": "Tanpa Komisi Dragon Jackpot Baccarat"
+    },
+    {
+        "id": "2_nc_bal",
+        "language": "Tanpa Komisi Mini Baccarat"
+    },
+    {
+        "id": "2_pmn",
+        "language": "Leopard Moon"
+    },
+    {
+        "id": "2_gpas_panthpays_pop",
+        "language": "Fortune Panther"
+    },
+    {
+        "id": "2_Not Supported",
+        "language": "Garis tari"
+    },
+    {
+        "id": "2_pgv",
+        "language": "Liburan penguin"
+    },
+    {
+        "id": "2_pst",
+        "language": "Rahasia Firaun"
+    },
+    {
+        "id": "2_gpas_scqueen_pop",
+        "language": "Putri Firaun"
+    },
+    {
+        "id": "2_phtd",
+        "language": "Harta Karun Firaun Super"
+    },
+    {
+        "id": "2_paw",
+        "language": "Babi dan serigala"
+    },
+    {
+        "id": "2_pnp",
+        "language": "Pink Panther"
+    },
+    {
+        "id": "2_pisa",
+        "language": "Elemen Samurai"
+    },
+    {
+        "id": "2_gtspor",
+        "language": "Semoga berhasil"
+    },
+    {
+        "id": "2_phot",
+        "language": "Purple Mania"
+    },
+    {
+        "id": "2_photk",
+        "language": "Rumah Purple Mania"
+    },
+    {
+        "id": "2_qrol",
+        "language": "Rolet Kuantum"
+    },
+    {
+        "id": "2_gpas_rothr_pop",
+        "language": "Penyerbuan di alam tersembunyi"
+    },
+    {
+        "id": "2_pop_sw_rm_ab_jp_skw",
+        "language": "Kumpulan hadiah tari singa berat yang fanatik"
+    },
+    {
+        "id": "2_ririjc",
+        "language": "Hasilkan uang setiap hari"
+    },
+    {
+        "id": "2_ririshc",
+        "language": "Hasilkan uang setiap hari"
+    },
+    {
+        "id": "2_pop_sw_rr_skw",
+        "language": "Perahu sungai"
+    },
+    {
+        "id": "2_rky",
+        "language": "Mengajukan"
+    },
+    {
+        "id": "2_rng2",
+        "language": "Kemuliaan bagi Roma"
+    },
+    {
+        "id": "2_rol",
+        "language": "Roulette Langsung"
+    },
+    {
+        "id": "2_sfh",
+        "language": "Kebun binatang tropis"
+    },
+    {
+        "id": "2_gtssmbr",
+        "language": "Brazil Sambo"
+    },
+    {
+        "id": "2_ssp",
+        "language": "Kejutan Santa"
+    },
+    {
+        "id": "2_gpas_satsumo_pop",
+        "language": "Serangan Balik Sumo King"
+    },
+    {
+        "id": "2_gpas_sjungle_pop",
+        "language": "Hutan buas"
+    },
+    {
+        "id": "2_samz",
+        "language": "Rahasia Amazon"
+    },
+    {
+        "id": "2_7eml",
+        "language": "7e mezzo soprano"
+    },
+    {
+        "id": "2_shmst",
+        "language": "Sherlock Misterius"
+    },
+    {
+        "id": "2_sbl",
+        "language": "Sic Bo"
+    },
+    {
+        "id": "2_sbdl",
+        "language": "Edisi Peningkatan Sic Bo"
+    },
+    {
+        "id": "2_sis",
+        "language": "Samurai yang Diam"
+    },
+    {
+        "id": "2_sib",
+        "language": "Peluru perak"
+    },
+    {
+        "id": "2_ashsbd",
+        "language": "Perjalanan Emas Sinbad"
+    },
+    {
+        "id": "2_gpas_squeen_pop",
+        "language": "Ratu Surga"
+    },
+    {
+        "id": "2_swl",
+        "language": "Putar dan menang"
+    },
+    {
+        "id": "2_sprol",
+        "language": "Rolet"
+    },
+    {
+        "id": "2_srcg",
+        "language": "Peternakan emas"
+    },
+    {
+        "id": "2_sol",
+        "language": "Semoga berhasil"
+    },
+    {
+        "id": "2_gtsswk",
+        "language": "Raja monyet"
+    },
+    {
+        "id": "2_slion",
+        "language": "Singa super"
+    },
+    {
+        "id": "2_cnpr",
+        "language": "Pesta yang manis"
+    },
+    {
+        "id": "2_tpd2",
+        "language": "Surga Thailand"
+    },
+    {
+        "id": "2_tht",
+        "language": "Kuil Thailand"
+    },
+    {
+        "id": "2_dcv",
+        "language": "Jelajahi dan temukan"
+    },
+    {
+        "id": "2_ashglss",
+        "language": "Sandal kaca"
+    },
+    {
+        "id": "2_gtsgme",
+        "language": "Kekaisaran Ming"
+    },
+    {
+        "id": "2_donq",
+        "language": "Rich Don Quixote"
+    },
+    {
+        "id": "2_tmqd",
+        "language": "Three Musketeers dan Queen's Diamond"
+    },
+    {
+        "id": "2_tigc",
+        "language": "Cakar Harimau"
+    },
+    {
+        "id": "2_gpas_tstacks_pop",
+        "language": "Tumpukan harimau"
+    },
+    {
+        "id": "2_gpas_tigertdp_pop",
+        "language": "Naga Biru, Macan Putih, Suzaku, Xuanwu"
+    },
+    {
+        "id": "2_ashtmd",
+        "language": "Momen perdagangan"
+    },
+    {
+        "id": "2_topg",
+        "language": "Senjata Top"
+    },
+    {
+        "id": "2_ttc",
+        "language": "Bintang Ace Teratas"
+    },
+    {
+        "id": "2_gpas_tsgift_pop",
+        "language": "Dewa Kekayaan yang Makmur"
+    },
+    {
+        "id": "2_ub",
+        "language": "Agabuga"
+    },
+    {
+        "id": "2_er",
+        "language": "Stasiun liburan"
+    },
+    {
+        "id": "2_vcstd",
+        "language": "Holiday Station Enhanced Edition"
+    },
+    {
+        "id": "2_gts52",
+        "language": "Bajak Laut Manic"
+    },
+    {
+        "id": "2_pop_sw_wrl_skw",
+        "language": "Lima Elemen Air Mengirim Berkat"
+    },
+    {
+        "id": "2_wotp",
+        "language": "Jalan Phoenix"
+    },
+    {
+        "id": "2_whk",
+        "language": "Raja Putih"
+    },
+    {
+        "id": "2_whk2",
+        "language": "Raja Putih 2"
+    },
+    {
+        "id": "2_gtswg",
+        "language": "Penjudi liar"
+    },
+    {
+        "id": "2_ashwgaa",
+        "language": "Crazy Gambler 2 / Petualangan Arktik"
+    },
+    {
+        "id": "2_wis",
+        "language": "Tenjin"
+    },
+    {
+        "id": "2_ashwdw",
+        "language": "Keinginan liar"
+    },
+    {
+        "id": "2_gtswng",
+        "language": "Sayap emas murni"
+    },
+    {
+        "id": "2_wlg",
+        "language": "tarian naga"
+    },
+    {
+        "id": "2_wlcsh",
+        "language": "Lima Cara Dewa Kekayaan"
+    },
+    {
+        "id": "2_xufe",
+        "language": "Festival Xuanpu"
+    },
+    {
+        "id": "2_pop_sw_yxlb_skw",
+        "language": "Pahlawan Lu Bu"
+    },
+    {
+        "id": "2_yclong",
+        "language": "Yun Conglong"
+    },
+    {
+        "id": "2_zcjb",
+        "language": "Keberuntungan"
+    },
+    {
+        "id": "2_zcjbjp",
+        "language": "Keberuntungan menjadi Treasure Pool"
+    },
+    {
+        "id": "2_aogroo",
+        "language": "Age of the Gods: Kaisar Olympus"
+    },
+    {
+        "id": "2_gpas_appower_pop",
+        "language": "Age of the Gods: The Power of the Sun God"
+    },
+    {
+        "id": "2_gpas_aluck_pop",
+        "language": "Arwana"
+    },
+    {
+        "id": "2_gpas_ccave_pop",
+        "language": "Lubang harta karun"
+    },
+    {
+        "id": "2_gpas_jmoon_pop",
+        "language": "Bulan Emas"
+    },
+    {
+        "id": "2_gpas_mquest_pop",
+        "language": "Perjalanan ke Barat"
+    },
+    {
+        "id": "2_gpas_rriches_pop",
+        "language": "Keberuntungan musik"
+    },
+    {
+        "id": "2_gpas_sexiles_pop",
+        "language": "Star Motor Exile"
+    },
+    {
+        "id": "2_gpas_tttotems_pop",
+        "language": "Totem teratas"
+    },
+    {
+        "id": "2_gpas_tgift_pop",
+        "language": "Hadiah Katak Emas"
+    },
+    {
+        "id": "3_SMG_alchemyBlast",
+        "language": "Ledakan alkimia"
+    },
+    {
+        "id": "3_SFB_Cascading_Alien",
+        "language": "Bayi lucu"
+    },
+    {
+        "id": "3_SMG_astroLegendsLyraandErion",
+        "language": "Space Legend-Lyla dan Ye Liang"
+    },
+    {
+        "id": "3_SFB_AstroRocks",
+        "language": "Antar bintang"
+    },
+    {
+        "id": "3_SFB_BaseballDuel",
+        "language": "Ace home run"
+    },
+    {
+        "id": "3_SMG_battleRoyale",
+        "language": "Battle Royale"
+    },
+    {
+        "id": "3_SMG_fruitBlast",
+        "language": "Buah bang"
+    },
+    {
+        "id": "3_SMG_galaxyGlider",
+        "language": "Pembalap antarbintang"
+    },
+    {
+        "id": "3_SMG_gemsOdyssey",
+        "language": "Pengembaraan permata"
+    },
+    {
+        "id": "3_SMG_happyMonsterClaw",
+        "language": "Mesin Derek Bahagia"
+    },
+    {
+        "id": "3_SMG_incanAdventure",
+        "language": "Gali harta karun"
+    },
+    {
+        "id": "3_SMG_theIncredibleBalloonMachine",
+        "language": "Mesin balon yang luar biasa"
+    },
+    {
+        "id": "3_SMG_jewelQuestRiches",
+        "language": "Kekayaan pencarian permata"
+    },
+    {
+        "id": "3_SMG_legendKeno",
+        "language": "Legenda keno"
+    },
+    {
+        "id": "3_SFB_MarmotMayhem",
+        "language": "Tikus Naicai palsu"
+    },
+    {
+        "id": "3_SMG_maxDamageArcade",
+        "language": "Akhiri penjajah"
+    },
+    {
+        "id": "3_SMG_megaMoneyRush",
+        "language": "Dampak besar"
+    },
+    {
+        "id": "3_SMG_monsterBlast",
+        "language": "Ledakan monster"
+    },
+    {
+        "id": "3_SMG_petsGoWild",
+        "language": "Hewan peliharaan liar"
+    },
+    {
+        "id": "3_SMG_pokeTheGuy",
+        "language": "Serang kera"
+    },
+    {
+        "id": "3_SFB_KO_RobotDice",
+        "language": "Robot perang"
+    },
+    {
+        "id": "3_SMG_treasureDash",
+        "language": "Keluar dari arcade harta karun"
+    },
+    {
+        "id": "3_SFB_Cascading_Zombie",
+        "language": "Bombshell Paradise"
+    },
+    {
+        "id": "3_SFG_WDFuWaFishing",
+        "language": "Memancing Wanda Fuwa"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Baccarat_Playboy",
+        "language": "Baccarat-Playboy Dragon Tiger"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_BaccaratplayboyNC",
+        "language": "Bebas Komisi Baccarat-Playboy"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_BaccaratNC",
+        "language": "Baccarat bebas komisi"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Baccarat",
+        "language": "Baccarat Harimau Naga"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_MP_Baccarat",
+        "language": "Baccarat"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_MP_Baccarat_Playboy",
+        "language": "Baccarat-Playboy"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Roulette",
+        "language": "Rolet"
+    },
+    {
+        "id": "3_SMG_titaniumLiveGames_Sicbo",
+        "language": "Sic Bo"
+    },
+    {
+        "id": "3_SFG_WPGoldenPigRace",
+        "language": "Ace Golden Pig"
+    },
+    {
+        "id": "3_SFG_WP5PK",
+        "language": "Lima Ace"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu",
+        "language": "Ace meraih Zhuang Niu Niu"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu_3cards",
+        "language": "Ace meraih Zhuang Niu Niu (lihat 3 foto)"
+    },
+    {
+        "id": "3_SFG_WPBankerNiuNiu_4cards",
+        "language": "Ace meraih Zhuang Niu Niu (lihat 4 foto)"
+    },
+    {
+        "id": "3_SFG_WPBonusTexas",
+        "language": "Ace Bonus Texas"
+    },
+    {
+        "id": "3_SFG_WPCaiShenFruitMario",
+        "language": "Mesin Buah Ace Fortune (Versi Arkade)"
+    },
+    {
+        "id": "3_SFG_WPChuhanTexas",
+        "language": "Ace Chuhan Texas"
+    },
+    {
+        "id": "3_SFG_Doudizhu",
+        "language": "Ace Fighting Tuan Tanah"
+    },
+    {
+        "id": "3_SFG_WPForestPartyJP",
+        "language": "Ace Forest Ball (JP)"
+    },
+    {
+        "id": "3_SFG_GoldenFlower",
+        "language": "Ace Fried Golden Flower"
+    },
+    {
+        "id": "3_SFG_WPGoldenShark",
+        "language": "Ace Gold dan Silver Shark"
+    },
+    {
+        "id": "3_SFG_WPInstantGoldenFlower",
+        "language": "Ace Fried Golden Flower (Versi Kecepatan Super)"
+    },
+    {
+        "id": "3_SFG_WPMahjong_2P",
+        "language": "Ace Mahjong"
+    },
+    {
+        "id": "3_SFG_WP100NiuNiu",
+        "language": "Ace Ratusan Orang"
+    },
+    {
+        "id": "3_SFG_WPTavern",
+        "language": "Ace Inn"
+    },
+    {
+        "id": "3_SMG_sistersOfOzJackpots",
+        "language": "Jackpot saudara perempuan Oz"
+    },
+    {
+        "id": "3_SMG_alchemistStone",
+        "language": "Batu Sage"
+    },
+    {
+        "id": "3_SMG_108Heroes",
+        "language": "108 Pahlawan"
+    },
+    {
+        "id": "3_SMG_108heroesMultiplierFortunes",
+        "language": "Kekayaan berlipat ganda"
+    },
+    {
+        "id": "3_SMG_5ReelDrive",
+        "language": "Penggerak 5 sumbu"
+    },
+    {
+        "id": "3_SMG_9masksOfFire",
+        "language": "9 masker api"
+    },
+    {
+        "id": "3_SMG_9potsOfGold",
+        "language": "9 kaleng emas"
+    },
+    {
+        "id": "3_SMG_aDarkMatter",
+        "language": "Bayangan gelap"
+    },
+    {
+        "id": "3_SMG_absolootlyMadMegaMoolah",
+        "language": "Mega Moolah benar-benar gila"
+    },
+    {
+        "id": "3_SMG_actionOpsSnowAndSable",
+        "language": "Operasi Rahasia-Salju dan Sable"
+    },
+    {
+        "id": "3_SMG_adventurePalace",
+        "language": "Istana Petualangan"
+    },
+    {
+        "id": "3_SMG_ageOfConquest",
+        "language": "Taklukkan zaman"
+    },
+    {
+        "id": "3_SMG_ageOfDiscovery",
+        "language": "Era Navigasi"
+    },
+    {
+        "id": "3_SMG_agentJaneBlonde",
+        "language": "Agen Jane Brond"
+    },
+    {
+        "id": "3_SMG_agentjaneblondereturns",
+        "language": "Agen Jane Brond kembali"
+    },
+    {
+        "id": "3_SMG_alaskanFishing",
+        "language": "Memancing Alaska"
+    },
+    {
+        "id": "3_SMG_ancientFortunesZeus",
+        "language": "Kekayaan kuno Zeus"
+    },
+    {
+        "id": "3_SMG_ariana",
+        "language": "Alina"
+    },
+    {
+        "id": "3_SMG_asianBeauty",
+        "language": "Gaya Asia"
+    },
+    {
+        "id": "3_SMG_atlanteanTreasures",
+        "language": "Harta Atlantis"
+    },
+    {
+        "id": "3_SMG_auroraWilds",
+        "language": "Aurora Wild"
+    },
+    {
+        "id": "3_SMG_avalon",
+        "language": "Avalon"
+    },
+    {
+        "id": "3_SMG_badmintonHero",
+        "language": "Bulu tangkis darah"
+    },
+    {
+        "id": "3_SMG_bananaOdyssey",
+        "language": "Banana Odyssey"
+    },
+    {
+        "id": "3_SMG_barBarBlackSheep5Reel",
+        "language": "Domba hitam mengembik"
+    },
+    {
+        "id": "3_SMG_BarsAndStripes",
+        "language": "Garis-garis"
+    },
+    {
+        "id": "3_SMG_basketballStar",
+        "language": "Bintang basket"
+    },
+    {
+        "id": "3_SMG_basketballStarDeluxe",
+        "language": "Basketball Superstar Deluxe Edition"
+    },
+    {
+        "id": "3_SMG_beachBabes",
+        "language": "Gadis pantai"
+    },
+    {
+        "id": "3_SMG_beautifulBones",
+        "language": "Tengkorak yang indah"
+    },
+    {
+        "id": "3_SMG_bigKahuna",
+        "language": "Raja hutan"
+    },
+    {
+        "id": "3_SMG_bigTop",
+        "language": "sirkus"
+    },
+    {
+        "id": "3_SMG_bikiniParty",
+        "language": "Pesta bikini"
+    },
+    {
+        "id": "3_SMG_boatofFortune",
+        "language": "Harta Karun Naga Emas"
+    },
+    {
+        "id": "3_SMG_boogieMonsters",
+        "language": "Monster Batu"
+    },
+    {
+        "id": "3_SMG_bookOfOz",
+        "language": "Book of Oz"
+    },
+    {
+        "id": "3_SMG_bookOfOzLockNSpin",
+        "language": "Book of Oz mengunci dan berputar"
+    },
+    {
+        "id": "3_SMG_bookieOfOdds",
+        "language": "Semoga beruntung broker"
+    },
+    {
+        "id": "3_SMG_boomPirates",
+        "language": "Membom bajak laut"
+    },
+    {
+        "id": "3_SMG_breakAway",
+        "language": "Terobosan hoki"
+    },
+    {
+        "id": "3_SMG_breakAwayDeluxe",
+        "language": "Edisi Deluxe Hoki"
+    },
+    {
+        "id": "3_SMG_breakAwayLuckyWilds",
+        "language": "Edisi Deluxe Hoki"
+    },
+    {
+        "id": "3_SMG_breakDaBank",
+        "language": "mencuri Bank"
+    },
+    {
+        "id": "3_SMG_breakDaBankAgain",
+        "language": "Rebut bank lagi"
+    },
+    {
+        "id": "3_SMG_breakDaBankAgainRespin",
+        "language": "Raih bank dan putar"
+    },
+    {
+        "id": "3_SMG_bridesmaids",
+        "language": "Pengiring pengantin terbesar saya"
+    },
+    {
+        "id": "3_SMG_bullseyeGameshow",
+        "language": "Tengah hati"
+    },
+    {
+        "id": "3_SMG_burningDesire",
+        "language": "Keinginan panas"
+    },
+    {
+        "id": "3_SMG_bushTelegraph",
+        "language": "Komunikasi Hutan"
+    },
+    {
+        "id": "3_SMG_bustTheBank",
+        "language": "Hancurkan bank"
+    },
+    {
+        "id": "3_SMG_candyDreams",
+        "language": "Dream Fruit Paradise"
+    },
+    {
+        "id": "3_SMG_carnaval",
+        "language": "Karnaval"
+    },
+    {
+        "id": "3_SMG_cashCrazy",
+        "language": "Uang tunai gila"
+    },
+    {
+        "id": "3_SMG_cashOfKingdoms",
+        "language": "Kerajaan yang kaya"
+    },
+    {
+        "id": "3_SMG_CashSplash5Reel",
+        "language": "Percikan Uang Tunai (5 baris)"
+    },
+    {
+        "id": "3_SMG_cashapillar",
+        "language": "Pesta serangga"
+    },
+    {
+        "id": "3_SMG_cashoccino",
+        "language": "Kopi tunai"
+    },
+    {
+        "id": "3_SMG_cashville",
+        "language": "Cash Ville"
+    },
+    {
+        "id": "3_SMG_castleBuilder2",
+        "language": "Arsitek Kastil II"
+    },
+    {
+        "id": "3_SMG_centreCourt",
+        "language": "Kejuaraan tenis"
+    },
+    {
+        "id": "3_SMG_classic243",
+        "language": "Klasik 243"
+    },
+    {
+        "id": "3_SMG_coolBuck5Reel",
+        "language": "Fortune Queer"
+    },
+    {
+        "id": "3_SMG_coolWolf",
+        "language": "Manusia serigala keren"
+    },
+    {
+        "id": "3_SMG_couchPotato",
+        "language": "Kentang malas"
+    },
+    {
+        "id": "3_SMG_crazyChameleons",
+        "language": "Bunglon gila"
+    },
+    {
+        "id": "3_SMG_cricketStar",
+        "language": "Bintang kriket"
+    },
+    {
+        "id": "3_SMG_CrystalRift",
+        "language": "Crystal Rift"
+    },
+    {
+        "id": "3_SMG_deckTheHalls",
+        "language": "Makan Natal"
+    },
+    {
+        "id": "3_SMG_decoDiamonds",
+        "language": "Berlian Deco"
+    },
+    {
+        "id": "3_SMG_diamondEmpire",
+        "language": "Kerajaan Berlian"
+    },
+    {
+        "id": "3_SMG_dolphinCoast",
+        "language": "Dolphin Coast"
+    },
+    {
+        "id": "3_SMG_dolphinQuest",
+        "language": "Petualangan Lumba-lumba"
+    },
+    {
+        "id": "3_SMG_doubleWammy",
+        "language": "Kejutan ganda"
+    },
+    {
+        "id": "3_SMG_dragonDance",
+        "language": "tarian naga"
+    },
+    {
+        "id": "3_SMG_dragonShard",
+        "language": "Fragmen Naga"
+    },
+    {
+        "id": "3_SMG_dragonz",
+        "language": "Bayi naga beruntung"
+    },
+    {
+        "id": "3_SMG_dreamDate",
+        "language": "Dream Encounter"
+    },
+    {
+        "id": "3_SMG_eaglesWings",
+        "language": "Elang ledakan"
+    },
+    {
+        "id": "3_SMG_emotiCoins",
+        "language": "Koin emas emoji"
+    },
+    {
+        "id": "3_SMG_emperorOfTheSea",
+        "language": "Qinglong pergi ke laut"
+    },
+    {
+        "id": "3_SMG_exoticCats",
+        "language": "Binatang Eksotis"
+    },
+    {
+        "id": "3_SMG_fishParty",
+        "language": "Pesta bawah laut"
+    },
+    {
+        "id": "3_SMG_footballStar",
+        "language": "Bintang sepak bola"
+    },
+    {
+        "id": "3_SMG_footballStarDeluxe",
+        "language": "Football Star Deluxe"
+    },
+    {
+        "id": "3_SMG_forbiddenThrone",
+        "language": "Tahta Terlarang"
+    },
+    {
+        "id": "3_SMG_fortuneGirl",
+        "language": "Vault Sweetheart"
+    },
+    {
+        "id": "3_SMG_fortunium",
+        "language": "Ibukota kekayaan"
+    },
+    {
+        "id": "3_SMG_frozenDiamonds",
+        "language": "Berlian beku"
+    },
+    {
+        "id": "3_SMG_fruitVSCandy",
+        "language": "Buah VS Permen"
+    },
+    {
+        "id": "3_SMG_giantRiches",
+        "language": "Kekayaan raksasa"
+    },
+    {
+        "id": "3_SMG_girlsWithGunsJungleHeat",
+        "language": "Pertarungan Hutan Gunner yang Indah"
+    },
+    {
+        "id": "3_SMG_gnomeWood",
+        "language": "Kayu rendah"
+    },
+    {
+        "id": "3_SMG_goldFactory",
+        "language": "Pabrik emas"
+    },
+    {
+        "id": "3_SMG_goldenEra",
+        "language": "zaman keemasan"
+    },
+    {
+        "id": "3_SMG_goldenPrincess",
+        "language": "Putri emas"
+    },
+    {
+        "id": "3_SMG_gopherGold",
+        "language": "Golden Gopher"
+    },
+    {
+        "id": "3_SMG_halloween ",
+        "language": "Halloween"
+    },
+    {
+        "id": "3_SMG_halloweenies",
+        "language": "pesta Halloween"
+    },
+    {
+        "id": "3_SMG_HappyHolidays",
+        "language": "Selamat berlibur"
+    },
+    {
+        "id": "3_SMG_harveys",
+        "language": "Harves 'Dinner"
+    },
+    {
+        "id": "3_SMG_highSociety",
+        "language": "Kelas atas"
+    },
+    {
+        "id": "3_SMG_highlander",
+        "language": "Penantang"
+    },
+    {
+        "id": "3_SMG_hitman",
+        "language": "Pembunuh pamungkas"
+    },
+    {
+        "id": "3_SMG_hollyJollyPenguins",
+        "language": "Penguin Natal"
+    },
+    {
+        "id": "3_SMG_HoundHotel",
+        "language": "Hotel Hound"
+    },
+    {
+        "id": "3_SMG_huangdiTheYellowEmperor",
+        "language": "Biografi Kaisar Xuanyuan"
+    },
+    {
+        "id": "3_SMG_immortalRomance",
+        "language": "Cinta Abadi"
+    },
+    {
+        "id": "3_SMG_isis",
+        "language": "Isis"
+    },
+    {
+        "id": "3_SMG_jungleJimElDorado",
+        "language": "Jungle Jim-Eldorado"
+    },
+    {
+        "id": "3_SMG_jungleJimAndTheLostSphinx",
+        "language": "Sphinx Jim yang hilang di hutan"
+    },
+    {
+        "id": "3_SMG_jurassicWorld",
+        "language": "Jurassic World"
+    },
+    {
+        "id": "3_SMG_karaokeParty",
+        "language": "K lagu musik sajak"
+    },
+    {
+        "id": "3_SMG_kathmandu",
+        "language": "Kathmandu"
+    },
+    {
+        "id": "3_SMG_kingTusk",
+        "language": "Raja gajah"
+    },
+    {
+        "id": "3_SMG_kingsOfCash",
+        "language": "Raja Uang Tunai"
+    },
+    {
+        "id": "3_SMG_KittyCabana",
+        "language": "Katy Kabbalah"
+    },
+    {
+        "id": "3_SMG_ladiesNite",
+        "language": "Pesta wanita"
+    },
+    {
+        "id": "3_SMG_ladiesNite2TurnWild",
+        "language": "Transformasi Liar Ladies Night 2"
+    },
+    {
+        "id": "3_SMG_ladyInRed",
+        "language": "wanita berpakaian merah"
+    },
+    {
+        "id": "3_SMG_laraCroftTemplesAndTombs",
+        "language": "Makam Kuil Lara Cavet"
+    },
+    {
+        "id": "3_SMG_LegendOftheMoonLovers",
+        "language": "Legenda Bulan"
+    },
+    {
+        "id": "3_SMG_lifeOfRiches",
+        "language": "Hidup kaya"
+    },
+    {
+        "id": "3_SMG_lionsPride",
+        "language": "Harga diri singa"
+    },
+    {
+        "id": "3_SMG_liquidGold",
+        "language": "Emas cair"
+    },
+    {
+        "id": "3_SMG_loaded",
+        "language": "Hip hop beruntung"
+    },
+    {
+        "id": "3_SMG_longMuFortunes",
+        "language": "Kekayaan Ibu Naga"
+    },
+    {
+        "id": "3_SMG_lostVegas",
+        "language": "Hilang di Las Vegas"
+    },
+    {
+        "id": "3_SMG_luchaLegends",
+        "language": "Legenda Gulat"
+    },
+    {
+        "id": "3_SMG_luckyBachelors",
+        "language": "Jomblo yang beruntung"
+    },
+    {
+        "id": "3_SMG_luckyfirecracker",
+        "language": "Petasan Beruntung"
+    },
+    {
+        "id": "3_SMG_luckyKoi",
+        "language": "Koi yang beruntung"
+    },
+    {
+        "id": "3_SMG_luckyLeprechaun",
+        "language": "Kurcaci yang beruntung"
+    },
+    {
+        "id": "3_SMG_luckyLittleGods",
+        "language": "Keberuntungan bayi"
+    },
+    {
+        "id": "3_SMG_luckyRichesHyperspins",
+        "language": "Lucky Rich Hyperspins"
+    },
+    {
+        "id": "3_SMG_luckyTwins",
+        "language": "Bintang ganda yang beruntung"
+    },
+    {
+        "id": "3_SMG_luckyTwinsJackpot",
+        "language": "Penghargaan Lucky Double Star"
+    },
+    {
+        "id": "3_SMG_luckyZodiac",
+        "language": "Zodiak yang beruntung"
+    },
+    {
+        "id": "3_SMG_madHatters",
+        "language": "Mad Hatter"
+    },
+    {
+        "id": "3_SMG_magicOfSahara",
+        "language": "Sahara Ajaib"
+    },
+    {
+        "id": "3_SMG_MajorMillions5Reel",
+        "language": "Millionaire 5 baris"
+    },
+    {
+        "id": "3_SMG_mayanPrincess",
+        "language": "Putri Maya"
+    },
+    {
+        "id": "3_SMG_megaMoneyMultiplier",
+        "language": "Pengganda uang tunai yang besar"
+    },
+    {
+        "id": "3_SMG_MegaMoolah",
+        "language": "Juta uang kertas"
+    },
+    {
+        "id": "3_SMG_mermaidsMillions",
+        "language": "Juta putri duyung"
+    },
+    {
+        "id": "3_SMG_mobyDickOnlineSlot",
+        "language": "Beluga"
+    },
+    {
+        "id": "3_SMG_monsterWheels",
+        "language": "Balap monster"
+    },
+    {
+        "id": "3_SMG_munchkins",
+        "language": "Orang kecil"
+    },
+    {
+        "id": "3_SMG_mysticDreams",
+        "language": "Mimpi misterius"
+    },
+    {
+        "id": "3_SMG_oinkCountryLove",
+        "language": "Hululu jatuh cinta pada negara"
+    },
+    {
+        "id": "3_SMG_ourDaysA",
+        "language": "Punya kampus Anda"
+    },
+    {
+        "id": "3_SMG_partyIsland",
+        "language": "Pulau pesta"
+    },
+    {
+        "id": "3_SMG_peekABoo5Reel",
+        "language": "Ciluk ba"
+    },
+    {
+        "id": "3_SMG_pingPongStar",
+        "language": "Superstar Tenis Meja"
+    },
+    {
+        "id": "3_SMG_pistoleras",
+        "language": "Gun King"
+    },
+    {
+        "id": "3_SMG_playboy",
+        "language": "playboy"
+    },
+    {
+        "id": "3_SMG_playboyFortunes",
+        "language": "PLAYBOY® Fortune ™"
+    },
+    {
+        "id": "3_SMG_playboyGold",
+        "language": "Emas Playboy"
+    },
+    {
+        "id": "3_SMG_playboyGoldJackpots",
+        "language": "Penghargaan Emas Playboy"
+    },
+    {
+        "id": "3_SMG_pollenParty",
+        "language": "Negara serbuk sari"
+    },
+    {
+        "id": "3_SMG_prettyKitty",
+        "language": "Kucing cantik"
+    },
+    {
+        "id": "3_SMG_purePlatinum",
+        "language": "Platinum sempurna"
+    },
+    {
+        "id": "3_SMG_queenOfTheCrystalRays",
+        "language": "Crystal Ray Queen"
+    },
+    {
+        "id": "3_SMG_rabbitinthehat",
+        "language": "Kelinci bertopi"
+    },
+    {
+        "id": "3_SMG_reelGems",
+        "language": "Gulungan permata"
+    },
+    {
+        "id": "3_SMG_reelSpinner",
+        "language": "Pertempuran berputar"
+    },
+    {
+        "id": "3_SMG_reelStrike",
+        "language": "Perebutan laut"
+    },
+    {
+        "id": "3_SMG_ReelTalent",
+        "language": "Tuan sejati"
+    },
+    {
+        "id": "3_SMG_reelThunder",
+        "language": "Petir poros"
+    },
+    {
+        "id": "3_SMG_relicSeekers",
+        "language": "Tan Lingren"
+    },
+    {
+        "id": "3_SMG_retroReels",
+        "language": "Mesin Slot Klasik"
+    },
+    {
+        "id": "3_SMG_retroReelsDiamondGlitz",
+        "language": "Berlian yang mempesona dari gulungan retro"
+    },
+    {
+        "id": "3_SMG_retroReelsExtremeHeat",
+        "language": "Klasik panas"
+    },
+    {
+        "id": "3_SMG_rhymingReelsGeorgiePorgie",
+        "language": "George dan Bozhi"
+    },
+    {
+        "id": "3_SMG_rhymingReelsHeartsAndTarts",
+        "language": "Ratu hati gulungan dongeng"
+    },
+    {
+        "id": "3_SMG_rivieraRiches",
+        "language": "Rivera Treasure"
+    },
+    {
+        "id": "3_SMG_robinOfSherwoodOnlineSlot",
+        "language": "Robin dari Sherwood"
+    },
+    {
+        "id": "3_SMG_romanovRiches",
+        "language": "Kekayaan Romanov"
+    },
+    {
+        "id": "3_SMG_rugbyStar",
+        "language": "Bintang rugby"
+    },
+    {
+        "id": "3_SMG_rugbyStarDeluxe",
+        "language": "Rugby Star Deluxe Edition"
+    },
+    {
+        "id": "3_SMG_santaPaws",
+        "language": "Anjing Natal"
+    },
+    {
+        "id": "3_SMG_santasWildRide",
+        "language": "Sepeda motor liar Santa"
+    },
+    {
+        "id": "3_SMG_scrooge",
+        "language": "Dewa Kekayaan yang Pelit"
+    },
+    {
+        "id": "3_SMG_secretAdmirer",
+        "language": "Menghancurkan"
+    },
+    {
+        "id": "3_SMG_secretRomance",
+        "language": "Pengagum rahasia"
+    },
+    {
+        "id": "3_SMG_shanghaiBeauty",
+        "language": "Kecantikan Shanghai"
+    },
+    {
+        "id": "3_SMG_sherlockOfLondonOnlineSlot",
+        "language": "Sherlock dari London"
+    },
+    {
+        "id": "3_SMG_shogunofTime",
+        "language": "Jenderal Gerbang Waktu"
+    },
+    {
+        "id": "3_SMG_showdownSaloon",
+        "language": "Salon showdown"
+    },
+    {
+        "id": "3_SMG_silverFang",
+        "language": "Serigala perak"
+    },
+    {
+        "id": "3_SMG_silverLioness4x",
+        "language": "Silver Lioness 4x"
+    },
+    {
+        "id": "3_SMG_sixAcrobats",
+        "language": "Klub Akrobat"
+    },
+    {
+        "id": "3_SFB_SnakeLady",
+        "language": "ular Putih"
+    },
+    {
+        "id": "3_SMG_soManyMonsters",
+        "language": "Banyak monster"
+    },
+    {
+        "id": "3_SMG_soMuchCandy",
+        "language": "Permen yang banyak"
+    },
+    {
+        "id": "3_SMG_soMuchSushi",
+        "language": "Toto Sushi"
+    },
+    {
+        "id": "3_SMG_springBreak",
+        "language": "Liburan nyasar"
+    },
+    {
+        "id": "3_SMG_stardust",
+        "language": "Stardust"
+    },
+    {
+        "id": "3_SMG_starlightKiss",
+        "language": "Starlight Kiss"
+    },
+    {
+        "id": "3_SMG_stashOfTheTitans",
+        "language": "Kekaisaran Titan"
+    },
+    {
+        "id": "3_SMG_sterlingSilver",
+        "language": "Perak sterling"
+    },
+    {
+        "id": "3_SMG_sugarParade",
+        "language": "Parade Permen"
+    },
+    {
+        "id": "3_SMG_summerHoliday",
+        "language": "liburan musim panas"
+    },
+    {
+        "id": "3_SMG_summertime",
+        "language": "Waktu liburan musim panas"
+    },
+    {
+        "id": "3_SMG_sunQuest",
+        "language": "Mengejar Matahari"
+    },
+    {
+        "id": "3_SMG_sunTide",
+        "language": "Perjalanan matahari"
+    },
+    {
+        "id": "3_SMG_supeItUp",
+        "language": "Tingkatkan tenaga kuda"
+    },
+    {
+        "id": "3_SMG_sureWin",
+        "language": "Yakin untuk menang"
+    },
+    {
+        "id": "3_SMG_tallyHo",
+        "language": "Game berburu"
+    },
+    {
+        "id": "3_SMG_tarzan",
+        "language": "Legenda Tarzan"
+    },
+    {
+        "id": "3_SMG_tastyStreet",
+        "language": "Kakak lapar"
+    },
+    {
+        "id": "3_SMG_theFinerReelsOfLife",
+        "language": "Kehidupan tertinggi"
+    },
+    {
+        "id": "3_SMG_theGrandJourney",
+        "language": "Perjalanan petualangan"
+    },
+    {
+        "id": "3_SMG_theGreatAlbini",
+        "language": "Pesulap hebat"
+    },
+    {
+        "id": "3_SMG_theHeatIsOn",
+        "language": "Dapatkan uang dengan cepat"
+    },
+    {
+        "id": "3_SMG_thePhantomOfTheOpera",
+        "language": "The Phantom of the Opera"
+    },
+    {
+        "id": "3_SMG_theRatPack",
+        "language": "Gang Tikus"
+    },
+    {
+        "id": "3_SMG_theTwistedCircus",
+        "language": "Sirkus Ajaib"
+    },
+    {
+        "id": "3_SMG_thunderstruck",
+        "language": "Rolling Thunder"
+    },
+    {
+        "id": "3_SMG_thunderstruck2",
+        "language": "Rolling Thunder 2"
+    },
+    {
+        "id": "3_SMG_tigersEye",
+        "language": "Mata harimau"
+    },
+    {
+        "id": "3_SMG_tikiVikings",
+        "language": "Tiki Viking"
+    },
+    {
+        "id": "3_SMG_titansOfTheSunHyperion",
+        "language": "dewa matahari"
+    },
+    {
+        "id": "3_SMG_titansOfTheSunTheia",
+        "language": "Theia"
+    },
+    {
+        "id": "3_SMG_tombRaider",
+        "language": "Tomb Raider"
+    },
+    {
+        "id": "3_SMG_RubyTombRaiderII",
+        "language": "Tomb Raider 2"
+    },
+    {
+        "id": "3_SMG_treasureNile",
+        "language": "Harta karun Nil"
+    },
+    {
+        "id": "3_SMG_treasurePalace",
+        "language": "Istana Harta Karun"
+    },
+    {
+        "id": "3_SMG_treasuresOfLionCity",
+        "language": "Kota Harta Karun Bawah Laut"
+    },
+    {
+        "id": "3_SMG_untamedGiantPanda",
+        "language": "Panda liar"
+    },
+    {
+        "id": "3_SMG_villagePeople",
+        "language": "Langkah tari olahragawan"
+    },
+    {
+        "id": "3_SMG_vinylCountdown",
+        "language": "Vinyl Hot Dance"
+    },
+    {
+        "id": "3_SMG_voila",
+        "language": "Halo Paris"
+    },
+    {
+        "id": "3_SFB_VolcanoJourney",
+        "language": "Petualangan Gunung Berapi Barat"
+    },
+    {
+        "id": "3_SMG_wackyPanda",
+        "language": "囧 囧 Panda"
+    },
+    {
+        "id": "3_SMG_whatAHoot",
+        "language": "Burung hantu lucu"
+    },
+    {
+        "id": "3_SMG_wheelofWishes",
+        "language": "Roda keinginan"
+    },
+    {
+        "id": "3_SMG_wickedTalesDarkRed",
+        "language": "Cerita gelap merah tua misterius"
+    },
+    {
+        "id": "3_SMG_wildCatchNew",
+        "language": "Memancing di alam liar"
+    },
+    {
+        "id": "3_SMG_wildOrient",
+        "language": "Binatang oriental"
+    },
+    {
+        "id": "3_SMG_wildScarabs",
+        "language": "Scarab liar"
+    },
+    {
+        "id": "3_SMG_winSumDimSum",
+        "language": "Selamat ngemil"
+    },
+    {
+        "id": "3_SMG_zombieHoard",
+        "language": "Serangan zombie"
+    },
+    {
+        "id": "3_SVS_Instant_Football",
+        "language": "Sepak bola instan"
+    },
+    {
+        "id": "3_SVS_instant_greyhounds",
+        "language": "Balapan waktu nyata"
+    },
+    {
+        "id": "3_SVS_instant_horses",
+        "language": "Balap kuda waktu nyata"
+    },
+    {
+        "id": "3_SVS_instant_racing",
+        "language": "Pertandingan instan"
+    },
+    {
+        "id": "3_SVS_instant_speedway",
+        "language": "Trek waktu nyata"
+    },
+    {
+        "id": "3_SVS_instant_trotting",
+        "language": "Gerobak instan"
+    },
+    {
+        "id": "3_SVS_instant_velodrome",
+        "language": "Bersepeda instan"
+    },
+    {
+        "id": "3_SVS_virtual_football",
+        "language": "Game sepak bola virtual"
+    },
+    {
+        "id": "3_SVS_virtual_greyhounds",
+        "language": "Balap anjing greyhound virtual"
+    },
+    {
+        "id": "3_SVS_virtual_horses",
+        "language": "Balap kuda virtual"
+    },
+    {
+        "id": "3_SVS_virtual_racing",
+        "language": "Kompetisi virtual"
+    },
+    {
+        "id": "3_SVS_virtual_speedway",
+        "language": "Trek virtual"
+    },
+    {
+        "id": "3_SVS_virtual_tennis",
+        "language": "Pertandingan tenis virtual"
+    },
+    {
+        "id": "3_SVS_virtual_trotting",
+        "language": "Gerobak virtual"
+    },
+    {
+        "id": "3_SVS_virtual_velodrome",
+        "language": "Balapan sepeda virtual"
+    },
+    {
+        "id": 299,
+        "language": "Memberikan"
+    },
+    {
+        "id": 300,
+        "language": "Silahkan menuju paket instalasi terbaru untuk diunduh."
+    },
+	{
+		"id":301,
+		"language": "Tingkat"
+	}
+]

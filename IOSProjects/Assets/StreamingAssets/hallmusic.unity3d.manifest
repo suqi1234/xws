@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1760090682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4574af6c7a9d6f56d2a8b5621566d99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1c1562712988ee36063b9e303b62a679
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Builds/Music/HallMusic/click.prefab
+- Assets/Builds/Music/HallMusic/xianhuaFeixing.prefab
+- Assets/Builds/Music/HallMusic/xianhuaDaoda.prefab
+- Assets/Builds/Music/HallMusic/jidanDaoda.prefab
+- Assets/Builds/Music/HallMusic/prize.prefab
+- Assets/Builds/Music/HallMusic/SE_prize.prefab
+- Assets/Builds/Music/HallMusic/shuitongDaoda.prefab
+- Assets/Builds/Music/HallMusic/niushiDaoda.prefab
+- Assets/Builds/Music/HallMusic/jidanFeixing.prefab
+- Assets/Builds/Music/HallMusic/countDown.prefab
+- Assets/Builds/Music/HallMusic/feiwenDaoda.prefab
+- Assets/Builds/Music/HallMusic/feiwenFeixing.prefab
+- Assets/Builds/Music/HallMusic/quite.prefab
+- Assets/Builds/Music/HallMusic/dianzanFeixing.prefab
+- Assets/Builds/Music/HallMusic/shuitongFeixing.prefab
+- Assets/Builds/Music/HallMusic/dianzanDaoda.prefab
+- Assets/Builds/Music/HallMusic/niushiFeixing.prefab
+- Assets/Builds/Music/HallMusic/platform_background.prefab
+Dependencies: []

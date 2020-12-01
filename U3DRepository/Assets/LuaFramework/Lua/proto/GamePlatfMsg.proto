@@ -1,0 +1,669 @@
+package tutorial;
+option java_package = "GamePlatformServer.protoBuf" ;
+option java_outer_classname = "GameMsg" ;
+
+
+
+message Req0{}
+message Res0{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  optional int64 allPoolInt=3;                  //总池子数
+  repeated GameClassListOne gameClassList=4;    //游戏分类列表信息
+  repeated ControlRegisterOne controlRegisterList=5;  //注册开发设置
+  repeated PayChannelOne payChannelList=6;      //支付总渠道
+  repeated LineNoticeOne lineNoticeList=7;      //跑马灯公布消息
+  repeated LanguageOne languageList=8;          //语言包列表
+  repeated int64 serviceCharge=9;               //手续费等级
+  repeated int64 vipGradeSetup=10;              //vip等级设置
+}
+
+message PayChannelOne{
+  required string payChannelId=1;               //支付编号id   100银行卡  200ovo 300gojek  400visa信用卡
+  required string payChannelTitle=2;            //支付标题
+  required string payIconId=3;                  //图标id
+  repeated OneBankTAFormClassInfo bankTAFormClassList=4;            //只是100时候  银行转账信息  
+}
+
+message ControlRegisterOne{
+  required string registerId=1;                  //100手机  200邮箱 300用户名  400facebook
+  repeated int32 openInputList=2;                //输入框编号： 输入框编号： 1账号 2手机号 3邮箱 4首次密码 5确认密码 6邮箱验证  7手机验证  8图形验证   9默认交易  10货币类型
+}
+message OneBankTAFormClassInfo{
+  required string classId=1;                     //渠道编号
+  required string NameAbbreviation=2;            //渠道缩写
+  required string iconId=3;                      //渠道图标
+  required string jumpShowUrl=4;                 //调整地址
+  repeated string ToBankAccountList=5;           //开户人和银行卡id信息  采用"*"分割   开户人*银行卡号*收款货币缩写
+}
+message LineNoticeOne{
+  required string msgid=1;
+  required string notice=2;                      //内容
+  required int64 closeTime=3;                    //关闭时间  -1永久不关闭
+}
+
+
+message GameClassListOne{
+  required string classKey=1;                           //分类唯一编号        0热门类 1扑克 2slots 3直播类  4kasino  5彩票类 6捕鱼类
+  required string titleStr=2;                           //分类标题
+  required string iconId=3;                             //分类图标
+  repeated GameClassListGameInfo containGameList=4;     //该分类下有那些游戏
+  required int32 imgClass=5;                            //图标类型  0 默认   1人性  
+}
+message GameClassListGameInfo{
+  required string gameIndex=1;             //游戏指针
+  required bool isCollection=2;            //是否是收藏
+  required string iconUrl=3;               //icon地址
+  required bool isHostState=4;             //是不是子游戏热门
+}
+message PlayerInfo{
+  required string userId=1;             //用户id
+  required string roleName=2;           //用户昵称
+  required int64 money=3;               //用户金币
+  required int32 isFirst=4;             //是否第一个登入 1 是 0不是
+  required string heardImg=5;           //头像
+  required double integral=6;            //用户金币
+  required int32 isGameing=7;           //是否在游戏房间中 1 表示在 0 表示不在
+  optional string gameIndex=8;          //所在游戏之中指针
+  required int32 modelId=9;             //模型id
+  required int32 isBindPhone=10;        //是否绑定手机号  0 绑定了  1未绑定
+  required int32 isBankState=11;        //是否设置银行密码   0 设置了， 1未
+  required string phoneid=12;           //手机号
+  required int32 sex=13;                //性别
+  required string accessToken=14;       //返回token
+  required int32 tokenType=15;          //返回token类别
+  required string openId=16;            //其它平台id
+  required int32 nowExpGrade=17;        //现在等级
+  required int32 expGradeAllInt=18;     //本等级总需要经验值
+  required int32 nextGradeNeedInt=19;   //下等级需要经验值
+  required string newMessageNotice=20;  //消息提醒 1提示 0不提示 第一位是邮件 第二位是送礼 第三个是签到 第四个 公告
+  required string IDCardUnid=21;        //身份证号 没有时候为“”
+  required int32 voucherInt=22;         //奖劵数量
+  optional int32 userGroupInt=23;       //用户分组   0 普通用户 1代理商 2测试员
+  optional string sessionUnid=24;          //通道id
+  optional int64 bankIntegral=25;          //银行金币
+  optional int32 isMustPhoneCode=26;       //是否需要验证短信号   1是必须验证短信号
+  optional int32 isActivityOpenState=27;   //是否开启了春季节红包   0开启 1没有开启
+  optional int32 isGetSpringState=28;      //今天是否领取红包  0可以领取 1不可以
+  optional int32 exchangeRate=29;          //汇率
+  optional int32 exchangeRoleNameSum=30;   //修改昵称次数
+  optional bool isOpenSignIn=31;           //是否开启签到抽奖
+  optional bool todaySignInState=32;       //签到抽奖 今天是否已经签到
+  optional int32 continuousSignInt=33;     //连续签到次数   0-7 
+  optional int32 turntableLuckDrawInt=34;  //今日剩余转盘数量
+  optional string ReGUrl=35;               //重连地址
+  optional int32  RePort=36;               //重连的端口
+  optional string ReGameToken=37;          //重连游戏token
+  optional int64 ranking=38;               //排名  -1表示未上榜
+  optional string currencyId=39;           //使用货币类型
+}
+message ResGiftPackage {
+  required string GiftPackageId=1;             //礼包唯一号
+  required string GPTitle=2;                   //礼包标题
+}
+//活动
+message ActivityOne{
+  required string AUid=1;                     //活动唯一识别码
+  required string ATitle=2;                   //活动表情
+  required string ABaneImg=3;                 //活动头条图地址
+  required string AStartTime=4;               //活动开始时间
+  required string AEndTime=5;                 //活动结束时间
+  required string AConnet=6;                  //活动内容
+  required bool isJoinState=7;                //是否已经报名
+  required int32 AClass=8;                    //活动类型
+}
+
+//发送登入token
+message Req1{
+  required int32 GroupState = 1 ;           //登入来源 1 自己平台 2微信 3qq
+  required string Token = 2 ;               //存储token值
+  required string userName=3;               //登录用户名
+  optional string appUnid=4;                //应用唯一码
+}
+message Res1{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  optional PlayerInfo data=3;                    //返回正取时，告诉玩家信息
+  repeated ResGiftPackage GiftPackageData=4;     //礼包信息
+  optional bool hasResultGP=5;                  //是否有回归礼包
+  optional string resultGPUNID=6;               //回归礼包码
+  repeated GameClassListOne gameClassList=7;    //游戏分类列表信息
+  repeated ActivityOne activityList=8;          //活动列表
+  repeated bool isChangePassword=9;             //是否可以调用修改密码功能
+  repeated AllowBindingBank allowBindingBankList=10;   //允许绑定银行
+  repeated BankCardOne bankCardList=11;          //银行卡信息
+  repeated ClassGameOne ClassGameList=12;        //游戏大类
+  repeated LineNoticeOne lineNoticeList=13;      //跑马灯公布消息
+  repeated AllowHeardImgList  HeardImgOne=14;    //允许头像
+}
+message AllowHeardImgList {
+ required string imgId=1;                        //图片key
+ required string url=2;                          //图片地址
+}
+message ClassGameOne{
+  required string classId=1;                     //类别识别码
+  required string classTitle=2;                  //大类分类
+  required string classIcon=3;                   //分类图标
+}
+
+message AllowBindingBank{
+  required string BankClassUid=1;                 //银行编号
+  required string BankTitle=2;                   //银行标题
+  optional string BankIcon=3;
+}
+message BankCardOne{
+  required string cardId=1;                //卡号
+  optional string bankClass=2;              //银行类型 银行编号
+  optional string openCardName=3;          //开户名
+  optional int32 DefaultState=4;             //是否是修改默认状态  0 默认 1非默认
+  optional string bankTitle=5;             //银行名
+  optional string bankClassIcon=6;         //图标
+}
+
+
+//游戏列表
+message Req2{}                               //这个不需要传递任何参数
+message Res2{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  repeated gameOne data=3;                //开启游戏列表
+}
+message gameOne{
+  required string gameTitle=1;          //游戏名
+  required string gameIndex=2;          //游戏唯一索引
+  required int32 state=3;               //游戏运行状态 0 正常，1维修 2 关闭
+}
+
+
+
+//下注记录
+message Req6{
+  required int32 pageInt=1;              //页码
+  optional int32 dayInt=2;               //时间戳
+  optional string selectGameId=3;        //游戏id
+}
+message Res6{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  optional int32 nowPageInt=3;             //返回的页面
+  repeated PlayerLogOne playerLogList=4;          //下注记录
+}
+message PlayerLogOne{
+  required string logId=1;                 //交易编号
+  required string gameTitle=2;             //游戏标题
+  required string createTime=3;            //操作时间
+  required string  outInt=4;                //投入量
+  required string outcome=5;                //结果
+  required string doingStr=6;              //动作名
+  required string msg=7;                   //log 的消息
+  required string oldInterge=8;             //变化之前值
+  required string afterInterge=9;           //变化之后值
+  required string classIndex=10;           //游戏所谓类型
+  required string gameCode=11;             //游戏指针
+}
+
+
+message Req7{
+  required int32 pageInt=1;             //页码
+  optional int32 dayInt=2;               //时间戳
+  optional string selectGameId=3;        //游戏id
+}
+message Res7{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  optional int32 nowPageInt=3;             //返回的页面
+  repeated IntChangeLogOne intChangeLogList=4;          //下注记录
+}
+message IntChangeLogOne{
+  required string logId=1;                 //交易编号
+  required string gameTitle=2;             //游戏标题
+  required string createTime=3;            //操作时间
+  required string oldInt=4;                 //改变之前值
+  required string afterInt=5;               //改变之后值
+  required string changeInt=6;              //改变值
+  required int64 doingInt=7;               //操作类型   21游戏输赢  22充值  23提款申请  24提款失败返回  25邮件领取 26充值赠送
+}
+
+
+//修改昵称和头像
+message Req8{
+  required int32 changeClass=1;               //修改类型 0 密码  1 基本信息（头像，昵称，性别等）
+  optional string roleName=2;                 //昵称
+  optional string heardImg=3;                 //头像
+  optional int32 sex=4;                       //性别 0女 1男
+  optional string changePassword=5;           //修改的新密码
+  optional string oldChangePassword=6;        //旧的密码
+}
+message Res8{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  optional string roleName=3;                //昵称
+  optional string heardImg=4;                //头像
+  optional int32 sex=5;                      //性别 0女 1男
+  optional int32 exchangeRoleNameSum=6;      //修改昵称次数
+}
+//银行卡列表
+message Req9{}
+message Res9{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  repeated BankCardOne bankCardList=3;          //银行卡信息
+}
+
+//设置支付密码或者修改
+message Req10{
+  required string newPayPaw=1;          //支付新密码
+  optional string oldPayPaw=2;          //支付旧密码  当有这个时候，代表修改
+}
+message Res10{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+}
+//增加银行卡 增加,修改,删除      没有开户名时候就是删除该卡
+message Req11{
+  required string cardId=1;                //卡号
+  optional string bankClass=2;              //银行类型 银行编号
+  optional string openCardName=3;          //开户名
+  optional bool isChangeDefaultState=4;    //是否是修改默认状态
+}
+message Res11{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                 //返回状态失败是，告诉的提示
+  optional int32 doing=3;                   //操作状态 0 增加 1修改 2删除 4修改默认状态
+}
+//公告列表
+message Req12{}
+message Res12{
+  required int32 state = 1 ;               //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  repeated NoticeOne NoticeList=3;          //公告列表
+}
+message NoticeOne{
+  required string noticeId=1;              //公告id
+  required string noticeTitle=2;           //公告标题
+  required string noticeCon=3;             //公告内容
+  required string time=4;                  //发布时间
+  required bool isRead=5;                  //是否已经阅读了
+}
+//玩家操作记录
+message Req13{
+  required int32 doing=1;                  //玩家操作编号   1 阅读了公告
+  optional string argstr=2;                //当1时，传递公告id
+}
+message Res13{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示 
+}
+//退出消息
+message Req14{}
+message Res14{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示  
+}
+//注册设置
+message Req15{}
+message Res15{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  repeated ControlRegisterOne controlRegisterList=3;  //注册开发设置     
+  repeated string allowCurrencyList=4;          //允许货币类型
+}
+//支付
+message Req16{}
+message Res16{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  repeated PayChannelOne payChannelList=3;      //支付总渠道
+}
+//提款列表
+message Req17{}
+message Res17{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  repeated OpenPayChannelOne drawingChannelList=3;      //支付总渠道
+}
+//语言list
+message Req18{}
+message Res18{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示 
+  repeated LanguageOne languageList=3;            //
+}
+message LanguageOne{
+  required string languagekey=1;                  //语言id
+  required string title=2;                        //标题
+  required string icon=3;                         //图标
+  required bool isDault=4;                        //是不是自己选择的语言
+}
+
+//语言切换
+message Req19{
+  required string  languageKey=1;               //语言切换
+}
+message Res19{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示 
+}
+
+
+//收藏一个游戏
+message Req20{
+  required string gameIndex=1;          //游戏指针
+}
+message Res20{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示 
+}
+//签到展示
+message Req21{}
+message Res21{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  required int32 signedRow = 3;             //已经签到的天数
+  required int32 isSignState = 4;           //今天是否可以签到 0可以 1不可以
+  repeated DataList dayInfo=5;              //每天图片和地址
+  message DataList{
+    required string title=1;                 //标题
+    required string imgUrl=2;                //图片地址
+  }
+}
+//签到
+message Req22{}
+message Res22{
+  required int32 state = 1 ;                 //返回状态  0 正确，1错误
+  optional string emsg =2;                   //返回状态失败是，告诉的提示
+  repeated DataList data=3;                 //奖励列表
+  message DataList{
+    required string goodsUnid=1;             //物品id       0 金币 1 钻石  2 折扣券 3 转盘次数
+    required int64 goodsNum=2;               //物品的数量
+  }
+}
+
+
+//排行榜
+message Req24{
+  required string key = 1 ;                        //排行类型 0财富 1等级 其它游戏指针
+}
+message Res24{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示 
+  required string reKey=3;                        //返回key 0财富 1等级 其它游戏指针
+  repeated RankingListOne rankingList1=4;         //数据列表  
+}
+message RankingListOne {
+  required string useId=1;                      //用户id
+  required string heardImg=2;                   //头像列表 
+  required string roleName =3;                  //昵称
+  required string valueInt=4;                    //值
+  optional string cTime=5;                      //创建时间
+  optional string varchar1=6;                   //变量1
+  optional string varchar2=7;                   //变量1
+}
+//参加或者取消某优惠活动 
+message Req25{
+  required string AUid=1;                        //活动id
+}
+message Res25{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  optional int32 doing=3;                         //操作命令  0 加入 1取消
+}
+
+//邮件列表
+message Req26{}
+message Res26{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  repeated EmailList data=3;
+} 
+message EmailList{
+  required string MTitle =1;                    //邮件标题
+  required string MId=2;                        //邮件id
+  required string MRState=3;                    //邮件读取状态 0 未读 1度
+  required string MCTime=4;                     //创建时间
+  required string content=5;                    //内容字段
+  optional bool isHasEnclosure=6;               //是否有附件
+  optional string Menclosure=7;                 //附件信息  使用*分割  在使用：分割   道具id:数量*道具id：数量
+  optional int32 getENState=8;                  //附件是否领取 0 未 1 领取
+}
+//邮件读取
+message Req27{
+  required string MId=1;                         //邮件id
+  optional int32  getEnDoing=2;                  //是否领取附件 0不领取 1领取  2删除邮箱
+}
+message Res27{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  optional string MId=3;                        //邮件id
+  optional int32  doingType=4;                  //操作状态 0读取邮件 1获取附件
+}
+
+//参加优惠活动列表
+message Req28{}
+message Res28{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  repeated ActivityListOne ActivityListArray=4;              //倍场列表  
+}
+message ActivityListOne{
+  required string AUid=1;                              //活动唯一识别码
+  required string ATitle=2;                            //活动标题
+  required string AJoinTime=3;                         //参加时间
+  required int32 stateInt=4;                           //状态 0待审核 1 审核成功  2拒绝
+}
+//转盘初始化
+message Req29{}
+message Res29{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  optional int32 turntableLuckDrawInt=3;          //剩余转盘次数
+  repeated zpArrayOne zpArray=4;                  //转盘信息
+  optional int32 latticeNumber=5;                 //格子数
+}
+message zpArrayOne{
+  optional int32 sum=1;                           //数量
+  optional string iconUrl=2;                      //图标地址
+}
+//转盘抽奖
+message Req30{}
+message Res30{
+  required int32 state = 1 ;                 //返回状态  0 正确，1错误
+  optional string emsg =2;                   //返回状态失败是，告诉的提示
+  repeated DataList data=3;                 //奖励列表
+  message DataList{
+    required string goodsUnid=1;             //物品id       0 金币 1 钻石  2 折扣券 3 转盘次数
+    required int64 goodsNum=2;               //物品的数量
+  }
+}
+
+
+
+//开放的充值渠道
+message Req59{}
+message Res59{
+  required int32 state = 1 ;                          //返回状态  0 正确，1错误
+  optional string emsg =2;                            //返回状态失败是，告诉的提示
+  repeated OpenPayChannelOne openPayChannel=3;        //开发充值渠道
+}
+message OpenPayChannelOne{
+  required string payClassId=1;                      //充值渠道类型
+  required string channelName=2;                     //渠道标题
+  required string iconId=3;                          //图标id           
+}
+
+
+//充值下单码
+message Req60{
+  required string payClassId=1;            //充值渠道类型  100银行卡  200ovo 300gojek  400visa信用卡
+  optional string serialNumber=2;          //银行转账  流失单号 
+  optional double amountInt=3;              //银行转账  金额 
+}
+message Res60{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  optional string PayOrderId=3;             //返回支付id
+}
+
+//银行转账申请记录
+message Req61{
+  required string fromName=1;               //来自户名
+  required string fromCardId=2;             //来自卡号
+  required string toName=3;                 //去的户名
+  required string toCardId=4;               //去的卡号
+  required double amount=5;                 //金额
+}
+message Res61{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+}
+
+
+
+//充值记录查询
+message Req63{
+  optional string selectDay=1;                  //查询当天零点的时间戳
+  optional string selectPayChannelId=2;         //支付方式
+}
+message Res63{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  repeated PayLogListOne payLogList=3;      //充值记录 
+}
+message PayLogListOne{
+  required string orderId=1;                //订单编号
+  required string oTitle=2;                 //订单标题
+  required string currencyType=3;           //货币类型
+  required double amount=4;                  //金额
+  required int32 state=5;                   //状态 0支付发起支付  1成功  2失败
+  required string createTime=6;             //时间
+  optional string refuseMsg=7;              //拒绝理由
+}
+//提款
+message Req64{
+  required string cardId=1;                 //提款的卡号
+  required double  outAmount=2;             //提款额度
+  required string payPassword=3;            //支付密码
+}
+message Res64{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+}
+//提款记录查询
+message Req65{
+  optional string selectDay=1;                  //查询当天零点的时间戳
+}
+message Res65{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  repeated DramingListOne dramingList=3;      //充值记录 
+}
+message DramingListOne{
+  required string orderId=1;                //订单编号
+  required string oTitle=2;                 //订单标题
+  required string currencyType=3;           //货币类型
+  required double amount=4;                  //金额
+  required int32 state=5;                   //状态 0支付发起支付  1成功  2失败  3放款成功
+  required string createTime=6;             //时间
+  optional string refuseMsg=7;              //拒绝理由
+  optional double serviceCharge=8;          //手续费
+}
+
+//倍场列表
+message Req70{
+  required string gameIndex=1;               //游戏唯一识别码
+}
+message Res70{
+  required int32 state = 1 ;                 //返回状态  0 正确，1错误
+  optional string emsg = 2 ;                 //返回状态失败是，告诉的提示
+  optional string gameIndex=3;               //游戏种类唯一标识
+  repeated GameGroupOne data=4;              //倍场列表
+  optional double integral=5;                 //用户金币
+}
+message GameGroupOne{
+  required string title=1;                 //分类名
+  required string classUnid=2;             //分类唯一编号
+  required int32 onlineDegree=3;           //再热程度   满的时候是100
+  required int32 onlineSum=4;              //在线人数
+  required int32 allowMultiple=5;          //允许进入分值
+  required int32 isFreeState=6;            //是否是免费场 0不是 1是
+  required int32 lowScoreInt=7;            //基础值
+  required string imgUnid=8;                //标图id 0为体验
+  required string exeState=9;              //运行状态
+}
+
+
+//进入正式游戏逻辑
+message Req71{
+  required string gameIndex=1;               //游戏种类唯一标识
+  required string classUnid=2;               //分类唯一编号
+  optional string showLanguage=3;            //子游戏显示类型   1 简体中文 2英文 3印尼文
+}
+message Res71{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  optional string gameIndex=3;              //游戏指针
+  optional string GToken =4;                //游戏连接token
+  optional string GUrl=5;                   //游戏连接地址
+  optional int32 GPort=6;                   //游戏连接端口
+  optional int32 connectType=7;             //游戏连接类型  0 tcp连接   1 拿到GUrl直接调整
+}
+//第三方游戏退出
+message Req72{}
+message Res72{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+}
+
+
+//刷新资产变化情况
+message Req500{}
+message Res500{
+  required int32 state = 1 ;                //返回状态  0 正确，1错误
+  optional string emsg =2;                  //返回状态失败是，告诉的提示
+  required double integral=3;                //现有积分
+  required int64 moneyInt=4;                //现有钱
+  required int64 changeInt=5;               //积分变化情况
+  required int64 changeMon=6;               //钱变化情况
+  required int32 expInt=7;                  //现在经验值
+  required int32 nowExpGrade=8;             //现在等级
+  required int32 expGradeAllInt=9;          //本等级总需要经验值
+  required int32 nextGradeNeedInt=10;       //下等级需要经验值
+  required int32 voucherInt=11;             //奖劵数量
+}
+//新收到邮件
+message Res501{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  repeated EmailList data=3;
+}
+//新提款银行列表
+message Res502{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  repeated AllowBindingBank drawingChannelList=3;      //支付总渠道
+}
+message Res510{
+  required int32 state = 1 ;                    //返回状态  0 正确，1错误
+  optional string emsg =2;                      //返回状态失败是，告诉的提示
+  repeated GameClassListOne gameClassList=3;    //游戏分类列表信息
+}
+//支付订单、提款订单处理结果通知
+message Res600{
+  required int32 state = 1 ;                      //返回状态  0 正确，1错误
+  optional string emsg =2;                        //返回状态失败是，告诉的提示
+  repeated OrderHandleResultOne orderHandleResultList=3;  //订单处理结果 
+}
+message OrderHandleResultOne{
+  required int32 orderClass=1;                    //订单类型 1充值 2 提款
+  required string orderUnid=2;                    //订单编号
+  required int32 doingInt=3;                     //操作编号  0 同意  1拒绝
+  optional string changeInt=4;                     //充值时同意，增加值*变化以后的值
+}
+
+//广播公告
+message Res10060{
+  required int32 state = 1 ;                  //返回状态  0 正确，1错误
+  optional string emsg =2;                    //返回状态失败是，告诉的提示
+  required string content=3;                  //广播内容
+  repeated LineNoticeOne lineNoticeList=7;      //跑马灯公布消息
+}

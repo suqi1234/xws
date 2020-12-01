@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CD1D0E6A-FEA2-46B1-04FE-41A0DA2ED563}|">
+  <MonoDevelop.Ide.ItemProperties.Projects PreferredExecutionTarget="d5eae38d-46e3-4db5-be97-04fd5107dc60" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LuaFramework/Scripts/Manager/PanelManager.cs">
+    <Files>
+      <File FileName="Assets/LuaFramework/Scripts/Manager/PanelManager.cs" Line="21" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
