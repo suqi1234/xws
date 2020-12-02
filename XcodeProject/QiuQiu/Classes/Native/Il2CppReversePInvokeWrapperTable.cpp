@@ -1,0 +1,8101 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "il2cpp-class-internals.h"
+#include "codegen/il2cpp-codegen.h"
+
+
+
+
+
+
+
+
+
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DeflateStream_UnmanagedRead_m4002292959(intptr_t ___buffer0, int32_t ___length1, intptr_t ___data2);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DeflateStream_UnmanagedWrite_m3688808850(intptr_t ___buffer0, int32_t ___length1, intptr_t ___data2);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_AnimationCurveManagerWrap_GetAnimationCurve_m116866604(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_AnimationCurveManagerWrap_Traverse_m723645302(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_AnimationCurveManagerWrap_op_Equality_m1667197528(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_AnimationCurveManagerWrap_get_curveInfoList_m2821273627(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_AnimationCurveManagerWrap_set_curveInfoList_m3178237258(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_BaseWrap_op_Equality_m1659120626(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_None_m4228311323(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_AutoPlaySequences_m875250283(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_AutoPlayTweeners_m969715647(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_All_m3828406841(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_IntToEnum_m2572878412(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_None_m40650104(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_X_m1817590539(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_Y_m1951873920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_Z_m2631416491(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_W_m4257561309(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_IntToEnum_m3990755682(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap__CreateDG_Tweening_DOTween_m631774285(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Init_m3019092436(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_SetTweensCapacity_m194255236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Clear_m2431349869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ClearCachedTweens_m1813825159(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Validate_m1198252347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_To_m2105238459(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ToAxis_m4149356325(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ToAlpha_m366728627(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Punch_m233989383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Shake_m2610981235(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ToArray_m328607201(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Sequence_m1149471228(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_CompleteAll_m1412342823(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Complete_m1997950420(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_FlipAll_m1057202565(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Flip_m2461132475(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_GotoAll_m796624969(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Goto_m3169985433(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_KillAll_m3694153350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Kill_m1763440121(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PauseAll_m651230754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Pause_m440520781(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayAll_m300473591(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Play_m2512382929(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayBackwardsAll_m139148010(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayBackwards_m3204113689(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayForwardAll_m1279527895(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayForward_m4180630649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_RestartAll_m99948741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Restart_m1131512825(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_RewindAll_m1193371654(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Rewind_m1953861005(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_SmoothRewindAll_m639064687(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_SmoothRewind_m1219194670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TogglePauseAll_m3622205165(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TogglePause_m3015734952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_IsTweening_m3005608581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TotalPlayingTweens_m1711070555(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayingTweens_m3413443711(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PausedTweens_m1880146890(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TweensById_m1772319765(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TweensByTarget_m4266242291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_Version_m3833070872(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_useSafeMode_m46852400(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_showUnityEditorReport_m1651875674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_timeScale_m3692881360(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_useSmoothDeltaTime_m380753737(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_drawGizmos_m1765131809(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultUpdateType_m1297845242(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultTimeScaleIndependent_m2891276720(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultAutoPlay_m3476192144(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultAutoKill_m2063093745(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultLoopType_m3698169721(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultRecyclable_m2337775914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultEaseType_m2643367593(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultEaseOvershootOrAmplitude_m1383158985(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultEasePeriod_m2973069944(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_logBehaviour_m3193911654(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_useSafeMode_m1614371695(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_showUnityEditorReport_m1117778512(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_timeScale_m2345015735(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_useSmoothDeltaTime_m295834188(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_drawGizmos_m355798156(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultUpdateType_m564100862(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultTimeScaleIndependent_m3205024470(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultAutoPlay_m2245190787(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultAutoKill_m2860368077(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultLoopType_m733530123(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultRecyclable_m3332405657(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultEaseType_m386029539(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultEaseOvershootOrAmplitude_m96748357(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultEasePeriod_m1323780192(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_logBehaviour_m1302872482(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOVirtualWrap_Float_m1428151334(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOVirtualWrap_EasedValue_m3532063017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_DOVirtualWrap_DelayedCall_m370383154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseFactoryWrap__CreateDG_Tweening_EaseFactory_m2407675365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseFactoryWrap_StopMotion_m4106989787(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_Unset_m939396141(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_Linear_m1579476015(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InSine_m2480408157(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutSine_m4247124087(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutSine_m1520678742(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InQuad_m2073808409(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutQuad_m277575553(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutQuad_m138971350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InCubic_m2381045812(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutCubic_m2857750600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutCubic_m3549281466(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InQuart_m1738413870(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutQuart_m2731715981(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutQuart_m323238446(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InQuint_m546892759(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutQuint_m1585411226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutQuint_m423447182(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InExpo_m2048161332(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutExpo_m3374191077(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutExpo_m79370355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InCirc_m3001835140(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutCirc_m2194536643(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutCirc_m678197433(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InElastic_m1252267595(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutElastic_m2252516702(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutElastic_m603279365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InBack_m3920591896(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutBack_m888057650(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutBack_m751889796(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InBounce_m2817801270(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutBounce_m24899263(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutBounce_m1466963485(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_Flash_m5760599(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InFlash_m3537975940(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutFlash_m2143366871(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutFlash_m883997649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_INTERNAL_Zero_m1599215539(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_INTERNAL_Custom_m1219785738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_EaseWrap_IntToEnum_m897074281(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_get_Default_m3118863868(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_get_Verbose_m1256182210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_get_ErrorsOnly_m1833760800(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_IntToEnum_m1471196384(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_get_Restart_m2668127493(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_get_Yoyo_m2759489460(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_get_Incremental_m740383166(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_IntToEnum_m2646760161(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_Ignore_m772174657(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_Full3D_m224702422(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_TopDown2D_m2518912291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_Sidescroller2D_m3064022105(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathModeWrap_IntToEnum_m396076796(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathTypeWrap_get_Linear_m3869554898(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathTypeWrap_get_CatmullRom_m3367041950(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_PathTypeWrap_IntToEnum_m1167196542(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_Fast_m3877180027(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_FastBeyond360_m563308308(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_WorldAxisAdd_m1048927804(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_LocalAxisAdd_m1215795786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_IntToEnum_m3284807685(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_None_m3699783588(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_All_m3205747189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Uppercase_m1800602768(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Lowercase_m3634695441(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Numerals_m2875798223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Custom_m3205116142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_IntToEnum_m842941996(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_InsertCallback_m1254188312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_PrependCallback_m2270838467(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_AppendCallback_m2068667219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_PrependInterval_m3271004848(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_AppendInterval_m3266854560(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Insert_m1214199368(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Join_m3588463036(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Prepend_m633734034(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Append_m332177090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetSpeedBased_m2667782530(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetRelative_m2466129079(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetDelay_m3146943621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetAs_m1255089436(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnWaypointChange_m2066819495(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnKill_m701179093(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnComplete_m2197601110(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnStepComplete_m74251557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnUpdate_m2415119906(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnRewind_m3411700517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnPause_m2283013682(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnPlay_m1193339251(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnStart_m2665357440(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetUpdate_m3998478131(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetRecyclable_m922439497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetEase_m962017129(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetLoops_m367295803(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetTarget_m3607136738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetId_m3154289227(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetAutoKill_m1709738102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_ChangeStartValue_m955601434(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_ChangeEndValue_m2244128383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_ChangeValues_m3568151521(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_From_m4008383697(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetSpeedBased_m1365270803(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetRelative_m4230928021(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetDelay_m3995644643(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetAs_m2429114001(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnWaypointChange_m401105342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnKill_m2085123484(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnComplete_m3608454602(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnStepComplete_m1445567854(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnUpdate_m13997126(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnRewind_m4123147913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnPause_m468830429(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnPlay_m1101179947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnStart_m1183173727(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetUpdate_m1638578063(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetRecyclable_m2206735142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetEase_m1229791343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetLoops_m479638266(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetTarget_m1505569336(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetId_m4055234084(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetAutoKill_m1449356127(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap__CreateDG_Tweening_TweenParams_m22034147(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_Clear_m2205708197(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetAutoKill_m3090820729(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetId_m3311708413(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetTarget_m617010646(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetLoops_m110519641(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetEase_m4271752444(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetRecyclable_m3344975687(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetUpdate_m4020700404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnStart_m3269403940(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnPlay_m961544253(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnRewind_m775931769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnUpdate_m493880381(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnStepComplete_m212682332(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnComplete_m787613252(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnKill_m3198932003(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnWaypointChange_m3910576848(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetDelay_m1263060472(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetRelative_m3288712800(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetSpeedBased_m1332596221(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_get_Params_m419647318(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_get_Tweener_m3308546175(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_get_Sequence_m3008658838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_get_Callback_m3294919638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_IntToEnum_m3854298925(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_PathLength_m4177090826(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_PathGetDrawPoints_m1707217646(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_PathGetPoint_m1367405117(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Loops_m854063545(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsPlaying_m3769898118(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsInitialized_m2439880616(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsComplete_m1409160714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsBackwards_m1945793086(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsActive_m54095041(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_ElapsedDirectionalPercentage_m2749119064(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_ElapsedPercentage_m723315140(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Elapsed_m817810598(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Duration_m1884549265(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Delay_m3322746764(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_CompletedLoops_m1995981400(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForStart_m3455852446(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForPosition_m1100954239(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForElapsedLoops_m477995621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForKill_m2341711286(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForRewind_m485532676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForCompletion_m3548820191(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_GotoWaypoint_m603371543(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_TogglePause_m3198892919(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SmoothRewind_m1453197731(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Rewind_m916186510(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Restart_m2890877447(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_PlayForward_m1859349331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_PlayBackwards_m2755487665(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Play_m3323470592(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Pause_m2851188948(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Kill_m4265011280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Goto_m1621907968(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_ForceInit_m1993046715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Flip_m239761799(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_Complete_m2182515836(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetSpeedBased_m3298414332(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetRelative_m1971865807(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetDelay_m4091690403(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetAs_m3560223932(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnWaypointChange_m4050069303(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnKill_m3634377783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnComplete_m3166556023(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnStepComplete_m798367615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnUpdate_m3565475478(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnRewind_m2234522925(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnPause_m2915376343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnPlay_m4049602247(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnStart_m1052364046(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetUpdate_m4101319940(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetRecyclable_m2869333585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetEase_m1996465941(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetLoops_m1357731372(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetTarget_m4274119923(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetId_m2457695039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetAutoKill_m3416513372(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_timeScale_m2659034628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_isBackwards_m3639103569(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_id_m2840780204(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_target_m730928559(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_easeOvershootOrAmplitude_m103472457(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_easePeriod_m3991496824(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_fullPosition_m3809288317(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_timeScale_m775646587(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_isBackwards_m1230805031(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_id_m1855423040(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_target_m3801686121(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_easeOvershootOrAmplitude_m949458360(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_easePeriod_m2898895709(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_fullPosition_m351644699(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_get_Normal_m562934948(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_get_Late_m3133066354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_get_Fixed_m3347062058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_IntToEnum_m2447806268(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerClick_m4016112956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerDown_m646334280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerEnter_m3102643385(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerExit_m3355409615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerUp_m3551956563(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnSelect_m2899391241(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnUpdateSelected_m2915918363(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnBeginDrag_m2956685126(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnCancel_m3331171976(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDeselect_m3720915141(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDrag_m2798545232(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDrop_m1721349823(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnEndDrag_m1428472291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnMove_m3665932069(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnInitializePotentialDrag_m1850031641(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnScroll_m963926561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnSubmit_m2235103194(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDestroy_m723435440(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_op_Equality_m1582219035(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onClick_m3803838718(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDown_m1008606014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onEnter_m2577310826(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onExit_m3241725786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onUp_m587146685(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onSelect_m1148727848(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onUpdateSelect_m3730399305(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onBeginDrag_m2493859438(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onCancel_m3329413680(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDeselect_m2293215086(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDrag_m3460304928(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDrop_m101539790(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onEndDrag_m2658130251(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onMove_m1958337304(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onInitializePotentialDrag_m3021717677(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onScroll_m1550237143(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onSubmit_m2621134797(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onClick_m4047801181(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDown_m556708538(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onEnter_m2854755972(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onExit_m163833660(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onUp_m575320556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onSelect_m601844107(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onUpdateSelect_m3507821348(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onBeginDrag_m2460825310(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onCancel_m1449019642(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDeselect_m2863529953(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDrag_m123348817(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDrop_m3060611209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onEndDrag_m4166765832(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onMove_m1956924701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onInitializePotentialDrag_m101099508(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onScroll_m3915362057(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onSubmit_m3548007249(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageInfoWrap__CreateLanguage_LanguageInfo_m2910954809(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageInfoWrap_Equals_m3504099247(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageInfoWrap_get_Name_m221622001(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageInfoWrap_get_English_m3863955838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageInfoWrap_set_Name_m1167438241(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap__CreateLanguage_LanguageService_m4026082698(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_LoadContent_m2043618020(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_GetFromFile_m1985234767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_GetStrById_m1537972951(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_RemoveText_m1156594516(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_GetStringByKey_m3606875316(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_UpdateText_m2577900723(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_AllTextObjct_m2315555750(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Languages_m4025394581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_LanguageNames_m3998974500(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Instance_m3732871790(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Files_m687002571(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_StringsByFile_m976032368(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Strings_m4042409531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Language_m3165887798(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_AllTextObjct_m2463114968(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Languages_m2390774635(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_LanguageNames_m2579450930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Files_m689017738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_StringsByFile_m404625886(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Strings_m1273221076(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Language_m485459497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_UpdateText_m4257759920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_op_Equality_m935788363(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_get_Language_m985108991(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_get_File_m392543217(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_get_Key_m3052841043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_get_Value_m537785873(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_get_Localization_m2253095759(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_set_Language_m1061744525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_set_File_m1157415381(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_set_Key_m2801919903(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_set_Value_m365322517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_Language_LanguageTextWrap_set_Localization_m419786821(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_TweenCallback_m2002164944(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_TweenCallback_float_m3454893846(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_EaseFunction_m3128651994(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_TweenCallback_int_m1827959074(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Vector3_m1610291164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Vector3_m1475398791(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_float_m2039655156(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_float_m3238109799(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_double_m516937611(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_double_m1128375982(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_int_m4119244730(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_int_m1925913957(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_uint_m3225131924(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_uint_m1287402207(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_long_m2257676435(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_long_m608953380(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_ulong_m135437307(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_ulong_m206268832(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_string_m1762444177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_string_m2050110235(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Vector2_m1610255355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Vector2_m1475362982(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Vector4_m1610326969(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Vector4_m1475434596(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Quaternion_m3549256887(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Quaternion_m4216342241(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Color_m2149006652(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Color_m1194018343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Rect_m3801284423(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Rect_m4020167432(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_RectOffset_m804110090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_RectOffset_m3543494062(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_UI_InputField_OnValidateInput_m3180352009(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_Events_UnityAction_m2532419630(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_Camera_CameraCallback_m740217874(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_Application_LowMemoryCallback_m2685793565(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_Application_AdvertisingIdentifierCallback_m3299727063(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_Application_LogCallback_m3008373314(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_AudioClip_PCMReaderCallback_m2545435162(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_AudioClip_PCMSetPositionCallback_m3468902174(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UnityEngine_RectTransform_ReapplyDrivenProperties_m1514042668(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_m1170011210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Predicate_int_m1937660957(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_int_m1516498467(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_string_m3543547351(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_float_m3155215816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Func_int_int_m3368397190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Comparison_int_m286509474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_UnityEngine_AsyncOperation_m1160113212(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_NotiData_m1856587461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_UnityEngine_Objects_m3075541445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_System_Action_UniWebViewNativeResultPayload_m4161573232(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_PageStartedDelegate_m3651659828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_PageFinishedDelegate_m1349978164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_PageErrorReceivedDelegate_m1387013210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_MessageReceivedDelegate_m3513331842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_ShouldCloseDelegate_m1306509115(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_KeyCodeReceivedDelegate_m4215459514(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_OrientationChangedDelegate_m4262942080(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_UniWebView_OnWebContentProcessTerminatedDelegate_m2287404177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_MeshRenderer_m4237479830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_BoxCollider_m2928908390(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_MeshCollider_m1923956104(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_SphereCollider_m3978481376(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_CharacterController_m1287708607(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_CapsuleCollider_m2106746394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_Animation_m4064329208(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_AnimationClip_m2813934497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_AnimationState_m3971610815(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_BlendWeights_m114481411(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_RenderTexture_m3452857394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_Rigidbody_m3574377937(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaClient_LuaOpen_Socket_Core_m353392537(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaClient_LuaOpen_Mime_Core_m1928894458(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaCoroutine__WaitForSeconds_m2184184996(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaCoroutine_WaitForFixedUpdate_m170806792(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaCoroutine_WaitForEndOfFrame_m3022393926(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaCoroutine_Yield_m3142932201(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaCoroutine_StopCoroutine_m2959799542(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaCoroutine_WrapLuaCoroutine_m3615900438(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap__CreateLuaDebugTool_m711026685(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_getCSharpValue_m79767218(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_convertLuaValueInfos_m1693791575(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_getUserDataInfo_m3774234838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_getInsType_m3144734266(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_SearchDataInfo_m727922443(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_getListValues_m1659656023(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaDebugToolWrap_getDictionaryValues_m1785358324(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaManager_LuaOpen_Socket_Core_m2500968155(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap__CreateLuaFramework_AppConst_m3002269309(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AppResName_m280070299(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AppName_m1641362533(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_LuaTempDir_m1733808173(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AppPrefix_m1834193421(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_ExtName_m1326434772(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AssetDir_m3222940354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_WebUrl_m1330987830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_ImageUrl_m2461625812(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_MusicUrl_m651338736(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_LoginRul_m2531696042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_LoginPort_m623124658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_ClientKey_m2885750497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_UserId_m3082937612(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_SocketPort_m2547453497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_SocketAddress_m2463069351(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_OutName_m2097637765(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_OutLogPath_m1996452371(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AccountLogName_m4261157063(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AccountLogPath_m56569680(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_FrameworkRoot_m2897543254(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_WebUrl_m645205473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_ImageUrl_m3280417573(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_LoginRul_m4050443810(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_LoginPort_m2804330137(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_ClientKey_m4036364449(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_UserId_m2140892818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_SocketPort_m3673848515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_SocketAddress_m3302714736(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_OutName_m3503776816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_OutLogPath_m1862107199(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_AccountLogName_m3752215064(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_AccountLogPath_m2289661638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap__CreateLuaFramework_ByteBuffer_m735649191(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Length_m3739071246(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Position_m3189162393(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Close_m3826127992(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteByte_m854906366(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteInt_m1705003945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteShort_m762370695(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteLong_m3235019703(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteFloat_m4030918533(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteDouble_m3100681370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteString_m2302446219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteBytes_m2736969786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteBuffer_m130924439(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadByte_m101571426(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadInt_m1260456853(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadShort_m1449578822(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadLong_m1983208900(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadFloat_m3118625300(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadDouble_m3642616292(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadString_m972172371(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadBytes_m3946511971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadBytes1_m3991515892(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ToBytes_m4201436045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Flush_m3028245690(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_CheckExtractResource_m27190053(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_OnResourceInited_m4247660305(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_SetGameState_m3244480078(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_GetUUIDFunc_m1029967704(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_GetMD5_m3737840676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_CheckUITouch_m1498932383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnRayHit_m2852810796(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnRayHitObj_m3530540797(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnPos2D_m4272840791(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnPosWorld_m2050846730(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ClearCache_m928039876(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_Copy_m2135216058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_Paste_m824020114(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_OnGetTextFromClipboard_m2155751950(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_GameManagerWrap_op_Equality_m3336075847(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnDrag_m3769641289(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnBeginDrag_m706631073(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnEndDrag_m2959384045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnPointerDown_m2574556537(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnPointerClick_m3897226526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnPointerUp_m3556523541(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddClick_m1471051093(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddValueChanged_m3274684045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddEndEdit_m3339893209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddDrag_m1769837284(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_RemoveClick_m2466729963(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_ClearClick_m3313173431(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_op_Equality_m1432387851(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetType_m676697956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetPanelManager_m536959878(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetScenesManager_m4198344036(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetResManager_m3812546236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetNetManager_m1338290906(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetSoundManager_m3909632176(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetGameManager_m3224758127(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetLuaManager_m1687325209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetMaterialManager_m463202310(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_DOTweenAlpha_m3476527395(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_DOTweenTo_m1422570464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_DOTweenToFloat_m282664104(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_SetAlpha_m512396579(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_AddDropdownOption_m2940598997(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_ScreenPointToLocalPointInRect_m926606195(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_ObjAddComponent_m617616854(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_OnCallLuaFunc_m342983597(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_OnJsonCallFunc_m1402829346(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_InitStart_m1715600685(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_InitLuaBundle_m405095338(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_LoadBundle_m2543763501(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_DoFile_m279707171(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_CallFunction_m1434796216(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_LuaGC_m4254753536(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_Close_m787266299(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_op_Equality_m2289065368(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_MaterialManagerWrap_op_Equality_m1254778767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_OnInit_m3935359947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_Unload_m94687261(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_CallMethod_m293170272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_AddEvent_m3185985579(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_BeginSendHeart_m42197333(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendHeart_m2081273307(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendConnect_m2925639782(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendMessageBf_m1580567711(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendMessage_m370415437(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_RemoveSocket_m1033082840(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_GetWebMusic_m2162430337(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_GetLoadBgFile_m4109280544(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_GetLoadHeaderFile_m1643674952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_OnDownAsset_m2253221718(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_ExitDown_m295392102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_StartWWWLoadMusic_m817412155(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_Close_m3615465738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_AddGameSocket_m1753234211(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendGameConnect_m3279285986(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendMessageGame_m971904923(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_BeginSendGameHeart_m162802647(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendGameHeart_m2217949339(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_RemoveGameSocket_m4192796309(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_isSocketStats_m8330819(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_op_Equality_m3276507217(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_CreatePanel_m611406165(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_CloseView_m4215406094(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_HideView_m708464091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_DestroyView_m1756196298(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_CloseAllView_m1742232567(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_op_Equality_m3436014556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_Initialize_m1252604775(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_LoadScenePrefab_m1791996578(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_LoadPrefab_m3196400724(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_LoadBgImage_m2966353882(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_UnloadAssetBundle_m500379049(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_op_Equality_m4252437582(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ScenesManagerWrap_CreateScene_m3641186786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ScenesManagerWrap_op_Equality_m682128561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_LoadAudioClip_m15028977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_CanPlayBackSound_m3029713584(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayBacksound_m2946566323(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayBacksoundAc_m2940076376(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_SoundOffBacksound_m73488989(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_SetSoundEffectVolume_m1634988496(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_CloseBacksound_m3622818719(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_CanPlaySoundEffect_m3074252263(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_Play_m635524867(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayX_m3396311515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlaySoundCard_m1174386810(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayAudioClip_m2481366400(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayEX_m210359422(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_Stop_m2010418698(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_op_Equality_m3258722523(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_get_isPlaySV_m251548344(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_get_isPlayCard_m3311693188(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_get_soundVolume_m1033192392(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_set_isPlaySV_m1861910528(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_set_isPlayCard_m616554808(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_set_soundVolume_m1261416576(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ThreadManagerWrap_AddEvent_m3966289811(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_ThreadManagerWrap_op_Equality_m906382963(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_StartTimer_m411262564(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_StopTimer_m3794300180(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_AddTimerEvent_m1353495121(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_RemoveTimerEvent_m3218303794(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_StopTimerEvent_m2492900094(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_ResumeTimerEvent_m1867698105(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_op_Equality_m1630768045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_get_Interval_m3236387291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_set_Interval_m2785741298(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap__CreateLuaFramework_Util_m109937151(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Vector3Array_m247344451(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_AddParticleMask_m2636149716(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Int_m3965664565(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Float_m2604148228(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Long_m3919158435(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Random_m1239443025(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Uid_m1246595850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetTime_m2179427826(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Child_m2275917913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Peer_m102318437(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_encode_m1206620207(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_decode_m1660773517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_EncryptDES_m2333338169(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_DecryptDES_m678872240(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_ToHex_m3439768866(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_UnHex_m3443197525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetMd5String_m4116240150(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_IsNumeric_m693523605(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_HashToMD5Hex_m1514435688(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_md5_m76398347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_md5file_m3151057550(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_ClearChild_m3886657899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_ClearMemory_m1237619558(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetRelativePath_m475140055(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetFileText_m4272406733(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Exists_m964038987(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_AppContentPath_m261767124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Log_m1147744142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_LogWarning_m1078774150(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_LogError_m1688885684(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetKey_m613210531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetInt_m2323509053(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_HasKey_m2117044571(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SetInt_m108563581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetString_m2904778843(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_GetFloat_m197492970(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SetFloat_m733592250(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SetString_m2493884607(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_RemoveData_m1598858171(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Encode_m2246743056(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_CheckRuntimeFile_m2965885385(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_CallMethod_m3412203177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_CheckEnvironment_m4124722340(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveFile_m1854402899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveImage_m1718845135(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveImagePng_m558911371(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveImageJpg_m866921733(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_LoadImage_m611345027(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_BytesToTexture2D_m968533988(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Base64StringToTexture2D_m3491095582(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_BytesToSprite_m3013150343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Base64StringToSprite_m1240574279(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Texture2DToSprite_m1849643680(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_RefreshRectHeight_m2919915264(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_packXor_m1682104173(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_ReadAllLines_m2771096518(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_Vibrate_m66375729(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_get_DataPath_m637637817(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_get_isApplePlatform_m3111369990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_get_isAndroidPlatform_m1885783317(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_get_NetAvailable_m4163259218(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaFramework_UtilWrap_get_IsWifi_m1905998014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_OpenReflectionLibs_m2604182638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_FindType_m3336982658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_LoadAssembly_m3109614270(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_GetMethod_m3807567767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_GetConstructor_m1434571690(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_GetTypeMethod_m2643766831(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_GetProperty_m2068860585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_GetField_m3281161270(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaReflection_CreateInstance_m3949581853(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaState_Collect_m651350562(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_PerlinNoise_m1066442615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutVector3_m1675818136(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutVector2_m1674488251(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutVector4_m1675845985(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutColor_m1274823664(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutQuaternion_m3524999930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutRay_m3689324314(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutBounds_m1587439495(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutRaycastHit_m2682723415(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutTouch_m1291238082(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaUnityLibs_GetOutLayerMask_m119061888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_Panic_m1189163963(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_Print_m550471082(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_Loader_m2588479012(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_DoFile_m3978110808(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_LoadFile_m1585920660(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_IsNull_m1855953006(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_BufferToString_m3349729136(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_GetClassType_m2221057088(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_TableToArray_m3064502046(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ToLua_op_ToString_m935641189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_Log_m1966879054(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_LogWarning_m1195105638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_LogError_m2129829093(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_LogException_m2191493870(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_get_useLog_m2947929574(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_get_threadStack_m1105970803(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_get_logger_m3428644899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_set_useLog_m2878744062(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_set_threadStack_m3411982906(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_DebuggerWrap_set_logger_m1013770343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_EventObjectWrap_op_Subtraction_m2393295058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_EventObjectWrap_op_Addition_m900010994(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_None_m2477419914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_After_m3688304750(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_Before_m352713818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_Replace_m2484932146(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_ReplaceWithPreInvokeBase_m1432457356(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_ReplaceWithPostInvokeBase_m3610073119(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_IntToEnum_m1782543557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaConstructorWrap_Call_m3223434852(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaConstructorWrap_Destroy_m3631177253(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaFieldWrap_Get_m901804156(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaFieldWrap_Set_m934995368(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaInjectionStationWrap__CreateLuaInterface_LuaInjectionStation_m3813845723(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaInjectionStationWrap_CacheInjectFunction_m1240767888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaInjectionStationWrap_Clear_m3057111539(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaMethodWrap_Destroy_m3950921051(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaMethodWrap_Call_m91726809(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaOutWrap_LuaOpen_ToLua_Out_m1556127490(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaPropertyWrap_Get_m2547155432(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaInterface_LuaPropertyWrap_Set_m3750989(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaProfilerWrap_Clear_m1917677466(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaProfilerWrap_GetID_m2215262701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaProfilerWrap_BeginSample_m1547501847(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaProfilerWrap_EndSample_m1464911110(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaProfilerWrap_get_list_m3255674445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaProfilerWrap_set_list_m3344658220(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap__CreateLuaValueInfo_m2258352658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_get_name_m1323494695(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_get_valueType_m3780135789(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_get_valueStr_m2177606190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_get_isValue_m1417265064(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_set_name_m3007988093(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_set_valueType_m1466174207(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_set_valueStr_m3718996058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_LuaValueInfoWrap_set_isValue_m667512550(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ManagerWrap_op_Equality_m74987150(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_Item_m3502095651(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_set_Item_m1596941197(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_Length_m112319918(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_ToTable_m2723951980(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_GetLength_m4146362734(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_GetLongLength_m2266024305(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_GetLowerBound_m1941008942(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_GetValue_m1503288669(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_SetValue_m1845156845(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_GetEnumerator_m3162729226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_GetUpperBound_m1269240077(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_CreateInstance_m2252936434(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_BinarySearch_m1348176618(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_Clear_m4193960087(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_Clone_m1678573131(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_Copy_m1424801028(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_IndexOf_m1790212878(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_Initialize_m2556389016(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_LastIndexOf_m2394176311(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_Reverse_m85538370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_Sort_m3445927934(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_CopyTo_m2916048701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_ConstrainedCopy_m141426192(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_LongLength_m333871517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_Rank_m4248047472(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_IsSynchronized_m1167880794(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_SyncRoot_m2721893593(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_IsFixedSize_m3976425255(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ArrayWrap_get_IsReadOnly_m3309296825(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap__CreateSystem_Collections_Generic_Dictionary_KeyCollection_m3914819252(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap_CopyTo_m791725988(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap_GetEnumerator_m1856173253(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap_get_Count_m1367758227(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap__CreateSystem_Collections_Generic_Dictionary_ValueCollection_m149167168(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap_CopyTo_m1607880727(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap_GetEnumerator_m2049235839(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap_get_Count_m828990294(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__get_this_m1030711534(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__set_this_m1251682479(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__this_m1862037258(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Item_m1881051738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_set_Item_m937166845(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__geti_m2079115531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__seti_m1863895821(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_Add_m3358821343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_Clear_m244836080(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_ContainsKey_m1876406794(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_ContainsValue_m490615531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_GetObjectData_m1847816312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_OnDeserialization_m654742342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_Remove_m4167531343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_TryGetValue_m1715625741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_GetEnumerator_m121109169(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Count_m4288287700(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Comparer_m2443096215(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Keys_m3176561589(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Values_m909207406(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_KeyValuePairWrap_get_Key_m417893998(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_KeyValuePairWrap_get_Value_m2672074256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Add_m639130784(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_AddRange_m3365778769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_AsReadOnly_m3782350418(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_BinarySearch_m4101125671(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Clear_m39902672(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Contains_m2762687937(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_CopyTo_m3486087398(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Exists_m4212126770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Find_m2332111338(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindAll_m1121698547(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindIndex_m484466905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindLast_m1942558662(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindLastIndex_m2306694285(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_ForEach_m815717530(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_GetEnumerator_m3922691295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_GetRange_m260540007(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_IndexOf_m2647939294(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Insert_m1291277045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_InsertRange_m1332942724(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_LastIndexOf_m1847142399(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Remove_m1315238154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_RemoveAll_m226662365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_RemoveAt_m563775621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_RemoveRange_m3254697167(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Reverse_m2410608273(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Sort_m1186291069(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_ToArray_m4270131928(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_TrimExcess_m530562574(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_TrueForAll_m4203222790(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_get_Item_m3424639629(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_set_Item_m1608794129(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_get_Capacity_m1368879515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_get_Count_m3006788066(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_Generic_ListWrap_set_Capacity_m4160213747(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_IEnumeratorWrap_MoveNext_m2156277680(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_IEnumeratorWrap_Reset_m4082775780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_IEnumeratorWrap_get_Current_m3133577628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_Contains_m3909564477(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_CopyTo_m718287398(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_GetEnumerator_m4185424324(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_IndexOf_m3654188317(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_get_Item_m4234065929(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_get_Count_m437392868(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_CreateDelegate_m2832871453(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_DynamicInvoke_m3168159010(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_Clone_m1695574036(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_GetObjectData_m1247808224(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_GetInvocationList_m2830946621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_Combine_m1346774232(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_Remove_m2294524011(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_RemoveAll_m627711142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_op_Subtraction_m2977725188(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_op_Addition_m3306855102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_op_Equality_m340782100(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_Destroy_m3926465567(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_GetHashCode_m3198185979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_Equals_m3261682056(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_get_Method_m1250093490(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_DelegateWrap_get_Target_m509583925(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_GetTypeCode_m124369039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_GetValues_m3413762562(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_GetNames_m2438319042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_GetName_m2155961340(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_IsDefined_m168298503(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_GetUnderlyingType_m3520399586(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_CompareTo_m4277339521(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_ToString_m3713928017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_Equals_m2976960898(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_GetHashCode_m1060381176(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_Format_m3118643834(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_Parse_m2625355600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_ToObject_m2111468977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_EnumWrap_ToInt_m831674694(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap__CreateSystem_Object_m2672497609(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_Equals_m654551252(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_GetHashCode_m1321146355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_GetType_m3725541403(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_ToString_m1856247887(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_ReferenceEquals_m2058390360(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_op_Equality_m3452781401(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_ObjectWrap_Destroy_m2233654385(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap__CreateSystem_String_m1191449996(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Equals_m49924044(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Clone_m2465360010(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_GetTypeCode_m1294477832(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_CopyTo_m390507204(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_ToCharArray_m1009644292(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Split_m3708619112(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Substring_m1384823580(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Trim_m3203398420(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_TrimStart_m343638103(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_TrimEnd_m1937932171(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Compare_m36099892(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_CompareTo_m2476350476(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_CompareOrdinal_m2340007521(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_EndsWith_m3903126280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_IndexOfAny_m1254088359(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_IndexOf_m2237912670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_LastIndexOf_m731463622(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_LastIndexOfAny_m2081352233(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Contains_m2700336230(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_IsNullOrEmpty_m2590290339(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Normalize_m1583678219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_IsNormalized_m3307684228(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Remove_m3148044952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_PadLeft_m1014434866(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_PadRight_m3778448122(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_StartsWith_m2974551098(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Replace_m4164501033(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_ToLower_m563656478(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_ToLowerInvariant_m1130771107(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_ToUpper_m2084344975(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_ToUpperInvariant_m3730026652(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_ToString_m3509853842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Format_m2331410495(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Copy_m1189864758(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Concat_m80467564(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Insert_m1135791566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Intern_m2672419571(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_IsInterned_m2981150623(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_Join_m3490057124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_GetEnumerator_m2434158235(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_GetHashCode_m1318630576(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_op_Equality_m1882013566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_get_Empty_m2539018674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_StringWrap_get_Length_m223803813(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_Equals_m3544051278(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetType_m3516676340(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetTypeArray_m3060490563(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetTypeCode_m3259735102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetTypeFromHandle_m2440690496(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetTypeHandle_m2461043546(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_IsSubclassOf_m3919430916(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_FindInterfaces_m882880127(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetInterface_m2412428377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetInterfaceMap_m3316811674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetInterfaces_m2970656514(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_IsAssignableFrom_m1132847552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_IsInstanceOfType_m2727328185(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetArrayRank_m3372824920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetElementType_m2607752111(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetHashCode_m853341599(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetNestedType_m2869536520(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetNestedTypes_m1639764370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetDefaultMembers_m1250871412(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_FindMembers_m1293441394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_InvokeMember_m1220467022(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_ToString_m926338628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetGenericArguments_m639219128(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetGenericTypeDefinition_m3746921114(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_MakeGenericType_m2809724575(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_GetGenericParameterConstraints_m3687925479(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_MakeArrayType_m2767664024(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_MakeByRefType_m122320795(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_MakePointerType_m1719882043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_ReflectionOnlyGetType_m3127203208(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_Delimiter_m3446804717(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_EmptyTypes_m1364587189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_FilterAttribute_m3077910118(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_FilterName_m994475969(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_FilterNameIgnoreCase_m657098948(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_Missing_m1582252560(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_Assembly_m1041025256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_AssemblyQualifiedName_m52547979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_Attributes_m3446867257(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_BaseType_m2187945780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_DeclaringType_m1355461983(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_DefaultBinder_m673313603(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_FullName_m2970022153(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_GUID_m3859167557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_HasElementType_m1535047959(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsAbstract_m2051539949(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsAnsiClass_m2146215630(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsArray_m3541886281(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsAutoClass_m277279780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsAutoLayout_m3345688714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsByRef_m4165912254(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsClass_m1213176965(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsCOMObject_m1744739663(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsContextful_m1065205226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsEnum_m2376933766(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsExplicitLayout_m2171110991(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsImport_m2333382786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsInterface_m2865764341(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsLayoutSequential_m1264025013(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsMarshalByRef_m3038167303(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNestedAssembly_m3928206701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNestedFamANDAssem_m1735463061(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNestedFamily_m601738017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNestedFamORAssem_m3459530409(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNestedPrivate_m3628261467(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNestedPublic_m4184127641(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNotPublic_m9436256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsPointer_m4069584914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsPrimitive_m2932916584(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsPublic_m2927128570(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsSealed_m3296532850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsSerializable_m1974706083(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsSpecialName_m1831991025(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsUnicodeClass_m1987699341(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsValueType_m2637028756(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_MemberType_m3909330209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_Module_m3611124202(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_Namespace_m1733316648(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_ReflectedType_m1917148905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_TypeHandle_m2884916681(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_TypeInitializer_m1309931099(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_UnderlyingSystemType_m4121961200(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_ContainsGenericParameters_m2555144364(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsGenericTypeDefinition_m1813979319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsGenericType_m183734979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsGenericParameter_m823002570(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsNested_m4055591558(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_IsVisible_m3647800661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_GenericParameterPosition_m2623326587(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_GenericParameterAttributes_m1466895189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_DeclaringMethod_m880621050(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_System_TypeWrap_get_StructLayoutAttribute_m2815446636(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_ChangeStartValue_m3764413260(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_ChangeEndValue_m2838435473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_ChangeValues_m4253809631(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_startValue_m3771784081(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_endValue_m1045071408(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_changeValue_m3870489899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_plugOptions_m3172430710(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_getter_m1512762110(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_setter_m140691521(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_startValue_m1965666777(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_endValue_m2707721582(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_changeValue_m612029989(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_plugOptions_m746501559(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_getter_m4004148971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_setter_m1630738743(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationBlendModeWrap_get_Blend_m1499589045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationBlendModeWrap_get_Additive_m2230734549(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationBlendModeWrap_IntToEnum_m3307361890(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap__CreateUnityEngine_AnimationClip_m3529847331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_SampleAnimation_m3539891986(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_SetCurve_m3917811736(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_EnsureQuaternionContinuity_m621442671(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_ClearCurves_m204671865(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_AddEvent_m354208886(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_op_Equality_m2541244375(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_length_m2593525482(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_frameRate_m3232178395(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_wrapMode_m3996873426(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_localBounds_m3527189970(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_legacy_m1520362497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_humanMotion_m149031396(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_empty_m399462039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_events_m2233386243(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_frameRate_m650235091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_wrapMode_m312502119(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_localBounds_m1869288714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_legacy_m2988200207(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_events_m3074281769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap__CreateUnityEngine_AnimationCurve_m1422623863(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap__get_this_m2114833886(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap__this_m922128682(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_Evaluate_m1648437946(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_AddKey_m3937852373(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_MoveKey_m714847050(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_RemoveKey_m2657780174(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_Item_m4209969357(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_SmoothTangents_m2637557187(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_Constant_m2657719803(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_Linear_m843873037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_EaseInOut_m2132310489(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_keys_m4109862170(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_length_m3523292461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_preWrapMode_m1130118801(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_postWrapMode_m2748947021(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_set_keys_m3095698120(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_set_preWrapMode_m2129473164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_set_postWrapMode_m1137815038(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap__CreateUnityEngine_AnimationState_m596095206(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_AddMixingTransform_m678388313(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_RemoveMixingTransform_m2583316254(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_op_Equality_m2755012561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_enabled_m1784100938(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_weight_m3171296539(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_wrapMode_m3204667346(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_time_m4034668836(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_normalizedTime_m1637515839(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_speed_m1428004450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_normalizedSpeed_m1310201296(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_length_m1613389952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_layer_m754559129(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_clip_m18771588(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_name_m2212635788(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_blendMode_m3438803266(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_enabled_m2753493772(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_weight_m3970942388(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_wrapMode_m810081836(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_time_m873511853(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_normalizedTime_m1207379488(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_speed_m3925091601(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_normalizedSpeed_m3419727037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_layer_m623920154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_name_m2237056033(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_blendMode_m3845562333(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap__CreateUnityEngine_Animation_m3112112395(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap__get_this_m2121352151(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap__this_m3332661614(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_Stop_m1352028381(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_Rewind_m3101143382(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_Sample_m283595884(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_IsPlaying_m826481187(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_Item_m3805294242(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_Play_m1646738167(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_CrossFade_m863715718(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_Blend_m1459985592(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_CrossFadeQueued_m2005617496(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_PlayQueued_m1013958873(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_AddClip_m3795445646(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_RemoveClip_m501176859(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_GetClipCount_m11207958(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_SyncLayer_m1170783840(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_GetEnumerator_m3939278389(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_GetClip_m2951304356(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_op_Equality_m2878782907(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_clip_m194215215(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_playAutomatically_m2521719519(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_wrapMode_m2810401835(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_isPlaying_m326845746(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_animatePhysics_m3305630991(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_cullingType_m3138626897(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_localBounds_m1893543031(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_clip_m3531620527(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_playAutomatically_m3923994729(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_wrapMode_m3478640774(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_animatePhysics_m1508135190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_cullingType_m386107627(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_localBounds_m356087350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap__CreateUnityEngine_Animator_m1370921319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetFloat_m1599843959(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetFloat_m2352414274(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetBool_m1799234229(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetBool_m2765247178(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetInteger_m2824154372(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetInteger_m3592386952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetTrigger_m945338236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_ResetTrigger_m577533222(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_IsParameterControlledByCurve_m3599632519(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKPosition_m4013144854(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKPosition_m1749911924(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKRotation_m2248619181(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKRotation_m1322092239(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKPositionWeight_m1401432707(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKPositionWeight_m3174410776(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKRotationWeight_m3401197993(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKRotationWeight_m2353473675(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKHintPosition_m3976175602(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKHintPosition_m1991101620(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKHintPositionWeight_m599942081(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKHintPositionWeight_m145281506(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetLookAtPosition_m1365035423(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetLookAtWeight_m372913481(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetBoneLocalRotation_m4068976343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetBehaviours_m819544639(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetLayerName_m707954491(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetLayerIndex_m1041372894(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetLayerWeight_m1900320423(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetLayerWeight_m1450829729(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetCurrentAnimatorStateInfo_m939695512(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetNextAnimatorStateInfo_m3015353795(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetAnimatorTransitionInfo_m1758009199(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetCurrentAnimatorClipInfoCount_m4233082019(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetCurrentAnimatorClipInfo_m1927244328(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetNextAnimatorClipInfoCount_m3731147526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetNextAnimatorClipInfo_m979068151(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_IsInTransition_m3041159606(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetParameter_m4273710908(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_MatchTarget_m3147293416(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_InterruptMatchTarget_m3519779956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_CrossFadeInFixedTime_m3733030585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_CrossFade_m3458308076(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_PlayInFixedTime_m3057228529(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_Play_m2649743947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetTarget_m3786872184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetBoneTransform_m541985613(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StartPlayback_m600457020(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StopPlayback_m475262880(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StartRecording_m2851305926(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StopRecording_m554876877(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_HasState_m2492524967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StringToHash_m4174866882(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_Update_m2545154589(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_Rebind_m1227499690(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_ApplyBuiltinRootMotion_m175386247(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_op_Equality_m2202196588(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isOptimizable_m3824472913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isHuman_m1353828697(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_hasRootMotion_m3925547707(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_humanScale_m498164628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isInitialized_m674130043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_deltaPosition_m793505444(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_deltaRotation_m654303035(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_velocity_m1177759446(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_angularVelocity_m2389825347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_rootPosition_m182639784(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_rootRotation_m515704102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_applyRootMotion_m1100440080(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_linearVelocityBlending_m1540679904(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_updateMode_m2387386246(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_hasTransformHierarchy_m1653346955(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_gravityWeight_m2221712627(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_bodyPosition_m1875983351(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_bodyRotation_m723140928(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_stabilizeFeet_m1890174901(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_layerCount_m1383780511(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_parameters_m745848628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_parameterCount_m4097921136(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_feetPivotActive_m3599989525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_pivotWeight_m4218901990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_pivotPosition_m885394555(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isMatchingTarget_m1368385927(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_speed_m2388516584(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_targetPosition_m2742941370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_targetRotation_m2399918529(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_cullingMode_m2853738676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_playbackTime_m2571065982(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_recorderStartTime_m260973480(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_recorderStopTime_m1686408104(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_recorderMode_m3379158170(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_runtimeAnimatorController_m499193471(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_hasBoundPlayables_m922848786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_avatar_m2730324212(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_playableGraph_m556199153(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_layersAffectMassCenter_m1845881835(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_leftFeetBottomHeight_m3310334578(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_rightFeetBottomHeight_m4025390271(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_logWarnings_m1708909149(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_fireEvents_m1471938672(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_rootPosition_m184427995(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_rootRotation_m838459199(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_applyRootMotion_m2206928423(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_linearVelocityBlending_m1014723013(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_updateMode_m2886078770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_bodyPosition_m1711356310(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_bodyRotation_m1647339294(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_stabilizeFeet_m3815229332(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_feetPivotActive_m1667540574(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_speed_m1750829927(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_cullingMode_m461174139(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_playbackTime_m2017623909(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_recorderStartTime_m618514390(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_recorderStopTime_m1939106423(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_runtimeAnimatorController_m2964955628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_avatar_m3977012331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_layersAffectMassCenter_m1731401886(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_logWarnings_m2665167139(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_fireEvents_m1968923741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_Quit_m3749077091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_CancelQuit_m3660225675(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_Unload_m1103599377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_GetStreamProgressForLevel_m817552211(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_CanStreamedLevelBeLoaded_m311296648(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_GetBuildTags_m4022749917(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_SetBuildTags_m3960198482(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_HasProLicense_m2547115514(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_RequestAdvertisingIdentifierAsync_m2452555276(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_OpenURL_m1639140399(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_GetStackTraceLogType_m1932037391(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_SetStackTraceLogType_m1308294320(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_RequestUserAuthorization_m926457688(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_HasUserAuthorization_m912747790(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_streamedBytes_m142731169(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isPlaying_m619032841(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isFocused_m2164877777(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isEditor_m3832858365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_platform_m116630121(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_buildGUID_m2677065116(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isMobilePlatform_m4156423525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isConsolePlatform_m2854545524(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_runInBackground_m1340963054(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_dataPath_m2271918611(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_streamingAssetsPath_m1771263969(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_persistentDataPath_m1923962652(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_temporaryCachePath_m2303386557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_absoluteURL_m13604693(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_unityVersion_m2756516526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_version_m3162348259(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_installerName_m1235048546(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_identifier_m1727593600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_installMode_m2229300899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_sandboxType_m3245154585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_productName_m985579459(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_companyName_m643325535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_cloudProjectId_m2566931489(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_targetFrameRate_m4286809365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_systemLanguage_m3884722582(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_backgroundLoadingPriority_m3470279464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_internetReachability_m1203015779(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_genuine_m3296988382(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_genuineCheckAvailable_m4075340753(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_lowMemory_m585685051(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_logMessageReceived_m3174688738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_logMessageReceivedThreaded_m4048579992(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_onBeforeRender_m2907812460(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_runInBackground_m727693084(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_targetFrameRate_m1088042411(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_backgroundLoadingPriority_m3785837499(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_lowMemory_m2122566714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_logMessageReceived_m2652823509(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_logMessageReceivedThreaded_m685807762(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_onBeforeRender_m2608165602(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_UnityEngine_Application_AdvertisingIdentifierCallback_m1021666739(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_UnityEngine_Application_LogCallback_m928388090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ApplicationWrap_UnityEngine_Application_LowMemoryCallback_m1705213074(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap__CreateUnityEngine_AssetBundle_m3768356629(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_SetAssetBundleDecryptKey_m926146176(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_UnloadAllAssetBundles_m2012449076(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_GetAllLoadedAssetBundles_m2624417985(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromFileAsync_m2398153347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromFile_m155521039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromMemoryAsync_m212749009(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromMemory_m3859566028(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromStreamAsync_m138947442(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromStream_m982583717(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_Contains_m2275101789(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAsset_m2378887360(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAssetAsync_m240050094(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAssetWithSubAssets_m537616736(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAssetWithSubAssetsAsync_m3430113144(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAllAssets_m2613598035(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAllAssetsAsync_m3034808080(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_Unload_m4202909058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_GetAllAssetNames_m281153272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_GetAllScenePaths_m1459517514(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_op_Equality_m1938679520(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_get_mainAsset_m3238059091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_get_isStreamedSceneAssetBundle_m98306408(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap__CreateUnityEngine_AsyncOperation_m3340315847(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_isDone_m1960131788(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_progress_m3775273737(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_priority_m4246964090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_allowSceneActivation_m4051010768(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_completed_m2203425433(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_set_priority_m2789470930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_set_allowSceneActivation_m3498261302(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_set_completed_m2457559317(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap__CreateUnityEngine_AudioClip_m3011736356(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_LoadAudioData_m1986786520(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_UnloadAudioData_m2561215581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_GetData_m3777312378(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_SetData_m1763668331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_Create_m4286099649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_op_Equality_m2738493838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_length_m1925100949(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_samples_m2394690850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_channels_m3063550734(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_frequency_m24633935(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_loadType_m3920210905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_preloadAudioData_m894516923(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_ambisonic_m2327475230(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_loadState_m1281240663(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_loadInBackground_m2421208031(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_UnityEngine_AudioClip_PCMReaderCallback_m1410906344(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioClipWrap_UnityEngine_AudioClip_PCMSetPositionCallback_m294082318(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap__CreateUnityEngine_AudioSource_m1198577980(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_Play_m3149832543(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayDelayed_m2354888658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayScheduled_m1376024536(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetScheduledStartTime_m3088952095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetScheduledEndTime_m2157786138(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_Stop_m203218532(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_Pause_m1545190796(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_UnPause_m3198133108(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayOneShot_m288742103(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayClipAtPoint_m2550226634(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetCustomCurve_m1824853842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetCustomCurve_m14160905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetOutputData_m162091058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetSpectrumData_m295083829(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetSpatializerFloat_m3887896208(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetSpatializerFloat_m3252582164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetAmbisonicDecoderFloat_m3105080480(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetAmbisonicDecoderFloat_m181509590(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPitch_m198061613(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOFade_m1400851164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOTogglePause_m333847995(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOSmoothRewind_m3382106403(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DORewind_m1648399851(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DORestart_m3049592679(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPlayForward_m988296096(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPlayBackwards_m3628942188(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPlay_m1003944167(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPause_m3921871864(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOGoto_m3292895175(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOFlip_m389735075(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOKill_m3109962464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOComplete_m4099150018(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_op_Equality_m2711135028(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_volume_m326530662(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_pitch_m2744183232(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_time_m1022279780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_timeSamples_m1435046930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_clip_m1705308266(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_outputAudioMixerGroup_m2134700224(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_isPlaying_m16506376(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_isVirtual_m3471420889(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_loop_m2416262359(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_ignoreListenerVolume_m1650016581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_playOnAwake_m1085616197(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_ignoreListenerPause_m4240815110(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_velocityUpdateMode_m324511441(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_panStereo_m840677535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spatialBlend_m21124413(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spatialize_m2136902850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spatializePostEffects_m3288804888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_reverbZoneMix_m3235371592(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_bypassEffects_m1480082306(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_bypassListenerEffects_m3892871934(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_bypassReverbZones_m2477322976(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_dopplerLevel_m1491412872(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spread_m2856610629(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_priority_m2639279609(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_mute_m3391181471(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_minDistance_m2325249378(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_maxDistance_m3570179732(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_rolloffMode_m2613768874(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_volume_m3676208512(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_pitch_m259945372(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_time_m2523022048(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_timeSamples_m692662330(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_clip_m2838253838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_outputAudioMixerGroup_m1284866675(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_loop_m2042298979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_ignoreListenerVolume_m223600919(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_playOnAwake_m2944159649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_ignoreListenerPause_m1528650255(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_velocityUpdateMode_m3437730738(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_panStereo_m982211998(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spatialBlend_m3437056154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spatialize_m4294730092(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spatializePostEffects_m2315907582(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_reverbZoneMix_m982703412(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_bypassEffects_m2969242547(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_bypassListenerEffects_m2123661475(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_bypassReverbZones_m647792793(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_dopplerLevel_m4045280294(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spread_m283878075(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_priority_m2862958882(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_mute_m1524927686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_minDistance_m279850210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_maxDistance_m3463890772(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_rolloffMode_m3984135007(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BehaviourWrap__CreateUnityEngine_Behaviour_m2780071643(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BehaviourWrap_op_Equality_m2703267480(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BehaviourWrap_get_enabled_m397695497(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BehaviourWrap_get_isActiveAndEnabled_m46981254(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BehaviourWrap_set_enabled_m2306466780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_get_OneBone_m3319709681(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_get_TwoBones_m615107554(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_get_FourBones_m1533376606(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_IntToEnum_m3374881020(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BoxColliderWrap__CreateUnityEngine_BoxCollider_m1141101973(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_op_Equality_m1794816623(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_get_center_m4087928410(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_get_size_m1581803039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_set_center_m24487343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_set_size_m972689267(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Skybox_m794966984(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Color_m2735154661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_SolidColor_m2686944244(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Depth_m1875616487(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Nothing_m3368370337(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_IntToEnum_m2764039161(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap__CreateUnityEngine_Camera_m2788544406(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_SetTargetBuffers_m3947406854(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetWorldToCameraMatrix_m4072742107(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetProjectionMatrix_m3431341360(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetAspect_m1664722571(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_GetStereoViewMatrix_m720899879(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_SetStereoViewMatrix_m1364280920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetStereoViewMatrices_m3205814508(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_GetStereoProjectionMatrix_m1542634604(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_SetStereoProjectionMatrix_m1174014610(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_CalculateFrustumCorners_m2880278422(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetStereoProjectionMatrices_m7407543(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetTransparencySortSettings_m2036520324(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_WorldToScreenPoint_m2661013369(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_WorldToViewportPoint_m2288461329(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ViewportToWorldPoint_m2714637634(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ScreenToWorldPoint_m762463152(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ScreenToViewportPoint_m2618741286(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ViewportToScreenPoint_m3247879467(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ViewportPointToRay_m1087682553(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ScreenPointToRay_m1075429751(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_GetAllCameras_m890486169(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_Render_m2689563885(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_RenderWithShader_m3889877493(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_SetReplacementShader_m2535199209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetReplacementShader_m2902076786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetCullingMatrix_m2034320057(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_RenderDontRestore_m4241704200(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_SetupCurrent_m4186883343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_RenderToCubemap_m995125368(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_CopyFrom_m2774568431(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_AddCommandBuffer_m2628700241(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_RemoveCommandBuffer_m1615071143(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_RemoveCommandBuffers_m4105504348(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_RemoveAllCommandBuffers_m1186314959(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_GetCommandBuffers_m2284573912(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_CalculateObliqueMatrix_m3446208387(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_GetStereoNonJitteredProjectionMatrix_m3364255230(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_CopyStereoDeviceProjectionMatrixToNonJittered_m3076235735(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOShakeRotation_m603967461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOShakePosition_m2017861961(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DORect_m3128499394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPixelRect_m4220062446(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOOrthoSize_m2411248061(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DONearClipPlane_m348959379(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOFieldOfView_m1959783146(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOFarClipPlane_m689674982(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOColor_m2584903014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOAspect_m4248899340(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOTogglePause_m3865124728(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOSmoothRewind_m833177336(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DORewind_m2957560126(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DORestart_m3467678022(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPlayForward_m498219187(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPlayBackwards_m3821911739(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPlay_m3772067792(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPause_m1399873470(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOGoto_m2593880424(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOFlip_m464093155(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOKill_m4226448469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_DOComplete_m3661217551(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_op_Equality_m3303886178(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_onPreCull_m3766180474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_onPreRender_m925929217(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_onPostRender_m1525952376(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_fieldOfView_m2297622812(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_nearClipPlane_m2003288394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_farClipPlane_m113284551(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_renderingPath_m3166437132(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_actualRenderingPath_m3763442585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allowHDR_m1941461255(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_forceIntoRenderTexture_m1963087577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allowMSAA_m3265583529(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allowDynamicResolution_m1015189226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_orthographicSize_m4108105403(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_orthographic_m1784792321(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_opaqueSortMode_m4033815785(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_transparencySortMode_m2884193188(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_transparencySortAxis_m3077826397(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_depth_m929944014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_aspect_m4287630001(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cullingMask_m835800323(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_scene_m2326860641(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_eventMask_m206791715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_backgroundColor_m256269386(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_rect_m3743666885(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_pixelRect_m3484781217(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_targetTexture_m2635582542(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_activeTexture_m1980493297(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_pixelWidth_m371475000(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_pixelHeight_m1438294233(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_scaledPixelWidth_m1178961232(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_scaledPixelHeight_m1333403664(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cameraToWorldMatrix_m2502278281(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_worldToCameraMatrix_m1684553566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_projectionMatrix_m522604859(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_nonJitteredProjectionMatrix_m3492261049(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_useJitteredProjectionMatrixForTransparentRendering_m2169827(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_previousViewProjectionMatrix_m2460199538(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_velocity_m2477181959(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_clearFlags_m2812162280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoEnabled_m509485834(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoSeparation_m2484180901(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoConvergence_m2123064770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cameraType_m2671343376(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoTargetEye_m161564950(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_areVRStereoViewMatricesWithinSingleCullTolerance_m2974894009(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoActiveEye_m1704325215(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_targetDisplay_m2137542496(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_main_m1939849862(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_current_m1434802480(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allCameras_m2688013287(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allCamerasCount_m503646556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_useOcclusionCulling_m1030631474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cullingMatrix_m2575258694(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_layerCullDistances_m1336455177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_layerCullSpherical_m3112950102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_depthTextureMode_m1599875478(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_clearStencilAfterLightingPass_m108859930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_get_commandBufferCount_m3101871713(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_onPreCull_m4132401248(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_onPreRender_m1533474737(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_onPostRender_m1342210354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_fieldOfView_m1387344325(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_nearClipPlane_m2496284388(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_farClipPlane_m707325184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_renderingPath_m2373947977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_allowHDR_m4176852055(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_forceIntoRenderTexture_m1174619652(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_allowMSAA_m1400081526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_allowDynamicResolution_m963331464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_orthographicSize_m1751904288(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_orthographic_m2548784362(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_opaqueSortMode_m241584556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_transparencySortMode_m324101581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_transparencySortAxis_m1227125594(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_depth_m151667866(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_aspect_m3404884155(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_cullingMask_m4131012522(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_scene_m1842445315(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_eventMask_m2552091649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_backgroundColor_m1005896602(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_rect_m1425030275(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_pixelRect_m3578980135(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_targetTexture_m3548674694(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_worldToCameraMatrix_m817458022(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_projectionMatrix_m2335051991(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_nonJitteredProjectionMatrix_m3940861153(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_useJitteredProjectionMatrixForTransparentRendering_m3809173421(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_clearFlags_m3715350128(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_stereoSeparation_m1193071026(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_stereoConvergence_m3873042249(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_cameraType_m195767268(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_stereoTargetEye_m2583063353(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_targetDisplay_m4034386746(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_useOcclusionCulling_m4135078105(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_cullingMatrix_m3945915764(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_layerCullDistances_m1821091715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_layerCullSpherical_m3030514(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_depthTextureMode_m1059231720(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_set_clearStencilAfterLightingPass_m443513843(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CameraWrap_UnityEngine_Camera_CameraCallback_m1155960072(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap__CreateUnityEngine_CanvasGroup_m3592878135(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_IsRaycastLocationValid_m981742004(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_op_Equality_m3756402471(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_alpha_m2164586451(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_interactable_m1950149458(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_blocksRaycasts_m762829754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_ignoreParentGroups_m2510541676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_alpha_m2147799407(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_interactable_m1180700858(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_blocksRaycasts_m3886738504(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_ignoreParentGroups_m4091381676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap__CreateUnityEngine_CapsuleCollider_m2098717766(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_op_Equality_m2539533856(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_center_m2957372860(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_radius_m3337985286(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_height_m3532163783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_direction_m3327496647(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_center_m2657195530(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_radius_m2669858691(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_height_m2020482039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_direction_m934365433(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap__CreateUnityEngine_CharacterController_m1205469040(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_SimpleMove_m1696006334(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_Move_m921615979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_op_Equality_m1875676532(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_isGrounded_m2057297754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_velocity_m3278594722(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_collisionFlags_m4263462533(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_radius_m450367011(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_height_m1021165834(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_center_m3551885418(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_slopeLimit_m215276404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_stepOffset_m34361651(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_skinWidth_m3452525358(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_minMoveDistance_m2133684623(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_detectCollisions_m3893936553(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_enableOverlapRecovery_m3312736941(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_radius_m3799793990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_height_m3156579868(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_center_m352031653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_slopeLimit_m1617803455(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_stepOffset_m4023914790(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_skinWidth_m1763907892(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_minMoveDistance_m2189480025(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_detectCollisions_m2907790313(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_enableOverlapRecovery_m264037997(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap__CreateUnityEngine_Collider_m2026123626(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_ClosestPointOnBounds_m3046035828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_ClosestPoint_m2839649495(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_Raycast_m2198142054(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_op_Equality_m2173780993(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_enabled_m3913197638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_attachedRigidbody_m2588159940(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_isTrigger_m4158404658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_contactOffset_m1155447487(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_material_m1446057429(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_sharedMaterial_m2170816451(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_bounds_m2827106776(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_enabled_m1154348242(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_isTrigger_m985669245(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_contactOffset_m1608788779(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_material_m3788274523(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_sharedMaterial_m4226593029(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap__CreateUnityEngine_Component_m1161729098(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponent_m4146601794(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentInChildren_m3587697461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentsInChildren_m3154960072(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentInParent_m3086417928(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentsInParent_m1183635588(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponents_m866783404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_CompareTag_m1549477486(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_SendMessageUpwards_m3002524533(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_SendMessage_m3398482024(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_BroadcastMessage_m2434503699(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOTogglePause_m2019466532(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOSmoothRewind_m2536580211(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DORewind_m1382037064(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DORestart_m1951560285(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPlayForward_m3274144094(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPlayBackwards_m845988918(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPlay_m3408821226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPause_m1999863571(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOGoto_m1470834315(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOFlip_m2681328344(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOKill_m1107708042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOComplete_m1259442204(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_op_Equality_m659893848(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_get_transform_m1093446197(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_get_gameObject_m3654496660(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_get_tag_m31616381(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ComponentWrap_set_tag_m3015666525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetPersistentEventCount_m765842813(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetPersistentTarget_m187837319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetPersistentMethodName_m2120526774(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_SetPersistentListenerState_m997647064(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_RemoveAllListeners_m3117522078(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_ToString_m2217404808(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetValidMethodInfo_m4077291364(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap__CreateUnityEngine_Events_UnityEvent_m3193285756(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap_AddListener_m3315606807(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap_RemoveListener_m3966985019(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap_Invoke_m1944216312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_AbstractEventDataWrap_Reset_m3222330124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_AbstractEventDataWrap_Use_m403489266(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_AbstractEventDataWrap_get_used_m1234983907(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap__CreateUnityEngine_EventSystems_BaseEventData_m2928563687(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap_get_currentInputModule_m887113389(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap_get_selectedObject_m4159637783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap_set_selectedObject_m3024143971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerEnter_m668680859(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerExit_m2950248516(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnDrag_m1561617020(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnDrop_m3224171064(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerDown_m2113620458(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerUp_m1620690967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerClick_m744712055(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnSelect_m3892019914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnDeselect_m293630288(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnScroll_m670844200(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnMove_m2815230043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnUpdateSelected_m291807886(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnInitializePotentialDrag_m1365371261(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnBeginDrag_m3898202923(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnEndDrag_m4070064353(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnSubmit_m429462997(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnCancel_m1446288945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_op_Equality_m2839937095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_get_triggers_m1520155920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_set_triggers_m1926050737(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap__CreateUnityEngine_EventSystems_PointerEventData_m4048707970(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_IsPointerMoving_m385116462(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_IsScrolling_m4045487461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_ToString_m3331750992(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_hovered_m3545281329(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerEnter_m4061041045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_lastPress_m3696785733(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_rawPointerPress_m4256005473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerDrag_m3833067215(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerCurrentRaycast_m2740742255(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerPressRaycast_m445541723(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_eligibleForClick_m3282885094(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerId_m257640375(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_position_m1064818842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_delta_m1333446960(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pressPosition_m2241798848(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_clickTime_m1438939916(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_clickCount_m3345107569(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_scrollDelta_m3366375279(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_useDragThreshold_m661054382(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_dragging_m199004822(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_button_m3451748859(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_enterEventCamera_m3686656232(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pressEventCamera_m293370770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerPress_m3340887037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_hovered_m2191146838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerEnter_m2323071701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_rawPointerPress_m293392572(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerDrag_m243777812(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerCurrentRaycast_m171040235(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerPressRaycast_m1116191072(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_eligibleForClick_m2762718108(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerId_m1436076670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_position_m862875097(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_delta_m3429670389(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pressPosition_m2126844917(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_clickTime_m4232681219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_clickCount_m3730619375(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_scrollDelta_m4194317724(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_useDragThreshold_m3171743913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_dragging_m3261785079(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_button_m300707842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerPress_m3825844667(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_UIBehaviourWrap_IsActive_m3440785852(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_UIBehaviourWrap_IsDestroyed_m3799886278(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_EventSystems_UIBehaviourWrap_op_Equality_m732995671(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap__CreateUnityEngine_GameObject_m390713999(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_CreatePrimitive_m6981502(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponent_m1703395533(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentInChildren_m3222961714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentInParent_m911441133(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponents_m138182236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentsInChildren_m98972666(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentsInParent_m573744980(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_SetActive_m1154509095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_CompareTag_m1497336561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_FindGameObjectWithTag_m717116568(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_FindWithTag_m1859456037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_FindGameObjectsWithTag_m904006253(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_Find_m2054737047(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_AddComponent_m1564275168(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_BroadcastMessage_m2833751707(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_SendMessageUpwards_m3174702686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_SendMessage_m1144717422(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_op_Equality_m300384361(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_transform_m1948549177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_layer_m2559775593(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_activeSelf_m682076522(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_activeInHierarchy_m2056054199(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_isStatic_m3344166427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_tag_m1773156182(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_scene_m3812896811(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_gameObject_m2802297316(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_set_layer_m1296160530(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_set_isStatic_m770769678(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_GameObjectWrap_set_tag_m3506436046(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetAxis_m4242546262(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetAxisRaw_m2308251610(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetButton_m889002900(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetButtonDown_m1420215515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetButtonUp_m351413748(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetKey_m2853886344(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetKeyDown_m3941297729(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetKeyUp_m1342703710(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetJoystickNames_m442328271(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetMouseButton_m2931168282(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetMouseButtonDown_m4109727977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetMouseButtonUp_m2766813777(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_ResetInputAxes_m953423180(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetAccelerationEvent_m1439454612(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_GetTouch_m3873507994(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_compensateSensors_m2842907120(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_gyro_m1658914840(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_mousePosition_m3777074188(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_mouseScrollDelta_m2736934599(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_mousePresent_m2588632969(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_simulateMouseWithTouches_m2280224809(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_anyKey_m4284802217(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_anyKeyDown_m397629885(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_inputString_m1536002427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_acceleration_m3162773071(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_accelerationEvents_m1835937643(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_accelerationEventCount_m380829674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_touches_m2239636849(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_touchCount_m3356059669(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_touchPressureSupported_m2128622736(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_stylusTouchSupported_m3977509374(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_touchSupported_m4194274057(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_multiTouchEnabled_m1551834128(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_location_m486301392(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_compass_m3202594594(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_deviceOrientation_m4220748658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_imeCompositionMode_m2085298433(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_compositionString_m891124741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_imeIsSelected_m1379379511(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_compositionCursorPos_m2381520990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_get_backButtonLeavesApp_m2060797751(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_set_compensateSensors_m84221063(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_set_simulateMouseWithTouches_m1882148189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_set_multiTouchEnabled_m2782880758(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_set_imeCompositionMode_m2523063274(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_set_compositionCursorPos_m812345038(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_InputWrap_set_backButtonLeavesApp_m3047560950(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_None_m3315325956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Backspace_m1129503611(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Delete_m1158803585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Tab_m3702264350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Clear_m3621696979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Return_m3560220709(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Pause_m4018499321(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Escape_m2709166427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Space_m1884845300(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad0_m321252654(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad1_m320971473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad2_m320935536(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad3_m320870827(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad4_m321638090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad5_m321602285(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad6_m321566220(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad7_m321538599(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad8_m321781574(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad9_m321745769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadPeriod_m1990409426(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadDivide_m1484933151(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadMultiply_m2227873715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadMinus_m1654852163(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadPlus_m1491117004(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadEnter_m1089851130(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadEquals_m3890333004(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_UpArrow_m3988726010(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_DownArrow_m4253856934(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightArrow_m3015633816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftArrow_m2356545231(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Insert_m3389213056(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Home_m3482695617(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_End_m1566274931(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_PageUp_m2132532607(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_PageDown_m2334483256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F1_m3327375140(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F2_m3204599471(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F3_m2448850373(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F4_m62970479(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F5_m3199875817(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F6_m3972885967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F7_m1356227189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F8_m1888397648(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F9_m1442796410(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F10_m1064577907(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F11_m1065908052(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F12_m1064506293(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F13_m1064542102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F14_m1064721391(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F15_m1064478672(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha0_m290240427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha1_m1351235692(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha2_m878674846(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha3_m2826433164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha4_m1456985803(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha5_m1208622546(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha6_m3043016614(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha7_m2698933841(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha8_m3641530547(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha9_m1957760090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Exclaim_m714966481(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_DoubleQuote_m737602174(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Hash_m2958657143(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Dollar_m3085091382(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Ampersand_m4018302753(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Quote_m3139949583(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftParen_m2322390975(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightParen_m611317474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Asterisk_m2613673141(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Plus_m1661855630(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Comma_m3049664114(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Minus_m4066840126(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Period_m3764762555(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Slash_m4133858270(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Colon_m1112552970(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Semicolon_m140381313(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Less_m2467327561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Equals_m1973742853(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Greater_m3593566926(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Question_m857866478(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_At_m2742869342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftBracket_m968614526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Backslash_m3250429546(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightBracket_m3766027538(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Caret_m682058184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Underscore_m3326802939(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_BackQuote_m1275439971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_A_m1651991803(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_B_m3343898174(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_C_m1346508409(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_D_m868900404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_E_m357041007(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F_m1081651058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_G_m1974510125(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_H_m52021432(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_I_m944880499(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_J_m4108450358(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_K_m706342129(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_L_m1882711852(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_M_m2775570919(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_N_m219252042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_O_m1112111109(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_P_m1301225264(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Q_m3598802795(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_R_m995741870(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_S_m1888600937(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_T_m2995722404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_U_m899133535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_V_m4069526946(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_W_m2072137181(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_X_m1621531752(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Y_m2514390819(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Z_m355575590(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Numlock_m4216213634(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_CapsLock_m3396363789(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_ScrollLock_m142853822(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightShift_m2155188600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftShift_m1443105066(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightControl_m2458409890(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftControl_m3886524240(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightAlt_m91807583(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftAlt_m851912337(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftCommand_m452145847(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftApple_m3764115307(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftWindows_m3229895113(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightCommand_m1469721745(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightApple_m2561009580(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightWindows_m3754749858(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_AltGr_m404150348(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Help_m314873881(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Print_m607270393(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_SysReq_m3153804844(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Break_m278798344(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Menu_m44479140(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse0_m4215675113(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse1_m127262511(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse2_m1970960058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse3_m165827235(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse4_m1493331556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse5_m2257888039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse6_m1422852548(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton0_m4127724472(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton1_m4127760405(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton2_m4127796342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton3_m4127307731(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton4_m4123517756(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton5_m4123553689(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton6_m4123589626(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton7_m4127688535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton8_m4123374272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton9_m4123410205(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton10_m2951665687(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton11_m3102858061(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton12_m1618270880(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton13_m1215814289(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton14_m4025145486(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton15_m4176337021(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton16_m2691750683(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton17_m2289294057(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton18_m2884032463(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton19_m2689194165(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button0_m1997062948(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button1_m1871431131(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button2_m663668142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button3_m538035615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button4_m3278160668(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button5_m2944910091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button6_m1737147944(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button7_m1611515383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button8_m2067841629(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button9_m3949183811(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button10_m1743759517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button11_m850900450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button12_m1877871231(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button13_m1692123468(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button14_m2045101841(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button15_m1152242774(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button16_m2283640211(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button17_m2097892448(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button18_m1908802245(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button19_m891313546(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button0_m1505791769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button1_m1380159952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button2_m172396963(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button3_m46764436(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button4_m2786889489(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button5_m2453638912(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button6_m1245876765(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button7_m1120244204(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button8_m1576570450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button9_m3457912632(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button10_m2744203350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button11_m3637062417(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button12_m3689853024(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button13_m3747674515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button14_m2314934754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button15_m3207793821(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button16_m390538572(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button17_m1812557439(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button18_m2077254270(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button19_m204494137(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button0_m1992008838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button1_m1866377021(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button2_m658614032(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button3_m532981505(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button4_m3273106558(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button5_m2939855981(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button6_m1732093834(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button7_m1606461273(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button8_m2062787519(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button9_m3944129701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button10_m794532007(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button11_m1764511124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button12_m307002053(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button13_m818861450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button14_m2918299419(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button15_m2887839368(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button16_m2835048761(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button17_m1942189694(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button18_m2748613247(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button19_m1326594380(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button0_m1494493387(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button1_m1368861570(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button2_m161098581(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button3_m35466054(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button4_m2775591107(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button5_m2442340530(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button6_m1234578383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button7_m1108945822(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button8_m1565272068(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button9_m3446614250(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button10_m1867424608(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button11_m3289443475(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button12_m3687394134(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button13_m1814634001(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button14_m4227274828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button15_m4285096319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button16_m1856703714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button17_m2749562781(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button18_m3966094728(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button19_m2760283675(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button0_m1730374280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button1_m1604742463(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button2_m396979474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button3_m271346947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button4_m3011472000(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button5_m2678221423(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button6_m1470459276(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button7_m1344826715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button8_m1801152961(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button9_m3682495143(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button10_m3441956665(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button11_m2549097598(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button12_m759588123(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button13_m3494747272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button14_m2443258053(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button15_m2955117450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button16_m2930788007(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button17_m3900767124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button18_m3815828753(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button19_m2922969686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button0_m3845405517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button1_m3719773700(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button2_m2512010711(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button3_m2386378184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button4_m831535941(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button5_m498285364(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button6_m3585490513(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button7_m3459857952(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button8_m3916184198(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button9_m1502559084(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button10_m1704905186(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button11_m4127112349(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button12_m1309857100(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button13_m2731875967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button14_m769976406(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button15_m1662835473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button16_m1715626080(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button17_m3137644947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button18_m3274666378(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button19_m2762806981(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button0_m2220545434(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button1_m2094913617(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button2_m887150628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button3_m761518101(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button4_m3501643154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button5_m3168392577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button6_m1960630430(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button7_m1834997869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button8_m2291324115(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button9_m4172666297(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button10_m1473232275(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button11_m51213408(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button12_m4293390097(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button13_m3400531030(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button14_m1067463295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button15_m3940411724(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button16_m2462699677(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button17_m1569840610(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button18_m3709691675(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button19_m2149883528(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button0_m3027827912(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button1_m2902196095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button2_m1694433106(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button3_m1568800579(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button4_m13958336(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button5_m3975675055(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button6_m2767912908(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button7_m2642280347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button8_m3098606593(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button9_m684981479(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button10_m1924064236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button11_m3445282207(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button12_m2542941058(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button13_m2031081661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button14_m3859181312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button15_m1085431987(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button16_m78664182(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button17_m3861772081(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button18_m1596934196(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button19_m1491200967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_IntToEnum_m1174686096(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Spot_m2609991556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Directional_m4004747933(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Point_m1345296301(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Area_m1010399765(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightTypeWrap_IntToEnum_m4207843200(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap__CreateUnityEngine_Light_m2789830000(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_AddCommandBuffer_m1091844024(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_RemoveCommandBuffer_m84683071(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_RemoveCommandBuffers_m4118913710(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_RemoveAllCommandBuffers_m3128375972(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_GetCommandBuffers_m999368961(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_GetLights_m2541959153(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOBlendableColor_m3961559857(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOShadowStrength_m3692175806(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOIntensity_m133274649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOColor_m871555475(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOTogglePause_m1369440996(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOSmoothRewind_m2038539074(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DORewind_m4117153747(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DORestart_m1850471627(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOPlayForward_m1960660113(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOPlayBackwards_m3061606688(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOPlay_m1352745943(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOPause_m4158111442(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOGoto_m3166069014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOFlip_m2174946436(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOKill_m1963366111(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_DOComplete_m1541368184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_op_Equality_m3231931906(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadows_m1464647608(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowStrength_m3530977017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowResolution_m4156197994(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_cookieSize_m174474035(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_cookie_m1528039274(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_renderMode_m2834537313(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_commandBufferCount_m670528649(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_type_m2306840833(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_spotAngle_m4214591417(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_color_m177175670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_colorTemperature_m1349753466(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_intensity_m1148057236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_bounceIntensity_m3471893089(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowCustomResolution_m2596090676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowBias_m3840804006(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowNormalBias_m1364400457(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowNearPlane_m3433388149(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_range_m787842531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_flare_m3258576541(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_bakingOutput_m2886612792(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_get_cullingMask_m1840526873(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadows_m1419997407(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowStrength_m2044556022(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowResolution_m3909633324(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_cookieSize_m1702297169(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_cookie_m3793318550(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_renderMode_m784433352(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_type_m2465623037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_spotAngle_m883400408(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_color_m32853250(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_colorTemperature_m341303593(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_intensity_m299524291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_bounceIntensity_m1708605769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowCustomResolution_m3676066527(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowBias_m3485283805(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowNormalBias_m1230570483(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowNearPlane_m3982111173(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_range_m1764118647(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_flare_m3665431833(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_bakingOutput_m2674803055(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LightWrap_set_cullingMask_m877950(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap__CreateUnityEngine_LineRenderer_m1061462608(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_SetPositions_m3146755273(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_GetPositions_m1743998325(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_SetPosition_m602973160(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_GetPosition_m2409192012(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_Simplify_m3375202290(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_op_Equality_m3630312525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_widthCurve_m2909631148(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_colorGradient_m405649653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_startWidth_m3745590397(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_endWidth_m1232127067(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_widthMultiplier_m194160158(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_numCornerVertices_m3501205524(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_numCapVertices_m2938563095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_useWorldSpace_m3994753226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_loop_m1393472967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_startColor_m2136618369(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_endColor_m224916414(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_positionCount_m1838471549(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_generateLightingData_m1762099122(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_textureMode_m1643397830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_alignment_m198900521(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_widthCurve_m620612286(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_colorGradient_m3291345216(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_startWidth_m2848323451(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_endWidth_m245403754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_widthMultiplier_m4091773915(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_numCornerVertices_m2899338302(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_numCapVertices_m3864377993(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_useWorldSpace_m1643579240(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_loop_m2903070753(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_startColor_m675025984(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_endColor_m1965927280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_positionCount_m2240133379(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_generateLightingData_m3375831465(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_textureMode_m1111636877(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_alignment_m1686996052(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap__CreateUnityEngine_Material_m3994382746(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_HasProperty_m2322153869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTag_m373241250(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetOverrideTag_m1724903696(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetShaderPassEnabled_m175490661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetShaderPassEnabled_m3428302381(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_Lerp_m47930075(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetPass_m1396061687(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetPassName_m609353600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_FindPass_m2973304721(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_CopyPropertiesFromMaterial_m4027034383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_EnableKeyword_m2744671119(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DisableKeyword_m657856930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_IsKeywordEnabled_m2237368436(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetFloat_m724577414(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetInt_m1929602289(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetColor_m2490924666(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetVector_m1312982816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetMatrix_m2374226342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetTexture_m2184770873(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetBuffer_m3423955945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetTextureOffset_m3541652464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetTextureScale_m2434772842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetFloatArray_m763372195(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetColorArray_m1867728893(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetVectorArray_m2898573698(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetMatrixArray_m3473018420(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetFloat_m3336228880(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetInt_m3775040855(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetColor_m854672373(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetVector_m2966640311(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetMatrix_m3863666394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetFloatArray_m323677699(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetVectorArray_m3502689192(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetColorArray_m3296471725(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetMatrixArray_m3469835190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTexture_m2891251538(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTextureOffset_m2722151975(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTextureScale_m3628328208(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOTogglePause_m2479751902(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOSmoothRewind_m4181255219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DORewind_m3938245813(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DORestart_m1157621304(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPlayForward_m1528137045(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPlayBackwards_m3044037319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPlay_m815736564(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPause_m99696788(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOGoto_m982948065(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOFlip_m2076166358(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOKill_m1077913710(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOComplete_m1111878300(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOBlendableColor_m2402784560(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOVector_m1406281657(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOTiling_m2097907210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOOffset_m2045725783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOFloat_m268700470(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOFade_m98476819(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOColor_m1781077190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_op_Equality_m4237441834(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_shader_m715502001(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_color_m2066061912(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_mainTexture_m2409805444(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_mainTextureOffset_m2864813342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_mainTextureScale_m1176732401(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_passCount_m3655620587(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_renderQueue_m2205770535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_shaderKeywords_m1714977632(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_globalIlluminationFlags_m396388741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_enableInstancing_m323404059(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_doubleSidedGI_m407080868(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_shader_m1975755998(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_color_m265674198(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_mainTexture_m3243287562(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_mainTextureOffset_m3608362256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_mainTextureScale_m864704897(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_renderQueue_m926978419(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_shaderKeywords_m2917321164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_globalIlluminationFlags_m3730892921(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_enableInstancing_m432659063(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_doubleSidedGI_m96449572(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap__CreateUnityEngine_MeshCollider_m115841537(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_op_Equality_m1737812631(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_sharedMesh_m4074987608(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_convex_m459473272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_cookingOptions_m1859966219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_inflateMesh_m2503252619(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_skinWidth_m4213245914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_sharedMesh_m694572793(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_convex_m1197403666(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_cookingOptions_m1040998049(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_inflateMesh_m2594962456(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_skinWidth_m603440517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshFilterWrap__CreateUnityEngine_MeshFilter_m350150644(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_op_Equality_m284055326(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_get_sharedMesh_m457221921(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_get_mesh_m661570312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_set_sharedMesh_m3799339651(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_set_mesh_m441088336(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshRendererWrap__CreateUnityEngine_MeshRenderer_m3301142525(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshRendererWrap_op_Equality_m2480230271(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshRendererWrap_get_additionalVertexStreams_m2873431473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MeshRendererWrap_set_additionalVertexStreams_m4172105143(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_Invoke_m3114333355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_InvokeRepeating_m3936584354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_CancelInvoke_m726685881(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_IsInvoking_m3502437362(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_StartCoroutine_m1055359289(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_StopCoroutine_m3537454318(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_StopAllCoroutines_m3562790133(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_print_m764431048(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_op_Equality_m505358921(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_get_useGUILayout_m3818919068(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_set_useGUILayout_m484754327(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_get_NotReachable_m3156451650(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_get_ReachableViaCarrierDataNetwork_m645734964(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_get_ReachableViaLocalAreaNetwork_m2941224052(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_IntToEnum_m4286886331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap__CreateUnityEngine_Object_m2254277943(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_FindObjectsOfType_m1115257815(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_DontDestroyOnLoad_m675361473(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_ToString_m1236751821(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_GetInstanceID_m3602528927(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_GetHashCode_m1471889002(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_Equals_m1556304050(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_FindObjectOfType_m2635777377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_op_Equality_m1791255920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_Instantiate_m1929882465(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_DestroyImmediate_m3830896(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_Destroy_m2416395720(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_get_name_m3918532171(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_get_hideFlags_m1081196636(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_set_name_m1907638782(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ObjectWrap_set_hideFlags_m766534495(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap__CreateUnityEngine_ParticleSystem_m1974016398(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_SetParticles_m158852373(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_GetParticles_m1572654946(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_SetCustomParticleData_m1002855956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_GetCustomParticleData_m2385962523(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Simulate_m569991370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Play_m3561910857(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Pause_m2005811218(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Stop_m4051229814(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Clear_m1867240984(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_IsAlive_m1262101958(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Emit_m1529421720(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_EnableMeshNonUniformScaleFix_m3662410911(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_op_Equality_m3714383082(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isPlaying_m1504005770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isEmitting_m180982041(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isStopped_m947155784(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isPaused_m347987962(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_time_m737657751(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_particleCount_m1587144540(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_randomSeed_m1347947095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_useAutoRandomSeed_m843441856(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_main_m3275676170(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_emission_m1308080869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_shape_m2649352369(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_velocityOverLifetime_m292798451(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_limitVelocityOverLifetime_m814235469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_inheritVelocity_m2389655185(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_forceOverLifetime_m323730305(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_colorOverLifetime_m3544688765(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_colorBySpeed_m3144369755(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_sizeOverLifetime_m3597163602(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_sizeBySpeed_m1701843676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_rotationOverLifetime_m2147466665(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_rotationBySpeed_m131251890(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_externalForces_m3415068383(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_noise_m1460158883(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_collision_m53892707(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_trigger_m590597883(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_textureSheetAnimation_m1334712115(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_lights_m301523597(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_trails_m1592103184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_customData_m3011778783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_set_time_m3929123910(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_set_randomSeed_m1171054122(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_set_useAutoRandomSeed_m3917691754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_Raycast_m1467894149(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_RaycastAll_m3670633186(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_RaycastNonAlloc_m2192208907(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_Linecast_m412713161(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapSphere_m1123480964(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapSphereNonAlloc_m640984905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapCapsule_m3478826349(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapCapsuleNonAlloc_m392278377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CapsuleCast_m2993078863(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SphereCast_m1540382187(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CapsuleCastAll_m2536632022(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CapsuleCastNonAlloc_m1969192594(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SphereCastAll_m1599078644(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SphereCastNonAlloc_m71333209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CheckSphere_m2333162767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CheckCapsule_m3562756960(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CheckBox_m308473042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapBox_m3220847670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapBoxNonAlloc_m827265621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_BoxCastAll_m76965672(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_BoxCastNonAlloc_m1368142177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_BoxCast_m3096507504(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_IgnoreCollision_m2061532255(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_IgnoreLayerCollision_m2651100777(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_GetIgnoreLayerCollision_m1810823164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_ComputePenetration_m3635722991(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_ClosestPoint_m1637203748(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_Simulate_m2820292029(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SyncTransforms_m2748046299(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_RebuildBroadphaseRegions_m3149308745(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_gravity_m303504210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_defaultContactOffset_m3949071419(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_bounceThreshold_m2137721242(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_defaultSolverIterations_m2318910791(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_defaultSolverVelocityIterations_m3573885240(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_sleepThreshold_m2316876615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_queriesHitTriggers_m2131510130(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_queriesHitBackfaces_m3756489780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_interCollisionDistance_m903124966(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_interCollisionStiffness_m4233147429(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_interCollisionSettingsToggle_m2645175548(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_autoSimulation_m3693567851(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_autoSyncTransforms_m1276577734(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_gravity_m3129456990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_defaultContactOffset_m3454280469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_bounceThreshold_m49009038(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_defaultSolverIterations_m426514787(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_defaultSolverVelocityIterations_m929583811(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_sleepThreshold_m1611095562(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_queriesHitTriggers_m471064877(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_queriesHitBackfaces_m2910438267(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_interCollisionDistance_m3341731603(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_interCollisionStiffness_m794676422(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_interCollisionSettingsToggle_m1816532388(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_autoSimulation_m42346411(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_autoSyncTransforms_m3120755673(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PlayModeWrap_get_StopSameLayer_m3253281550(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PlayModeWrap_get_StopAll_m3624732202(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_PlayModeWrap_IntToEnum_m2647946467(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_GetQualityLevel_m3853087295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_SetQualityLevel_m4211583828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_IncreaseLevel_m1766222362(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_DecreaseLevel_m402038242(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_op_Equality_m695121196(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_names_m993422277(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowCascade4Split_m2919587439(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_anisotropicFiltering_m4068212681(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_maxQueuedFrames_m4260316295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_blendWeights_m3283609903(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_pixelLightCount_m2996031150(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadows_m1506812407(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowProjection_m1857772337(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowCascades_m3318000757(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowDistance_m1756300369(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowResolution_m1547841385(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowmaskMode_m3278229190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowNearPlaneOffset_m2354263935(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowCascade2Split_m2483198489(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_lodBias_m149244381(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_masterTextureLimit_m677570469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_maximumLODLevel_m2990481402(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_particleRaycastBudget_m207687095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_softParticles_m179959705(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_softVegetation_m3692417782(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_vSyncCount_m2091526990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_antiAliasing_m581851331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_asyncUploadTimeSlice_m1450640709(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_asyncUploadBufferSize_m398097285(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_realtimeReflectionProbes_m1031894190(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_billboardsFaceCameraPosition_m1941749163(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_resolutionScalingFixedDPIFactor_m1334257854(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_desiredColorSpace_m2953481441(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_activeColorSpace_m2639593808(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowCascade4Split_m1178837380(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_anisotropicFiltering_m1494744468(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_maxQueuedFrames_m1015621626(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_blendWeights_m1212453088(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_pixelLightCount_m2794763203(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadows_m182647579(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowProjection_m884922128(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowCascades_m2357034849(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowDistance_m3786867691(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowResolution_m1762561864(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowmaskMode_m52552619(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowNearPlaneOffset_m413131974(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowCascade2Split_m3867530212(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_lodBias_m3926599682(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_masterTextureLimit_m3023224354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_maximumLODLevel_m3875808739(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_particleRaycastBudget_m2620213740(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_softParticles_m1697585572(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_softVegetation_m719037830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_vSyncCount_m1741676995(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_antiAliasing_m2669100196(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_asyncUploadTimeSlice_m2396424757(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_asyncUploadBufferSize_m273744485(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_realtimeReflectionProbes_m1507533469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_billboardsFaceCameraPosition_m2096137680(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_resolutionScalingFixedDPIFactor_m3747515916(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QueueModeWrap_get_CompleteOthers_m1829707127(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QueueModeWrap_get_PlayNow_m164843439(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_QueueModeWrap_IntToEnum_m38492454(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap__CreateUnityEngine_RectTransform_m1056943094(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_GetLocalCorners_m3608169353(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_GetWorldCorners_m3451413294(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_SetInsetAndSizeFromParentEdge_m1554054563(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_SetSizeWithCurrentAnchors_m1187409987(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_ForceUpdateRectTransforms_m2228519890(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_op_Equality_m1568870555(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_rect_m1658072293(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchorMin_m2689220183(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchorMax_m3510008409(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchoredPosition3D_m3213496093(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchoredPosition_m3785153756(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_sizeDelta_m4104417002(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_pivot_m1644371224(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_offsetMin_m2027685515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_offsetMax_m245551304(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_reapplyDrivenProperties_m1900539267(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchorMin_m1244752033(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchorMax_m2065334651(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchoredPosition3D_m861331459(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchoredPosition_m1516068224(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_sizeDelta_m3191945036(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_pivot_m3762461844(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_offsetMin_m908066184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_offsetMax_m3420599613(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_reapplyDrivenProperties_m3112888658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectTransformWrap_UnityEngine_RectTransform_ReapplyDrivenProperties_m3720109224(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap__CreateUnityEngine_Rect_m2047997005(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_MinMaxRect_m1872166594(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_Set_m879514653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_Contains_m11732032(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_Overlaps_m1925838360(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_NormalizedToPoint_m226909512(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_PointToNormalized_m2933124330(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_op_Equality_m1549272469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_GetHashCode_m116598282(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_Equals_m2502202461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_ToString_m887568170(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_zero_m2187764774(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_x_m1873461051(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_y_m697037345(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_position_m1536951040(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_center_m3622749599(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_min_m1776731568(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_max_m4129130699(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_width_m4132197447(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_height_m1646253466(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_size_m572637438(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_xMin_m2580894370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_yMin_m4037462888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_xMax_m4138401031(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_get_yMax_m4149845133(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_x_m467419503(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_y_m2019879152(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_position_m79105060(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_center_m1857074222(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_min_m3529303872(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_max_m1586735707(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_width_m986578461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_height_m3451712122(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_size_m896960603(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_xMin_m3040448794(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_yMin_m1625406309(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_xMax_m2645666039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RectWrap_set_yMax_m203205762(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap__CreateUnityEngine_Renderer_m3122897725(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_SetPropertyBlock_m823465898(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_GetPropertyBlock_m2020396424(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_GetClosestReflectionProbes_m3148243220(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_op_Equality_m1229205373(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_bounds_m670073939(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_enabled_m600651947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_isVisible_m2744428742(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_shadowCastingMode_m3170755855(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_receiveShadows_m2376579404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_motionVectorGenerationMode_m105696618(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightProbeUsage_m473497441(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_reflectionProbeUsage_m3165812831(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sortingLayerName_m3708797878(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sortingLayerID_m3176697824(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sortingOrder_m4134955198(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_allowOcclusionWhenDynamic_m1066413851(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_isPartOfStaticBatch_m3845456222(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_worldToLocalMatrix_m2859476879(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_localToWorldMatrix_m846298766(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightProbeProxyVolumeOverride_m44264913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_probeAnchor_m2426099185(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightmapIndex_m3981810587(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_realtimeLightmapIndex_m3241933552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightmapScaleOffset_m3786510084(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_realtimeLightmapScaleOffset_m121993149(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_material_m2519710577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sharedMaterial_m2556077860(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_materials_m593888550(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sharedMaterials_m2868179255(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_enabled_m4148669181(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_shadowCastingMode_m1795665278(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_receiveShadows_m3592327449(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_motionVectorGenerationMode_m1533418379(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightProbeUsage_m2033798750(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_reflectionProbeUsage_m2122415576(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sortingLayerName_m104720318(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sortingLayerID_m1125150714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sortingOrder_m3091065464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_allowOcclusionWhenDynamic_m1838366338(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightProbeProxyVolumeOverride_m1186579665(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_probeAnchor_m3522312880(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightmapIndex_m146848564(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_realtimeLightmapIndex_m3071707612(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightmapScaleOffset_m2446215103(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_realtimeLightmapScaleOffset_m453985462(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_material_m2037030246(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sharedMaterial_m3992440411(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_materials_m2581102160(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sharedMaterials_m2087393317(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_op_Equality_m2322354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientProbe_m502100813(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_customReflection_m3967089577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fog_m3304783612(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogStartDistance_m1417487552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogEndDistance_m1051359133(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogMode_m3494267259(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogColor_m995021076(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogDensity_m1997727988(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientMode_m990446586(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientSkyColor_m2312846995(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientEquatorColor_m3773530246(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientGroundColor_m980513671(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientIntensity_m998140634(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientLight_m1738235302(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_subtractiveShadowColor_m2071061839(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_skybox_m133869711(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_sun_m2025698233(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_reflectionIntensity_m2089191967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_reflectionBounces_m3544182210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_defaultReflectionMode_m3169990881(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_defaultReflectionResolution_m412457661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_haloStrength_m1060199124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_flareStrength_m234542115(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_flareFadeSpeed_m2184866243(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientProbe_m2325644160(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_customReflection_m1894677384(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fog_m2732062472(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogStartDistance_m3173813739(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogEndDistance_m3764656931(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogMode_m2177426305(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogColor_m1591843315(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogDensity_m1947291434(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientMode_m3894200747(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientSkyColor_m384435515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientEquatorColor_m2710519721(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientGroundColor_m3129742369(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientIntensity_m804281039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientLight_m2300249552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_subtractiveShadowColor_m2854606397(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_skybox_m4109703237(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_sun_m4097222725(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_reflectionIntensity_m3276576446(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_reflectionBounces_m1804677330(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_defaultReflectionMode_m1668749439(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_defaultReflectionResolution_m810715967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_haloStrength_m916304957(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_flareStrength_m3784966415(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_flareFadeSpeed_m2207617154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap__CreateUnityEngine_RenderTexture_m1370227051(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_GetTemporary_m2378104701(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_ReleaseTemporary_m3828916819(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_ResolveAntiAliasedSurface_m3215271156(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_Create_m974718074(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_Release_m997411972(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_IsCreated_m2890212846(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_DiscardContents_m2758126335(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_MarkRestoreExpected_m3218528783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_GenerateMips_m4104441822(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_GetNativeDepthBufferPtr_m1193025203(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_SetGlobalShaderProperty_m994181215(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_SupportsStencil_m3640962080(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_op_Equality_m2389448294(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_width_m170530099(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_height_m2968784919(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_vrUsage_m3425473479(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_depth_m1157578923(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_isPowerOfTwo_m3649493065(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_sRGB_m4171583984(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_format_m43395477(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_useMipMap_m808746350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_autoGenerateMips_m440764971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_dimension_m3794033600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_volumeDepth_m445076346(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_memorylessMode_m2302810506(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_antiAliasing_m880340947(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_bindTextureMS_m2585265462(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_enableRandomWrite_m1550325995(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_useDynamicScale_m1711236992(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_colorBuffer_m339296707(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_depthBuffer_m1685792456(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_active_m2022269154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_descriptor_m2231253577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_width_m1184858767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_height_m3952794072(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_vrUsage_m1201011709(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_depth_m3518471463(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_isPowerOfTwo_m3562701234(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_format_m3446642019(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_useMipMap_m2994999212(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_autoGenerateMips_m1688466700(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_dimension_m3593307983(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_volumeDepth_m3926119035(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_memorylessMode_m2825280422(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_antiAliasing_m4045186868(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_bindTextureMS_m964962013(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_enableRandomWrite_m1176865372(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_useDynamicScale_m1319413010(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_active_m365275812(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_descriptor_m3170531056(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap__CreateUnityEngine_Resolution_m3778006741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_ToString_m3496264464(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_get_width_m1693237397(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_get_height_m1880969835(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_get_refreshRate_m2807961818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_set_width_m565423561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_set_height_m533015830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResolutionWrap_set_refreshRate_m2324752121(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_FindObjectsOfTypeAll_m546746241(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_Load_m1430368706(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_LoadAsync_m235871967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_LoadAll_m3907026504(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_GetBuiltinResource_m2695601639(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_UnloadAsset_m3734599587(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_UnloadUnusedAssets_m3661237782(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_Encode_m1133944049(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ResourcesWrap_decode_m191058913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap__CreateUnityEngine_Rigidbody_m4058729988(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_SetDensity_m3414896054(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddForce_m1231868346(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddRelativeForce_m2429366573(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddTorque_m1536658643(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddRelativeTorque_m3959702750(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddForceAtPosition_m4224455748(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddExplosionForce_m4062058844(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_ClosestPointOnBounds_m2298210843(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_GetRelativePointVelocity_m3060004438(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_GetPointVelocity_m4073886596(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_MovePosition_m741185478(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_MoveRotation_m1555790905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_Sleep_m1189138109(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_IsSleeping_m3857570926(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_WakeUp_m1650456880(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_ResetCenterOfMass_m531568886(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_ResetInertiaTensor_m2344809036(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_SweepTest_m1308514812(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_SweepTestAll_m3973488574(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOJump_m4257632062(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOLookAt_m2087377875(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DORotate_m2471972074(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMoveZ_m427662355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMoveY_m3289889890(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMoveX_m4182748957(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMove_m1593049971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOTogglePause_m3607169774(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOSmoothRewind_m4012393222(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DORewind_m2266603552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DORestart_m2697931499(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPlayForward_m250092534(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPlayBackwards_m3368081203(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPlay_m2113885674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPause_m1455646499(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOGoto_m3912737244(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOFlip_m4065759639(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOKill_m2945998590(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOComplete_m1073374669(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_op_Equality_m1622849037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_velocity_m1849604748(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_angularVelocity_m3489762619(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_drag_m494886261(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_angularDrag_m2649478698(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_mass_m2307088336(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_useGravity_m2794137095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_maxDepenetrationVelocity_m650941433(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_isKinematic_m1750456198(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_freezeRotation_m3453482968(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_constraints_m1198236672(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_collisionDetectionMode_m126488971(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_centerOfMass_m1955827606(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_worldCenterOfMass_m988981378(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_inertiaTensorRotation_m2039010181(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_inertiaTensor_m3529966347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_detectCollisions_m1885605945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_position_m2379799017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_rotation_m2809877384(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_interpolation_m3261809616(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_solverIterations_m265032303(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_solverVelocityIterations_m1246650440(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_sleepThreshold_m3712002171(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_maxAngularVelocity_m2310166196(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_velocity_m2851258354(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_angularVelocity_m1661429033(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_drag_m655462472(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_angularDrag_m1721035166(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_mass_m2804871332(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_useGravity_m1679053998(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_maxDepenetrationVelocity_m3932692100(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_isKinematic_m1886514741(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_freezeRotation_m785313400(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_constraints_m3703039243(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_collisionDetectionMode_m1854592350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_centerOfMass_m1051003988(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_inertiaTensorRotation_m389432586(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_inertiaTensor_m3617189783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_detectCollisions_m2948407180(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_position_m1162935144(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_rotation_m1659883359(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_interpolation_m389616835(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_solverIterations_m2259767071(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_solverVelocityIterations_m3737366480(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_sleepThreshold_m766796426(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_maxAngularVelocity_m60283392(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_SetResolution_m2550196037(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_resolutions_m1139490858(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_currentResolution_m3528927706(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_fullScreen_m2564442915(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_width_m1790803042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_height_m2294322301(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_dpi_m2647575078(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_orientation_m2078185990(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_sleepTimeout_m375024670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToPortrait_m3330964673(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToPortraitUpsideDown_m623308017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToLandscapeLeft_m1732426985(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToLandscapeRight_m3365716056(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_safeArea_m888665043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_fullScreen_m1121839688(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_orientation_m3692669658(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_sleepTimeout_m4230734089(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToPortrait_m1433747006(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToPortraitUpsideDown_m2158505010(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToLandscapeLeft_m2812649569(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToLandscapeRight_m4263511312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap__CreateUnityEngine_Shader_m2718042374(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_Find_m2570981864(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_EnableKeyword_m2351824816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_DisableKeyword_m370087254(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_IsKeywordEnabled_m336056515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalBuffer_m3540489009(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_PropertyToID_m3640768888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_WarmupAllShaders_m3594193915(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalFloat_m2635285918(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalInt_m1048359630(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalVector_m2705234110(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalColor_m1946567903(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalMatrix_m536332727(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalTexture_m2930965698(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalFloatArray_m3947515408(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalVectorArray_m1062776821(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalMatrixArray_m3952126462(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalFloat_m385804119(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalInt_m2752095445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalVector_m3923622967(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalColor_m1902069403(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalMatrix_m3461634983(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalTexture_m3756733309(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalFloatArray_m4217795639(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalVectorArray_m2456055503(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalMatrixArray_m1667746545(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_op_Equality_m1372494800(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_isSupported_m3986902088(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_maximumLOD_m2385400307(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_globalMaximumLOD_m853718326(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_globalRenderPipeline_m3693725210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_renderQueue_m2448776297(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_set_maximumLOD_m1499226323(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_set_globalMaximumLOD_m2347468100(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_ShaderWrap_set_globalRenderPipeline_m3499566674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap__CreateUnityEngine_SkinnedMeshRenderer_m823191569(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_GetBlendShapeWeight_m382020529(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_SetBlendShapeWeight_m4023317377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_BakeMesh_m841557149(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_op_Equality_m2522090327(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_bones_m2536445119(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_quality_m1914909695(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_updateWhenOffscreen_m617847142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_rootBone_m1399941313(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_sharedMesh_m3003901608(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_skinnedMotionVectors_m92495560(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_localBounds_m1075339195(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_bones_m1123813435(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_quality_m1575068715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_updateWhenOffscreen_m701582777(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_rootBone_m3723378612(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_sharedMesh_m2741208315(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_skinnedMotionVectors_m1290298469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_localBounds_m1212566531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpaceWrap_get_World_m1985996804(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpaceWrap_get_Self_m199726100(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpaceWrap_IntToEnum_m3946229158(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SphereColliderWrap__CreateUnityEngine_SphereCollider_m1794774610(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_op_Equality_m2711955610(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_get_center_m3702120748(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_get_radius_m506795071(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_set_center_m2485943029(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_set_radius_m3498659289(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap__CreateUnityEngine_SpriteRenderer_m48340048(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_op_Equality_m451640203(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_sprite_m3239155370(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_drawMode_m2775406513(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_size_m606406128(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_adaptiveModeThreshold_m4039557235(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_tileMode_m2786796358(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_color_m1851049180(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_flipX_m7139445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_flipY_m3085824244(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_maskInteraction_m549613229(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_sprite_m3489604207(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_drawMode_m983042856(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_size_m2894701664(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_adaptiveModeThreshold_m1675020322(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_tileMode_m916514821(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_color_m3666110108(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_flipX_m1805723091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_flipY_m866264116(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_maskInteraction_m609179462(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap__CreateUnityEngine_Sprite_m2400472455(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_Create_m3711591822(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_OverrideGeometry_m322927863(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_GetPhysicsShapeCount_m3910685935(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_GetPhysicsShapePointCount_m2319434172(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_GetPhysicsShape_m1266066237(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_OverridePhysicsShape_m636778430(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_op_Equality_m1160834954(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_bounds_m1892143049(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_rect_m1207437086(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_texture_m2206562171(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_associatedAlphaSplitTexture_m3076210901(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_textureRect_m1655998310(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_textureRectOffset_m1694852639(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_packed_m2664165774(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_packingMode_m707112297(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_packingRotation_m2681160905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_pivot_m2580417983(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_border_m1173277392(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_vertices_m3188807221(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_triangles_m1596852271(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_uv_m2080505206(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_pixelsPerUnit_m2494833566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextAssetWrap__CreateUnityEngine_TextAsset_m2909851050(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextAssetWrap_ToString_m2772588036(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextAssetWrap_op_Equality_m994044228(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextAssetWrap_get_text_m3713174944(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextAssetWrap_get_bytes_m4263948097(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap__CreateUnityEngine_TextEditor_m2002928051(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_OnFocus_m3666548705(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_OnLostFocus_m2620783348(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_HandleKeyEvent_m4051014262(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteLineBack_m137509243(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteWordBack_m3904867453(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteWordForward_m3583219757(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Delete_m3066311020(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_CanPaste_m654199979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Backspace_m567402714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectAll_m2298442928(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectNone_m3694932314(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteSelection_m3524491223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_ReplaceSelection_m2268712646(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Insert_m2810592109(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveSelectionToAltCursor_m2107878407(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveRight_m991764320(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveLeft_m2918322018(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveUp_m804335718(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveDown_m1407905400(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveLineStart_m463473888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveLineEnd_m3555582997(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveGraphicalLineStart_m1131504327(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveGraphicalLineEnd_m416463820(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveTextStart_m2369391196(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveTextEnd_m1048342893(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveParagraphForward_m2268199060(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveParagraphBackward_m2484664147(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveCursorToPosition_m1576108011(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveAltCursorToPosition_m2154113752(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_IsOverSelection_m2336812957(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectToPosition_m4226567236(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectLeft_m2992117125(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectRight_m4093015585(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectUp_m1041235691(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectDown_m237554078(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectTextEnd_m3605862316(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectTextStart_m2158328715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MouseDragSelectsWholeWords_m2566726759(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DblClickSnap_m3727778597(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveWordRight_m3493295892(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveToStartOfNextWord_m913243447(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveToEndOfPreviousWord_m1771974621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectToStartOfNextWord_m1887963968(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectToEndOfPreviousWord_m1051961330(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_FindStartOfNextWord_m717303767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveWordLeft_m3328521586(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectWordRight_m3327763126(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectWordLeft_m3065821957(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_ExpandSelectGraphicalLineStart_m2048272150(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_ExpandSelectGraphicalLineEnd_m764290042(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectGraphicalLineStart_m1947231793(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectGraphicalLineEnd_m3283190961(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectParagraphForward_m2943690365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectParagraphBackward_m2009798227(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectCurrentWord_m3044290661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectCurrentParagraph_m3882756721(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_UpdateScrollOffsetIfNeeded_m2790522905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DrawCursor_m856955324(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SaveBackup_m1612508958(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Undo_m3912993670(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Cut_m213775577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Copy_m1711595850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Paste_m1933971474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DetectFocusChange_m3300009273(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_keyboardOnScreen_m65801817(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_controlID_m567917884(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_style_m278864476(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_multiline_m178510683(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_hasHorizontalCursorPos_m2696846770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_isPasswordField_m3214455756(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_scrollOffset_m3026823789(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_graphicalCursorPos_m2327236915(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_graphicalSelectCursorPos_m2799303178(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_text_m2724579989(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_position_m2727007706(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_cursorIndex_m1598782978(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_selectIndex_m3070282968(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_doubleClickSnapping_m3023661977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_altCursorPosition_m2613542937(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_hasSelection_m1330221616(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_SelectedText_m729813628(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_keyboardOnScreen_m421217922(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_controlID_m3087508436(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_style_m1082009055(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_multiline_m1160915956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_hasHorizontalCursorPos_m1582284568(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_isPasswordField_m473032851(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_scrollOffset_m1257595256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_graphicalCursorPos_m629845270(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_graphicalSelectCursorPos_m1535940881(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_text_m4162985089(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_position_m603096616(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_cursorIndex_m1261257696(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_selectIndex_m1817773631(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_doubleClickSnapping_m1342622355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_altCursorPosition_m572881300(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap__CreateUnityEngine_Texture2D_m150597894(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_CreateExternalTexture_m2774347710(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_UpdateExternalTexture_m2463430280(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_SetPixel_m8695219(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixel_m132151751(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixelBilinear_m1288591476(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_SetPixels_m1079242090(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_SetPixels32_m2066879485(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_LoadRawTextureData_m152610214(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetRawTextureData_m778476323(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixels_m2257618367(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixels32_m2917915871(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_Apply_m962417223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_Resize_m3012493884(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_Compress_m487754309(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_PackTextures_m4175543526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GenerateAtlas_m401018025(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_ReadPixels_m2172065431(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_op_Equality_m3118881962(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_mipmapCount_m672858902(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_format_m4287470983(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_whiteTexture_m1871437337(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_blackTexture_m3524756250(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap__CreateUnityEngine_Texture_m184893887(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_SetGlobalAnisotropicFilteringLimits_m2134773430(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_GetNativeTexturePtr_m4195123292(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_op_Equality_m2900913430(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_masterTextureLimit_m3333276692(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_anisotropicFiltering_m4226990884(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_width_m45450499(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_height_m3379984858(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_dimension_m2254040984(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_filterMode_m1060214714(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_anisoLevel_m3002759114(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapMode_m1344994915(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapModeU_m68147603(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapModeV_m120938210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapModeW_m1013797277(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_mipMapBias_m3770829856(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_get_texelSize_m1427502735(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_masterTextureLimit_m2429488152(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_anisotropicFiltering_m3046999690(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_width_m640739783(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_height_m45171859(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_dimension_m2705691566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_filterMode_m2377165285(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_anisoLevel_m11013832(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapMode_m2660974265(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapModeU_m165768718(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapModeV_m1058627785(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapModeW_m2640766488(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TextureWrap_set_mipMapBias_m3457751914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_time_m4273774956(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_timeSinceLevelLoad_m3176853588(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_deltaTime_m2577295595(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedTime_m2525381371(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_unscaledTime_m417644557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedUnscaledTime_m2963184173(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_unscaledDeltaTime_m637881195(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedUnscaledDeltaTime_m492687445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedDeltaTime_m3225143267(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_maximumDeltaTime_m44282397(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_smoothDeltaTime_m1453094147(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_maximumParticleDeltaTime_m3860322559(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_timeScale_m1156280445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_frameCount_m2320986266(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_renderedFrameCount_m2644511163(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_realtimeSinceStartup_m2469281864(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_captureFramerate_m3498009353(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_get_inFixedTimeStep_m1805942079(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_set_fixedDeltaTime_m1025702776(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_set_maximumDeltaTime_m2686003975(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_set_maximumParticleDeltaTime_m1311164596(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_set_timeScale_m3817106863(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TimeWrap_set_captureFramerate_m4163343317(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TrackedReferenceWrap_op_Equality_m1352427744(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TrackedReferenceWrap_Equals_m1606357763(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TrackedReferenceWrap_GetHashCode_m2094149008(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_SetParent_m4248817746(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_SetPositionAndRotation_m1214299665(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_Translate_m3708785191(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_Rotate_m3741401262(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_RotateAround_m2287273556(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_LookAt_m504348159(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_TransformDirection_m1024913209(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_InverseTransformDirection_m821002347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_TransformVector_m984557165(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_InverseTransformVector_m3896212664(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_TransformPoint_m1965286801(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_InverseTransformPoint_m128881230(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DetachChildren_m2172702104(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_SetAsFirstSibling_m3751489014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_SetAsLastSibling_m3899639509(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_SetSiblingIndex_m2837408339(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_GetSiblingIndex_m632365953(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_Find_m2012024814(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_IsChildOf_m1266666148(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_GetEnumerator_m2492353032(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_GetChild_m64646091(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableScaleBy_m1465956097(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableLocalRotateBy_m2152955311(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableRotateBy_m1416010949(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableLocalMoveBy_m4274003899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableMoveBy_m1692964860(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalPath_m3208836693(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPath_m1007169655(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalJump_m1826251318(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOJump_m3807914543(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOShakeScale_m4223497729(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOShakeRotation_m695921598(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOShakePosition_m3190400607(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPunchRotation_m425286893(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPunchScale_m370649552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPunchPosition_m3129200261(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLookAt_m75719374(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScaleZ_m2046210838(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScaleY_m3432582752(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScaleX_m2384226015(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScale_m3768951287(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalRotateQuaternion_m1274572930(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalRotate_m3217842295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DORotateQuaternion_m413000523(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DORotate_m3504521469(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMoveZ_m1646360590(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMoveY_m2506761215(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMoveX_m3595786638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMove_m690862186(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMoveZ_m2082469417(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMoveY_m4079859182(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMoveX_m3156273959(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMove_m2476076406(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOTogglePause_m1584413818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOSmoothRewind_m2650187017(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DORewind_m2894328629(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DORestart_m2198605763(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPlayForward_m2315887903(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPlayBackwards_m1993150211(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPlay_m1432073493(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPause_m2183297711(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOGoto_m3312392620(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOFlip_m3411570791(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOKill_m2318112836(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_DOComplete_m380832684(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_op_Equality_m3531483043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_position_m4205731245(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localPosition_m1340653913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_eulerAngles_m1814834619(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localEulerAngles_m1481062011(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_right_m2500225754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_up_m202180445(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_forward_m3915227725(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_rotation_m593175378(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localRotation_m3376430846(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localScale_m1516822021(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_parent_m4231181228(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_worldToLocalMatrix_m4085221223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localToWorldMatrix_m4131500116(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_root_m4061565775(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_childCount_m2561771124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_lossyScale_m1687210192(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_hasChanged_m1416538177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_hierarchyCapacity_m993436134(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_get_hierarchyCount_m3370551505(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_position_m4033480911(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localPosition_m2026947686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_eulerAngles_m3444800382(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localEulerAngles_m1267355578(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_right_m1977510490(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_up_m1799195202(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_forward_m3211972474(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_rotation_m955698557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localRotation_m313737981(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localScale_m2045759355(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_parent_m11896020(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_hasChanged_m1919989641(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_TransformWrap_set_hierarchyCapacity_m1768281547(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_OnPointerClick_m3416386213(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_OnSubmit_m1976552326(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_op_Equality_m307463147(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_get_onClick_m799264208(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_set_onClick_m3003090427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap__CreateUnityEngine_UI_Dropdown_OptionData_m1112553449(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_get_text_m2312108867(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_get_image_m2360636040(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_set_text_m74216386(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_set_image_m432993222(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_RefreshShownValue_m836492899(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_AddOptions_m3081707261(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_ClearOptions_m3241905363(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_OnPointerClick_m716577818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_OnSubmit_m2162387941(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_OnCancel_m543508978(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_Show_m3903873314(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_Hide_m4097283478(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_op_Equality_m3852529194(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_template_m646884624(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_captionText_m1745208057(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_captionImage_m2137447644(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_itemText_m222900315(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_itemImage_m1910150194(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_options_m2439797479(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_onValueChanged_m4229795896(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_value_m4138053146(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_template_m3799933933(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_captionText_m1049142868(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_captionImage_m2159948668(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_itemText_m2223828860(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_itemImage_m3205159092(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_options_m831184048(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_onValueChanged_m2412585352(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_value_m1945899158(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetAllDirty_m2166647674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetLayoutDirty_m1999189991(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetVerticesDirty_m3139734818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetMaterialDirty_m3617683505(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_OnCullingChanged_m140934663(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_Rebuild_m3441866051(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_LayoutComplete_m2458149452(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_GraphicUpdateComplete_m1977011277(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetNativeSize_m3295214501(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_Raycast_m1964989842(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_PixelAdjustPoint_m3125732996(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_GetPixelAdjustedRect_m2618600432(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_CrossFadeColor_m2313866945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_CrossFadeAlpha_m1250125071(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_RegisterDirtyLayoutCallback_m3334515747(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_UnregisterDirtyLayoutCallback_m2923896888(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_RegisterDirtyVerticesCallback_m65565502(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_UnregisterDirtyVerticesCallback_m402571335(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_RegisterDirtyMaterialCallback_m2466884009(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_UnregisterDirtyMaterialCallback_m3138911127(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_op_Equality_m2391744966(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_defaultGraphicMaterial_m4188373363(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_color_m1973799005(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_raycastTarget_m1972752913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_depth_m2939020476(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_rectTransform_m3900739605(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_canvas_m4005582557(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_canvasRenderer_m955439271(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_defaultMaterial_m978195627(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_material_m357148686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_materialForRendering_m2920912679(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_mainTexture_m4053859095(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_set_color_m18252591(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_set_raycastTarget_m3443338586(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_set_material_m1854251073(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_CalculateLayoutInputHorizontal_m1975875125(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_CalculateLayoutInputVertical_m2283221965(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_SetLayoutHorizontal_m3158456623(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_SetLayoutVertical_m36743347(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_op_Equality_m4181171019(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_startCorner_m3527503757(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_startAxis_m2035420160(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_cellSize_m1610159650(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_spacing_m3720400746(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_constraint_m204466483(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_constraintCount_m1735196419(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_startCorner_m3286194189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_startAxis_m1162155806(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_cellSize_m3653107981(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_spacing_m916295357(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_constraint_m3301640192(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_constraintCount_m1293352913(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_CalculateLayoutInputHorizontal_m4194251189(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_CalculateLayoutInputVertical_m1918119026(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_SetLayoutHorizontal_m954566552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_SetLayoutVertical_m492180966(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_op_Equality_m3361014372(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_op_Equality_m1712113122(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_spacing_m959438816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childForceExpandWidth_m655840661(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childForceExpandHeight_m2898738651(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childControlWidth_m4268039775(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childControlHeight_m162130375(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_spacing_m1406906210(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childForceExpandWidth_m2608545014(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childForceExpandHeight_m2205748715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childControlWidth_m1112538297(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childControlHeight_m2774491875(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_OnBeforeSerialize_m69008281(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_OnAfterDeserialize_m2079007432(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_SetNativeSize_m3436939688(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_CalculateLayoutInputHorizontal_m1239220163(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_CalculateLayoutInputVertical_m664698869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_IsRaycastLocationValid_m8771488(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_op_Equality_m4945621(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_sprite_m1823175374(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_overrideSprite_m1725988725(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_type_m1389138752(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_preserveAspect_m2270942087(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillCenter_m2596719624(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillMethod_m614074335(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillAmount_m1022156639(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillClockwise_m806521893(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillOrigin_m3387888548(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_alphaHitTestMinimumThreshold_m937095614(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_defaultETC1GraphicMaterial_m1234271504(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_mainTexture_m478354273(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_hasBorder_m560519798(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_pixelsPerUnit_m291026201(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_material_m685107306(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_minWidth_m3661076687(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_preferredWidth_m3670004267(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_flexibleWidth_m2899382034(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_minHeight_m2998409295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_preferredHeight_m3935717277(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_flexibleHeight_m4004029536(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_layoutPriority_m1260752180(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_sprite_m3643036197(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_overrideSprite_m1223291305(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_type_m527745753(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_preserveAspect_m3675036686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillCenter_m1539619350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillMethod_m934738568(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillAmount_m123091592(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillClockwise_m3348478371(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillOrigin_m1645570078(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_alphaHitTestMinimumThreshold_m805379400(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_material_m405303409(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Standard_m2935805331(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Autocorrected_m3406109107(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_IntegerNumber_m3741451335(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_DecimalNumber_m219537182(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Alphanumeric_m875911429(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Name_m2409852653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_EmailAddress_m75065851(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Password_m3737268979(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Pin_m2554222365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Custom_m2410571124(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_IntToEnum_m4083622477(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_MoveTextEnd_m1703735461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_MoveTextStart_m4272773013(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnBeginDrag_m3910750342(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnDrag_m1535293326(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnEndDrag_m2877730977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnPointerDown_m290654932(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_ProcessEvent_m966250465(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnUpdateSelected_m3935232289(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_ForceLabelUpdate_m3865656096(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_Rebuild_m585347079(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_LayoutComplete_m4018905173(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_GraphicUpdateComplete_m521324648(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_ActivateInputField_m4206853684(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnSelect_m3341530926(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnPointerClick_m3117555826(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_DeactivateInputField_m3074595739(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnDeselect_m2678369853(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnSubmit_m2248385140(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_CalculateLayoutInputHorizontal_m1974075177(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_CalculateLayoutInputVertical_m889035286(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_op_Equality_m1031555937(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_shouldHideMobileInput_m3361995365(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_text_m4174600839(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_isFocused_m3106164246(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretBlinkRate_m275002261(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretWidth_m3246281598(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_textComponent_m1428824374(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_placeholder_m1939062703(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretColor_m28477176(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_customCaretColor_m28054296(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_selectionColor_m3853670417(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_onEndEdit_m1346342653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_onValueChanged_m3655640498(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_onValidateInput_m954154978(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_characterLimit_m3707404031(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_contentType_m869122132(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_lineType_m2521194144(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_inputType_m1279933345(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_keyboardType_m744071987(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_characterValidation_m969318771(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_readOnly_m3651375377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_multiLine_m1545274527(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_asteriskChar_m4055577082(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_wasCanceled_m3102325853(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretPosition_m2486955395(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_selectionAnchorPosition_m2518567527(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_selectionFocusPosition_m1329783332(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_minWidth_m3665414154(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_preferredWidth_m820851910(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_flexibleWidth_m3232508577(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_minHeight_m2743097945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_preferredHeight_m1625350476(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_flexibleHeight_m2325406578(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_layoutPriority_m2348766810(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_shouldHideMobileInput_m3991536845(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_text_m3791019282(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretBlinkRate_m4200973769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretWidth_m2500200550(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_textComponent_m2252305908(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_placeholder_m4147184312(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretColor_m1391484385(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_customCaretColor_m3279508243(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_selectionColor_m99940998(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_onEndEdit_m1839608043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_onValueChanged_m3117885322(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_onValidateInput_m2257624272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_characterLimit_m1130839103(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_contentType_m696920427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_lineType_m4204786530(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_inputType_m2903090263(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_keyboardType_m2213097959(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_characterValidation_m326517676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_readOnly_m3597264375(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_asteriskChar_m243950894(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretPosition_m2403738350(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_selectionAnchorPosition_m693256850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_selectionFocusPosition_m2112988041(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_UnityEngine_UI_InputField_OnValidateInput_m1541317576(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_CalculateLayoutInputHorizontal_m3687745162(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_CalculateLayoutInputVertical_m2741303206(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_SetLayoutHorizontal_m1862970212(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_SetLayoutVertical_m3049104564(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_op_Equality_m871645541(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_padding_m64042334(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_childAlignment_m1034230999(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_minWidth_m2964328102(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_preferredWidth_m4192681163(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_flexibleWidth_m3437931791(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_minHeight_m888677264(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_preferredHeight_m3824174811(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_flexibleHeight_m2111852850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_layoutPriority_m617550763(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_set_padding_m3049102681(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_set_childAlignment_m2593779745(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap__CreateUnityEngine_UI_LayoutRebuilder_m2094916011(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_IsDestroyed_m1202749220(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_ForceRebuildLayoutImmediate_m3717253363(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_Rebuild_m4078231880(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_MarkLayoutForRebuild_m1447389113(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_LayoutComplete_m1330282580(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_GraphicUpdateComplete_m1010402303(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_GetHashCode_m147890159(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_Equals_m2698592662(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_ToString_m4073181118(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_get_transform_m68458023(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_GetModifiedMaterial_m3972384028(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_Cull_m1695954614(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_SetClipRect_m2038518673(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_RecalculateClipping_m868997590(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_RecalculateMasking_m2257990438(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_op_Equality_m1193100589(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_get_onCullStateChanged_m3767702613(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_get_maskable_m3395559138(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_set_onCullStateChanged_m3581074754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_set_maskable_m2719402674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_SetNativeSize_m2045119596(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_op_Equality_m605238674(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_get_mainTexture_m542267663(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_get_texture_m2954339488(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_get_uvRect_m2391457371(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_set_texture_m2207193480(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_set_uvRect_m2074239288(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_Rebuild_m3777350430(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_LayoutComplete_m1617094989(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_GraphicUpdateComplete_m3066754265(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnBeginDrag_m39242008(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnDrag_m4126730594(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnPointerDown_m3281205789(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnPointerUp_m1971026446(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnMove_m3483061694(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnLeft_m1125463575(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnRight_m2855755778(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnUp_m3490592780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnDown_m1009147234(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnInitializePotentialDrag_m2652149961(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_SetDirection_m1579894072(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_op_Equality_m1946657573(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_handleRect_m87974115(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_direction_m2047788484(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_value_m3124232828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_size_m50326291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_numberOfSteps_m3891037427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_onValueChanged_m1712382864(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_handleRect_m809043448(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_direction_m1287937879(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_value_m3939150735(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_size_m1494065856(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_numberOfSteps_m3289892788(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_onValueChanged_m4229478705(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_Rebuild_m3863051708(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_LayoutComplete_m2584871076(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_GraphicUpdateComplete_m3563408402(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_IsActive_m1509699151(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_StopMovement_m3157029592(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnScroll_m2425254568(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnInitializePotentialDrag_m219682515(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnBeginDrag_m182187905(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnEndDrag_m1177908(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnDrag_m3438062754(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_CalculateLayoutInputHorizontal_m3420501869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_CalculateLayoutInputVertical_m2665845193(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_SetLayoutHorizontal_m1429336620(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_SetLayoutVertical_m3426458306(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_op_Equality_m425406413(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_content_m2177223726(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontal_m2046386798(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_vertical_m3380919700(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_movementType_m81407949(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_elasticity_m1907431826(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_inertia_m3305909352(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_decelerationRate_m2412827860(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_scrollSensitivity_m399496234(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_viewport_m4141908142(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalScrollbar_m1476527667(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalScrollbar_m3023488363(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalScrollbarVisibility_m2487317968(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalScrollbarVisibility_m2905935883(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalScrollbarSpacing_m734869655(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalScrollbarSpacing_m3398352840(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_onValueChanged_m10724378(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_velocity_m209435063(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_normalizedPosition_m1897950909(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalNormalizedPosition_m4260740798(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalNormalizedPosition_m2662675960(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_minWidth_m2978803758(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_preferredWidth_m3288786401(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_flexibleWidth_m519210048(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_minHeight_m501674430(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_preferredHeight_m709001484(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_flexibleHeight_m2651229588(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_layoutPriority_m610156323(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_content_m4167328519(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontal_m943433906(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_vertical_m694137892(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_movementType_m3808080615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_elasticity_m337311626(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_inertia_m1307709127(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_decelerationRate_m1547701561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_scrollSensitivity_m512306298(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_viewport_m3661615706(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalScrollbar_m2866418540(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalScrollbar_m594714914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalScrollbarVisibility_m2086244852(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalScrollbarVisibility_m1743194264(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalScrollbarSpacing_m3814148653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalScrollbarSpacing_m1531683230(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_onValueChanged_m2814376296(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_velocity_m3918372223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_normalizedPosition_m891876172(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalNormalizedPosition_m5364508(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalNormalizedPosition_m3438381429(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_None_m1089220858(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_ColorTint_m4062691240(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_SpriteSwap_m1542372043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_Animation_m3963998828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_IntToEnum_m4061162391(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_IsInteractable_m663973245(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectable_m4019068826(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnLeft_m2433650388(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnRight_m1633375362(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnUp_m1208031606(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnDown_m923851505(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnMove_m1384721589(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerDown_m4163979548(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerUp_m193512955(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerEnter_m642514517(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerExit_m3665031684(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnSelect_m4029062283(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnDeselect_m1416762818(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_Select_m955459743(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_op_Equality_m1992650562(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_allSelectables_m4072433816(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_navigation_m1966602412(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_transition_m337006118(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_colors_m3331372555(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_spriteState_m598006073(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_animationTriggers_m3090694664(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_targetGraphic_m1196809786(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_interactable_m1112360461(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_image_m2551813594(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_animator_m2559341840(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_navigation_m2278814223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_transition_m3499186668(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_colors_m4068518920(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_spriteState_m2222510756(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_animationTriggers_m2488526536(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_targetGraphic_m269677012(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_interactable_m3602862869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_image_m2975177830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_Rebuild_m2135757632(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_LayoutComplete_m1340471819(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_GraphicUpdateComplete_m54321909(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnPointerDown_m1905588720(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnDrag_m3043510859(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnMove_m2018613601(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnLeft_m1843798739(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnRight_m2149695566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnUp_m28571955(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnDown_m2995340343(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnInitializePotentialDrag_m3205671182(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_SetDirection_m3557141352(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_op_Equality_m2372050039(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_fillRect_m518156545(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_handleRect_m1123006819(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_direction_m3287494520(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_minValue_m1104866850(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_maxValue_m674556928(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_wholeNumbers_m298199011(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_value_m1041480004(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_normalizedValue_m4016281535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_onValueChanged_m4167799767(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_fillRect_m3375385185(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_handleRect_m2995069744(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_direction_m622394299(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_minValue_m2629658531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_maxValue_m2507368731(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_wholeNumbers_m45391268(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_value_m884277392(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_normalizedValue_m958115335(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_onValueChanged_m224992694(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_FontTextureChanged_m3667621733(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_GetGenerationSettings_m2168047366(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_GetTextAnchorPivot_m3894385273(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_CalculateLayoutInputHorizontal_m1840764849(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_CalculateLayoutInputVertical_m1893993144(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_op_Equality_m1318472164(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_cachedTextGenerator_m2395037523(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_cachedTextGeneratorForLayout_m3645995787(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_mainTexture_m2475152543(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_font_m3890779553(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_text_m1974802291(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_supportRichText_m3867003404(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_resizeTextForBestFit_m2071365454(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_resizeTextMinSize_m1496085349(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_resizeTextMaxSize_m2694823863(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_alignment_m3284165624(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_alignByGeometry_m541768048(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_fontSize_m2382376900(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_horizontalOverflow_m1838673504(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_verticalOverflow_m335686912(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_lineSpacing_m2917481587(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_fontStyle_m3050682931(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_pixelsPerUnit_m1947517233(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_minWidth_m3260393607(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_preferredWidth_m3684055117(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_flexibleWidth_m445478552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_minHeight_m2464092600(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_preferredHeight_m471381412(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_flexibleHeight_m3238552610(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_layoutPriority_m3624136223(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_font_m2379017757(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_text_m1775548799(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_supportRichText_m568183666(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_resizeTextForBestFit_m3858293561(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_resizeTextMinSize_m4170345341(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_resizeTextMaxSize_m1329361863(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_alignment_m1632901251(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_alignByGeometry_m2567302857(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_fontSize_m3772641033(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_horizontalOverflow_m2371152106(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_verticalOverflow_m4139047679(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_lineSpacing_m2476289308(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_fontStyle_m4000085901(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_Rebuild_m1892222795(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_LayoutComplete_m2725519856(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_GraphicUpdateComplete_m2717717353(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_OnPointerClick_m2784487389(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_OnSubmit_m269906327(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_op_Equality_m1251210083(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_toggleTransition_m3535923144(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_graphic_m2517666244(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_onValueChanged_m4106951780(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_group_m144183002(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_isOn_m2181218836(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_toggleTransition_m1490988110(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_graphic_m649395395(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_onValueChanged_m1624220945(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_group_m2306980375(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_isOn_m86407914(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Once_m638865737(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Loop_m494919542(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_PingPong_m2971736744(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Default_m1318609977(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_ClampForever_m4008201200(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Clamp_m644110075(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WrapModeWrap_IntToEnum_m2258883311(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWFormWrap__CreateUnityEngine_WWWForm_m4139421238(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWFormWrap_AddField_m3177438214(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWFormWrap_AddBinaryData_m2002832364(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWFormWrap_get_headers_m2871690923(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWFormWrap_get_data_m1471456043(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap__CreateUnityEngine_WWW_m1412232668(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_EscapeURL_m569835927(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_UnEscapeURL_m1571645978(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_LoadFromCacheOrDownload_m1156062450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_LoadImageIntoTexture_m2688703319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_Dispose_m2895752638(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_GetAudioClip_m3169684252(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_GetAudioClipCompressed_m201180848(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_assetBundle_m2954608648(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_bytes_m548422074(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_bytesDownloaded_m2878310989(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_error_m2118498176(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_isDone_m4181140318(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_progress_m4061164138(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_responseHeaders_m2113780847(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_text_m3379852252(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_texture_m3410775566(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_textureNonReadable_m2781355602(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_threadPriority_m275718759(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_uploadProgress_m2896437394(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_url_m2657130244(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_get_keepWaiting_m2696243552(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UnityEngine_WWWWrap_set_threadPriority_m3841935043(intptr_t ___L0);
+extern "C" void DEFAULT_CALL ReversePInvokeWrapper_UniWebViewInterface_SendMessage_m2375818150(intptr_t ___namePtr0, intptr_t ___methodPtr1, intptr_t ___parameterPtr2);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UpdateFrame_m491485828(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_CloseUniWebView_m3579740504(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_Load_m3218511757(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_LoadHTMLString_m2620099686(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_Reload_m3312718832(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_Stop_m2931745625(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_GoBack_m3029132112(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_GoForward_m3160944272(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetOpenLinksInExternalBrowser_m3306107319(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_Show_m441759466(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_Hide_m1376819018(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_AnimateTo_m1686144416(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_AddJavaScript_m1076408212(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_EvaluateJavaScript_m461600829(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_AddUrlScheme_m2026836184(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_RemoveUrlScheme_m4244784185(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_AddSslExceptionDomain_m261528449(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_RemoveSslExceptionDomain_m2094503168(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetHeaderField_m1260677359(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetUserAgent_m2709014481(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_GetUserAgent_m12534939(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetContentInsetAdjustmentBehavior_m2391649444(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetAllowAutoPlay_m2511267847(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetAllowInlinePlay_m1639852191(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetJavaScriptEnabled_m3293252558(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetAllowJavaScriptOpenWindow_m1295082773(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_CleanCache_m1103312062(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_ClearCookies_m2646160226(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetCookie_m1679306096(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_GetCookie_m715860315(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_ClearHttpAuthUsernamePassword_m2471478637(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetShowSpinnerWhileLoading_m1706446137(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetSpinnerText_m2200847056(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetHorizontalScrollBarEnabled_m970457551(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetVerticalScrollBarEnabled_m3667783785(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetBouncesEnabled_m3730749715(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetZoomEnabled_m1684900482(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_AddPermissionTrustDomain_m2644039417(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_RemovePermissionTrustDomain_m27031256(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetBackButtonEnabled_m2968979651(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetUseWideViewPort_m2915410330(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetLoadWithOverviewMode_m1625871958(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetImmersiveModeEnabled_m3551638197(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetShowToolbar_m2158503066(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetToolbarDoneButtonText_m1436662918(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetShowToolbarNavigationButtons_m1245633077(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetWebContentsDebuggingEnabled_m1315857551(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetWindowUserResizeEnabled_m1537865165(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_GetHTMLContent_m2019271118(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetAllowFileAccessFromFileURLs_m1745723719(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetAllowHTTPAuthPopUpWindow_m10217547(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetCalloutEnabled_m3540317834(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetSupportMultipleWindows_m210099245(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetDefaultFontSize_m821571830(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_SetDragInteractionEnabled_m2979069450(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_Print_m514449773(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_ScrollTo_m3224310662(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_op_Equality_m1424257409(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_Frame_m394713084(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_ReferenceRectTransform_m1681620770(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_Url_m2829954555(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_CanGoBack_m2978275067(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_CanGoForward_m4053111349(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_BackgroundColor_m1077019427(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_Alpha_m2158656535(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnPageStarted_m3146685731(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnPageFinished_m1142312006(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnPageErrorReceived_m3116232295(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnMessageReceived_m3274138653(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnShouldClose_m3215956769(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnKeyCodeReceived_m1242201402(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnOrientationChanged_m2541009526(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_get_OnWebContentProcessTerminated_m920275377(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_Frame_m3423589910(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_ReferenceRectTransform_m3961837132(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_BackgroundColor_m3306828765(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_Alpha_m878961196(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnPageStarted_m1799665499(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnPageFinished_m153847027(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnPageErrorReceived_m43614712(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnMessageReceived_m513615155(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnShouldClose_m1258144716(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnKeyCodeReceived_m4171167615(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnOrientationChanged_m2060876676(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_set_OnWebContentProcessTerminated_m91152388(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_OnWebContentProcessTerminatedDelegate_m2883604229(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_OrientationChangedDelegate_m1705579356(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_KeyCodeReceivedDelegate_m2005455910(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_ShouldCloseDelegate_m1667265869(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_MessageReceivedDelegate_m3229249531(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_PageErrorReceivedDelegate_m1881068397(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_PageFinishedDelegate_m4200908606(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_UniWebViewWrap_UniWebView_PageStartedDelegate_m1977039935(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ViewWrap_OnMessage_m3710012092(intptr_t ___L0);
+extern "C" int32_t DEFAULT_CALL ReversePInvokeWrapper_ViewWrap_op_Equality_m3878994942(intptr_t ___L0);
+extern const Il2CppMethodPointer g_ReversePInvokeWrapperPointers[4039] = 
+{
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DeflateStream_UnmanagedRead_m4002292959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DeflateStream_UnmanagedWrite_m3688808850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_AnimationCurveManagerWrap_GetAnimationCurve_m116866604),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_AnimationCurveManagerWrap_Traverse_m723645302),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_AnimationCurveManagerWrap_op_Equality_m1667197528),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_AnimationCurveManagerWrap_get_curveInfoList_m2821273627),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_AnimationCurveManagerWrap_set_curveInfoList_m3178237258),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_BaseWrap_op_Equality_m1659120626),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_None_m4228311323),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_AutoPlaySequences_m875250283),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_AutoPlayTweeners_m969715647),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_get_All_m3828406841),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AutoPlayWrap_IntToEnum_m2572878412),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_None_m40650104),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_X_m1817590539),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_Y_m1951873920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_Z_m2631416491),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_get_W_m4257561309),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_AxisConstraintWrap_IntToEnum_m3990755682),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap__CreateDG_Tweening_DOTween_m631774285),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Init_m3019092436),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_SetTweensCapacity_m194255236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Clear_m2431349869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ClearCachedTweens_m1813825159),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Validate_m1198252347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_To_m2105238459),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ToAxis_m4149356325),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ToAlpha_m366728627),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Punch_m233989383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Shake_m2610981235),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_ToArray_m328607201),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Sequence_m1149471228),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_CompleteAll_m1412342823),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Complete_m1997950420),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_FlipAll_m1057202565),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Flip_m2461132475),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_GotoAll_m796624969),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Goto_m3169985433),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_KillAll_m3694153350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Kill_m1763440121),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PauseAll_m651230754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Pause_m440520781),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayAll_m300473591),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Play_m2512382929),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayBackwardsAll_m139148010),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayBackwards_m3204113689),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayForwardAll_m1279527895),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayForward_m4180630649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_RestartAll_m99948741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Restart_m1131512825),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_RewindAll_m1193371654),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_Rewind_m1953861005),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_SmoothRewindAll_m639064687),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_SmoothRewind_m1219194670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TogglePauseAll_m3622205165),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TogglePause_m3015734952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_IsTweening_m3005608581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TotalPlayingTweens_m1711070555),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PlayingTweens_m3413443711),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_PausedTweens_m1880146890),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TweensById_m1772319765),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_TweensByTarget_m4266242291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_Version_m3833070872),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_useSafeMode_m46852400),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_showUnityEditorReport_m1651875674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_timeScale_m3692881360),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_useSmoothDeltaTime_m380753737),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_drawGizmos_m1765131809),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultUpdateType_m1297845242),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultTimeScaleIndependent_m2891276720),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultAutoPlay_m3476192144),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultAutoKill_m2063093745),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultLoopType_m3698169721),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultRecyclable_m2337775914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultEaseType_m2643367593),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultEaseOvershootOrAmplitude_m1383158985),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_defaultEasePeriod_m2973069944),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_get_logBehaviour_m3193911654),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_useSafeMode_m1614371695),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_showUnityEditorReport_m1117778512),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_timeScale_m2345015735),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_useSmoothDeltaTime_m295834188),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_drawGizmos_m355798156),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultUpdateType_m564100862),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultTimeScaleIndependent_m3205024470),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultAutoPlay_m2245190787),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultAutoKill_m2860368077),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultLoopType_m733530123),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultRecyclable_m3332405657),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultEaseType_m386029539),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultEaseOvershootOrAmplitude_m96748357),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_defaultEasePeriod_m1323780192),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOTweenWrap_set_logBehaviour_m1302872482),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOVirtualWrap_Float_m1428151334),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOVirtualWrap_EasedValue_m3532063017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_DOVirtualWrap_DelayedCall_m370383154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseFactoryWrap__CreateDG_Tweening_EaseFactory_m2407675365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseFactoryWrap_StopMotion_m4106989787),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_Unset_m939396141),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_Linear_m1579476015),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InSine_m2480408157),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutSine_m4247124087),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutSine_m1520678742),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InQuad_m2073808409),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutQuad_m277575553),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutQuad_m138971350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InCubic_m2381045812),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutCubic_m2857750600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutCubic_m3549281466),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InQuart_m1738413870),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutQuart_m2731715981),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutQuart_m323238446),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InQuint_m546892759),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutQuint_m1585411226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutQuint_m423447182),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InExpo_m2048161332),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutExpo_m3374191077),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutExpo_m79370355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InCirc_m3001835140),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutCirc_m2194536643),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutCirc_m678197433),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InElastic_m1252267595),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutElastic_m2252516702),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutElastic_m603279365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InBack_m3920591896),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutBack_m888057650),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutBack_m751889796),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InBounce_m2817801270),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutBounce_m24899263),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutBounce_m1466963485),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_Flash_m5760599),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InFlash_m3537975940),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_OutFlash_m2143366871),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_InOutFlash_m883997649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_INTERNAL_Zero_m1599215539),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_get_INTERNAL_Custom_m1219785738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_EaseWrap_IntToEnum_m897074281),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_get_Default_m3118863868),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_get_Verbose_m1256182210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_get_ErrorsOnly_m1833760800),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LogBehaviourWrap_IntToEnum_m1471196384),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_get_Restart_m2668127493),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_get_Yoyo_m2759489460),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_get_Incremental_m740383166),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_LoopTypeWrap_IntToEnum_m2646760161),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_Ignore_m772174657),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_Full3D_m224702422),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_TopDown2D_m2518912291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathModeWrap_get_Sidescroller2D_m3064022105),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathModeWrap_IntToEnum_m396076796),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathTypeWrap_get_Linear_m3869554898),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathTypeWrap_get_CatmullRom_m3367041950),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_PathTypeWrap_IntToEnum_m1167196542),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_Fast_m3877180027),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_FastBeyond360_m563308308),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_WorldAxisAdd_m1048927804),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_get_LocalAxisAdd_m1215795786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_RotateModeWrap_IntToEnum_m3284807685),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_None_m3699783588),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_All_m3205747189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Uppercase_m1800602768),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Lowercase_m3634695441),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Numerals_m2875798223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_get_Custom_m3205116142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_ScrambleModeWrap_IntToEnum_m842941996),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_InsertCallback_m1254188312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_PrependCallback_m2270838467),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_AppendCallback_m2068667219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_PrependInterval_m3271004848),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_AppendInterval_m3266854560),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Insert_m1214199368),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Join_m3588463036),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Prepend_m633734034),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_Append_m332177090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetSpeedBased_m2667782530),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetRelative_m2466129079),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetDelay_m3146943621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetAs_m1255089436),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnWaypointChange_m2066819495),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnKill_m701179093),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnComplete_m2197601110),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnStepComplete_m74251557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnUpdate_m2415119906),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnRewind_m3411700517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnPause_m2283013682),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnPlay_m1193339251),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_OnStart_m2665357440),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetUpdate_m3998478131),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetRecyclable_m922439497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetEase_m962017129),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetLoops_m367295803),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetTarget_m3607136738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetId_m3154289227),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_SequenceWrap_SetAutoKill_m1709738102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_ChangeStartValue_m955601434),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_ChangeEndValue_m2244128383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_ChangeValues_m3568151521),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_From_m4008383697),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetSpeedBased_m1365270803),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetRelative_m4230928021),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetDelay_m3995644643),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetAs_m2429114001),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnWaypointChange_m401105342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnKill_m2085123484),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnComplete_m3608454602),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnStepComplete_m1445567854),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnUpdate_m13997126),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnRewind_m4123147913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnPause_m468830429),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnPlay_m1101179947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_OnStart_m1183173727),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetUpdate_m1638578063),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetRecyclable_m2206735142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetEase_m1229791343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetLoops_m479638266),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetTarget_m1505569336),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetId_m4055234084),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenerWrap_SetAutoKill_m1449356127),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap__CreateDG_Tweening_TweenParams_m22034147),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_Clear_m2205708197),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetAutoKill_m3090820729),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetId_m3311708413),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetTarget_m617010646),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetLoops_m110519641),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetEase_m4271752444),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetRecyclable_m3344975687),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetUpdate_m4020700404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnStart_m3269403940),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnPlay_m961544253),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnRewind_m775931769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnUpdate_m493880381),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnStepComplete_m212682332),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnComplete_m787613252),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnKill_m3198932003),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_OnWaypointChange_m3910576848),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetDelay_m1263060472),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetRelative_m3288712800),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_SetSpeedBased_m1332596221),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenParamsWrap_get_Params_m419647318),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_get_Tweener_m3308546175),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_get_Sequence_m3008658838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_get_Callback_m3294919638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenTypeWrap_IntToEnum_m3854298925),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_PathLength_m4177090826),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_PathGetDrawPoints_m1707217646),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_PathGetPoint_m1367405117),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Loops_m854063545),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsPlaying_m3769898118),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsInitialized_m2439880616),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsComplete_m1409160714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsBackwards_m1945793086),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_IsActive_m54095041),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_ElapsedDirectionalPercentage_m2749119064),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_ElapsedPercentage_m723315140),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Elapsed_m817810598),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Duration_m1884549265),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Delay_m3322746764),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_CompletedLoops_m1995981400),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForStart_m3455852446),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForPosition_m1100954239),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForElapsedLoops_m477995621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForKill_m2341711286),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForRewind_m485532676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_WaitForCompletion_m3548820191),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_GotoWaypoint_m603371543),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_TogglePause_m3198892919),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SmoothRewind_m1453197731),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Rewind_m916186510),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Restart_m2890877447),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_PlayForward_m1859349331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_PlayBackwards_m2755487665),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Play_m3323470592),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Pause_m2851188948),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Kill_m4265011280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Goto_m1621907968),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_ForceInit_m1993046715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Flip_m239761799),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_Complete_m2182515836),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetSpeedBased_m3298414332),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetRelative_m1971865807),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetDelay_m4091690403),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetAs_m3560223932),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnWaypointChange_m4050069303),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnKill_m3634377783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnComplete_m3166556023),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnStepComplete_m798367615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnUpdate_m3565475478),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnRewind_m2234522925),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnPause_m2915376343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnPlay_m4049602247),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_OnStart_m1052364046),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetUpdate_m4101319940),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetRecyclable_m2869333585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetEase_m1996465941),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetLoops_m1357731372),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetTarget_m4274119923),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetId_m2457695039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_SetAutoKill_m3416513372),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_timeScale_m2659034628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_isBackwards_m3639103569),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_id_m2840780204),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_target_m730928559),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_easeOvershootOrAmplitude_m103472457),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_easePeriod_m3991496824),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_get_fullPosition_m3809288317),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_timeScale_m775646587),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_isBackwards_m1230805031),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_id_m1855423040),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_target_m3801686121),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_easeOvershootOrAmplitude_m949458360),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_easePeriod_m2898895709),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_TweenWrap_set_fullPosition_m351644699),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_get_Normal_m562934948),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_get_Late_m3133066354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_get_Fixed_m3347062058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DG_Tweening_UpdateTypeWrap_IntToEnum_m2447806268),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerClick_m4016112956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerDown_m646334280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerEnter_m3102643385),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerExit_m3355409615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnPointerUp_m3551956563),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnSelect_m2899391241),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnUpdateSelected_m2915918363),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnBeginDrag_m2956685126),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnCancel_m3331171976),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDeselect_m3720915141),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDrag_m2798545232),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDrop_m1721349823),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnEndDrag_m1428472291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnMove_m3665932069),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnInitializePotentialDrag_m1850031641),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnScroll_m963926561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnSubmit_m2235103194),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_OnDestroy_m723435440),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_op_Equality_m1582219035),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onClick_m3803838718),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDown_m1008606014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onEnter_m2577310826),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onExit_m3241725786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onUp_m587146685),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onSelect_m1148727848),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onUpdateSelect_m3730399305),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onBeginDrag_m2493859438),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onCancel_m3329413680),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDeselect_m2293215086),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDrag_m3460304928),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onDrop_m101539790),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onEndDrag_m2658130251),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onMove_m1958337304),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onInitializePotentialDrag_m3021717677),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onScroll_m1550237143),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_get_onSubmit_m2621134797),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onClick_m4047801181),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDown_m556708538),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onEnter_m2854755972),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onExit_m163833660),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onUp_m575320556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onSelect_m601844107),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onUpdateSelect_m3507821348),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onBeginDrag_m2460825310),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onCancel_m1449019642),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDeselect_m2863529953),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDrag_m123348817),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onDrop_m3060611209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onEndDrag_m4166765832),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onMove_m1956924701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onInitializePotentialDrag_m101099508),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onScroll_m3915362057),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_DwcExtension_EventTriggerListenerWrap_set_onSubmit_m3548007249),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageInfoWrap__CreateLanguage_LanguageInfo_m2910954809),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageInfoWrap_Equals_m3504099247),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageInfoWrap_get_Name_m221622001),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageInfoWrap_get_English_m3863955838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageInfoWrap_set_Name_m1167438241),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap__CreateLanguage_LanguageService_m4026082698),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_LoadContent_m2043618020),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_GetFromFile_m1985234767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_GetStrById_m1537972951),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_RemoveText_m1156594516),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_GetStringByKey_m3606875316),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_UpdateText_m2577900723),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_AllTextObjct_m2315555750),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Languages_m4025394581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_LanguageNames_m3998974500),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Instance_m3732871790),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Files_m687002571),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_StringsByFile_m976032368),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Strings_m4042409531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_get_Language_m3165887798),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_AllTextObjct_m2463114968),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Languages_m2390774635),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_LanguageNames_m2579450930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Files_m689017738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_StringsByFile_m404625886),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Strings_m1273221076),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageServiceWrap_set_Language_m485459497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_UpdateText_m4257759920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_op_Equality_m935788363),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_get_Language_m985108991),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_get_File_m392543217),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_get_Key_m3052841043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_get_Value_m537785873),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_get_Localization_m2253095759),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_set_Language_m1061744525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_set_File_m1157415381),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_set_Key_m2801919903),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_set_Value_m365322517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_Language_LanguageTextWrap_set_Localization_m419786821),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_TweenCallback_m2002164944),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_TweenCallback_float_m3454893846),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_EaseFunction_m3128651994),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_TweenCallback_int_m1827959074),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Vector3_m1610291164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Vector3_m1475398791),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_float_m2039655156),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_float_m3238109799),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_double_m516937611),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_double_m1128375982),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_int_m4119244730),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_int_m1925913957),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_uint_m3225131924),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_uint_m1287402207),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_long_m2257676435),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_long_m608953380),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_ulong_m135437307),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_ulong_m206268832),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_string_m1762444177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_string_m2050110235),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Vector2_m1610255355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Vector2_m1475362982),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Vector4_m1610326969),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Vector4_m1475434596),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Quaternion_m3549256887),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Quaternion_m4216342241),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Color_m2149006652),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Color_m1194018343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_Rect_m3801284423),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_Rect_m4020167432),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOGetter_UnityEngine_RectOffset_m804110090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_DG_Tweening_Core_DOSetter_UnityEngine_RectOffset_m3543494062),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_UI_InputField_OnValidateInput_m3180352009),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_Events_UnityAction_m2532419630),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_Camera_CameraCallback_m740217874),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_Application_LowMemoryCallback_m2685793565),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_Application_AdvertisingIdentifierCallback_m3299727063),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_Application_LogCallback_m3008373314),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_AudioClip_PCMReaderCallback_m2545435162),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_AudioClip_PCMSetPositionCallback_m3468902174),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UnityEngine_RectTransform_ReapplyDrivenProperties_m1514042668),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_m1170011210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Predicate_int_m1937660957),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_int_m1516498467),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_string_m3543547351),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_float_m3155215816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Func_int_int_m3368397190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Comparison_int_m286509474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_UnityEngine_AsyncOperation_m1160113212),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_NotiData_m1856587461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_UnityEngine_Objects_m3075541445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_System_Action_UniWebViewNativeResultPayload_m4161573232),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_PageStartedDelegate_m3651659828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_PageFinishedDelegate_m1349978164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_PageErrorReceivedDelegate_m1387013210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_MessageReceivedDelegate_m3513331842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_ShouldCloseDelegate_m1306509115),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_KeyCodeReceivedDelegate_m4215459514),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_OrientationChangedDelegate_m4262942080),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_UniWebView_OnWebContentProcessTerminatedDelegate_m2287404177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_MeshRenderer_m4237479830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_BoxCollider_m2928908390),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_MeshCollider_m1923956104),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_SphereCollider_m3978481376),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_CharacterController_m1287708607),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_CapsuleCollider_m2106746394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_Animation_m4064329208),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_AnimationClip_m2813934497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_AnimationState_m3971610815),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_BlendWeights_m114481411),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_RenderTexture_m3452857394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaBinder_LuaOpen_UnityEngine_Rigidbody_m3574377937),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaClient_LuaOpen_Socket_Core_m353392537),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaClient_LuaOpen_Mime_Core_m1928894458),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaCoroutine__WaitForSeconds_m2184184996),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaCoroutine_WaitForFixedUpdate_m170806792),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaCoroutine_WaitForEndOfFrame_m3022393926),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaCoroutine_Yield_m3142932201),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaCoroutine_StopCoroutine_m2959799542),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaCoroutine_WrapLuaCoroutine_m3615900438),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap__CreateLuaDebugTool_m711026685),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_getCSharpValue_m79767218),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_convertLuaValueInfos_m1693791575),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_getUserDataInfo_m3774234838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_getInsType_m3144734266),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_SearchDataInfo_m727922443),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_getListValues_m1659656023),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaDebugToolWrap_getDictionaryValues_m1785358324),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaManager_LuaOpen_Socket_Core_m2500968155),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap__CreateLuaFramework_AppConst_m3002269309),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AppResName_m280070299),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AppName_m1641362533),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_LuaTempDir_m1733808173),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AppPrefix_m1834193421),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_ExtName_m1326434772),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AssetDir_m3222940354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_WebUrl_m1330987830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_ImageUrl_m2461625812),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_MusicUrl_m651338736),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_LoginRul_m2531696042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_LoginPort_m623124658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_ClientKey_m2885750497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_UserId_m3082937612),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_SocketPort_m2547453497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_SocketAddress_m2463069351),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_OutName_m2097637765),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_OutLogPath_m1996452371),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AccountLogName_m4261157063),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_AccountLogPath_m56569680),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_get_FrameworkRoot_m2897543254),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_WebUrl_m645205473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_ImageUrl_m3280417573),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_LoginRul_m4050443810),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_LoginPort_m2804330137),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_ClientKey_m4036364449),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_UserId_m2140892818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_SocketPort_m3673848515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_SocketAddress_m3302714736),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_OutName_m3503776816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_OutLogPath_m1862107199),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_AccountLogName_m3752215064),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_AppConstWrap_set_AccountLogPath_m2289661638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap__CreateLuaFramework_ByteBuffer_m735649191),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Length_m3739071246),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Position_m3189162393),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Close_m3826127992),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteByte_m854906366),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteInt_m1705003945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteShort_m762370695),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteLong_m3235019703),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteFloat_m4030918533),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteDouble_m3100681370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteString_m2302446219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteBytes_m2736969786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_WriteBuffer_m130924439),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadByte_m101571426),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadInt_m1260456853),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadShort_m1449578822),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadLong_m1983208900),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadFloat_m3118625300),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadDouble_m3642616292),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadString_m972172371),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadBytes_m3946511971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ReadBytes1_m3991515892),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_ToBytes_m4201436045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ByteBufferWrap_Flush_m3028245690),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_CheckExtractResource_m27190053),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_OnResourceInited_m4247660305),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_SetGameState_m3244480078),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_GetUUIDFunc_m1029967704),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_GetMD5_m3737840676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_CheckUITouch_m1498932383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnRayHit_m2852810796),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnRayHitObj_m3530540797),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnPos2D_m4272840791),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ReturnPosWorld_m2050846730),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_ClearCache_m928039876),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_Copy_m2135216058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_Paste_m824020114),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_OnGetTextFromClipboard_m2155751950),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_GameManagerWrap_op_Equality_m3336075847),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnDrag_m3769641289),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnBeginDrag_m706631073),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnEndDrag_m2959384045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnPointerDown_m2574556537),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnPointerClick_m3897226526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_OnPointerUp_m3556523541),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddClick_m1471051093),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddValueChanged_m3274684045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddEndEdit_m3339893209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_AddDrag_m1769837284),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_RemoveClick_m2466729963),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_ClearClick_m3313173431),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaBehaviourWrap_op_Equality_m1432387851),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetType_m676697956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetPanelManager_m536959878),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetScenesManager_m4198344036),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetResManager_m3812546236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetNetManager_m1338290906),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetSoundManager_m3909632176),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetGameManager_m3224758127),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetLuaManager_m1687325209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_GetMaterialManager_m463202310),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_DOTweenAlpha_m3476527395),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_DOTweenTo_m1422570464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_DOTweenToFloat_m282664104),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_SetAlpha_m512396579),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_AddDropdownOption_m2940598997),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_ScreenPointToLocalPointInRect_m926606195),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_ObjAddComponent_m617616854),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_OnCallLuaFunc_m342983597),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaHelperWrap_OnJsonCallFunc_m1402829346),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_InitStart_m1715600685),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_InitLuaBundle_m405095338),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_LoadBundle_m2543763501),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_DoFile_m279707171),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_CallFunction_m1434796216),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_LuaGC_m4254753536),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_Close_m787266299),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_LuaManagerWrap_op_Equality_m2289065368),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_MaterialManagerWrap_op_Equality_m1254778767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_OnInit_m3935359947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_Unload_m94687261),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_CallMethod_m293170272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_AddEvent_m3185985579),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_BeginSendHeart_m42197333),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendHeart_m2081273307),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendConnect_m2925639782),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendMessageBf_m1580567711),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendMessage_m370415437),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_RemoveSocket_m1033082840),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_GetWebMusic_m2162430337),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_GetLoadBgFile_m4109280544),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_GetLoadHeaderFile_m1643674952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_OnDownAsset_m2253221718),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_ExitDown_m295392102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_StartWWWLoadMusic_m817412155),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_Close_m3615465738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_AddGameSocket_m1753234211),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendGameConnect_m3279285986),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendMessageGame_m971904923),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_BeginSendGameHeart_m162802647),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_SendGameHeart_m2217949339),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_RemoveGameSocket_m4192796309),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_isSocketStats_m8330819),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_NetworkManagerWrap_op_Equality_m3276507217),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_CreatePanel_m611406165),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_CloseView_m4215406094),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_HideView_m708464091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_DestroyView_m1756196298),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_CloseAllView_m1742232567),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_PanelManagerWrap_op_Equality_m3436014556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_Initialize_m1252604775),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_LoadScenePrefab_m1791996578),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_LoadPrefab_m3196400724),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_LoadBgImage_m2966353882),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_UnloadAssetBundle_m500379049),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ResourceManagerWrap_op_Equality_m4252437582),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ScenesManagerWrap_CreateScene_m3641186786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ScenesManagerWrap_op_Equality_m682128561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_LoadAudioClip_m15028977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_CanPlayBackSound_m3029713584),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayBacksound_m2946566323),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayBacksoundAc_m2940076376),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_SoundOffBacksound_m73488989),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_SetSoundEffectVolume_m1634988496),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_CloseBacksound_m3622818719),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_CanPlaySoundEffect_m3074252263),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_Play_m635524867),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayX_m3396311515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlaySoundCard_m1174386810),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayAudioClip_m2481366400),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_PlayEX_m210359422),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_Stop_m2010418698),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_op_Equality_m3258722523),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_get_isPlaySV_m251548344),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_get_isPlayCard_m3311693188),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_get_soundVolume_m1033192392),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_set_isPlaySV_m1861910528),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_set_isPlayCard_m616554808),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_SoundManagerWrap_set_soundVolume_m1261416576),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ThreadManagerWrap_AddEvent_m3966289811),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_ThreadManagerWrap_op_Equality_m906382963),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_StartTimer_m411262564),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_StopTimer_m3794300180),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_AddTimerEvent_m1353495121),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_RemoveTimerEvent_m3218303794),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_StopTimerEvent_m2492900094),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_ResumeTimerEvent_m1867698105),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_op_Equality_m1630768045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_get_Interval_m3236387291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_TimerManagerWrap_set_Interval_m2785741298),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap__CreateLuaFramework_Util_m109937151),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Vector3Array_m247344451),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_AddParticleMask_m2636149716),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Int_m3965664565),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Float_m2604148228),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Long_m3919158435),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Random_m1239443025),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Uid_m1246595850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetTime_m2179427826),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Child_m2275917913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Peer_m102318437),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_encode_m1206620207),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_decode_m1660773517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_EncryptDES_m2333338169),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_DecryptDES_m678872240),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_ToHex_m3439768866),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_UnHex_m3443197525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetMd5String_m4116240150),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_IsNumeric_m693523605),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_HashToMD5Hex_m1514435688),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_md5_m76398347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_md5file_m3151057550),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_ClearChild_m3886657899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_ClearMemory_m1237619558),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetRelativePath_m475140055),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetFileText_m4272406733),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Exists_m964038987),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_AppContentPath_m261767124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Log_m1147744142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_LogWarning_m1078774150),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_LogError_m1688885684),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetKey_m613210531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetInt_m2323509053),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_HasKey_m2117044571),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SetInt_m108563581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetString_m2904778843),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_GetFloat_m197492970),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SetFloat_m733592250),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SetString_m2493884607),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_RemoveData_m1598858171),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Encode_m2246743056),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_CheckRuntimeFile_m2965885385),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_CallMethod_m3412203177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_CheckEnvironment_m4124722340),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveFile_m1854402899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveImage_m1718845135),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveImagePng_m558911371),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_SaveImageJpg_m866921733),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_LoadImage_m611345027),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_BytesToTexture2D_m968533988),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Base64StringToTexture2D_m3491095582),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_BytesToSprite_m3013150343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Base64StringToSprite_m1240574279),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Texture2DToSprite_m1849643680),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_RefreshRectHeight_m2919915264),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_packXor_m1682104173),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_ReadAllLines_m2771096518),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_Vibrate_m66375729),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_get_DataPath_m637637817),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_get_isApplePlatform_m3111369990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_get_isAndroidPlatform_m1885783317),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_get_NetAvailable_m4163259218),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaFramework_UtilWrap_get_IsWifi_m1905998014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_OpenReflectionLibs_m2604182638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_FindType_m3336982658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_LoadAssembly_m3109614270),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_GetMethod_m3807567767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_GetConstructor_m1434571690),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_GetTypeMethod_m2643766831),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_GetProperty_m2068860585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_GetField_m3281161270),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaReflection_CreateInstance_m3949581853),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaState_Collect_m651350562),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_PerlinNoise_m1066442615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutVector3_m1675818136),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutVector2_m1674488251),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutVector4_m1675845985),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutColor_m1274823664),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutQuaternion_m3524999930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutRay_m3689324314),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutBounds_m1587439495),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutRaycastHit_m2682723415),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutTouch_m1291238082),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaUnityLibs_GetOutLayerMask_m119061888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_Panic_m1189163963),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_Print_m550471082),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_Loader_m2588479012),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_DoFile_m3978110808),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_LoadFile_m1585920660),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_IsNull_m1855953006),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_BufferToString_m3349729136),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_GetClassType_m2221057088),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_TableToArray_m3064502046),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ToLua_op_ToString_m935641189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_Log_m1966879054),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_LogWarning_m1195105638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_LogError_m2129829093),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_LogException_m2191493870),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_get_useLog_m2947929574),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_get_threadStack_m1105970803),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_get_logger_m3428644899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_set_useLog_m2878744062),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_set_threadStack_m3411982906),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_DebuggerWrap_set_logger_m1013770343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_EventObjectWrap_op_Subtraction_m2393295058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_EventObjectWrap_op_Addition_m900010994),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_None_m2477419914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_After_m3688304750),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_Before_m352713818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_Replace_m2484932146),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_ReplaceWithPreInvokeBase_m1432457356),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_get_ReplaceWithPostInvokeBase_m3610073119),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_InjectTypeWrap_IntToEnum_m1782543557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaConstructorWrap_Call_m3223434852),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaConstructorWrap_Destroy_m3631177253),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaFieldWrap_Get_m901804156),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaFieldWrap_Set_m934995368),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaInjectionStationWrap__CreateLuaInterface_LuaInjectionStation_m3813845723),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaInjectionStationWrap_CacheInjectFunction_m1240767888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaInjectionStationWrap_Clear_m3057111539),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaMethodWrap_Destroy_m3950921051),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaMethodWrap_Call_m91726809),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaOutWrap_LuaOpen_ToLua_Out_m1556127490),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaPropertyWrap_Get_m2547155432),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaInterface_LuaPropertyWrap_Set_m3750989),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaProfilerWrap_Clear_m1917677466),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaProfilerWrap_GetID_m2215262701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaProfilerWrap_BeginSample_m1547501847),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaProfilerWrap_EndSample_m1464911110),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaProfilerWrap_get_list_m3255674445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaProfilerWrap_set_list_m3344658220),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap__CreateLuaValueInfo_m2258352658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_get_name_m1323494695),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_get_valueType_m3780135789),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_get_valueStr_m2177606190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_get_isValue_m1417265064),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_set_name_m3007988093),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_set_valueType_m1466174207),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_set_valueStr_m3718996058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_LuaValueInfoWrap_set_isValue_m667512550),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ManagerWrap_op_Equality_m74987150),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_Item_m3502095651),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_set_Item_m1596941197),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_Length_m112319918),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_ToTable_m2723951980),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_GetLength_m4146362734),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_GetLongLength_m2266024305),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_GetLowerBound_m1941008942),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_GetValue_m1503288669),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_SetValue_m1845156845),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_GetEnumerator_m3162729226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_GetUpperBound_m1269240077),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_CreateInstance_m2252936434),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_BinarySearch_m1348176618),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_Clear_m4193960087),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_Clone_m1678573131),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_Copy_m1424801028),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_IndexOf_m1790212878),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_Initialize_m2556389016),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_LastIndexOf_m2394176311),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_Reverse_m85538370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_Sort_m3445927934),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_CopyTo_m2916048701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_ConstrainedCopy_m141426192),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_LongLength_m333871517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_Rank_m4248047472),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_IsSynchronized_m1167880794),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_SyncRoot_m2721893593),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_IsFixedSize_m3976425255),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ArrayWrap_get_IsReadOnly_m3309296825),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap__CreateSystem_Collections_Generic_Dictionary_KeyCollection_m3914819252),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap_CopyTo_m791725988),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap_GetEnumerator_m1856173253),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_KeyCollectionWrap_get_Count_m1367758227),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap__CreateSystem_Collections_Generic_Dictionary_ValueCollection_m149167168),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap_CopyTo_m1607880727),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap_GetEnumerator_m2049235839),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_Dictionary_ValueCollectionWrap_get_Count_m828990294),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__get_this_m1030711534),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__set_this_m1251682479),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__this_m1862037258),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Item_m1881051738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_set_Item_m937166845),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__geti_m2079115531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap__seti_m1863895821),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_Add_m3358821343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_Clear_m244836080),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_ContainsKey_m1876406794),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_ContainsValue_m490615531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_GetObjectData_m1847816312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_OnDeserialization_m654742342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_Remove_m4167531343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_TryGetValue_m1715625741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_GetEnumerator_m121109169),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Count_m4288287700),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Comparer_m2443096215),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Keys_m3176561589),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_DictionaryWrap_get_Values_m909207406),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_KeyValuePairWrap_get_Key_m417893998),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_KeyValuePairWrap_get_Value_m2672074256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Add_m639130784),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_AddRange_m3365778769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_AsReadOnly_m3782350418),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_BinarySearch_m4101125671),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Clear_m39902672),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Contains_m2762687937),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_CopyTo_m3486087398),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Exists_m4212126770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Find_m2332111338),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindAll_m1121698547),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindIndex_m484466905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindLast_m1942558662),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_FindLastIndex_m2306694285),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_ForEach_m815717530),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_GetEnumerator_m3922691295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_GetRange_m260540007),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_IndexOf_m2647939294),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Insert_m1291277045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_InsertRange_m1332942724),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_LastIndexOf_m1847142399),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Remove_m1315238154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_RemoveAll_m226662365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_RemoveAt_m563775621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_RemoveRange_m3254697167),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Reverse_m2410608273),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_Sort_m1186291069),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_ToArray_m4270131928),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_TrimExcess_m530562574),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_TrueForAll_m4203222790),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_get_Item_m3424639629),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_set_Item_m1608794129),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_get_Capacity_m1368879515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_get_Count_m3006788066),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_Generic_ListWrap_set_Capacity_m4160213747),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_IEnumeratorWrap_MoveNext_m2156277680),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_IEnumeratorWrap_Reset_m4082775780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_IEnumeratorWrap_get_Current_m3133577628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_Contains_m3909564477),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_CopyTo_m718287398),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_GetEnumerator_m4185424324),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_IndexOf_m3654188317),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_get_Item_m4234065929),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_Collections_ObjectModel_ReadOnlyCollectionWrap_get_Count_m437392868),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_CreateDelegate_m2832871453),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_DynamicInvoke_m3168159010),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_Clone_m1695574036),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_GetObjectData_m1247808224),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_GetInvocationList_m2830946621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_Combine_m1346774232),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_Remove_m2294524011),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_RemoveAll_m627711142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_op_Subtraction_m2977725188),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_op_Addition_m3306855102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_op_Equality_m340782100),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_Destroy_m3926465567),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_GetHashCode_m3198185979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_Equals_m3261682056),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_get_Method_m1250093490),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_DelegateWrap_get_Target_m509583925),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_GetTypeCode_m124369039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_GetValues_m3413762562),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_GetNames_m2438319042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_GetName_m2155961340),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_IsDefined_m168298503),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_GetUnderlyingType_m3520399586),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_CompareTo_m4277339521),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_ToString_m3713928017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_Equals_m2976960898),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_GetHashCode_m1060381176),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_Format_m3118643834),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_Parse_m2625355600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_ToObject_m2111468977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_EnumWrap_ToInt_m831674694),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap__CreateSystem_Object_m2672497609),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_Equals_m654551252),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_GetHashCode_m1321146355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_GetType_m3725541403),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_ToString_m1856247887),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_ReferenceEquals_m2058390360),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_op_Equality_m3452781401),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_ObjectWrap_Destroy_m2233654385),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap__CreateSystem_String_m1191449996),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Equals_m49924044),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Clone_m2465360010),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_GetTypeCode_m1294477832),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_CopyTo_m390507204),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_ToCharArray_m1009644292),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Split_m3708619112),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Substring_m1384823580),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Trim_m3203398420),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_TrimStart_m343638103),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_TrimEnd_m1937932171),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Compare_m36099892),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_CompareTo_m2476350476),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_CompareOrdinal_m2340007521),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_EndsWith_m3903126280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_IndexOfAny_m1254088359),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_IndexOf_m2237912670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_LastIndexOf_m731463622),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_LastIndexOfAny_m2081352233),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Contains_m2700336230),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_IsNullOrEmpty_m2590290339),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Normalize_m1583678219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_IsNormalized_m3307684228),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Remove_m3148044952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_PadLeft_m1014434866),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_PadRight_m3778448122),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_StartsWith_m2974551098),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Replace_m4164501033),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_ToLower_m563656478),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_ToLowerInvariant_m1130771107),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_ToUpper_m2084344975),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_ToUpperInvariant_m3730026652),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_ToString_m3509853842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Format_m2331410495),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Copy_m1189864758),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Concat_m80467564),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Insert_m1135791566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Intern_m2672419571),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_IsInterned_m2981150623),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_Join_m3490057124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_GetEnumerator_m2434158235),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_GetHashCode_m1318630576),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_op_Equality_m1882013566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_get_Empty_m2539018674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_StringWrap_get_Length_m223803813),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_Equals_m3544051278),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetType_m3516676340),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetTypeArray_m3060490563),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetTypeCode_m3259735102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetTypeFromHandle_m2440690496),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetTypeHandle_m2461043546),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_IsSubclassOf_m3919430916),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_FindInterfaces_m882880127),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetInterface_m2412428377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetInterfaceMap_m3316811674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetInterfaces_m2970656514),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_IsAssignableFrom_m1132847552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_IsInstanceOfType_m2727328185),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetArrayRank_m3372824920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetElementType_m2607752111),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetHashCode_m853341599),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetNestedType_m2869536520),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetNestedTypes_m1639764370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetDefaultMembers_m1250871412),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_FindMembers_m1293441394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_InvokeMember_m1220467022),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_ToString_m926338628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetGenericArguments_m639219128),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetGenericTypeDefinition_m3746921114),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_MakeGenericType_m2809724575),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_GetGenericParameterConstraints_m3687925479),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_MakeArrayType_m2767664024),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_MakeByRefType_m122320795),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_MakePointerType_m1719882043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_ReflectionOnlyGetType_m3127203208),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_Delimiter_m3446804717),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_EmptyTypes_m1364587189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_FilterAttribute_m3077910118),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_FilterName_m994475969),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_FilterNameIgnoreCase_m657098948),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_Missing_m1582252560),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_Assembly_m1041025256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_AssemblyQualifiedName_m52547979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_Attributes_m3446867257),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_BaseType_m2187945780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_DeclaringType_m1355461983),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_DefaultBinder_m673313603),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_FullName_m2970022153),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_GUID_m3859167557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_HasElementType_m1535047959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsAbstract_m2051539949),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsAnsiClass_m2146215630),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsArray_m3541886281),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsAutoClass_m277279780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsAutoLayout_m3345688714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsByRef_m4165912254),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsClass_m1213176965),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsCOMObject_m1744739663),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsContextful_m1065205226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsEnum_m2376933766),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsExplicitLayout_m2171110991),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsImport_m2333382786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsInterface_m2865764341),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsLayoutSequential_m1264025013),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsMarshalByRef_m3038167303),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNestedAssembly_m3928206701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNestedFamANDAssem_m1735463061),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNestedFamily_m601738017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNestedFamORAssem_m3459530409),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNestedPrivate_m3628261467),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNestedPublic_m4184127641),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNotPublic_m9436256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsPointer_m4069584914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsPrimitive_m2932916584),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsPublic_m2927128570),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsSealed_m3296532850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsSerializable_m1974706083),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsSpecialName_m1831991025),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsUnicodeClass_m1987699341),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsValueType_m2637028756),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_MemberType_m3909330209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_Module_m3611124202),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_Namespace_m1733316648),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_ReflectedType_m1917148905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_TypeHandle_m2884916681),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_TypeInitializer_m1309931099),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_UnderlyingSystemType_m4121961200),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_ContainsGenericParameters_m2555144364),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsGenericTypeDefinition_m1813979319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsGenericType_m183734979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsGenericParameter_m823002570),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsNested_m4055591558),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_IsVisible_m3647800661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_GenericParameterPosition_m2623326587),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_GenericParameterAttributes_m1466895189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_DeclaringMethod_m880621050),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_System_TypeWrap_get_StructLayoutAttribute_m2815446636),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_ChangeStartValue_m3764413260),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_ChangeEndValue_m2838435473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_ChangeValues_m4253809631),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_startValue_m3771784081),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_endValue_m1045071408),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_changeValue_m3870489899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_plugOptions_m3172430710),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_getter_m1512762110),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_get_setter_m140691521),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_startValue_m1965666777),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_endValue_m2707721582),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_changeValue_m612029989),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_plugOptions_m746501559),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_getter_m4004148971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_TweenerCoreV3V3VOWrap_set_setter_m1630738743),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationBlendModeWrap_get_Blend_m1499589045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationBlendModeWrap_get_Additive_m2230734549),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationBlendModeWrap_IntToEnum_m3307361890),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap__CreateUnityEngine_AnimationClip_m3529847331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_SampleAnimation_m3539891986),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_SetCurve_m3917811736),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_EnsureQuaternionContinuity_m621442671),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_ClearCurves_m204671865),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_AddEvent_m354208886),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_op_Equality_m2541244375),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_length_m2593525482),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_frameRate_m3232178395),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_wrapMode_m3996873426),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_localBounds_m3527189970),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_legacy_m1520362497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_humanMotion_m149031396),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_empty_m399462039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_get_events_m2233386243),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_frameRate_m650235091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_wrapMode_m312502119),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_localBounds_m1869288714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_legacy_m2988200207),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationClipWrap_set_events_m3074281769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap__CreateUnityEngine_AnimationCurve_m1422623863),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap__get_this_m2114833886),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap__this_m922128682),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_Evaluate_m1648437946),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_AddKey_m3937852373),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_MoveKey_m714847050),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_RemoveKey_m2657780174),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_Item_m4209969357),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_SmoothTangents_m2637557187),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_Constant_m2657719803),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_Linear_m843873037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_EaseInOut_m2132310489),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_keys_m4109862170),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_length_m3523292461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_preWrapMode_m1130118801),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_get_postWrapMode_m2748947021),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_set_keys_m3095698120),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_set_preWrapMode_m2129473164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationCurveWrap_set_postWrapMode_m1137815038),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap__CreateUnityEngine_AnimationState_m596095206),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_AddMixingTransform_m678388313),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_RemoveMixingTransform_m2583316254),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_op_Equality_m2755012561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_enabled_m1784100938),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_weight_m3171296539),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_wrapMode_m3204667346),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_time_m4034668836),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_normalizedTime_m1637515839),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_speed_m1428004450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_normalizedSpeed_m1310201296),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_length_m1613389952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_layer_m754559129),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_clip_m18771588),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_name_m2212635788),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_get_blendMode_m3438803266),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_enabled_m2753493772),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_weight_m3970942388),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_wrapMode_m810081836),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_time_m873511853),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_normalizedTime_m1207379488),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_speed_m3925091601),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_normalizedSpeed_m3419727037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_layer_m623920154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_name_m2237056033),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationStateWrap_set_blendMode_m3845562333),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap__CreateUnityEngine_Animation_m3112112395),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap__get_this_m2121352151),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap__this_m3332661614),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_Stop_m1352028381),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_Rewind_m3101143382),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_Sample_m283595884),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_IsPlaying_m826481187),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_Item_m3805294242),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_Play_m1646738167),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_CrossFade_m863715718),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_Blend_m1459985592),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_CrossFadeQueued_m2005617496),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_PlayQueued_m1013958873),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_AddClip_m3795445646),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_RemoveClip_m501176859),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_GetClipCount_m11207958),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_SyncLayer_m1170783840),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_GetEnumerator_m3939278389),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_GetClip_m2951304356),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_op_Equality_m2878782907),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_clip_m194215215),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_playAutomatically_m2521719519),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_wrapMode_m2810401835),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_isPlaying_m326845746),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_animatePhysics_m3305630991),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_cullingType_m3138626897),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_get_localBounds_m1893543031),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_clip_m3531620527),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_playAutomatically_m3923994729),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_wrapMode_m3478640774),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_animatePhysics_m1508135190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_cullingType_m386107627),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimationWrap_set_localBounds_m356087350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap__CreateUnityEngine_Animator_m1370921319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetFloat_m1599843959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetFloat_m2352414274),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetBool_m1799234229),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetBool_m2765247178),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetInteger_m2824154372),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetInteger_m3592386952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetTrigger_m945338236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_ResetTrigger_m577533222),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_IsParameterControlledByCurve_m3599632519),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKPosition_m4013144854),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKPosition_m1749911924),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKRotation_m2248619181),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKRotation_m1322092239),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKPositionWeight_m1401432707),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKPositionWeight_m3174410776),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKRotationWeight_m3401197993),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKRotationWeight_m2353473675),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKHintPosition_m3976175602),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKHintPosition_m1991101620),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetIKHintPositionWeight_m599942081),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetIKHintPositionWeight_m145281506),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetLookAtPosition_m1365035423),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetLookAtWeight_m372913481),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetBoneLocalRotation_m4068976343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetBehaviours_m819544639),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetLayerName_m707954491),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetLayerIndex_m1041372894),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetLayerWeight_m1900320423),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetLayerWeight_m1450829729),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetCurrentAnimatorStateInfo_m939695512),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetNextAnimatorStateInfo_m3015353795),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetAnimatorTransitionInfo_m1758009199),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetCurrentAnimatorClipInfoCount_m4233082019),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetCurrentAnimatorClipInfo_m1927244328),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetNextAnimatorClipInfoCount_m3731147526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetNextAnimatorClipInfo_m979068151),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_IsInTransition_m3041159606),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetParameter_m4273710908),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_MatchTarget_m3147293416),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_InterruptMatchTarget_m3519779956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_CrossFadeInFixedTime_m3733030585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_CrossFade_m3458308076),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_PlayInFixedTime_m3057228529),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_Play_m2649743947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_SetTarget_m3786872184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_GetBoneTransform_m541985613),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StartPlayback_m600457020),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StopPlayback_m475262880),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StartRecording_m2851305926),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StopRecording_m554876877),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_HasState_m2492524967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_StringToHash_m4174866882),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_Update_m2545154589),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_Rebind_m1227499690),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_ApplyBuiltinRootMotion_m175386247),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_op_Equality_m2202196588),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isOptimizable_m3824472913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isHuman_m1353828697),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_hasRootMotion_m3925547707),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_humanScale_m498164628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isInitialized_m674130043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_deltaPosition_m793505444),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_deltaRotation_m654303035),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_velocity_m1177759446),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_angularVelocity_m2389825347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_rootPosition_m182639784),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_rootRotation_m515704102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_applyRootMotion_m1100440080),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_linearVelocityBlending_m1540679904),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_updateMode_m2387386246),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_hasTransformHierarchy_m1653346955),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_gravityWeight_m2221712627),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_bodyPosition_m1875983351),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_bodyRotation_m723140928),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_stabilizeFeet_m1890174901),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_layerCount_m1383780511),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_parameters_m745848628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_parameterCount_m4097921136),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_feetPivotActive_m3599989525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_pivotWeight_m4218901990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_pivotPosition_m885394555),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_isMatchingTarget_m1368385927),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_speed_m2388516584),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_targetPosition_m2742941370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_targetRotation_m2399918529),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_cullingMode_m2853738676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_playbackTime_m2571065982),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_recorderStartTime_m260973480),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_recorderStopTime_m1686408104),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_recorderMode_m3379158170),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_runtimeAnimatorController_m499193471),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_hasBoundPlayables_m922848786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_avatar_m2730324212),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_playableGraph_m556199153),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_layersAffectMassCenter_m1845881835),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_leftFeetBottomHeight_m3310334578),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_rightFeetBottomHeight_m4025390271),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_logWarnings_m1708909149),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_get_fireEvents_m1471938672),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_rootPosition_m184427995),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_rootRotation_m838459199),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_applyRootMotion_m2206928423),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_linearVelocityBlending_m1014723013),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_updateMode_m2886078770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_bodyPosition_m1711356310),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_bodyRotation_m1647339294),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_stabilizeFeet_m3815229332),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_feetPivotActive_m1667540574),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_speed_m1750829927),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_cullingMode_m461174139),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_playbackTime_m2017623909),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_recorderStartTime_m618514390),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_recorderStopTime_m1939106423),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_runtimeAnimatorController_m2964955628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_avatar_m3977012331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_layersAffectMassCenter_m1731401886),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_logWarnings_m2665167139),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AnimatorWrap_set_fireEvents_m1968923741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_Quit_m3749077091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_CancelQuit_m3660225675),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_Unload_m1103599377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_GetStreamProgressForLevel_m817552211),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_CanStreamedLevelBeLoaded_m311296648),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_GetBuildTags_m4022749917),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_SetBuildTags_m3960198482),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_HasProLicense_m2547115514),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_RequestAdvertisingIdentifierAsync_m2452555276),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_OpenURL_m1639140399),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_GetStackTraceLogType_m1932037391),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_SetStackTraceLogType_m1308294320),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_RequestUserAuthorization_m926457688),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_HasUserAuthorization_m912747790),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_streamedBytes_m142731169),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isPlaying_m619032841),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isFocused_m2164877777),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isEditor_m3832858365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_platform_m116630121),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_buildGUID_m2677065116),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isMobilePlatform_m4156423525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_isConsolePlatform_m2854545524),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_runInBackground_m1340963054),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_dataPath_m2271918611),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_streamingAssetsPath_m1771263969),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_persistentDataPath_m1923962652),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_temporaryCachePath_m2303386557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_absoluteURL_m13604693),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_unityVersion_m2756516526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_version_m3162348259),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_installerName_m1235048546),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_identifier_m1727593600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_installMode_m2229300899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_sandboxType_m3245154585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_productName_m985579459),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_companyName_m643325535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_cloudProjectId_m2566931489),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_targetFrameRate_m4286809365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_systemLanguage_m3884722582),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_backgroundLoadingPriority_m3470279464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_internetReachability_m1203015779),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_genuine_m3296988382),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_genuineCheckAvailable_m4075340753),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_lowMemory_m585685051),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_logMessageReceived_m3174688738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_logMessageReceivedThreaded_m4048579992),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_get_onBeforeRender_m2907812460),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_runInBackground_m727693084),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_targetFrameRate_m1088042411),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_backgroundLoadingPriority_m3785837499),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_lowMemory_m2122566714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_logMessageReceived_m2652823509),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_logMessageReceivedThreaded_m685807762),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_set_onBeforeRender_m2608165602),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_UnityEngine_Application_AdvertisingIdentifierCallback_m1021666739),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_UnityEngine_Application_LogCallback_m928388090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ApplicationWrap_UnityEngine_Application_LowMemoryCallback_m1705213074),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap__CreateUnityEngine_AssetBundle_m3768356629),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_SetAssetBundleDecryptKey_m926146176),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_UnloadAllAssetBundles_m2012449076),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_GetAllLoadedAssetBundles_m2624417985),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromFileAsync_m2398153347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromFile_m155521039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromMemoryAsync_m212749009),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromMemory_m3859566028),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromStreamAsync_m138947442),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadFromStream_m982583717),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_Contains_m2275101789),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAsset_m2378887360),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAssetAsync_m240050094),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAssetWithSubAssets_m537616736),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAssetWithSubAssetsAsync_m3430113144),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAllAssets_m2613598035),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_LoadAllAssetsAsync_m3034808080),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_Unload_m4202909058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_GetAllAssetNames_m281153272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_GetAllScenePaths_m1459517514),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_op_Equality_m1938679520),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_get_mainAsset_m3238059091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AssetBundleWrap_get_isStreamedSceneAssetBundle_m98306408),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap__CreateUnityEngine_AsyncOperation_m3340315847),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_isDone_m1960131788),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_progress_m3775273737),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_priority_m4246964090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_allowSceneActivation_m4051010768),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_get_completed_m2203425433),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_set_priority_m2789470930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_set_allowSceneActivation_m3498261302),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AsyncOperationWrap_set_completed_m2457559317),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap__CreateUnityEngine_AudioClip_m3011736356),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_LoadAudioData_m1986786520),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_UnloadAudioData_m2561215581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_GetData_m3777312378),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_SetData_m1763668331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_Create_m4286099649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_op_Equality_m2738493838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_length_m1925100949),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_samples_m2394690850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_channels_m3063550734),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_frequency_m24633935),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_loadType_m3920210905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_preloadAudioData_m894516923),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_ambisonic_m2327475230),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_loadState_m1281240663),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_get_loadInBackground_m2421208031),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_UnityEngine_AudioClip_PCMReaderCallback_m1410906344),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioClipWrap_UnityEngine_AudioClip_PCMSetPositionCallback_m294082318),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap__CreateUnityEngine_AudioSource_m1198577980),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_Play_m3149832543),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayDelayed_m2354888658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayScheduled_m1376024536),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetScheduledStartTime_m3088952095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetScheduledEndTime_m2157786138),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_Stop_m203218532),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_Pause_m1545190796),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_UnPause_m3198133108),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayOneShot_m288742103),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_PlayClipAtPoint_m2550226634),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetCustomCurve_m1824853842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetCustomCurve_m14160905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetOutputData_m162091058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetSpectrumData_m295083829),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetSpatializerFloat_m3887896208),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetSpatializerFloat_m3252582164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_SetAmbisonicDecoderFloat_m3105080480),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_GetAmbisonicDecoderFloat_m181509590),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPitch_m198061613),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOFade_m1400851164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOTogglePause_m333847995),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOSmoothRewind_m3382106403),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DORewind_m1648399851),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DORestart_m3049592679),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPlayForward_m988296096),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPlayBackwards_m3628942188),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPlay_m1003944167),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOPause_m3921871864),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOGoto_m3292895175),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOFlip_m389735075),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOKill_m3109962464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_DOComplete_m4099150018),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_op_Equality_m2711135028),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_volume_m326530662),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_pitch_m2744183232),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_time_m1022279780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_timeSamples_m1435046930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_clip_m1705308266),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_outputAudioMixerGroup_m2134700224),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_isPlaying_m16506376),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_isVirtual_m3471420889),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_loop_m2416262359),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_ignoreListenerVolume_m1650016581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_playOnAwake_m1085616197),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_ignoreListenerPause_m4240815110),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_velocityUpdateMode_m324511441),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_panStereo_m840677535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spatialBlend_m21124413),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spatialize_m2136902850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spatializePostEffects_m3288804888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_reverbZoneMix_m3235371592),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_bypassEffects_m1480082306),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_bypassListenerEffects_m3892871934),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_bypassReverbZones_m2477322976),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_dopplerLevel_m1491412872),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_spread_m2856610629),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_priority_m2639279609),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_mute_m3391181471),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_minDistance_m2325249378),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_maxDistance_m3570179732),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_get_rolloffMode_m2613768874),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_volume_m3676208512),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_pitch_m259945372),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_time_m2523022048),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_timeSamples_m692662330),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_clip_m2838253838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_outputAudioMixerGroup_m1284866675),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_loop_m2042298979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_ignoreListenerVolume_m223600919),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_playOnAwake_m2944159649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_ignoreListenerPause_m1528650255),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_velocityUpdateMode_m3437730738),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_panStereo_m982211998),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spatialBlend_m3437056154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spatialize_m4294730092),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spatializePostEffects_m2315907582),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_reverbZoneMix_m982703412),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_bypassEffects_m2969242547),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_bypassListenerEffects_m2123661475),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_bypassReverbZones_m647792793),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_dopplerLevel_m4045280294),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_spread_m283878075),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_priority_m2862958882),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_mute_m1524927686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_minDistance_m279850210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_maxDistance_m3463890772),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_AudioSourceWrap_set_rolloffMode_m3984135007),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BehaviourWrap__CreateUnityEngine_Behaviour_m2780071643),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BehaviourWrap_op_Equality_m2703267480),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BehaviourWrap_get_enabled_m397695497),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BehaviourWrap_get_isActiveAndEnabled_m46981254),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BehaviourWrap_set_enabled_m2306466780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_get_OneBone_m3319709681),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_get_TwoBones_m615107554),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_get_FourBones_m1533376606),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BlendWeightsWrap_IntToEnum_m3374881020),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BoxColliderWrap__CreateUnityEngine_BoxCollider_m1141101973),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_op_Equality_m1794816623),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_get_center_m4087928410),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_get_size_m1581803039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_set_center_m24487343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_BoxColliderWrap_set_size_m972689267),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Skybox_m794966984),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Color_m2735154661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_SolidColor_m2686944244),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Depth_m1875616487),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_get_Nothing_m3368370337),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraClearFlagsWrap_IntToEnum_m2764039161),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap__CreateUnityEngine_Camera_m2788544406),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_SetTargetBuffers_m3947406854),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetWorldToCameraMatrix_m4072742107),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetProjectionMatrix_m3431341360),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetAspect_m1664722571),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_GetStereoViewMatrix_m720899879),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_SetStereoViewMatrix_m1364280920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetStereoViewMatrices_m3205814508),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_GetStereoProjectionMatrix_m1542634604),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_SetStereoProjectionMatrix_m1174014610),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_CalculateFrustumCorners_m2880278422),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetStereoProjectionMatrices_m7407543),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetTransparencySortSettings_m2036520324),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_WorldToScreenPoint_m2661013369),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_WorldToViewportPoint_m2288461329),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ViewportToWorldPoint_m2714637634),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ScreenToWorldPoint_m762463152),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ScreenToViewportPoint_m2618741286),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ViewportToScreenPoint_m3247879467),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ViewportPointToRay_m1087682553),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ScreenPointToRay_m1075429751),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_GetAllCameras_m890486169),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_Render_m2689563885),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_RenderWithShader_m3889877493),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_SetReplacementShader_m2535199209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetReplacementShader_m2902076786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_ResetCullingMatrix_m2034320057),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_RenderDontRestore_m4241704200),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_SetupCurrent_m4186883343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_RenderToCubemap_m995125368),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_CopyFrom_m2774568431),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_AddCommandBuffer_m2628700241),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_RemoveCommandBuffer_m1615071143),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_RemoveCommandBuffers_m4105504348),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_RemoveAllCommandBuffers_m1186314959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_GetCommandBuffers_m2284573912),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_CalculateObliqueMatrix_m3446208387),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_GetStereoNonJitteredProjectionMatrix_m3364255230),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_CopyStereoDeviceProjectionMatrixToNonJittered_m3076235735),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOShakeRotation_m603967461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOShakePosition_m2017861961),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DORect_m3128499394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPixelRect_m4220062446),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOOrthoSize_m2411248061),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DONearClipPlane_m348959379),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOFieldOfView_m1959783146),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOFarClipPlane_m689674982),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOColor_m2584903014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOAspect_m4248899340),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOTogglePause_m3865124728),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOSmoothRewind_m833177336),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DORewind_m2957560126),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DORestart_m3467678022),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPlayForward_m498219187),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPlayBackwards_m3821911739),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPlay_m3772067792),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOPause_m1399873470),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOGoto_m2593880424),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOFlip_m464093155),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOKill_m4226448469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_DOComplete_m3661217551),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_op_Equality_m3303886178),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_onPreCull_m3766180474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_onPreRender_m925929217),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_onPostRender_m1525952376),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_fieldOfView_m2297622812),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_nearClipPlane_m2003288394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_farClipPlane_m113284551),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_renderingPath_m3166437132),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_actualRenderingPath_m3763442585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allowHDR_m1941461255),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_forceIntoRenderTexture_m1963087577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allowMSAA_m3265583529),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allowDynamicResolution_m1015189226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_orthographicSize_m4108105403),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_orthographic_m1784792321),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_opaqueSortMode_m4033815785),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_transparencySortMode_m2884193188),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_transparencySortAxis_m3077826397),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_depth_m929944014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_aspect_m4287630001),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cullingMask_m835800323),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_scene_m2326860641),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_eventMask_m206791715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_backgroundColor_m256269386),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_rect_m3743666885),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_pixelRect_m3484781217),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_targetTexture_m2635582542),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_activeTexture_m1980493297),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_pixelWidth_m371475000),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_pixelHeight_m1438294233),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_scaledPixelWidth_m1178961232),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_scaledPixelHeight_m1333403664),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cameraToWorldMatrix_m2502278281),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_worldToCameraMatrix_m1684553566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_projectionMatrix_m522604859),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_nonJitteredProjectionMatrix_m3492261049),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_useJitteredProjectionMatrixForTransparentRendering_m2169827),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_previousViewProjectionMatrix_m2460199538),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_velocity_m2477181959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_clearFlags_m2812162280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoEnabled_m509485834),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoSeparation_m2484180901),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoConvergence_m2123064770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cameraType_m2671343376),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoTargetEye_m161564950),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_areVRStereoViewMatricesWithinSingleCullTolerance_m2974894009),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_stereoActiveEye_m1704325215),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_targetDisplay_m2137542496),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_main_m1939849862),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_current_m1434802480),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allCameras_m2688013287),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_allCamerasCount_m503646556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_useOcclusionCulling_m1030631474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_cullingMatrix_m2575258694),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_layerCullDistances_m1336455177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_layerCullSpherical_m3112950102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_depthTextureMode_m1599875478),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_clearStencilAfterLightingPass_m108859930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_get_commandBufferCount_m3101871713),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_onPreCull_m4132401248),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_onPreRender_m1533474737),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_onPostRender_m1342210354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_fieldOfView_m1387344325),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_nearClipPlane_m2496284388),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_farClipPlane_m707325184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_renderingPath_m2373947977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_allowHDR_m4176852055),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_forceIntoRenderTexture_m1174619652),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_allowMSAA_m1400081526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_allowDynamicResolution_m963331464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_orthographicSize_m1751904288),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_orthographic_m2548784362),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_opaqueSortMode_m241584556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_transparencySortMode_m324101581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_transparencySortAxis_m1227125594),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_depth_m151667866),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_aspect_m3404884155),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_cullingMask_m4131012522),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_scene_m1842445315),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_eventMask_m2552091649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_backgroundColor_m1005896602),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_rect_m1425030275),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_pixelRect_m3578980135),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_targetTexture_m3548674694),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_worldToCameraMatrix_m817458022),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_projectionMatrix_m2335051991),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_nonJitteredProjectionMatrix_m3940861153),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_useJitteredProjectionMatrixForTransparentRendering_m3809173421),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_clearFlags_m3715350128),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_stereoSeparation_m1193071026),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_stereoConvergence_m3873042249),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_cameraType_m195767268),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_stereoTargetEye_m2583063353),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_targetDisplay_m4034386746),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_useOcclusionCulling_m4135078105),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_cullingMatrix_m3945915764),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_layerCullDistances_m1821091715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_layerCullSpherical_m3030514),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_depthTextureMode_m1059231720),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_set_clearStencilAfterLightingPass_m443513843),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CameraWrap_UnityEngine_Camera_CameraCallback_m1155960072),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap__CreateUnityEngine_CanvasGroup_m3592878135),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_IsRaycastLocationValid_m981742004),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_op_Equality_m3756402471),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_alpha_m2164586451),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_interactable_m1950149458),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_blocksRaycasts_m762829754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_get_ignoreParentGroups_m2510541676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_alpha_m2147799407),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_interactable_m1180700858),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_blocksRaycasts_m3886738504),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CanvasGroupWrap_set_ignoreParentGroups_m4091381676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap__CreateUnityEngine_CapsuleCollider_m2098717766),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_op_Equality_m2539533856),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_center_m2957372860),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_radius_m3337985286),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_height_m3532163783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_get_direction_m3327496647),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_center_m2657195530),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_radius_m2669858691),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_height_m2020482039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CapsuleColliderWrap_set_direction_m934365433),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap__CreateUnityEngine_CharacterController_m1205469040),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_SimpleMove_m1696006334),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_Move_m921615979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_op_Equality_m1875676532),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_isGrounded_m2057297754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_velocity_m3278594722),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_collisionFlags_m4263462533),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_radius_m450367011),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_height_m1021165834),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_center_m3551885418),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_slopeLimit_m215276404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_stepOffset_m34361651),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_skinWidth_m3452525358),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_minMoveDistance_m2133684623),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_detectCollisions_m3893936553),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_get_enableOverlapRecovery_m3312736941),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_radius_m3799793990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_height_m3156579868),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_center_m352031653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_slopeLimit_m1617803455),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_stepOffset_m4023914790),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_skinWidth_m1763907892),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_minMoveDistance_m2189480025),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_detectCollisions_m2907790313),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_CharacterControllerWrap_set_enableOverlapRecovery_m264037997),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap__CreateUnityEngine_Collider_m2026123626),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_ClosestPointOnBounds_m3046035828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_ClosestPoint_m2839649495),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_Raycast_m2198142054),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_op_Equality_m2173780993),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_enabled_m3913197638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_attachedRigidbody_m2588159940),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_isTrigger_m4158404658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_contactOffset_m1155447487),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_material_m1446057429),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_sharedMaterial_m2170816451),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_get_bounds_m2827106776),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_enabled_m1154348242),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_isTrigger_m985669245),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_contactOffset_m1608788779),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_material_m3788274523),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ColliderWrap_set_sharedMaterial_m4226593029),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap__CreateUnityEngine_Component_m1161729098),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponent_m4146601794),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentInChildren_m3587697461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentsInChildren_m3154960072),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentInParent_m3086417928),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponentsInParent_m1183635588),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_GetComponents_m866783404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_CompareTag_m1549477486),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_SendMessageUpwards_m3002524533),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_SendMessage_m3398482024),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_BroadcastMessage_m2434503699),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOTogglePause_m2019466532),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOSmoothRewind_m2536580211),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DORewind_m1382037064),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DORestart_m1951560285),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPlayForward_m3274144094),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPlayBackwards_m845988918),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPlay_m3408821226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOPause_m1999863571),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOGoto_m1470834315),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOFlip_m2681328344),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOKill_m1107708042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_DOComplete_m1259442204),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_op_Equality_m659893848),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_get_transform_m1093446197),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_get_gameObject_m3654496660),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_get_tag_m31616381),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ComponentWrap_set_tag_m3015666525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetPersistentEventCount_m765842813),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetPersistentTarget_m187837319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetPersistentMethodName_m2120526774),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_SetPersistentListenerState_m997647064),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_RemoveAllListeners_m3117522078),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_ToString_m2217404808),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventBaseWrap_GetValidMethodInfo_m4077291364),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap__CreateUnityEngine_Events_UnityEvent_m3193285756),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap_AddListener_m3315606807),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap_RemoveListener_m3966985019),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Events_UnityEventWrap_Invoke_m1944216312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_AbstractEventDataWrap_Reset_m3222330124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_AbstractEventDataWrap_Use_m403489266),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_AbstractEventDataWrap_get_used_m1234983907),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap__CreateUnityEngine_EventSystems_BaseEventData_m2928563687),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap_get_currentInputModule_m887113389),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap_get_selectedObject_m4159637783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_BaseEventDataWrap_set_selectedObject_m3024143971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerEnter_m668680859),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerExit_m2950248516),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnDrag_m1561617020),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnDrop_m3224171064),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerDown_m2113620458),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerUp_m1620690967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnPointerClick_m744712055),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnSelect_m3892019914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnDeselect_m293630288),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnScroll_m670844200),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnMove_m2815230043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnUpdateSelected_m291807886),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnInitializePotentialDrag_m1365371261),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnBeginDrag_m3898202923),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnEndDrag_m4070064353),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnSubmit_m429462997),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_OnCancel_m1446288945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_op_Equality_m2839937095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_get_triggers_m1520155920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_EventTriggerWrap_set_triggers_m1926050737),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap__CreateUnityEngine_EventSystems_PointerEventData_m4048707970),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_IsPointerMoving_m385116462),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_IsScrolling_m4045487461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_ToString_m3331750992),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_hovered_m3545281329),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerEnter_m4061041045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_lastPress_m3696785733),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_rawPointerPress_m4256005473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerDrag_m3833067215),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerCurrentRaycast_m2740742255),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerPressRaycast_m445541723),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_eligibleForClick_m3282885094),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerId_m257640375),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_position_m1064818842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_delta_m1333446960),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pressPosition_m2241798848),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_clickTime_m1438939916),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_clickCount_m3345107569),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_scrollDelta_m3366375279),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_useDragThreshold_m661054382),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_dragging_m199004822),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_button_m3451748859),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_enterEventCamera_m3686656232),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pressEventCamera_m293370770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_get_pointerPress_m3340887037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_hovered_m2191146838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerEnter_m2323071701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_rawPointerPress_m293392572),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerDrag_m243777812),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerCurrentRaycast_m171040235),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerPressRaycast_m1116191072),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_eligibleForClick_m2762718108),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerId_m1436076670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_position_m862875097),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_delta_m3429670389),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pressPosition_m2126844917),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_clickTime_m4232681219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_clickCount_m3730619375),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_scrollDelta_m4194317724),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_useDragThreshold_m3171743913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_dragging_m3261785079),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_button_m300707842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_PointerEventDataWrap_set_pointerPress_m3825844667),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_UIBehaviourWrap_IsActive_m3440785852),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_UIBehaviourWrap_IsDestroyed_m3799886278),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_EventSystems_UIBehaviourWrap_op_Equality_m732995671),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap__CreateUnityEngine_GameObject_m390713999),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_CreatePrimitive_m6981502),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponent_m1703395533),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentInChildren_m3222961714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentInParent_m911441133),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponents_m138182236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentsInChildren_m98972666),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_GetComponentsInParent_m573744980),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_SetActive_m1154509095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_CompareTag_m1497336561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_FindGameObjectWithTag_m717116568),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_FindWithTag_m1859456037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_FindGameObjectsWithTag_m904006253),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_Find_m2054737047),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_AddComponent_m1564275168),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_BroadcastMessage_m2833751707),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_SendMessageUpwards_m3174702686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_SendMessage_m1144717422),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_op_Equality_m300384361),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_transform_m1948549177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_layer_m2559775593),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_activeSelf_m682076522),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_activeInHierarchy_m2056054199),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_isStatic_m3344166427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_tag_m1773156182),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_scene_m3812896811),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_get_gameObject_m2802297316),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_set_layer_m1296160530),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_set_isStatic_m770769678),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_GameObjectWrap_set_tag_m3506436046),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetAxis_m4242546262),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetAxisRaw_m2308251610),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetButton_m889002900),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetButtonDown_m1420215515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetButtonUp_m351413748),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetKey_m2853886344),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetKeyDown_m3941297729),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetKeyUp_m1342703710),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetJoystickNames_m442328271),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetMouseButton_m2931168282),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetMouseButtonDown_m4109727977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetMouseButtonUp_m2766813777),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_ResetInputAxes_m953423180),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetAccelerationEvent_m1439454612),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_GetTouch_m3873507994),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_compensateSensors_m2842907120),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_gyro_m1658914840),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_mousePosition_m3777074188),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_mouseScrollDelta_m2736934599),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_mousePresent_m2588632969),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_simulateMouseWithTouches_m2280224809),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_anyKey_m4284802217),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_anyKeyDown_m397629885),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_inputString_m1536002427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_acceleration_m3162773071),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_accelerationEvents_m1835937643),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_accelerationEventCount_m380829674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_touches_m2239636849),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_touchCount_m3356059669),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_touchPressureSupported_m2128622736),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_stylusTouchSupported_m3977509374),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_touchSupported_m4194274057),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_multiTouchEnabled_m1551834128),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_location_m486301392),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_compass_m3202594594),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_deviceOrientation_m4220748658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_imeCompositionMode_m2085298433),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_compositionString_m891124741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_imeIsSelected_m1379379511),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_compositionCursorPos_m2381520990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_get_backButtonLeavesApp_m2060797751),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_set_compensateSensors_m84221063),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_set_simulateMouseWithTouches_m1882148189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_set_multiTouchEnabled_m2782880758),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_set_imeCompositionMode_m2523063274),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_set_compositionCursorPos_m812345038),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_InputWrap_set_backButtonLeavesApp_m3047560950),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_None_m3315325956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Backspace_m1129503611),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Delete_m1158803585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Tab_m3702264350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Clear_m3621696979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Return_m3560220709),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Pause_m4018499321),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Escape_m2709166427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Space_m1884845300),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad0_m321252654),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad1_m320971473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad2_m320935536),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad3_m320870827),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad4_m321638090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad5_m321602285),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad6_m321566220),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad7_m321538599),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad8_m321781574),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Keypad9_m321745769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadPeriod_m1990409426),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadDivide_m1484933151),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadMultiply_m2227873715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadMinus_m1654852163),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadPlus_m1491117004),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadEnter_m1089851130),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_KeypadEquals_m3890333004),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_UpArrow_m3988726010),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_DownArrow_m4253856934),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightArrow_m3015633816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftArrow_m2356545231),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Insert_m3389213056),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Home_m3482695617),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_End_m1566274931),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_PageUp_m2132532607),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_PageDown_m2334483256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F1_m3327375140),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F2_m3204599471),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F3_m2448850373),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F4_m62970479),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F5_m3199875817),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F6_m3972885967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F7_m1356227189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F8_m1888397648),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F9_m1442796410),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F10_m1064577907),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F11_m1065908052),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F12_m1064506293),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F13_m1064542102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F14_m1064721391),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F15_m1064478672),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha0_m290240427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha1_m1351235692),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha2_m878674846),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha3_m2826433164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha4_m1456985803),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha5_m1208622546),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha6_m3043016614),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha7_m2698933841),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha8_m3641530547),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Alpha9_m1957760090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Exclaim_m714966481),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_DoubleQuote_m737602174),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Hash_m2958657143),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Dollar_m3085091382),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Ampersand_m4018302753),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Quote_m3139949583),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftParen_m2322390975),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightParen_m611317474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Asterisk_m2613673141),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Plus_m1661855630),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Comma_m3049664114),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Minus_m4066840126),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Period_m3764762555),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Slash_m4133858270),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Colon_m1112552970),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Semicolon_m140381313),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Less_m2467327561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Equals_m1973742853),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Greater_m3593566926),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Question_m857866478),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_At_m2742869342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftBracket_m968614526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Backslash_m3250429546),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightBracket_m3766027538),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Caret_m682058184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Underscore_m3326802939),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_BackQuote_m1275439971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_A_m1651991803),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_B_m3343898174),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_C_m1346508409),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_D_m868900404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_E_m357041007),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_F_m1081651058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_G_m1974510125),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_H_m52021432),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_I_m944880499),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_J_m4108450358),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_K_m706342129),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_L_m1882711852),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_M_m2775570919),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_N_m219252042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_O_m1112111109),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_P_m1301225264),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Q_m3598802795),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_R_m995741870),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_S_m1888600937),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_T_m2995722404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_U_m899133535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_V_m4069526946),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_W_m2072137181),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_X_m1621531752),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Y_m2514390819),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Z_m355575590),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Numlock_m4216213634),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_CapsLock_m3396363789),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_ScrollLock_m142853822),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightShift_m2155188600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftShift_m1443105066),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightControl_m2458409890),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftControl_m3886524240),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightAlt_m91807583),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftAlt_m851912337),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftCommand_m452145847),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftApple_m3764115307),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_LeftWindows_m3229895113),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightCommand_m1469721745),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightApple_m2561009580),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_RightWindows_m3754749858),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_AltGr_m404150348),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Help_m314873881),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Print_m607270393),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_SysReq_m3153804844),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Break_m278798344),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Menu_m44479140),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse0_m4215675113),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse1_m127262511),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse2_m1970960058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse3_m165827235),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse4_m1493331556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse5_m2257888039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Mouse6_m1422852548),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton0_m4127724472),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton1_m4127760405),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton2_m4127796342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton3_m4127307731),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton4_m4123517756),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton5_m4123553689),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton6_m4123589626),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton7_m4127688535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton8_m4123374272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton9_m4123410205),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton10_m2951665687),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton11_m3102858061),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton12_m1618270880),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton13_m1215814289),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton14_m4025145486),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton15_m4176337021),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton16_m2691750683),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton17_m2289294057),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton18_m2884032463),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_JoystickButton19_m2689194165),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button0_m1997062948),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button1_m1871431131),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button2_m663668142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button3_m538035615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button4_m3278160668),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button5_m2944910091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button6_m1737147944),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button7_m1611515383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button8_m2067841629),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button9_m3949183811),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button10_m1743759517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button11_m850900450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button12_m1877871231),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button13_m1692123468),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button14_m2045101841),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button15_m1152242774),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button16_m2283640211),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button17_m2097892448),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button18_m1908802245),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick1Button19_m891313546),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button0_m1505791769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button1_m1380159952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button2_m172396963),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button3_m46764436),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button4_m2786889489),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button5_m2453638912),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button6_m1245876765),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button7_m1120244204),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button8_m1576570450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button9_m3457912632),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button10_m2744203350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button11_m3637062417),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button12_m3689853024),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button13_m3747674515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button14_m2314934754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button15_m3207793821),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button16_m390538572),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button17_m1812557439),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button18_m2077254270),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick2Button19_m204494137),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button0_m1992008838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button1_m1866377021),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button2_m658614032),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button3_m532981505),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button4_m3273106558),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button5_m2939855981),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button6_m1732093834),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button7_m1606461273),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button8_m2062787519),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button9_m3944129701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button10_m794532007),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button11_m1764511124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button12_m307002053),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button13_m818861450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button14_m2918299419),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button15_m2887839368),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button16_m2835048761),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button17_m1942189694),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button18_m2748613247),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick3Button19_m1326594380),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button0_m1494493387),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button1_m1368861570),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button2_m161098581),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button3_m35466054),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button4_m2775591107),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button5_m2442340530),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button6_m1234578383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button7_m1108945822),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button8_m1565272068),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button9_m3446614250),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button10_m1867424608),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button11_m3289443475),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button12_m3687394134),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button13_m1814634001),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button14_m4227274828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button15_m4285096319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button16_m1856703714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button17_m2749562781),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button18_m3966094728),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick4Button19_m2760283675),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button0_m1730374280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button1_m1604742463),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button2_m396979474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button3_m271346947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button4_m3011472000),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button5_m2678221423),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button6_m1470459276),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button7_m1344826715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button8_m1801152961),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button9_m3682495143),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button10_m3441956665),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button11_m2549097598),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button12_m759588123),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button13_m3494747272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button14_m2443258053),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button15_m2955117450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button16_m2930788007),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button17_m3900767124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button18_m3815828753),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick5Button19_m2922969686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button0_m3845405517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button1_m3719773700),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button2_m2512010711),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button3_m2386378184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button4_m831535941),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button5_m498285364),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button6_m3585490513),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button7_m3459857952),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button8_m3916184198),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button9_m1502559084),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button10_m1704905186),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button11_m4127112349),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button12_m1309857100),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button13_m2731875967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button14_m769976406),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button15_m1662835473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button16_m1715626080),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button17_m3137644947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button18_m3274666378),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick6Button19_m2762806981),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button0_m2220545434),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button1_m2094913617),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button2_m887150628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button3_m761518101),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button4_m3501643154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button5_m3168392577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button6_m1960630430),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button7_m1834997869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button8_m2291324115),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button9_m4172666297),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button10_m1473232275),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button11_m51213408),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button12_m4293390097),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button13_m3400531030),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button14_m1067463295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button15_m3940411724),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button16_m2462699677),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button17_m1569840610),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button18_m3709691675),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick7Button19_m2149883528),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button0_m3027827912),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button1_m2902196095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button2_m1694433106),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button3_m1568800579),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button4_m13958336),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button5_m3975675055),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button6_m2767912908),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button7_m2642280347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button8_m3098606593),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button9_m684981479),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button10_m1924064236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button11_m3445282207),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button12_m2542941058),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button13_m2031081661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button14_m3859181312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button15_m1085431987),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button16_m78664182),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button17_m3861772081),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button18_m1596934196),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_get_Joystick8Button19_m1491200967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_KeyCodeWrap_IntToEnum_m1174686096),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Spot_m2609991556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Directional_m4004747933),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Point_m1345296301),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightTypeWrap_get_Area_m1010399765),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightTypeWrap_IntToEnum_m4207843200),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap__CreateUnityEngine_Light_m2789830000),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_AddCommandBuffer_m1091844024),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_RemoveCommandBuffer_m84683071),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_RemoveCommandBuffers_m4118913710),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_RemoveAllCommandBuffers_m3128375972),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_GetCommandBuffers_m999368961),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_GetLights_m2541959153),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOBlendableColor_m3961559857),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOShadowStrength_m3692175806),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOIntensity_m133274649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOColor_m871555475),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOTogglePause_m1369440996),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOSmoothRewind_m2038539074),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DORewind_m4117153747),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DORestart_m1850471627),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOPlayForward_m1960660113),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOPlayBackwards_m3061606688),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOPlay_m1352745943),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOPause_m4158111442),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOGoto_m3166069014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOFlip_m2174946436),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOKill_m1963366111),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_DOComplete_m1541368184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_op_Equality_m3231931906),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadows_m1464647608),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowStrength_m3530977017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowResolution_m4156197994),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_cookieSize_m174474035),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_cookie_m1528039274),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_renderMode_m2834537313),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_commandBufferCount_m670528649),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_type_m2306840833),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_spotAngle_m4214591417),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_color_m177175670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_colorTemperature_m1349753466),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_intensity_m1148057236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_bounceIntensity_m3471893089),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowCustomResolution_m2596090676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowBias_m3840804006),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowNormalBias_m1364400457),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_shadowNearPlane_m3433388149),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_range_m787842531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_flare_m3258576541),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_bakingOutput_m2886612792),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_get_cullingMask_m1840526873),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadows_m1419997407),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowStrength_m2044556022),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowResolution_m3909633324),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_cookieSize_m1702297169),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_cookie_m3793318550),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_renderMode_m784433352),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_type_m2465623037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_spotAngle_m883400408),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_color_m32853250),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_colorTemperature_m341303593),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_intensity_m299524291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_bounceIntensity_m1708605769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowCustomResolution_m3676066527),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowBias_m3485283805),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowNormalBias_m1230570483),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_shadowNearPlane_m3982111173),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_range_m1764118647),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_flare_m3665431833),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_bakingOutput_m2674803055),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LightWrap_set_cullingMask_m877950),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap__CreateUnityEngine_LineRenderer_m1061462608),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_SetPositions_m3146755273),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_GetPositions_m1743998325),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_SetPosition_m602973160),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_GetPosition_m2409192012),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_Simplify_m3375202290),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_op_Equality_m3630312525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_widthCurve_m2909631148),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_colorGradient_m405649653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_startWidth_m3745590397),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_endWidth_m1232127067),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_widthMultiplier_m194160158),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_numCornerVertices_m3501205524),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_numCapVertices_m2938563095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_useWorldSpace_m3994753226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_loop_m1393472967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_startColor_m2136618369),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_endColor_m224916414),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_positionCount_m1838471549),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_generateLightingData_m1762099122),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_textureMode_m1643397830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_get_alignment_m198900521),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_widthCurve_m620612286),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_colorGradient_m3291345216),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_startWidth_m2848323451),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_endWidth_m245403754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_widthMultiplier_m4091773915),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_numCornerVertices_m2899338302),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_numCapVertices_m3864377993),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_useWorldSpace_m1643579240),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_loop_m2903070753),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_startColor_m675025984),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_endColor_m1965927280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_positionCount_m2240133379),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_generateLightingData_m3375831465),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_textureMode_m1111636877),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_LineRendererWrap_set_alignment_m1686996052),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap__CreateUnityEngine_Material_m3994382746),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_HasProperty_m2322153869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTag_m373241250),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetOverrideTag_m1724903696),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetShaderPassEnabled_m175490661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetShaderPassEnabled_m3428302381),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_Lerp_m47930075),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetPass_m1396061687),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetPassName_m609353600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_FindPass_m2973304721),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_CopyPropertiesFromMaterial_m4027034383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_EnableKeyword_m2744671119),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DisableKeyword_m657856930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_IsKeywordEnabled_m2237368436),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetFloat_m724577414),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetInt_m1929602289),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetColor_m2490924666),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetVector_m1312982816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetMatrix_m2374226342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetTexture_m2184770873),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetBuffer_m3423955945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetTextureOffset_m3541652464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetTextureScale_m2434772842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetFloatArray_m763372195),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetColorArray_m1867728893),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetVectorArray_m2898573698),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_SetMatrixArray_m3473018420),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetFloat_m3336228880),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetInt_m3775040855),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetColor_m854672373),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetVector_m2966640311),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetMatrix_m3863666394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetFloatArray_m323677699),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetVectorArray_m3502689192),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetColorArray_m3296471725),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetMatrixArray_m3469835190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTexture_m2891251538),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTextureOffset_m2722151975),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_GetTextureScale_m3628328208),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOTogglePause_m2479751902),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOSmoothRewind_m4181255219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DORewind_m3938245813),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DORestart_m1157621304),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPlayForward_m1528137045),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPlayBackwards_m3044037319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPlay_m815736564),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOPause_m99696788),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOGoto_m982948065),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOFlip_m2076166358),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOKill_m1077913710),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOComplete_m1111878300),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOBlendableColor_m2402784560),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOVector_m1406281657),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOTiling_m2097907210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOOffset_m2045725783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOFloat_m268700470),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOFade_m98476819),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_DOColor_m1781077190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_op_Equality_m4237441834),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_shader_m715502001),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_color_m2066061912),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_mainTexture_m2409805444),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_mainTextureOffset_m2864813342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_mainTextureScale_m1176732401),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_passCount_m3655620587),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_renderQueue_m2205770535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_shaderKeywords_m1714977632),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_globalIlluminationFlags_m396388741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_enableInstancing_m323404059),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_get_doubleSidedGI_m407080868),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_shader_m1975755998),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_color_m265674198),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_mainTexture_m3243287562),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_mainTextureOffset_m3608362256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_mainTextureScale_m864704897),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_renderQueue_m926978419),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_shaderKeywords_m2917321164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_globalIlluminationFlags_m3730892921),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_enableInstancing_m432659063),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MaterialWrap_set_doubleSidedGI_m96449572),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap__CreateUnityEngine_MeshCollider_m115841537),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_op_Equality_m1737812631),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_sharedMesh_m4074987608),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_convex_m459473272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_cookingOptions_m1859966219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_inflateMesh_m2503252619),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_get_skinWidth_m4213245914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_sharedMesh_m694572793),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_convex_m1197403666),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_cookingOptions_m1040998049),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_inflateMesh_m2594962456),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshColliderWrap_set_skinWidth_m603440517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshFilterWrap__CreateUnityEngine_MeshFilter_m350150644),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_op_Equality_m284055326),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_get_sharedMesh_m457221921),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_get_mesh_m661570312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_set_sharedMesh_m3799339651),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshFilterWrap_set_mesh_m441088336),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshRendererWrap__CreateUnityEngine_MeshRenderer_m3301142525),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshRendererWrap_op_Equality_m2480230271),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshRendererWrap_get_additionalVertexStreams_m2873431473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MeshRendererWrap_set_additionalVertexStreams_m4172105143),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_Invoke_m3114333355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_InvokeRepeating_m3936584354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_CancelInvoke_m726685881),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_IsInvoking_m3502437362),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_StartCoroutine_m1055359289),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_StopCoroutine_m3537454318),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_StopAllCoroutines_m3562790133),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_print_m764431048),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_op_Equality_m505358921),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_get_useGUILayout_m3818919068),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_MonoBehaviourWrap_set_useGUILayout_m484754327),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_get_NotReachable_m3156451650),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_get_ReachableViaCarrierDataNetwork_m645734964),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_get_ReachableViaLocalAreaNetwork_m2941224052),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_NetworkReachabilityWrap_IntToEnum_m4286886331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap__CreateUnityEngine_Object_m2254277943),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_FindObjectsOfType_m1115257815),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_DontDestroyOnLoad_m675361473),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_ToString_m1236751821),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_GetInstanceID_m3602528927),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_GetHashCode_m1471889002),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_Equals_m1556304050),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_FindObjectOfType_m2635777377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_op_Equality_m1791255920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_Instantiate_m1929882465),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_DestroyImmediate_m3830896),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_Destroy_m2416395720),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_get_name_m3918532171),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_get_hideFlags_m1081196636),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_set_name_m1907638782),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ObjectWrap_set_hideFlags_m766534495),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap__CreateUnityEngine_ParticleSystem_m1974016398),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_SetParticles_m158852373),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_GetParticles_m1572654946),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_SetCustomParticleData_m1002855956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_GetCustomParticleData_m2385962523),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Simulate_m569991370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Play_m3561910857),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Pause_m2005811218),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Stop_m4051229814),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Clear_m1867240984),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_IsAlive_m1262101958),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_Emit_m1529421720),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_EnableMeshNonUniformScaleFix_m3662410911),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_op_Equality_m3714383082),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isPlaying_m1504005770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isEmitting_m180982041),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isStopped_m947155784),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_isPaused_m347987962),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_time_m737657751),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_particleCount_m1587144540),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_randomSeed_m1347947095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_useAutoRandomSeed_m843441856),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_main_m3275676170),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_emission_m1308080869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_shape_m2649352369),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_velocityOverLifetime_m292798451),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_limitVelocityOverLifetime_m814235469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_inheritVelocity_m2389655185),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_forceOverLifetime_m323730305),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_colorOverLifetime_m3544688765),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_colorBySpeed_m3144369755),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_sizeOverLifetime_m3597163602),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_sizeBySpeed_m1701843676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_rotationOverLifetime_m2147466665),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_rotationBySpeed_m131251890),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_externalForces_m3415068383),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_noise_m1460158883),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_collision_m53892707),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_trigger_m590597883),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_textureSheetAnimation_m1334712115),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_lights_m301523597),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_trails_m1592103184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_get_customData_m3011778783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_set_time_m3929123910),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_set_randomSeed_m1171054122),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ParticleSystemWrap_set_useAutoRandomSeed_m3917691754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_Raycast_m1467894149),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_RaycastAll_m3670633186),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_RaycastNonAlloc_m2192208907),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_Linecast_m412713161),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapSphere_m1123480964),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapSphereNonAlloc_m640984905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapCapsule_m3478826349),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapCapsuleNonAlloc_m392278377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CapsuleCast_m2993078863),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SphereCast_m1540382187),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CapsuleCastAll_m2536632022),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CapsuleCastNonAlloc_m1969192594),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SphereCastAll_m1599078644),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SphereCastNonAlloc_m71333209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CheckSphere_m2333162767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CheckCapsule_m3562756960),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_CheckBox_m308473042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapBox_m3220847670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_OverlapBoxNonAlloc_m827265621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_BoxCastAll_m76965672),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_BoxCastNonAlloc_m1368142177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_BoxCast_m3096507504),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_IgnoreCollision_m2061532255),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_IgnoreLayerCollision_m2651100777),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_GetIgnoreLayerCollision_m1810823164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_ComputePenetration_m3635722991),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_ClosestPoint_m1637203748),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_Simulate_m2820292029),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_SyncTransforms_m2748046299),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_RebuildBroadphaseRegions_m3149308745),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_gravity_m303504210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_defaultContactOffset_m3949071419),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_bounceThreshold_m2137721242),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_defaultSolverIterations_m2318910791),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_defaultSolverVelocityIterations_m3573885240),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_sleepThreshold_m2316876615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_queriesHitTriggers_m2131510130),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_queriesHitBackfaces_m3756489780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_interCollisionDistance_m903124966),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_interCollisionStiffness_m4233147429),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_interCollisionSettingsToggle_m2645175548),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_autoSimulation_m3693567851),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_get_autoSyncTransforms_m1276577734),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_gravity_m3129456990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_defaultContactOffset_m3454280469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_bounceThreshold_m49009038),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_defaultSolverIterations_m426514787),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_defaultSolverVelocityIterations_m929583811),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_sleepThreshold_m1611095562),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_queriesHitTriggers_m471064877),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_queriesHitBackfaces_m2910438267),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_interCollisionDistance_m3341731603),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_interCollisionStiffness_m794676422),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_interCollisionSettingsToggle_m1816532388),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_autoSimulation_m42346411),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PhysicsWrap_set_autoSyncTransforms_m3120755673),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PlayModeWrap_get_StopSameLayer_m3253281550),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PlayModeWrap_get_StopAll_m3624732202),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_PlayModeWrap_IntToEnum_m2647946467),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_GetQualityLevel_m3853087295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_SetQualityLevel_m4211583828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_IncreaseLevel_m1766222362),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_DecreaseLevel_m402038242),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_op_Equality_m695121196),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_names_m993422277),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowCascade4Split_m2919587439),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_anisotropicFiltering_m4068212681),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_maxQueuedFrames_m4260316295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_blendWeights_m3283609903),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_pixelLightCount_m2996031150),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadows_m1506812407),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowProjection_m1857772337),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowCascades_m3318000757),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowDistance_m1756300369),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowResolution_m1547841385),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowmaskMode_m3278229190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowNearPlaneOffset_m2354263935),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_shadowCascade2Split_m2483198489),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_lodBias_m149244381),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_masterTextureLimit_m677570469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_maximumLODLevel_m2990481402),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_particleRaycastBudget_m207687095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_softParticles_m179959705),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_softVegetation_m3692417782),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_vSyncCount_m2091526990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_antiAliasing_m581851331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_asyncUploadTimeSlice_m1450640709),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_asyncUploadBufferSize_m398097285),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_realtimeReflectionProbes_m1031894190),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_billboardsFaceCameraPosition_m1941749163),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_resolutionScalingFixedDPIFactor_m1334257854),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_desiredColorSpace_m2953481441),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_get_activeColorSpace_m2639593808),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowCascade4Split_m1178837380),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_anisotropicFiltering_m1494744468),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_maxQueuedFrames_m1015621626),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_blendWeights_m1212453088),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_pixelLightCount_m2794763203),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadows_m182647579),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowProjection_m884922128),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowCascades_m2357034849),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowDistance_m3786867691),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowResolution_m1762561864),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowmaskMode_m52552619),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowNearPlaneOffset_m413131974),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_shadowCascade2Split_m3867530212),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_lodBias_m3926599682),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_masterTextureLimit_m3023224354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_maximumLODLevel_m3875808739),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_particleRaycastBudget_m2620213740),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_softParticles_m1697585572),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_softVegetation_m719037830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_vSyncCount_m1741676995),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_antiAliasing_m2669100196),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_asyncUploadTimeSlice_m2396424757),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_asyncUploadBufferSize_m273744485),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_realtimeReflectionProbes_m1507533469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_billboardsFaceCameraPosition_m2096137680),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QualitySettingsWrap_set_resolutionScalingFixedDPIFactor_m3747515916),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QueueModeWrap_get_CompleteOthers_m1829707127),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QueueModeWrap_get_PlayNow_m164843439),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_QueueModeWrap_IntToEnum_m38492454),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap__CreateUnityEngine_RectTransform_m1056943094),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_GetLocalCorners_m3608169353),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_GetWorldCorners_m3451413294),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_SetInsetAndSizeFromParentEdge_m1554054563),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_SetSizeWithCurrentAnchors_m1187409987),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_ForceUpdateRectTransforms_m2228519890),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_op_Equality_m1568870555),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_rect_m1658072293),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchorMin_m2689220183),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchorMax_m3510008409),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchoredPosition3D_m3213496093),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_anchoredPosition_m3785153756),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_sizeDelta_m4104417002),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_pivot_m1644371224),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_offsetMin_m2027685515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_offsetMax_m245551304),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_get_reapplyDrivenProperties_m1900539267),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchorMin_m1244752033),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchorMax_m2065334651),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchoredPosition3D_m861331459),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_anchoredPosition_m1516068224),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_sizeDelta_m3191945036),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_pivot_m3762461844),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_offsetMin_m908066184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_offsetMax_m3420599613),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_set_reapplyDrivenProperties_m3112888658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectTransformWrap_UnityEngine_RectTransform_ReapplyDrivenProperties_m3720109224),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap__CreateUnityEngine_Rect_m2047997005),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_MinMaxRect_m1872166594),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_Set_m879514653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_Contains_m11732032),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_Overlaps_m1925838360),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_NormalizedToPoint_m226909512),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_PointToNormalized_m2933124330),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_op_Equality_m1549272469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_GetHashCode_m116598282),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_Equals_m2502202461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_ToString_m887568170),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_zero_m2187764774),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_x_m1873461051),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_y_m697037345),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_position_m1536951040),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_center_m3622749599),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_min_m1776731568),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_max_m4129130699),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_width_m4132197447),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_height_m1646253466),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_size_m572637438),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_xMin_m2580894370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_yMin_m4037462888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_xMax_m4138401031),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_get_yMax_m4149845133),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_x_m467419503),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_y_m2019879152),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_position_m79105060),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_center_m1857074222),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_min_m3529303872),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_max_m1586735707),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_width_m986578461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_height_m3451712122),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_size_m896960603),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_xMin_m3040448794),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_yMin_m1625406309),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_xMax_m2645666039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RectWrap_set_yMax_m203205762),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap__CreateUnityEngine_Renderer_m3122897725),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_SetPropertyBlock_m823465898),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_GetPropertyBlock_m2020396424),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_GetClosestReflectionProbes_m3148243220),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_op_Equality_m1229205373),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_bounds_m670073939),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_enabled_m600651947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_isVisible_m2744428742),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_shadowCastingMode_m3170755855),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_receiveShadows_m2376579404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_motionVectorGenerationMode_m105696618),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightProbeUsage_m473497441),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_reflectionProbeUsage_m3165812831),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sortingLayerName_m3708797878),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sortingLayerID_m3176697824),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sortingOrder_m4134955198),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_allowOcclusionWhenDynamic_m1066413851),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_isPartOfStaticBatch_m3845456222),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_worldToLocalMatrix_m2859476879),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_localToWorldMatrix_m846298766),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightProbeProxyVolumeOverride_m44264913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_probeAnchor_m2426099185),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightmapIndex_m3981810587),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_realtimeLightmapIndex_m3241933552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_lightmapScaleOffset_m3786510084),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_realtimeLightmapScaleOffset_m121993149),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_material_m2519710577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sharedMaterial_m2556077860),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_materials_m593888550),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_get_sharedMaterials_m2868179255),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_enabled_m4148669181),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_shadowCastingMode_m1795665278),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_receiveShadows_m3592327449),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_motionVectorGenerationMode_m1533418379),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightProbeUsage_m2033798750),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_reflectionProbeUsage_m2122415576),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sortingLayerName_m104720318),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sortingLayerID_m1125150714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sortingOrder_m3091065464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_allowOcclusionWhenDynamic_m1838366338),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightProbeProxyVolumeOverride_m1186579665),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_probeAnchor_m3522312880),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightmapIndex_m146848564),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_realtimeLightmapIndex_m3071707612),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_lightmapScaleOffset_m2446215103),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_realtimeLightmapScaleOffset_m453985462),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_material_m2037030246),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sharedMaterial_m3992440411),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_materials_m2581102160),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RendererWrap_set_sharedMaterials_m2087393317),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_op_Equality_m2322354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientProbe_m502100813),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_customReflection_m3967089577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fog_m3304783612),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogStartDistance_m1417487552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogEndDistance_m1051359133),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogMode_m3494267259),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogColor_m995021076),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_fogDensity_m1997727988),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientMode_m990446586),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientSkyColor_m2312846995),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientEquatorColor_m3773530246),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientGroundColor_m980513671),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientIntensity_m998140634),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_ambientLight_m1738235302),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_subtractiveShadowColor_m2071061839),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_skybox_m133869711),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_sun_m2025698233),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_reflectionIntensity_m2089191967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_reflectionBounces_m3544182210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_defaultReflectionMode_m3169990881),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_defaultReflectionResolution_m412457661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_haloStrength_m1060199124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_flareStrength_m234542115),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_get_flareFadeSpeed_m2184866243),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientProbe_m2325644160),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_customReflection_m1894677384),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fog_m2732062472),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogStartDistance_m3173813739),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogEndDistance_m3764656931),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogMode_m2177426305),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogColor_m1591843315),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_fogDensity_m1947291434),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientMode_m3894200747),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientSkyColor_m384435515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientEquatorColor_m2710519721),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientGroundColor_m3129742369),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientIntensity_m804281039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_ambientLight_m2300249552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_subtractiveShadowColor_m2854606397),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_skybox_m4109703237),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_sun_m4097222725),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_reflectionIntensity_m3276576446),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_reflectionBounces_m1804677330),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_defaultReflectionMode_m1668749439),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_defaultReflectionResolution_m810715967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_haloStrength_m916304957),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_flareStrength_m3784966415),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderSettingsWrap_set_flareFadeSpeed_m2207617154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap__CreateUnityEngine_RenderTexture_m1370227051),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_GetTemporary_m2378104701),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_ReleaseTemporary_m3828916819),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_ResolveAntiAliasedSurface_m3215271156),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_Create_m974718074),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_Release_m997411972),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_IsCreated_m2890212846),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_DiscardContents_m2758126335),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_MarkRestoreExpected_m3218528783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_GenerateMips_m4104441822),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_GetNativeDepthBufferPtr_m1193025203),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_SetGlobalShaderProperty_m994181215),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_SupportsStencil_m3640962080),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_op_Equality_m2389448294),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_width_m170530099),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_height_m2968784919),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_vrUsage_m3425473479),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_depth_m1157578923),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_isPowerOfTwo_m3649493065),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_sRGB_m4171583984),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_format_m43395477),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_useMipMap_m808746350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_autoGenerateMips_m440764971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_dimension_m3794033600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_volumeDepth_m445076346),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_memorylessMode_m2302810506),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_antiAliasing_m880340947),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_bindTextureMS_m2585265462),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_enableRandomWrite_m1550325995),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_useDynamicScale_m1711236992),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_colorBuffer_m339296707),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_depthBuffer_m1685792456),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_active_m2022269154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_get_descriptor_m2231253577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_width_m1184858767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_height_m3952794072),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_vrUsage_m1201011709),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_depth_m3518471463),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_isPowerOfTwo_m3562701234),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_format_m3446642019),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_useMipMap_m2994999212),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_autoGenerateMips_m1688466700),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_dimension_m3593307983),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_volumeDepth_m3926119035),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_memorylessMode_m2825280422),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_antiAliasing_m4045186868),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_bindTextureMS_m964962013),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_enableRandomWrite_m1176865372),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_useDynamicScale_m1319413010),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_active_m365275812),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RenderTextureWrap_set_descriptor_m3170531056),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap__CreateUnityEngine_Resolution_m3778006741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_ToString_m3496264464),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_get_width_m1693237397),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_get_height_m1880969835),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_get_refreshRate_m2807961818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_set_width_m565423561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_set_height_m533015830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResolutionWrap_set_refreshRate_m2324752121),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_FindObjectsOfTypeAll_m546746241),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_Load_m1430368706),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_LoadAsync_m235871967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_LoadAll_m3907026504),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_GetBuiltinResource_m2695601639),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_UnloadAsset_m3734599587),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_UnloadUnusedAssets_m3661237782),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_Encode_m1133944049),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ResourcesWrap_decode_m191058913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap__CreateUnityEngine_Rigidbody_m4058729988),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_SetDensity_m3414896054),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddForce_m1231868346),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddRelativeForce_m2429366573),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddTorque_m1536658643),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddRelativeTorque_m3959702750),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddForceAtPosition_m4224455748),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_AddExplosionForce_m4062058844),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_ClosestPointOnBounds_m2298210843),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_GetRelativePointVelocity_m3060004438),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_GetPointVelocity_m4073886596),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_MovePosition_m741185478),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_MoveRotation_m1555790905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_Sleep_m1189138109),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_IsSleeping_m3857570926),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_WakeUp_m1650456880),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_ResetCenterOfMass_m531568886),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_ResetInertiaTensor_m2344809036),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_SweepTest_m1308514812),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_SweepTestAll_m3973488574),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOJump_m4257632062),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOLookAt_m2087377875),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DORotate_m2471972074),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMoveZ_m427662355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMoveY_m3289889890),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMoveX_m4182748957),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOMove_m1593049971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOTogglePause_m3607169774),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOSmoothRewind_m4012393222),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DORewind_m2266603552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DORestart_m2697931499),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPlayForward_m250092534),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPlayBackwards_m3368081203),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPlay_m2113885674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOPause_m1455646499),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOGoto_m3912737244),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOFlip_m4065759639),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOKill_m2945998590),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_DOComplete_m1073374669),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_op_Equality_m1622849037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_velocity_m1849604748),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_angularVelocity_m3489762619),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_drag_m494886261),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_angularDrag_m2649478698),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_mass_m2307088336),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_useGravity_m2794137095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_maxDepenetrationVelocity_m650941433),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_isKinematic_m1750456198),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_freezeRotation_m3453482968),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_constraints_m1198236672),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_collisionDetectionMode_m126488971),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_centerOfMass_m1955827606),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_worldCenterOfMass_m988981378),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_inertiaTensorRotation_m2039010181),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_inertiaTensor_m3529966347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_detectCollisions_m1885605945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_position_m2379799017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_rotation_m2809877384),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_interpolation_m3261809616),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_solverIterations_m265032303),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_solverVelocityIterations_m1246650440),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_sleepThreshold_m3712002171),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_get_maxAngularVelocity_m2310166196),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_velocity_m2851258354),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_angularVelocity_m1661429033),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_drag_m655462472),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_angularDrag_m1721035166),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_mass_m2804871332),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_useGravity_m1679053998),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_maxDepenetrationVelocity_m3932692100),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_isKinematic_m1886514741),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_freezeRotation_m785313400),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_constraints_m3703039243),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_collisionDetectionMode_m1854592350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_centerOfMass_m1051003988),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_inertiaTensorRotation_m389432586),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_inertiaTensor_m3617189783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_detectCollisions_m2948407180),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_position_m1162935144),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_rotation_m1659883359),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_interpolation_m389616835),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_solverIterations_m2259767071),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_solverVelocityIterations_m3737366480),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_sleepThreshold_m766796426),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_RigidbodyWrap_set_maxAngularVelocity_m60283392),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_SetResolution_m2550196037),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_resolutions_m1139490858),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_currentResolution_m3528927706),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_fullScreen_m2564442915),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_width_m1790803042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_height_m2294322301),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_dpi_m2647575078),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_orientation_m2078185990),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_sleepTimeout_m375024670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToPortrait_m3330964673),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToPortraitUpsideDown_m623308017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToLandscapeLeft_m1732426985),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_autorotateToLandscapeRight_m3365716056),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_get_safeArea_m888665043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_fullScreen_m1121839688),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_orientation_m3692669658),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_sleepTimeout_m4230734089),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToPortrait_m1433747006),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToPortraitUpsideDown_m2158505010),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToLandscapeLeft_m2812649569),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ScreenWrap_set_autorotateToLandscapeRight_m4263511312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap__CreateUnityEngine_Shader_m2718042374),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_Find_m2570981864),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_EnableKeyword_m2351824816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_DisableKeyword_m370087254),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_IsKeywordEnabled_m336056515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalBuffer_m3540489009),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_PropertyToID_m3640768888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_WarmupAllShaders_m3594193915),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalFloat_m2635285918),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalInt_m1048359630),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalVector_m2705234110),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalColor_m1946567903),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalMatrix_m536332727),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalTexture_m2930965698),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalFloatArray_m3947515408),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalVectorArray_m1062776821),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_SetGlobalMatrixArray_m3952126462),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalFloat_m385804119),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalInt_m2752095445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalVector_m3923622967),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalColor_m1902069403),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalMatrix_m3461634983),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalTexture_m3756733309),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalFloatArray_m4217795639),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalVectorArray_m2456055503),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_GetGlobalMatrixArray_m1667746545),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_op_Equality_m1372494800),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_isSupported_m3986902088),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_maximumLOD_m2385400307),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_globalMaximumLOD_m853718326),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_globalRenderPipeline_m3693725210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_get_renderQueue_m2448776297),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_set_maximumLOD_m1499226323),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_set_globalMaximumLOD_m2347468100),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_ShaderWrap_set_globalRenderPipeline_m3499566674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap__CreateUnityEngine_SkinnedMeshRenderer_m823191569),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_GetBlendShapeWeight_m382020529),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_SetBlendShapeWeight_m4023317377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_BakeMesh_m841557149),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_op_Equality_m2522090327),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_bones_m2536445119),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_quality_m1914909695),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_updateWhenOffscreen_m617847142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_rootBone_m1399941313),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_sharedMesh_m3003901608),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_skinnedMotionVectors_m92495560),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_get_localBounds_m1075339195),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_bones_m1123813435),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_quality_m1575068715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_updateWhenOffscreen_m701582777),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_rootBone_m3723378612),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_sharedMesh_m2741208315),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_skinnedMotionVectors_m1290298469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SkinnedMeshRendererWrap_set_localBounds_m1212566531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpaceWrap_get_World_m1985996804),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpaceWrap_get_Self_m199726100),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpaceWrap_IntToEnum_m3946229158),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SphereColliderWrap__CreateUnityEngine_SphereCollider_m1794774610),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_op_Equality_m2711955610),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_get_center_m3702120748),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_get_radius_m506795071),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_set_center_m2485943029),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SphereColliderWrap_set_radius_m3498659289),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap__CreateUnityEngine_SpriteRenderer_m48340048),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_op_Equality_m451640203),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_sprite_m3239155370),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_drawMode_m2775406513),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_size_m606406128),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_adaptiveModeThreshold_m4039557235),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_tileMode_m2786796358),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_color_m1851049180),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_flipX_m7139445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_flipY_m3085824244),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_get_maskInteraction_m549613229),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_sprite_m3489604207),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_drawMode_m983042856),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_size_m2894701664),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_adaptiveModeThreshold_m1675020322),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_tileMode_m916514821),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_color_m3666110108),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_flipX_m1805723091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_flipY_m866264116),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteRendererWrap_set_maskInteraction_m609179462),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap__CreateUnityEngine_Sprite_m2400472455),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_Create_m3711591822),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_OverrideGeometry_m322927863),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_GetPhysicsShapeCount_m3910685935),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_GetPhysicsShapePointCount_m2319434172),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_GetPhysicsShape_m1266066237),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_OverridePhysicsShape_m636778430),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_op_Equality_m1160834954),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_bounds_m1892143049),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_rect_m1207437086),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_texture_m2206562171),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_associatedAlphaSplitTexture_m3076210901),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_textureRect_m1655998310),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_textureRectOffset_m1694852639),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_packed_m2664165774),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_packingMode_m707112297),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_packingRotation_m2681160905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_pivot_m2580417983),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_border_m1173277392),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_vertices_m3188807221),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_triangles_m1596852271),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_uv_m2080505206),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_SpriteWrap_get_pixelsPerUnit_m2494833566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextAssetWrap__CreateUnityEngine_TextAsset_m2909851050),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextAssetWrap_ToString_m2772588036),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextAssetWrap_op_Equality_m994044228),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextAssetWrap_get_text_m3713174944),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextAssetWrap_get_bytes_m4263948097),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap__CreateUnityEngine_TextEditor_m2002928051),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_OnFocus_m3666548705),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_OnLostFocus_m2620783348),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_HandleKeyEvent_m4051014262),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteLineBack_m137509243),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteWordBack_m3904867453),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteWordForward_m3583219757),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Delete_m3066311020),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_CanPaste_m654199979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Backspace_m567402714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectAll_m2298442928),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectNone_m3694932314),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DeleteSelection_m3524491223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_ReplaceSelection_m2268712646),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Insert_m2810592109),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveSelectionToAltCursor_m2107878407),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveRight_m991764320),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveLeft_m2918322018),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveUp_m804335718),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveDown_m1407905400),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveLineStart_m463473888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveLineEnd_m3555582997),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveGraphicalLineStart_m1131504327),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveGraphicalLineEnd_m416463820),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveTextStart_m2369391196),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveTextEnd_m1048342893),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveParagraphForward_m2268199060),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveParagraphBackward_m2484664147),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveCursorToPosition_m1576108011),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveAltCursorToPosition_m2154113752),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_IsOverSelection_m2336812957),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectToPosition_m4226567236),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectLeft_m2992117125),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectRight_m4093015585),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectUp_m1041235691),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectDown_m237554078),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectTextEnd_m3605862316),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectTextStart_m2158328715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MouseDragSelectsWholeWords_m2566726759),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DblClickSnap_m3727778597),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveWordRight_m3493295892),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveToStartOfNextWord_m913243447),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveToEndOfPreviousWord_m1771974621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectToStartOfNextWord_m1887963968),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectToEndOfPreviousWord_m1051961330),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_FindStartOfNextWord_m717303767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_MoveWordLeft_m3328521586),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectWordRight_m3327763126),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectWordLeft_m3065821957),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_ExpandSelectGraphicalLineStart_m2048272150),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_ExpandSelectGraphicalLineEnd_m764290042),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectGraphicalLineStart_m1947231793),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectGraphicalLineEnd_m3283190961),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectParagraphForward_m2943690365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectParagraphBackward_m2009798227),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectCurrentWord_m3044290661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SelectCurrentParagraph_m3882756721),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_UpdateScrollOffsetIfNeeded_m2790522905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DrawCursor_m856955324),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_SaveBackup_m1612508958),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Undo_m3912993670),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Cut_m213775577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Copy_m1711595850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_Paste_m1933971474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_DetectFocusChange_m3300009273),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_keyboardOnScreen_m65801817),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_controlID_m567917884),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_style_m278864476),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_multiline_m178510683),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_hasHorizontalCursorPos_m2696846770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_isPasswordField_m3214455756),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_scrollOffset_m3026823789),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_graphicalCursorPos_m2327236915),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_graphicalSelectCursorPos_m2799303178),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_text_m2724579989),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_position_m2727007706),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_cursorIndex_m1598782978),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_selectIndex_m3070282968),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_doubleClickSnapping_m3023661977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_altCursorPosition_m2613542937),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_hasSelection_m1330221616),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_get_SelectedText_m729813628),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_keyboardOnScreen_m421217922),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_controlID_m3087508436),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_style_m1082009055),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_multiline_m1160915956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_hasHorizontalCursorPos_m1582284568),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_isPasswordField_m473032851),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_scrollOffset_m1257595256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_graphicalCursorPos_m629845270),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_graphicalSelectCursorPos_m1535940881),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_text_m4162985089),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_position_m603096616),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_cursorIndex_m1261257696),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_selectIndex_m1817773631),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_doubleClickSnapping_m1342622355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextEditorWrap_set_altCursorPosition_m572881300),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap__CreateUnityEngine_Texture2D_m150597894),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_CreateExternalTexture_m2774347710),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_UpdateExternalTexture_m2463430280),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_SetPixel_m8695219),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixel_m132151751),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixelBilinear_m1288591476),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_SetPixels_m1079242090),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_SetPixels32_m2066879485),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_LoadRawTextureData_m152610214),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetRawTextureData_m778476323),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixels_m2257618367),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GetPixels32_m2917915871),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_Apply_m962417223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_Resize_m3012493884),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_Compress_m487754309),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_PackTextures_m4175543526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_GenerateAtlas_m401018025),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_ReadPixels_m2172065431),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_op_Equality_m3118881962),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_mipmapCount_m672858902),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_format_m4287470983),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_whiteTexture_m1871437337),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_Texture2DWrap_get_blackTexture_m3524756250),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap__CreateUnityEngine_Texture_m184893887),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_SetGlobalAnisotropicFilteringLimits_m2134773430),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_GetNativeTexturePtr_m4195123292),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_op_Equality_m2900913430),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_masterTextureLimit_m3333276692),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_anisotropicFiltering_m4226990884),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_width_m45450499),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_height_m3379984858),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_dimension_m2254040984),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_filterMode_m1060214714),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_anisoLevel_m3002759114),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapMode_m1344994915),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapModeU_m68147603),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapModeV_m120938210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_wrapModeW_m1013797277),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_mipMapBias_m3770829856),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_get_texelSize_m1427502735),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_masterTextureLimit_m2429488152),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_anisotropicFiltering_m3046999690),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_width_m640739783),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_height_m45171859),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_dimension_m2705691566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_filterMode_m2377165285),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_anisoLevel_m11013832),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapMode_m2660974265),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapModeU_m165768718),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapModeV_m1058627785),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_wrapModeW_m2640766488),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TextureWrap_set_mipMapBias_m3457751914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_time_m4273774956),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_timeSinceLevelLoad_m3176853588),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_deltaTime_m2577295595),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedTime_m2525381371),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_unscaledTime_m417644557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedUnscaledTime_m2963184173),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_unscaledDeltaTime_m637881195),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedUnscaledDeltaTime_m492687445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_fixedDeltaTime_m3225143267),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_maximumDeltaTime_m44282397),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_smoothDeltaTime_m1453094147),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_maximumParticleDeltaTime_m3860322559),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_timeScale_m1156280445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_frameCount_m2320986266),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_renderedFrameCount_m2644511163),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_realtimeSinceStartup_m2469281864),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_captureFramerate_m3498009353),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_get_inFixedTimeStep_m1805942079),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_set_fixedDeltaTime_m1025702776),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_set_maximumDeltaTime_m2686003975),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_set_maximumParticleDeltaTime_m1311164596),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_set_timeScale_m3817106863),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TimeWrap_set_captureFramerate_m4163343317),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TrackedReferenceWrap_op_Equality_m1352427744),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TrackedReferenceWrap_Equals_m1606357763),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TrackedReferenceWrap_GetHashCode_m2094149008),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_SetParent_m4248817746),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_SetPositionAndRotation_m1214299665),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_Translate_m3708785191),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_Rotate_m3741401262),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_RotateAround_m2287273556),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_LookAt_m504348159),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_TransformDirection_m1024913209),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_InverseTransformDirection_m821002347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_TransformVector_m984557165),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_InverseTransformVector_m3896212664),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_TransformPoint_m1965286801),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_InverseTransformPoint_m128881230),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DetachChildren_m2172702104),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_SetAsFirstSibling_m3751489014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_SetAsLastSibling_m3899639509),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_SetSiblingIndex_m2837408339),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_GetSiblingIndex_m632365953),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_Find_m2012024814),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_IsChildOf_m1266666148),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_GetEnumerator_m2492353032),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_GetChild_m64646091),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableScaleBy_m1465956097),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableLocalRotateBy_m2152955311),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableRotateBy_m1416010949),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableLocalMoveBy_m4274003899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOBlendableMoveBy_m1692964860),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalPath_m3208836693),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPath_m1007169655),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalJump_m1826251318),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOJump_m3807914543),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOShakeScale_m4223497729),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOShakeRotation_m695921598),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOShakePosition_m3190400607),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPunchRotation_m425286893),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPunchScale_m370649552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPunchPosition_m3129200261),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLookAt_m75719374),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScaleZ_m2046210838),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScaleY_m3432582752),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScaleX_m2384226015),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOScale_m3768951287),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalRotateQuaternion_m1274572930),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalRotate_m3217842295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DORotateQuaternion_m413000523),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DORotate_m3504521469),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMoveZ_m1646360590),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMoveY_m2506761215),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMoveX_m3595786638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOLocalMove_m690862186),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMoveZ_m2082469417),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMoveY_m4079859182),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMoveX_m3156273959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOMove_m2476076406),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOTogglePause_m1584413818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOSmoothRewind_m2650187017),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DORewind_m2894328629),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DORestart_m2198605763),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPlayForward_m2315887903),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPlayBackwards_m1993150211),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPlay_m1432073493),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOPause_m2183297711),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOGoto_m3312392620),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOFlip_m3411570791),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOKill_m2318112836),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_DOComplete_m380832684),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_op_Equality_m3531483043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_position_m4205731245),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localPosition_m1340653913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_eulerAngles_m1814834619),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localEulerAngles_m1481062011),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_right_m2500225754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_up_m202180445),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_forward_m3915227725),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_rotation_m593175378),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localRotation_m3376430846),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localScale_m1516822021),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_parent_m4231181228),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_worldToLocalMatrix_m4085221223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_localToWorldMatrix_m4131500116),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_root_m4061565775),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_childCount_m2561771124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_lossyScale_m1687210192),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_hasChanged_m1416538177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_hierarchyCapacity_m993436134),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_get_hierarchyCount_m3370551505),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_position_m4033480911),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localPosition_m2026947686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_eulerAngles_m3444800382),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localEulerAngles_m1267355578),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_right_m1977510490),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_up_m1799195202),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_forward_m3211972474),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_rotation_m955698557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localRotation_m313737981),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_localScale_m2045759355),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_parent_m11896020),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_hasChanged_m1919989641),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_TransformWrap_set_hierarchyCapacity_m1768281547),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_OnPointerClick_m3416386213),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_OnSubmit_m1976552326),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_op_Equality_m307463147),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_get_onClick_m799264208),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ButtonWrap_set_onClick_m3003090427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap__CreateUnityEngine_UI_Dropdown_OptionData_m1112553449),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_get_text_m2312108867),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_get_image_m2360636040),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_set_text_m74216386),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Dropdown_OptionDataWrap_set_image_m432993222),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_RefreshShownValue_m836492899),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_AddOptions_m3081707261),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_ClearOptions_m3241905363),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_OnPointerClick_m716577818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_OnSubmit_m2162387941),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_OnCancel_m543508978),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_Show_m3903873314),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_Hide_m4097283478),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_op_Equality_m3852529194),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_template_m646884624),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_captionText_m1745208057),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_captionImage_m2137447644),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_itemText_m222900315),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_itemImage_m1910150194),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_options_m2439797479),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_onValueChanged_m4229795896),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_get_value_m4138053146),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_template_m3799933933),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_captionText_m1049142868),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_captionImage_m2159948668),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_itemText_m2223828860),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_itemImage_m3205159092),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_options_m831184048),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_onValueChanged_m2412585352),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_DropdownWrap_set_value_m1945899158),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetAllDirty_m2166647674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetLayoutDirty_m1999189991),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetVerticesDirty_m3139734818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetMaterialDirty_m3617683505),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_OnCullingChanged_m140934663),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_Rebuild_m3441866051),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_LayoutComplete_m2458149452),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_GraphicUpdateComplete_m1977011277),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_SetNativeSize_m3295214501),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_Raycast_m1964989842),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_PixelAdjustPoint_m3125732996),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_GetPixelAdjustedRect_m2618600432),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_CrossFadeColor_m2313866945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_CrossFadeAlpha_m1250125071),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_RegisterDirtyLayoutCallback_m3334515747),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_UnregisterDirtyLayoutCallback_m2923896888),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_RegisterDirtyVerticesCallback_m65565502),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_UnregisterDirtyVerticesCallback_m402571335),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_RegisterDirtyMaterialCallback_m2466884009),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_UnregisterDirtyMaterialCallback_m3138911127),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_op_Equality_m2391744966),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_defaultGraphicMaterial_m4188373363),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_color_m1973799005),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_raycastTarget_m1972752913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_depth_m2939020476),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_rectTransform_m3900739605),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_canvas_m4005582557),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_canvasRenderer_m955439271),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_defaultMaterial_m978195627),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_material_m357148686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_materialForRendering_m2920912679),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_get_mainTexture_m4053859095),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_set_color_m18252591),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_set_raycastTarget_m3443338586),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GraphicWrap_set_material_m1854251073),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_CalculateLayoutInputHorizontal_m1975875125),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_CalculateLayoutInputVertical_m2283221965),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_SetLayoutHorizontal_m3158456623),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_SetLayoutVertical_m36743347),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_op_Equality_m4181171019),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_startCorner_m3527503757),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_startAxis_m2035420160),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_cellSize_m1610159650),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_spacing_m3720400746),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_constraint_m204466483),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_get_constraintCount_m1735196419),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_startCorner_m3286194189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_startAxis_m1162155806),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_cellSize_m3653107981),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_spacing_m916295357),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_constraint_m3301640192),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_GridLayoutGroupWrap_set_constraintCount_m1293352913),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_CalculateLayoutInputHorizontal_m4194251189),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_CalculateLayoutInputVertical_m1918119026),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_SetLayoutHorizontal_m954566552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_SetLayoutVertical_m492180966),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalLayoutGroupWrap_op_Equality_m3361014372),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_op_Equality_m1712113122),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_spacing_m959438816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childForceExpandWidth_m655840661),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childForceExpandHeight_m2898738651),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childControlWidth_m4268039775),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_get_childControlHeight_m162130375),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_spacing_m1406906210),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childForceExpandWidth_m2608545014),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childForceExpandHeight_m2205748715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childControlWidth_m1112538297),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_HorizontalOrVerticalLayoutGroupWrap_set_childControlHeight_m2774491875),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_OnBeforeSerialize_m69008281),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_OnAfterDeserialize_m2079007432),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_SetNativeSize_m3436939688),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_CalculateLayoutInputHorizontal_m1239220163),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_CalculateLayoutInputVertical_m664698869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_IsRaycastLocationValid_m8771488),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_op_Equality_m4945621),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_sprite_m1823175374),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_overrideSprite_m1725988725),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_type_m1389138752),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_preserveAspect_m2270942087),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillCenter_m2596719624),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillMethod_m614074335),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillAmount_m1022156639),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillClockwise_m806521893),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_fillOrigin_m3387888548),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_alphaHitTestMinimumThreshold_m937095614),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_defaultETC1GraphicMaterial_m1234271504),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_mainTexture_m478354273),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_hasBorder_m560519798),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_pixelsPerUnit_m291026201),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_material_m685107306),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_minWidth_m3661076687),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_preferredWidth_m3670004267),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_flexibleWidth_m2899382034),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_minHeight_m2998409295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_preferredHeight_m3935717277),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_flexibleHeight_m4004029536),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_get_layoutPriority_m1260752180),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_sprite_m3643036197),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_overrideSprite_m1223291305),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_type_m527745753),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_preserveAspect_m3675036686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillCenter_m1539619350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillMethod_m934738568),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillAmount_m123091592),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillClockwise_m3348478371),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_fillOrigin_m1645570078),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_alphaHitTestMinimumThreshold_m805379400),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ImageWrap_set_material_m405303409),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Standard_m2935805331),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Autocorrected_m3406109107),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_IntegerNumber_m3741451335),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_DecimalNumber_m219537182),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Alphanumeric_m875911429),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Name_m2409852653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_EmailAddress_m75065851),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Password_m3737268979),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Pin_m2554222365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_get_Custom_m2410571124),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputField_ContentTypeWrap_IntToEnum_m4083622477),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_MoveTextEnd_m1703735461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_MoveTextStart_m4272773013),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnBeginDrag_m3910750342),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnDrag_m1535293326),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnEndDrag_m2877730977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnPointerDown_m290654932),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_ProcessEvent_m966250465),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnUpdateSelected_m3935232289),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_ForceLabelUpdate_m3865656096),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_Rebuild_m585347079),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_LayoutComplete_m4018905173),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_GraphicUpdateComplete_m521324648),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_ActivateInputField_m4206853684),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnSelect_m3341530926),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnPointerClick_m3117555826),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_DeactivateInputField_m3074595739),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnDeselect_m2678369853),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_OnSubmit_m2248385140),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_CalculateLayoutInputHorizontal_m1974075177),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_CalculateLayoutInputVertical_m889035286),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_op_Equality_m1031555937),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_shouldHideMobileInput_m3361995365),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_text_m4174600839),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_isFocused_m3106164246),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretBlinkRate_m275002261),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretWidth_m3246281598),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_textComponent_m1428824374),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_placeholder_m1939062703),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretColor_m28477176),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_customCaretColor_m28054296),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_selectionColor_m3853670417),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_onEndEdit_m1346342653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_onValueChanged_m3655640498),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_onValidateInput_m954154978),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_characterLimit_m3707404031),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_contentType_m869122132),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_lineType_m2521194144),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_inputType_m1279933345),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_keyboardType_m744071987),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_characterValidation_m969318771),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_readOnly_m3651375377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_multiLine_m1545274527),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_asteriskChar_m4055577082),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_wasCanceled_m3102325853),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_caretPosition_m2486955395),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_selectionAnchorPosition_m2518567527),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_selectionFocusPosition_m1329783332),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_minWidth_m3665414154),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_preferredWidth_m820851910),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_flexibleWidth_m3232508577),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_minHeight_m2743097945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_preferredHeight_m1625350476),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_flexibleHeight_m2325406578),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_get_layoutPriority_m2348766810),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_shouldHideMobileInput_m3991536845),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_text_m3791019282),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretBlinkRate_m4200973769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretWidth_m2500200550),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_textComponent_m2252305908),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_placeholder_m4147184312),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretColor_m1391484385),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_customCaretColor_m3279508243),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_selectionColor_m99940998),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_onEndEdit_m1839608043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_onValueChanged_m3117885322),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_onValidateInput_m2257624272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_characterLimit_m1130839103),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_contentType_m696920427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_lineType_m4204786530),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_inputType_m2903090263),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_keyboardType_m2213097959),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_characterValidation_m326517676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_readOnly_m3597264375),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_asteriskChar_m243950894),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_caretPosition_m2403738350),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_selectionAnchorPosition_m693256850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_set_selectionFocusPosition_m2112988041),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_InputFieldWrap_UnityEngine_UI_InputField_OnValidateInput_m1541317576),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_CalculateLayoutInputHorizontal_m3687745162),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_CalculateLayoutInputVertical_m2741303206),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_SetLayoutHorizontal_m1862970212),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_SetLayoutVertical_m3049104564),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_op_Equality_m871645541),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_padding_m64042334),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_childAlignment_m1034230999),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_minWidth_m2964328102),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_preferredWidth_m4192681163),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_flexibleWidth_m3437931791),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_minHeight_m888677264),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_preferredHeight_m3824174811),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_flexibleHeight_m2111852850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_get_layoutPriority_m617550763),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_set_padding_m3049102681),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutGroupWrap_set_childAlignment_m2593779745),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap__CreateUnityEngine_UI_LayoutRebuilder_m2094916011),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_IsDestroyed_m1202749220),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_ForceRebuildLayoutImmediate_m3717253363),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_Rebuild_m4078231880),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_MarkLayoutForRebuild_m1447389113),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_LayoutComplete_m1330282580),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_GraphicUpdateComplete_m1010402303),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_GetHashCode_m147890159),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_Equals_m2698592662),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_ToString_m4073181118),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_LayoutRebuilderWrap_get_transform_m68458023),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_GetModifiedMaterial_m3972384028),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_Cull_m1695954614),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_SetClipRect_m2038518673),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_RecalculateClipping_m868997590),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_RecalculateMasking_m2257990438),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_op_Equality_m1193100589),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_get_onCullStateChanged_m3767702613),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_get_maskable_m3395559138),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_set_onCullStateChanged_m3581074754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_MaskableGraphicWrap_set_maskable_m2719402674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_SetNativeSize_m2045119596),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_op_Equality_m605238674),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_get_mainTexture_m542267663),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_get_texture_m2954339488),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_get_uvRect_m2391457371),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_set_texture_m2207193480),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_RawImageWrap_set_uvRect_m2074239288),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_Rebuild_m3777350430),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_LayoutComplete_m1617094989),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_GraphicUpdateComplete_m3066754265),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnBeginDrag_m39242008),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnDrag_m4126730594),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnPointerDown_m3281205789),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnPointerUp_m1971026446),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnMove_m3483061694),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnLeft_m1125463575),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnRight_m2855755778),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnUp_m3490592780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_FindSelectableOnDown_m1009147234),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_OnInitializePotentialDrag_m2652149961),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_SetDirection_m1579894072),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_op_Equality_m1946657573),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_handleRect_m87974115),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_direction_m2047788484),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_value_m3124232828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_size_m50326291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_numberOfSteps_m3891037427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_get_onValueChanged_m1712382864),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_handleRect_m809043448),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_direction_m1287937879),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_value_m3939150735),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_size_m1494065856),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_numberOfSteps_m3289892788),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollbarWrap_set_onValueChanged_m4229478705),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_Rebuild_m3863051708),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_LayoutComplete_m2584871076),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_GraphicUpdateComplete_m3563408402),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_IsActive_m1509699151),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_StopMovement_m3157029592),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnScroll_m2425254568),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnInitializePotentialDrag_m219682515),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnBeginDrag_m182187905),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnEndDrag_m1177908),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_OnDrag_m3438062754),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_CalculateLayoutInputHorizontal_m3420501869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_CalculateLayoutInputVertical_m2665845193),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_SetLayoutHorizontal_m1429336620),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_SetLayoutVertical_m3426458306),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_op_Equality_m425406413),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_content_m2177223726),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontal_m2046386798),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_vertical_m3380919700),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_movementType_m81407949),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_elasticity_m1907431826),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_inertia_m3305909352),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_decelerationRate_m2412827860),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_scrollSensitivity_m399496234),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_viewport_m4141908142),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalScrollbar_m1476527667),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalScrollbar_m3023488363),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalScrollbarVisibility_m2487317968),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalScrollbarVisibility_m2905935883),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalScrollbarSpacing_m734869655),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalScrollbarSpacing_m3398352840),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_onValueChanged_m10724378),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_velocity_m209435063),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_normalizedPosition_m1897950909),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_horizontalNormalizedPosition_m4260740798),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_verticalNormalizedPosition_m2662675960),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_minWidth_m2978803758),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_preferredWidth_m3288786401),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_flexibleWidth_m519210048),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_minHeight_m501674430),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_preferredHeight_m709001484),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_flexibleHeight_m2651229588),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_get_layoutPriority_m610156323),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_content_m4167328519),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontal_m943433906),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_vertical_m694137892),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_movementType_m3808080615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_elasticity_m337311626),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_inertia_m1307709127),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_decelerationRate_m1547701561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_scrollSensitivity_m512306298),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_viewport_m3661615706),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalScrollbar_m2866418540),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalScrollbar_m594714914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalScrollbarVisibility_m2086244852),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalScrollbarVisibility_m1743194264),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalScrollbarSpacing_m3814148653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalScrollbarSpacing_m1531683230),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_onValueChanged_m2814376296),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_velocity_m3918372223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_normalizedPosition_m891876172),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_horizontalNormalizedPosition_m5364508),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ScrollRectWrap_set_verticalNormalizedPosition_m3438381429),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_None_m1089220858),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_ColorTint_m4062691240),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_SpriteSwap_m1542372043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_get_Animation_m3963998828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_Selectable_TransitionWrap_IntToEnum_m4061162391),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_IsInteractable_m663973245),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectable_m4019068826),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnLeft_m2433650388),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnRight_m1633375362),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnUp_m1208031606),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_FindSelectableOnDown_m923851505),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnMove_m1384721589),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerDown_m4163979548),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerUp_m193512955),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerEnter_m642514517),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnPointerExit_m3665031684),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnSelect_m4029062283),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_OnDeselect_m1416762818),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_Select_m955459743),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_op_Equality_m1992650562),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_allSelectables_m4072433816),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_navigation_m1966602412),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_transition_m337006118),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_colors_m3331372555),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_spriteState_m598006073),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_animationTriggers_m3090694664),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_targetGraphic_m1196809786),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_interactable_m1112360461),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_image_m2551813594),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_get_animator_m2559341840),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_navigation_m2278814223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_transition_m3499186668),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_colors_m4068518920),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_spriteState_m2222510756),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_animationTriggers_m2488526536),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_targetGraphic_m269677012),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_interactable_m3602862869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SelectableWrap_set_image_m2975177830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_Rebuild_m2135757632),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_LayoutComplete_m1340471819),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_GraphicUpdateComplete_m54321909),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnPointerDown_m1905588720),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnDrag_m3043510859),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnMove_m2018613601),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnLeft_m1843798739),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnRight_m2149695566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnUp_m28571955),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_FindSelectableOnDown_m2995340343),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_OnInitializePotentialDrag_m3205671182),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_SetDirection_m3557141352),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_op_Equality_m2372050039),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_fillRect_m518156545),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_handleRect_m1123006819),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_direction_m3287494520),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_minValue_m1104866850),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_maxValue_m674556928),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_wholeNumbers_m298199011),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_value_m1041480004),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_normalizedValue_m4016281535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_get_onValueChanged_m4167799767),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_fillRect_m3375385185),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_handleRect_m2995069744),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_direction_m622394299),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_minValue_m2629658531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_maxValue_m2507368731),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_wholeNumbers_m45391268),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_value_m884277392),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_normalizedValue_m958115335),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_SliderWrap_set_onValueChanged_m224992694),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_FontTextureChanged_m3667621733),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_GetGenerationSettings_m2168047366),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_GetTextAnchorPivot_m3894385273),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_CalculateLayoutInputHorizontal_m1840764849),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_CalculateLayoutInputVertical_m1893993144),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_op_Equality_m1318472164),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_cachedTextGenerator_m2395037523),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_cachedTextGeneratorForLayout_m3645995787),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_mainTexture_m2475152543),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_font_m3890779553),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_text_m1974802291),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_supportRichText_m3867003404),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_resizeTextForBestFit_m2071365454),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_resizeTextMinSize_m1496085349),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_resizeTextMaxSize_m2694823863),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_alignment_m3284165624),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_alignByGeometry_m541768048),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_fontSize_m2382376900),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_horizontalOverflow_m1838673504),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_verticalOverflow_m335686912),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_lineSpacing_m2917481587),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_fontStyle_m3050682931),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_pixelsPerUnit_m1947517233),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_minWidth_m3260393607),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_preferredWidth_m3684055117),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_flexibleWidth_m445478552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_minHeight_m2464092600),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_preferredHeight_m471381412),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_flexibleHeight_m3238552610),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_get_layoutPriority_m3624136223),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_font_m2379017757),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_text_m1775548799),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_supportRichText_m568183666),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_resizeTextForBestFit_m3858293561),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_resizeTextMinSize_m4170345341),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_resizeTextMaxSize_m1329361863),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_alignment_m1632901251),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_alignByGeometry_m2567302857),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_fontSize_m3772641033),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_horizontalOverflow_m2371152106),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_verticalOverflow_m4139047679),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_lineSpacing_m2476289308),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_TextWrap_set_fontStyle_m4000085901),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_Rebuild_m1892222795),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_LayoutComplete_m2725519856),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_GraphicUpdateComplete_m2717717353),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_OnPointerClick_m2784487389),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_OnSubmit_m269906327),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_op_Equality_m1251210083),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_toggleTransition_m3535923144),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_graphic_m2517666244),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_onValueChanged_m4106951780),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_group_m144183002),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_get_isOn_m2181218836),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_toggleTransition_m1490988110),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_graphic_m649395395),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_onValueChanged_m1624220945),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_group_m2306980375),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_UI_ToggleWrap_set_isOn_m86407914),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Once_m638865737),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Loop_m494919542),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_PingPong_m2971736744),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Default_m1318609977),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_ClampForever_m4008201200),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_get_Clamp_m644110075),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WrapModeWrap_IntToEnum_m2258883311),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWFormWrap__CreateUnityEngine_WWWForm_m4139421238),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWFormWrap_AddField_m3177438214),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWFormWrap_AddBinaryData_m2002832364),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWFormWrap_get_headers_m2871690923),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWFormWrap_get_data_m1471456043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap__CreateUnityEngine_WWW_m1412232668),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_EscapeURL_m569835927),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_UnEscapeURL_m1571645978),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_LoadFromCacheOrDownload_m1156062450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_LoadImageIntoTexture_m2688703319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_Dispose_m2895752638),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_GetAudioClip_m3169684252),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_GetAudioClipCompressed_m201180848),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_assetBundle_m2954608648),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_bytes_m548422074),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_bytesDownloaded_m2878310989),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_error_m2118498176),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_isDone_m4181140318),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_progress_m4061164138),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_responseHeaders_m2113780847),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_text_m3379852252),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_texture_m3410775566),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_textureNonReadable_m2781355602),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_threadPriority_m275718759),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_uploadProgress_m2896437394),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_url_m2657130244),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_get_keepWaiting_m2696243552),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UnityEngine_WWWWrap_set_threadPriority_m3841935043),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewInterface_SendMessage_m2375818150),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UpdateFrame_m491485828),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_CloseUniWebView_m3579740504),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_Load_m3218511757),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_LoadHTMLString_m2620099686),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_Reload_m3312718832),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_Stop_m2931745625),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_GoBack_m3029132112),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_GoForward_m3160944272),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetOpenLinksInExternalBrowser_m3306107319),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_Show_m441759466),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_Hide_m1376819018),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_AnimateTo_m1686144416),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_AddJavaScript_m1076408212),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_EvaluateJavaScript_m461600829),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_AddUrlScheme_m2026836184),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_RemoveUrlScheme_m4244784185),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_AddSslExceptionDomain_m261528449),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_RemoveSslExceptionDomain_m2094503168),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetHeaderField_m1260677359),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetUserAgent_m2709014481),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_GetUserAgent_m12534939),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetContentInsetAdjustmentBehavior_m2391649444),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetAllowAutoPlay_m2511267847),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetAllowInlinePlay_m1639852191),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetJavaScriptEnabled_m3293252558),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetAllowJavaScriptOpenWindow_m1295082773),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_CleanCache_m1103312062),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_ClearCookies_m2646160226),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetCookie_m1679306096),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_GetCookie_m715860315),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_ClearHttpAuthUsernamePassword_m2471478637),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetShowSpinnerWhileLoading_m1706446137),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetSpinnerText_m2200847056),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetHorizontalScrollBarEnabled_m970457551),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetVerticalScrollBarEnabled_m3667783785),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetBouncesEnabled_m3730749715),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetZoomEnabled_m1684900482),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_AddPermissionTrustDomain_m2644039417),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_RemovePermissionTrustDomain_m27031256),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetBackButtonEnabled_m2968979651),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetUseWideViewPort_m2915410330),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetLoadWithOverviewMode_m1625871958),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetImmersiveModeEnabled_m3551638197),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetShowToolbar_m2158503066),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetToolbarDoneButtonText_m1436662918),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetShowToolbarNavigationButtons_m1245633077),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetWebContentsDebuggingEnabled_m1315857551),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetWindowUserResizeEnabled_m1537865165),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_GetHTMLContent_m2019271118),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetAllowFileAccessFromFileURLs_m1745723719),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetAllowHTTPAuthPopUpWindow_m10217547),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetCalloutEnabled_m3540317834),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetSupportMultipleWindows_m210099245),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetDefaultFontSize_m821571830),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_SetDragInteractionEnabled_m2979069450),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_Print_m514449773),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_ScrollTo_m3224310662),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_op_Equality_m1424257409),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_Frame_m394713084),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_ReferenceRectTransform_m1681620770),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_Url_m2829954555),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_CanGoBack_m2978275067),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_CanGoForward_m4053111349),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_BackgroundColor_m1077019427),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_Alpha_m2158656535),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnPageStarted_m3146685731),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnPageFinished_m1142312006),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnPageErrorReceived_m3116232295),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnMessageReceived_m3274138653),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnShouldClose_m3215956769),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnKeyCodeReceived_m1242201402),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnOrientationChanged_m2541009526),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_get_OnWebContentProcessTerminated_m920275377),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_Frame_m3423589910),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_ReferenceRectTransform_m3961837132),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_BackgroundColor_m3306828765),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_Alpha_m878961196),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnPageStarted_m1799665499),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnPageFinished_m153847027),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnPageErrorReceived_m43614712),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnMessageReceived_m513615155),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnShouldClose_m1258144716),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnKeyCodeReceived_m4171167615),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnOrientationChanged_m2060876676),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_set_OnWebContentProcessTerminated_m91152388),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_OnWebContentProcessTerminatedDelegate_m2883604229),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_OrientationChangedDelegate_m1705579356),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_KeyCodeReceivedDelegate_m2005455910),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_ShouldCloseDelegate_m1667265869),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_MessageReceivedDelegate_m3229249531),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_PageErrorReceivedDelegate_m1881068397),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_PageFinishedDelegate_m4200908606),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_UniWebViewWrap_UniWebView_PageStartedDelegate_m1977039935),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ViewWrap_OnMessage_m3710012092),
+	reinterpret_cast<Il2CppMethodPointer>(ReversePInvokeWrapper_ViewWrap_op_Equality_m3878994942),
+};
