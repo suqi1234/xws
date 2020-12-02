@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1260637296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 853ea27009ded8b5fece9959e923e111
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/QiuQiu/QiuQiuLoadPrefab.lua.bytes
+- Assets/Lua/QiuQiu/QiuQiuPanel.lua.bytes
+- Assets/Lua/QiuQiu/PlayerInfo.lua.bytes
+- Assets/Lua/QiuQiu/QiuQiuCtrl.lua.bytes
+- Assets/Lua/QiuQiu/QiuQiuData.lua.bytes
+Dependencies: []

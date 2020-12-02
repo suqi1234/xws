@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2145168698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5a58e001141c1be4dd8413f505c021f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 300277a7559ac016946914d426112e11
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 598e18fb001004a81960f552978ecf4e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Builds/UI/UniWeb/UniWebPanel.prefab
+Dependencies: []

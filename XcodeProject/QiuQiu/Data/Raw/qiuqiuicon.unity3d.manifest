@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 1114466198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81832ab4514b83c5dbca46a8ffe86a82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 656c0f111dca424c5fa55b17baab4e53
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Builds/UI/QiuQiuIcon/Poker17.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker12.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker21.prefab
+- Assets/Builds/UI/QiuQiuIcon/PurpleChip_Image.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker0.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker27.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker11.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker23.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker18.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker6.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker1.prefab
+- Assets/Builds/UI/QiuQiuIcon/GreenChip_Image.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker13.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker24.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker5.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker2.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker16.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker4.prefab
+- Assets/Builds/UI/QiuQiuIcon/RedChip_Image.prefab
+- Assets/Builds/UI/QiuQiuIcon/ScoreText.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker20.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker3.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker7.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker22.prefab
+- Assets/Builds/UI/QiuQiuIcon/PokerBack.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker10.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker19.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker15.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker14.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker26.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker9.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker8.prefab
+- Assets/Builds/UI/QiuQiuIcon/Poker25.prefab
+Dependencies: []
