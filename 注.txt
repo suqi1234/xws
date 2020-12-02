@@ -1,9 +1,0 @@
-U3DRepository：unityAndroid端工程，字典密码：123456
-
-U3DAndroid： Android工程，使用mylibrary用于生成aar
-
-IOSProjects：unityIOS端工程
-
-XcodeProject：Xocde工程 （每次IOSProjects生成xcode工程后，需要把files文件里面的带有vscode的两行删除）
-
-苹果开发者账号：BeatriceBergeriCcD@yahoo.com    Wx664488
